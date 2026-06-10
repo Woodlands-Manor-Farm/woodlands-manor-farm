@@ -64,7 +64,7 @@ export function Header() {
         <div className="flex items-center gap-3 md:gap-5">
           <Link
             href={BOOK_HREF}
-            className="hidden rounded-sm bg-[var(--color-violet)] px-6 py-2.5 text-[11px] font-medium uppercase tracking-[0.18em] text-white transition-colors hover:bg-[#7a6aa4] sm:inline-block"
+            className="hidden rounded-sm bg-[#d4688a] px-6 py-2.5 text-[11px] font-medium uppercase tracking-[0.18em] text-white transition-colors hover:bg-[#b8506f] sm:inline-block"
           >
             Book Direct
           </Link>
@@ -151,7 +151,7 @@ export function Header() {
           <Link
             href={BOOK_HREF}
             onClick={() => setOpen(false)}
-            className="block rounded-sm bg-[var(--color-violet)] px-5 py-[13px] text-center text-[11px] font-medium uppercase tracking-[0.18em] text-[#FEFEFE] transition-colors hover:bg-[#7a6aa4]"
+            className="block rounded-sm bg-[#d4688a] px-5 py-[13px] text-center text-[11px] font-medium uppercase tracking-[0.18em] text-[#FEFEFE] transition-colors hover:bg-[#b8506f]"
           >
             Check Availability
           </Link>

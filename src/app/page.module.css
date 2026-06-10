@@ -83,7 +83,7 @@
   flex-wrap: wrap;
 }
 .btnPrimary {
-  background: var(--color-violet);
+  background: #d4688a;
   color: #fff;
   padding: 16px 36px;
   text-decoration: none;
@@ -94,7 +94,7 @@
   border-radius: 2px;
   transition: background 0.2s;
 }
-.btnPrimary:hover { background: #7a6aa4; }
+.btnPrimary:hover { background: #b8506f; }
 .btnSecondary {
   color: var(--color-cream);
   text-decoration: none;
