@@ -36,6 +36,13 @@ export function StructuredData() {
       longitude: SITE.geo.longitude,
     },
     hasMap: SITE.contact.googleMapsUrl,
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: 4.9,
+      reviewCount: 115,
+      bestRating: 5,
+      worstRating: 1,
+    },
     amenityFeature: [
       { "@type": "LocationFeatureSpecification", name: "Heated indoor swimming pool", value: true },
       { "@type": "LocationFeatureSpecification", name: "Pet/dog friendly", value: true },
