@@ -3,9 +3,9 @@ import { ListingPage } from "@/components/listing/listing-page";
 import { COTTAGE_CARDS, YURT_CARDS } from "@/lib/data/listing-content";
 
 export const metadata: Metadata = {
-  title: "Cottages & Yurts in Bude, Cornwall",
+  title: "Holiday Cottages with a Pool in Bude, Cornwall",
   description:
-    "Seven characterful cottages and two Mongolian glamping yurts at Woodlands Manor Farm — sleeping 2 to 12, all with indoor pool and farm access.",
+    "Seven characterful holiday cottages and two glamping yurts at Woodlands Manor Farm near Bude, Cornwall — sleeping 2 to 12, all with a heated indoor pool, games room and farm access.",
   alternates: { canonical: "/bude-holiday-cottages/" },
   openGraph: {
     title: "Cottages & Yurts — Woodlands Manor Farm",
