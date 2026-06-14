@@ -107,6 +107,33 @@
 }
 .btnSecondary:hover { border-color: var(--color-cream); }
 
+.heroRatings {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 28px;
+  flex-wrap: wrap;
+  font-size: 13px;
+  letter-spacing: 0.4px;
+  color: rgba(247, 243, 238, 0.92);
+}
+.heroRatingItem {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+.heroRatingStars {
+  color: #f5c451;
+  letter-spacing: 1px;
+  font-size: 12px;
+}
+.heroRatingScore { font-weight: 600; }
+.heroRatingDivider {
+  width: 1px;
+  height: 14px;
+  background: rgba(247, 243, 238, 0.3);
+}
+
 .statsBar {
   position: absolute;
   bottom: 0;
