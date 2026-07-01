@@ -243,7 +243,7 @@
 .btnBookNow {
   display: block;
   width: 100%;
-  background: #d4688a;
+  background: var(--color-violet);
   color: #fff;
   border: none;
   padding: 14px 24px;
@@ -258,7 +258,7 @@
   text-align: center;
   transition: background 0.2s;
 }
-.btnBookNow:hover { background: #b8506f; }
+.btnBookNow:hover { background: #7a6aa4; }
 .bookingNote {
   font-size: 11px;
   color: rgba(247,244,239,0.6);
