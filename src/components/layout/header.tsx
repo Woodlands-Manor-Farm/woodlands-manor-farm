@@ -10,11 +10,12 @@ import { cn } from "@/lib/utils";
 const DRAWER_LINKS = [
   { num: "01", label: "Cottages", href: "/bude-holiday-cottages/" },
   { num: "02", label: "Yurts", href: "/yurts/" },
-  { num: "03", label: "Experiences", href: "/experiences-weddings-events/" },
-  { num: "04", label: "About", href: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
-  { num: "05", label: "Reviews", href: "/reviews/" },
-  { num: "06", label: "Special Offers", href: "/special-offers/" },
-  { num: "07", label: "Find Us", href: "/contact-us/" },
+  { num: "03", label: "Dog Friendly", href: "/dog-friendly-holiday-cottages-bude/" },
+  { num: "04", label: "Experiences", href: "/experiences-weddings-events/" },
+  { num: "05", label: "About", href: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
+  { num: "06", label: "Reviews", href: "/reviews/" },
+  { num: "07", label: "Special Offers", href: "/special-offers/" },
+  { num: "08", label: "Find Us", href: "/contact-us/" },
 ];
 
 export function Header() {
