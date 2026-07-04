@@ -11,7 +11,7 @@ import {
 export const metadata: Metadata = {
   title: "Holiday Cottages in Cornwall with a Pool — Heated Indoor, Open All Year",
   description:
-    "Holiday cottages in Bude, Cornwall with a heated indoor pool — kept at a warm 31°C and open 8am–8pm every day of the year, free for every guest. A 17th-century working farm run by Andy & Ruth Peters.",
+    "Holiday cottages in Bude, North Cornwall with a heated indoor pool — kept at a warm 31°C and open 8am–8pm every day of the year, free for every guest. A 17th-century working farm run by Andy & Ruth Peters.",
   alternates: { canonical: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
 };
 

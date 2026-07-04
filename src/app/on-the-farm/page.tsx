@@ -10,7 +10,7 @@ import {
 export const metadata: Metadata = {
   title: "Farm Holidays in Cornwall — Stay on a Real Working Farm",
   description:
-    "Farm holidays in Bude, Cornwall — stay on a real working farm with free animal feeding twice a week, pony experiences, alpacas, pigs, goats and chickens, plus a heated indoor pool and cottages sleeping 2 to 12.",
+    "Farm holidays in Bude, North Cornwall — stay on a real working farm with free animal feeding twice a week, pony experiences, alpacas, pigs, goats and chickens, plus a heated indoor pool and cottages sleeping 2 to 12.",
   alternates: { canonical: "/on-the-farm/" },
 };
 

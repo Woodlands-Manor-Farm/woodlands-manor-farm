@@ -2,7 +2,7 @@ export const SITE = {
   name: "Woodlands Manor Farm",
   tagline: "Holiday cottages & yurts in Bude, Cornwall",
   description:
-    "A 17th-century farm in the Coombe Valley near Bude, Cornwall — eight cottages, two yurts, an indoor pool and the warmest of Cornish welcomes.",
+    "A 17th-century farm in the Coombe Valley near Bude, North Cornwall — seven cottages, two yurts, a heated indoor pool and the warmest of Cornish welcomes.",
   url: "https://woodlandsmanorfarm.co.uk",
   locale: "en_GB",
   twitterHandle: "@woodlandsmanorfarm",
