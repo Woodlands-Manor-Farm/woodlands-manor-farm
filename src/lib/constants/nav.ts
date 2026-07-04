@@ -13,6 +13,7 @@ export const PRIMARY_NAV: NavLink[] = [
 ];
 
 export const FOOTER_LINKS: NavLink[] = [
+  { label: "Dog Friendly", href: "/dog-friendly-holiday-cottages-bude/" },
   { label: "Privacy", href: "/privacy/" },
   { label: "Terms", href: "/terms-conditions/" },
   { label: "Dog Rules", href: "/dog-rules/" },
