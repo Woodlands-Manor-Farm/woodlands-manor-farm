@@ -11,7 +11,7 @@ const INTRO_TILES = [
     src: "/images/home/cc82e0f15a7b2058.jpg",
     alt: "Heated indoor swimming pool at Woodlands Manor Farm",
     title: "Heated Indoor Pool",
-    body: "Swim whatever the weather, kept at a warm 31°C all year — a firm family favourite",
+    body: "Swim whatever the weather, kept at a warm 30°C all year — a firm family favourite",
     objectPosition: "center",
   },
   {
@@ -97,7 +97,7 @@ const EXP_TILES = [
     img: "/images/home/cc82e0f15a7b2058.jpg",
     alt: "Indoor heated swimming pool",
     title: "All-weather pool",
-    body: "Warm 31°C all year round",
+    body: "Warm 30°C all year round",
   },
   {
     img: "/images/home/57c6f3124406e0a5.jpg",
@@ -199,14 +199,14 @@ export default function HomePage() {
             Holiday cottages &amp; glamping yurts in Bude, <em>North Cornwall</em>
           </h2>
           <p className={styles.introBody}>
-            Woodlands Manor Farm is a 17th-century working farm in the peaceful Coombe Valley,
+            Woodlands Manor Farm is a 17th-century farm in the peaceful Coombe Valley,
             two miles from Bude&rsquo;s beaches. Our seven{" "}
             <Link href="/bude-holiday-cottages/">holiday cottages</Link> and two luxury{" "}
             <Link href="/yurts/">glamping yurts</Link> sleep 2 to 12 — every stay includes our{" "}
             <Link href="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/">
               heated indoor pool
             </Link>{" "}
-            (a warm 31°C, open every day of the year), the games room, and{" "}
+            (a warm 30°C, open every day of the year), the games room, and{" "}
             <Link href="/on-the-farm/">life on the farm</Link>: free animal feeding with Ruth,
             pony experiences and fifteen acres of bluebell woodland. And yes —{" "}
             <Link href="/dog-friendly-holiday-cottages-bude/">dogs are very welcome</Link>.

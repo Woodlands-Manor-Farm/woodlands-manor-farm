@@ -11,7 +11,7 @@ import {
 export const metadata: Metadata = {
   title: "Holiday Cottages in Cornwall with a Pool — Heated Indoor, Open All Year",
   description:
-    "Holiday cottages in Bude, North Cornwall with a heated indoor pool — kept at a warm 31°C and open 8am–8pm every day of the year, free for every guest. A 17th-century working farm run by Andy & Ruth Peters.",
+    "Holiday cottages in Bude, North Cornwall with a heated indoor pool — kept at a warm 30°C and open 8am–8pm every day of the year, free for every guest. A 17th-century farm run by Andy & Ruth Peters.",
   alternates: { canonical: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
 };
 
@@ -28,7 +28,7 @@ export default function AboutPage() {
             <em>Manor Farm</em>
           </>
         }
-        description="A 17th-century working farm in the Coombe Valley — seven cottages, two yurts, a heated pool and the warmest welcome in Cornwall."
+        description="A 17th-century farm in the Coombe Valley — seven cottages, two yurts, a heated pool and the warmest welcome in Cornwall."
       />
       <AboutSubnav activeHref="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" />
 
@@ -38,7 +38,7 @@ export default function AboutPage() {
           A farm <em>escape</em> like no other
         </h2>
         <p className={styles.sectionBody}>
-          Woodlands Manor Farm is a 17th-century working farm set at the top of the Coombe Valley,
+          Woodlands Manor Farm is a 17th-century farm set at the top of the Coombe Valley,
           two miles from the North Cornwall coast. Andy and Ruth Peters moved from London in 2019
           — swapping software companies for a life of sunshine, animals and making sure guests
           have the best holiday they&rsquo;ve ever had. Seven cottages, two luxury Mongolian yurts,
@@ -61,7 +61,7 @@ export default function AboutPage() {
             Holiday cottages with a <em>heated indoor pool</em>
           </h2>
           <p>
-            Our indoor pool is the heart of Woodlands — heated to a warm 31°C so everyone
+            Our indoor pool is the heart of Woodlands — heated to a warm 30°C so everyone
             enjoys a swim, not just the brave. It&rsquo;s open from 8am to 8pm every single day
             of the year, and it&rsquo;s free for every guest: all seven cottages and both yurts
             include full pool access, with no booking or time slots needed.
@@ -129,7 +129,7 @@ export default function AboutPage() {
               {
                 icon: "🏊",
                 title: "Heated Indoor Pool",
-                body: "A large heated indoor swimming pool maintained at 31°C year-round, open from 8am to 8pm daily. Free to all guests, no booking required.",
+                body: "A large heated indoor swimming pool maintained at 30°C year-round, open from 8am to 8pm daily. Free to all guests, no booking required.",
                 variant: "gold",
               },
               {

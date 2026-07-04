@@ -20,7 +20,7 @@ export type ListingPageProps = {
 };
 
 const FACILITIES = [
-  { icon: "🏊", name: "Heated indoor pool", note: "31°C · open 8am–8pm" },
+  { icon: "🏊", name: "Heated indoor pool", note: "30°C · open 8am–8pm" },
   { icon: "🎮", name: "Games room", note: "Pool, ping pong, soft play & more" },
   { icon: "🐮", name: "Feed the animals", note: "Sun & Wed with Ruth" },
   { icon: "🌿", name: "Woodland walk", note: "Bluebells in spring" },

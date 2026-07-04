@@ -8,9 +8,9 @@ import {
 } from "@/components/info/info-shell";
 
 export const metadata: Metadata = {
-  title: "Farm Holidays in Cornwall — Stay on a Real Working Farm",
+  title: "Farm Holidays in Cornwall — Stay on a Real Cornish Farm",
   description:
-    "Farm holidays in Bude, North Cornwall — stay on a real working farm with free animal feeding twice a week, pony experiences, alpacas, pigs, goats and chickens, plus a heated indoor pool and cottages sleeping 2 to 12.",
+    "Farm holidays in Bude, North Cornwall — stay on a real Cornish farm with free animal feeding twice a week, pony experiences, alpacas, pigs, goats and chickens, plus a heated indoor pool and cottages sleeping 2 to 12.",
   alternates: { canonical: "/on-the-farm/" },
 };
 
@@ -47,7 +47,7 @@ export default function Page() {
             {
               icon: "🏊",
               title: "Heated indoor pool",
-              body: "Maintained at 31°C all year. Open 8am to 8pm daily, free to all guests, no booking required. The pool that gets us through the winter half-terms.",
+              body: "Maintained at 30°C all year. Open 8am to 8pm daily, free to all guests, no booking required. The pool that gets us through the winter half-terms.",
             },
             {
               icon: "🎮",
@@ -83,7 +83,7 @@ export default function Page() {
 
         <h3 className={styles.subHeading}>A real farm holiday — meet the animals</h3>
         <p style={{ fontSize: 14, color: "var(--color-text-mid)", lineHeight: 1.85, fontWeight: 300 }}>
-          Woodlands is a real working farm, home to ponies, alpacas, pygmy goats, pigs, sheep,
+          Woodlands is a farm that&rsquo;s home to ponies, alpacas, pygmy goats, pigs, sheep,
           rabbits, chickens and Growler the farm cat. Ruth&rsquo;s Feed the Animals session is
           free for every guest, twice a week — Sundays at 8.30am and Wednesdays at 8am. Can&rsquo;t
           make those times? Just ask Ruth or Andy about joining an evening session when the
