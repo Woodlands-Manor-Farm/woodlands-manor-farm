@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { LegalPage, legalStyles as s } from "@/components/legal/legal-page";
 
 export const metadata: Metadata = {
@@ -18,13 +19,14 @@ export default function Page() {
       intro={
         <>
           <p style={{ marginBottom: 16 }}>
-            Dogs are very welcome at Woodlands Manor Farm in every one of our cottages and yurts
-            — there&rsquo;s no extra charge. We have farm animals, woodland walks and miles of
-            dog-friendly Cornish coastline. Below is what we ask in return.
+            Well-behaved dogs are very welcome at Woodlands Manor Farm in every one of our
+            cottages and yurts. We have farm animals, woodland walks and miles of dog-friendly
+            Cornish coastline — see our{" "}
+            <Link href="/dog-friendly-holiday-cottages-bude/">dog friendly holidays page</Link> for
+            everything your dog can look forward to. Below is what we ask in return.
           </p>
           <div className={s.note} style={{ marginBottom: 32 }}>
-            🐕 No charge for dogs. Up to 2 dogs per property is the standard — more by prior
-            arrangement.
+            🐕 £25 per dog per stay. Well-behaved dogs welcomed — no maximum per booking.
           </div>
         </>
       }

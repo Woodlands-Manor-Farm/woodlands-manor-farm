@@ -10,6 +10,7 @@ const STATIC_PATHS: { path: string; changeFrequency: MetadataRoute.Sitemap[numbe
   { path: "/holiday-cottage-direct-booking-woodlands-cornwall/", changeFrequency: "weekly", priority: 0.9 },
   { path: "/special-offers/", changeFrequency: "weekly", priority: 0.8 },
   { path: "/experiences-weddings-events/", changeFrequency: "monthly", priority: 0.8 },
+  { path: "/dog-friendly-holiday-cottages-bude/", changeFrequency: "monthly", priority: 0.8 },
   { path: "/reviews/", changeFrequency: "weekly", priority: 0.7 },
   { path: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/", changeFrequency: "monthly", priority: 0.7 },
   { path: "/on-the-farm/", changeFrequency: "monthly", priority: 0.6 },
