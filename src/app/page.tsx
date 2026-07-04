@@ -214,6 +214,27 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Intro strip */}
+      <div className={styles.introStrip}>
+        {INTRO_TILES.map((t) => (
+          <div key={t.title} className={styles.introTile}>
+            <div className={styles.introTileImg}>
+              <Image
+                src={t.src}
+                alt={t.alt}
+                width={400}
+                height={200}
+                style={{ objectFit: "cover", objectPosition: t.objectPosition }}
+              />
+            </div>
+            <div className={styles.introTileBody}>
+              <h3>{t.title}</h3>
+              <p>{t.body}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+
       {/* Booking widget */}
       <section id="booking-widget" className={styles.booking}>
         <div className={styles.bookingInner}>
@@ -246,27 +267,6 @@ export default function HomePage() {
           </p>
         </div>
       </section>
-
-      {/* Intro strip */}
-      <div className={styles.introStrip}>
-        {INTRO_TILES.map((t) => (
-          <div key={t.title} className={styles.introTile}>
-            <div className={styles.introTileImg}>
-              <Image
-                src={t.src}
-                alt={t.alt}
-                width={400}
-                height={200}
-                style={{ objectFit: "cover", objectPosition: t.objectPosition }}
-              />
-            </div>
-            <div className={styles.introTileBody}>
-              <h3>{t.title}</h3>
-              <p>{t.body}</p>
-            </div>
-          </div>
-        ))}
-      </div>
 
       {/* Stays */}
       <section id="stays" className={styles.stays}>
