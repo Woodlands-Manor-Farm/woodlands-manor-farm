@@ -191,6 +191,29 @@ export default function HomePage() {
     <>
       <HeroCarousel />
 
+      {/* Intro */}
+      <section className={styles.intro}>
+        <div className={styles.introInner}>
+          <p className={styles.introEyebrow}>Welcome to Woodlands Manor Farm</p>
+          <h2 className={styles.introTitle}>
+            Holiday cottages &amp; glamping yurts in Bude, <em>North Cornwall</em>
+          </h2>
+          <p className={styles.introBody}>
+            Woodlands Manor Farm is a 17th-century working farm in the peaceful Coombe Valley,
+            two miles from Bude&rsquo;s beaches. Our seven{" "}
+            <Link href="/bude-holiday-cottages/">holiday cottages</Link> and two luxury{" "}
+            <Link href="/yurts/">glamping yurts</Link> sleep 2 to 12 — every stay includes our{" "}
+            <Link href="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/">
+              heated indoor pool
+            </Link>{" "}
+            (a warm 31°C, open every day of the year), the games room, and{" "}
+            <Link href="/on-the-farm/">life on the farm</Link>: free animal feeding with Ruth,
+            pony experiences and fifteen acres of bluebell woodland. And yes —{" "}
+            <Link href="/dog-friendly-holiday-cottages-bude/">dogs are very welcome</Link>.
+          </p>
+        </div>
+      </section>
+
       {/* Booking widget */}
       <section id="booking-widget" className={styles.booking}>
         <div className={styles.bookingInner}>
