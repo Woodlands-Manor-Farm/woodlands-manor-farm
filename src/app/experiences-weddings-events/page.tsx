@@ -19,7 +19,7 @@ const EXPERIENCES = [
     alt: "Indoor heated swimming pool",
     type: "Wellness",
     name: "Pool sessions",
-    body: "Heated indoor pool kept at 30°C all year. Open 8am–8pm daily. We can also arrange morning lane swims and evening hot tub sessions for groups of 6+ on request.",
+    body: "Heated indoor pool kept at 31°C all year. Open 8am–8pm daily. We can also arrange morning lane swims and evening hot tub sessions for groups of 6+ on request.",
     detail: "8am–8pm daily · Free for guests",
   },
   {

@@ -3,6 +3,8 @@ import { Jost, Playfair_Display } from "next/font/google";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { SITE } from "@/lib/constants/seo";
+import { LODGING_BUSINESS_SCHEMA } from "@/lib/constants/schema";
+import { JsonLd } from "@/components/seo/json-ld";
 import "./globals.css";
 
 const playfair = Playfair_Display({
@@ -48,6 +50,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en-GB" className={`${playfair.variable} ${jost.variable}`}>
       <body className="bg-[var(--color-cream)] text-[var(--color-text-dark)]">
+        <JsonLd data={LODGING_BUSINESS_SCHEMA} />
         <Header />
         <main>{children}</main>
         <Footer />

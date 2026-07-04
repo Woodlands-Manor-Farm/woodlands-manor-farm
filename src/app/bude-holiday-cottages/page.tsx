@@ -3,14 +3,14 @@ import { ListingPage } from "@/components/listing/listing-page";
 import { COTTAGE_CARDS, YURT_CARDS } from "@/lib/data/listing-content";
 
 export const metadata: Metadata = {
-  title: "Cottages & Yurts in Bude, Cornwall",
+  title: "Holiday Cottages in Bude, Cornwall — with Heated Indoor Pool",
   description:
-    "Seven characterful cottages and two Mongolian glamping yurts at Woodlands Manor Farm — sleeping 2 to 12, all with indoor pool and farm access.",
+    "Dog-friendly holiday cottages in Bude, Cornwall on a working farm — seven characterful cottages and two glamping yurts sleeping 2 to 12, all with heated indoor pool, games room and farm animals. Book direct, no fees.",
   alternates: { canonical: "/bude-holiday-cottages/" },
   openGraph: {
-    title: "Cottages & Yurts — Woodlands Manor Farm",
+    title: "Holiday Cottages in Bude, Cornwall — Woodlands Manor Farm",
     description:
-      "Seven cottages and two yurts on a working Cornish farm, with heated indoor pool, games room and animals.",
+      "Seven cottages and two yurts on a working Cornish farm near Bude, with heated indoor pool, games room and animals. Book direct, no fees.",
     images: ["/images/cottages/9792dd1b5f66d139.jpg"],
   },
 };

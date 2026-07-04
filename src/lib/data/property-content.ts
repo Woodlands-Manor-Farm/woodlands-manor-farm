@@ -16,7 +16,7 @@ const SHARED_FACILITIES = [
 const FARM_FACILITIES_COL = {
   title: "Farm facilities included",
   items: [
-    "Heated indoor swimming pool — 30°C, open 8am–8pm daily",
+    "Heated indoor swimming pool — 31°C, open 8am–8pm daily",
     "Games room — table tennis, pool, foosball, giant Connect Four, soft play",
     "Woodland walk — magical bluebell carpet in April & May",
     "Playing field with playground, swings & slide",

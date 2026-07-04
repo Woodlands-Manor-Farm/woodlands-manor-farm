@@ -46,7 +46,7 @@ export default function Page() {
             {
               icon: "🏊",
               title: "Heated indoor pool",
-              body: "Maintained at 30°C all year. Open 8am to 8pm daily, free to all guests, no booking required. The pool that gets us through the winter half-terms.",
+              body: "Maintained at 31°C all year. Open 8am to 8pm daily, free to all guests, no booking required. The pool that gets us through the winter half-terms.",
             },
             {
               icon: "🎮",
