@@ -1036,9 +1036,13 @@
   border-bottom: 1px solid rgba(127, 151, 137, 0.18);
 }
 .introInner {
-  max-width: 820px;
+  max-width: 1100px;
   margin: 0 auto;
   text-align: center;
+  background: #fff;
+  border: 1px solid rgba(127, 151, 137, 0.18);
+  border-radius: 4px;
+  padding: 48px clamp(24px, 6vw, 96px);
 }
 .introEyebrow {
   font-size: 11px;

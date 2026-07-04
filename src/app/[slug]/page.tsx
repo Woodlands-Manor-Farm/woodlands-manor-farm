@@ -113,7 +113,7 @@ export default async function BlogPostPage({ params }: { params: Params }) {
             <p className={styles.articleCtaBody}>
               Make it a proper break — our{" "}
               <Link href="/bude-holiday-cottages/">holiday cottages in Bude</Link> and luxury
-              yurts sit on a working Cornish farm just minutes from the coast, with a{" "}
+              yurts sit on a Cornish farm just minutes from the coast, with a{" "}
               <Link href="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/">
                 heated indoor pool
               </Link>{" "}

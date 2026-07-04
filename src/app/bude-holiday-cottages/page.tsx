@@ -5,12 +5,12 @@ import { COTTAGE_CARDS, YURT_CARDS } from "@/lib/data/listing-content";
 export const metadata: Metadata = {
   title: "Holiday Cottages in Bude, Cornwall — with Heated Indoor Pool",
   description:
-    "Dog-friendly holiday cottages in Bude, North Cornwall on a working farm — seven characterful cottages and two glamping yurts sleeping 2 to 12, all with heated indoor pool, games room and farm animals. Book direct, no fees.",
+    "Dog-friendly holiday cottages in Bude, North Cornwall on a farm — seven characterful cottages and two glamping yurts sleeping 2 to 12, all with heated indoor pool, games room and farm animals. Book direct, no fees.",
   alternates: { canonical: "/bude-holiday-cottages/" },
   openGraph: {
     title: "Holiday Cottages in Bude, Cornwall — Woodlands Manor Farm",
     description:
-      "Seven cottages and two yurts on a working Cornish farm near Bude, with heated indoor pool, games room and animals. Book direct, no fees.",
+      "Seven cottages and two yurts on a Cornish farm near Bude, with heated indoor pool, games room and animals. Book direct, no fees.",
     images: ["/images/cottages/9792dd1b5f66d139.jpg"],
   },
 };
