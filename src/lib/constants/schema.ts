@@ -22,6 +22,13 @@ export const LODGING_BUSINESS_SCHEMA = {
     addressCountry: SITE.contact.address.country,
   },
   petsAllowed: true,
+  // Google reviews score as of July 2026 — update when it changes.
+  aggregateRating: {
+    "@type": "AggregateRating",
+    ratingValue: "4.9",
+    bestRating: "5",
+    reviewCount: 116,
+  },
   amenityFeature: [
     { "@type": "LocationFeatureSpecification", name: "Heated indoor swimming pool", value: true },
     { "@type": "LocationFeatureSpecification", name: "Games room", value: true },
