@@ -39,7 +39,7 @@ export function PropertyPage({ data }: { data: PropertyPageData }) {
         description: data.description,
         url: `${SITE.url}${property.href}`,
         image: `${SITE.url}${property.heroImage}`,
-        containedInPlace: { "@id": `${SITE.url}/#business` },
+        containedInPlace: { "@id": `${SITE.url}/#lodging` },
         address: {
           "@type": "PostalAddress",
           streetAddress: SITE.contact.address.street,

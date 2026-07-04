@@ -68,6 +68,25 @@ export function HeroCarousel() {
             Watch the farm tour →
           </a>
         </div>
+        <div className={styles.heroRatings}>
+          <span className={styles.heroRatingItem}>
+            <span className={styles.heroRatingStars} aria-hidden="true">
+              ★★★★★
+            </span>
+            <span>
+              <span className={styles.heroRatingScore}>9.9</span>/10 on Booking.com
+            </span>
+          </span>
+          <span className={styles.heroRatingDivider} aria-hidden="true" />
+          <span className={styles.heroRatingItem}>
+            <span className={styles.heroRatingStars} aria-hidden="true">
+              ★★★★★
+            </span>
+            <span>
+              <span className={styles.heroRatingScore}>4.9</span>/5 on Google · 115 reviews
+            </span>
+          </span>
+        </div>
       </div>
 
       <div className={styles.statsBar}>

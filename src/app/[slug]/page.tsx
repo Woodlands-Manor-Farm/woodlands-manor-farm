@@ -65,7 +65,7 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     datePublished: post.date,
     image: post.featureImage ? `${SITE.url}${post.featureImage}` : undefined,
     author: { "@type": "Person", name: post.author ?? "Andy & Ruth Peters" },
-    publisher: { "@id": `${SITE.url}/#business` },
+    publisher: { "@id": `${SITE.url}/#lodging` },
     mainEntityOfPage: `${SITE.url}/${post.slug}/`,
   };
 
