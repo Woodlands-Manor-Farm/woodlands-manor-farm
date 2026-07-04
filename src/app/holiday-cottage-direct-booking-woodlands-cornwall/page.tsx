@@ -109,7 +109,6 @@ export default function Page() {
               background: "var(--color-cream)",
               marginTop: 32,
               border: "1px solid rgba(127,151,137,0.18)",
-              minHeight: 700,
             }}
           >
             <SuperControlWidget />
