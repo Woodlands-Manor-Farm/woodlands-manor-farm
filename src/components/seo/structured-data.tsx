@@ -39,7 +39,7 @@ export function StructuredData() {
     aggregateRating: {
       "@type": "AggregateRating",
       ratingValue: 4.9,
-      reviewCount: 115,
+      reviewCount: 116,
       bestRating: 5,
       worstRating: 1,
     },

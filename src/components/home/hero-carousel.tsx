@@ -19,7 +19,7 @@ const SLIDES = [
   {
     src: "/images/home/c2909c0800e4042d.jpg",
     alt: "Heated indoor swimming pool at Woodlands Manor Farm",
-    caption: "Heated indoor pool — warm 30°C all year",
+    caption: "Heated indoor pool — warm 31°C all year",
   },
 ];
 

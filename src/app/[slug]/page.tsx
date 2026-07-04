@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { getAllPostSlugs, getAllPosts, getPostBySlug } from "@/lib/blog";
 import { BOOK_HREF } from "@/lib/constants/nav";
 import { SITE } from "@/lib/constants/seo";
+import { JsonLd } from "@/components/seo/json-ld";
 import styles from "@/components/blog/blog.module.css";
 
 type Params = Promise<{ slug: string }>;
@@ -56,8 +57,21 @@ export default async function BlogPostPage({ params }: { params: Params }) {
   const sidebarRelated = others.slice(0, 4);
   const moreBelow = others.slice(0, 3);
 
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.title,
+    description: post.excerpt,
+    datePublished: post.date,
+    image: post.featureImage ? `${SITE.url}${post.featureImage}` : undefined,
+    author: { "@type": "Person", name: post.author ?? "Andy & Ruth Peters" },
+    publisher: { "@id": `${SITE.url}/#lodging` },
+    mainEntityOfPage: `${SITE.url}/${post.slug}/`,
+  };
+
   return (
     <>
+      <JsonLd data={articleSchema} />
       <header className={styles.hero}>
         {post.featureImage ? (
           <Image
@@ -93,6 +107,21 @@ export default async function BlogPostPage({ params }: { params: Params }) {
       <div className={styles.layout}>
         <article className={styles.article}>
           <div className={styles.body} dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
+
+          <div className={styles.articleCta}>
+            <div className={styles.articleCtaTitle}>Stay at Woodlands Manor Farm</div>
+            <p className={styles.articleCtaBody}>
+              Make it a proper break — our{" "}
+              <Link href="/bude-holiday-cottages/">holiday cottages in Bude</Link> and luxury
+              yurts sit on a working Cornish farm just minutes from the coast, with a{" "}
+              <Link href="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/">
+                heated indoor pool
+              </Link>{" "}
+              open every day of the year. Dogs welcome. Book direct for the best price —
+              no fees.
+            </p>
+          </div>
+
           <footer className={styles.articleFooter}>
             <div className={styles.tags}>
               <Link href="/news/" className={styles.tag}>

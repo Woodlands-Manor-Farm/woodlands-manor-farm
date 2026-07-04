@@ -5,6 +5,7 @@ import { PropertyGallery, type GalleryImage } from "./property-gallery";
 import { PROPERTIES } from "@/lib/constants/properties";
 import { SITE } from "@/lib/constants/seo";
 import { SuperControlWidget } from "@/components/booking/super-control-widget";
+import { JsonLd } from "@/components/seo/json-ld";
 
 export type PropertyPageData = {
   slug: string;
@@ -30,8 +31,37 @@ export function PropertyPage({ data }: { data: PropertyPageData }) {
   const property = PROPERTIES.find((p) => p.slug === data.slug);
   const others = PROPERTIES.filter((p) => p.slug !== data.slug).slice(0, 5);
 
+  const schema = property
+    ? {
+        "@context": "https://schema.org",
+        "@type": "VacationRental",
+        name: `${data.name} — ${SITE.name}`,
+        description: data.description,
+        url: `${SITE.url}${property.href}`,
+        image: `${SITE.url}${property.heroImage}`,
+        containedInPlace: { "@id": `${SITE.url}/#lodging` },
+        address: {
+          "@type": "PostalAddress",
+          streetAddress: SITE.contact.address.street,
+          addressLocality: SITE.contact.address.city,
+          addressRegion: SITE.contact.address.region,
+          postalCode: SITE.contact.address.postalCode,
+          addressCountry: SITE.contact.address.country,
+        },
+        occupancy: { "@type": "QuantitativeValue", maxValue: property.sleeps },
+        numberOfBedrooms: property.bedrooms,
+        petsAllowed: true,
+        amenityFeature: data.amenities.map((a) => ({
+          "@type": "LocationFeatureSpecification",
+          name: a,
+          value: true,
+        })),
+      }
+    : null;
+
   return (
     <>
+      {schema ? <JsonLd data={schema} /> : null}
       <div className={styles.pageWrap}>
         <div className={styles.galleryPanel}>
           <PropertyGallery images={data.gallery} propertyName={data.name} />

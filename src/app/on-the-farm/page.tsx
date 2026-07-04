@@ -8,8 +8,9 @@ import {
 } from "@/components/info/info-shell";
 
 export const metadata: Metadata = {
-  title: "On the Farm",
-  description: "Daily farm life at Woodlands — animals, gardens, pool and what to expect from a stay.",
+  title: "Farm Holidays in Cornwall — Stay on a Real Working Farm",
+  description:
+    "Farm holidays in Bude, North Cornwall — stay on a real working farm with free animal feeding twice a week, pony experiences, alpacas, pigs, goats and chickens, plus a heated indoor pool and cottages sleeping 2 to 12.",
   alternates: { canonical: "/on-the-farm/" },
 };
 
@@ -25,7 +26,7 @@ export default function Page() {
             Life on <em>the farm</em>
           </>
         }
-        description="Heated indoor pool, games room, woodland walks, playing field, hot tub and farm animals — all included with your stay, all on site."
+        description="A proper farm holiday in Cornwall — free animal feeding, pony experiences, heated indoor pool, games room, woodland walks and a peaceful valley two miles from Bude's beaches."
       />
       <AboutSubnav activeHref="/on-the-farm/" />
 
@@ -46,7 +47,7 @@ export default function Page() {
             {
               icon: "🏊",
               title: "Heated indoor pool",
-              body: "Maintained at 30°C all year. Open 8am to 8pm daily, free to all guests, no booking required. The pool that gets us through the winter half-terms.",
+              body: "Maintained at 31°C all year. Open 8am to 8pm daily, free to all guests, no booking required. The pool that gets us through the winter half-terms.",
             },
             {
               icon: "🎮",
@@ -80,11 +81,23 @@ export default function Page() {
           ]}
         />
 
-        <h3 className={styles.subHeading}>The animals</h3>
+        <h3 className={styles.subHeading}>A real farm holiday — meet the animals</h3>
         <p style={{ fontSize: 14, color: "var(--color-text-mid)", lineHeight: 1.85, fontWeight: 300 }}>
-          Three ponies, three alpacas, two pygmy goats, two pigs, four sheep, two rabbits, twelve
-          chickens and Growler the farm cat. Ruth runs a Feed the Animals tour every Sunday and
-          Wednesday morning — included free with your stay.
+          Woodlands is a real working farm, home to ponies, alpacas, pygmy goats, pigs, sheep,
+          rabbits, chickens and Growler the farm cat. Ruth&rsquo;s Feed the Animals session is
+          free for every guest, twice a week — Sundays at 8.30am and Wednesdays at 8am. Can&rsquo;t
+          make those times? Just ask Ruth or Andy about joining an evening session when the
+          animals are put to bed — shorter, but you still get to meet everyone.
+        </p>
+
+        <h3 className={styles.subHeading}>Farm experiences, tailored to you</h3>
+        <p style={{ fontSize: 14, color: "var(--color-text-mid)", lineHeight: 1.85, fontWeight: 300 }}>
+          Beyond the free feeding sessions, we offer paid experiences that we&rsquo;ll happily
+          tailor around your family. The firm favourite is the Pony Experience: children learn
+          how to look after a pony, do the grooming themselves, take a pony for a walk around the
+          farm — and yes, the little ones usually dress Lulu up as a unicorn. Bring a camera.
+          Alpaca walking is another guest favourite. Ask when you book, or just have a word with
+          Ruth when you arrive.
         </p>
       </div>
 

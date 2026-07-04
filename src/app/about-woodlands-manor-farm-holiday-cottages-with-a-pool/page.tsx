@@ -9,9 +9,9 @@ import {
 } from "@/components/info/info-shell";
 
 export const metadata: Metadata = {
-  title: "About Woodlands Manor Farm",
+  title: "Holiday Cottages in Cornwall with a Pool — Heated Indoor, Open All Year",
   description:
-    "Holiday cottages with a pool in Bude, Cornwall — the story of a 17th-century farm and the family who run it.",
+    "Holiday cottages in Bude, North Cornwall with a heated indoor pool — kept at a warm 31°C and open 8am–8pm every day of the year, free for every guest. A 17th-century working farm run by Andy & Ruth Peters.",
   alternates: { canonical: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
 };
 
@@ -45,6 +45,34 @@ export default function AboutPage() {
           a heated indoor pool and two miles of coastline on the doorstep.
         </p>
       </div>
+
+      <section className={styles.split}>
+        <div className={styles.splitImg}>
+          <Image
+            src="/images/home/cc82e0f15a7b2058.jpg"
+            alt="Heated indoor swimming pool at Woodlands Manor Farm holiday cottages, Bude, Cornwall"
+            fill
+            sizes="(min-width: 900px) 50vw, 100vw"
+          />
+        </div>
+        <div className={styles.splitContent}>
+          <p className={styles.eyebrow}>Open every day, all year</p>
+          <h2 className={styles.sectionTitle}>
+            Holiday cottages with a <em>heated indoor pool</em>
+          </h2>
+          <p>
+            Our indoor pool is the heart of Woodlands — heated to a warm 31°C so everyone
+            enjoys a swim, not just the brave. It&rsquo;s open from 8am to 8pm every single day
+            of the year, and it&rsquo;s free for every guest: all seven cottages and both yurts
+            include full pool access, with no booking or time slots needed.
+          </p>
+          <p>
+            Rainy February half term or blazing August week, the pool means the holiday never
+            stops. Morning lengths before breakfast, an afternoon splash with the children, a
+            quiet evening swim — it&rsquo;s yours whenever you want it.
+          </p>
+        </div>
+      </section>
 
       <section className={styles.split}>
         <div className={styles.splitImg}>
@@ -101,7 +129,7 @@ export default function AboutPage() {
               {
                 icon: "🏊",
                 title: "Heated Indoor Pool",
-                body: "A large heated indoor swimming pool maintained at 30°C year-round, open from 8am to 8pm daily. Free to all guests, no booking required.",
+                body: "A large heated indoor swimming pool maintained at 31°C year-round, open from 8am to 8pm daily. Free to all guests, no booking required.",
                 variant: "gold",
               },
               {

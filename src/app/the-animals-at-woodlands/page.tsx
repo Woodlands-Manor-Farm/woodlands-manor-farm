@@ -67,9 +67,9 @@ const ANIMALS = [
 ];
 
 export const metadata: Metadata = {
-  title: "The Animals at Woodlands",
+  title: "Meet the Farm Animals — Free Feed the Animals Sessions",
   description:
-    "Meet the alpacas, ponies, pygmy goats, Kune Kune pigs, sheep, rabbits and Growler the farm cat at Woodlands Manor Farm.",
+    "Meet the alpacas, ponies, pygmy goats, Kune Kune pigs, sheep, rabbits and Growler the farm cat at Woodlands Manor Farm, Bude. Free Feed the Animals sessions every Sunday (8.30am) and Wednesday (8am) for all guests.",
   alternates: { canonical: "/the-animals-at-woodlands/" },
 };
 
@@ -96,8 +96,10 @@ export default function Page() {
         </h2>
         <p className={styles.sectionBody}>
           We love all our animals on the farm — they are part of the Woodlands Manor Farm family.
-          Come and meet them all on the Feed the Animals tour with Ruth, which runs every
-          Wednesday and Sunday morning. No booking needed — just turn up.
+          Come and meet them all on the Feed the Animals tour with Ruth — free for every guest,
+          every Sunday at 8.30am and Wednesday at 8am. No booking needed — just turn up. Can&rsquo;t
+          make the mornings? Ask Ruth or Andy about joining an evening session when the animals
+          are put to bed.
         </p>
 
         <div className={styles.animalGrid}>
@@ -159,11 +161,12 @@ export default function Page() {
               maxWidth: 560,
             }}
           >
-            Every Sunday and Wednesday morning, Ruth takes cottage and yurt guests on a tour of
-            all the animals. You will feed, groom and get up close with the ponies, alpacas,
-            goats, pigs, sheep, rabbits and chickens. No booking needed — just meet in the
-            courtyard on the morning. This is consistently the most-mentioned highlight in guest
-            reviews.
+            Every Sunday at 8.30am and Wednesday at 8am, Ruth takes cottage and yurt guests on a
+            tour of all the animals — free with every stay. You will feed, groom and get up close
+            with the ponies, alpacas, goats, pigs, sheep, rabbits and chickens. No booking needed
+            — just meet in the courtyard on the morning. This is consistently the most-mentioned
+            highlight in guest reviews. For something extra, ask about the Pony Experience —
+            grooming, pony walks and dressing Lulu up as a unicorn.
           </p>
         </div>
         <Link

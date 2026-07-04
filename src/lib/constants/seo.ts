@@ -2,7 +2,7 @@ export const SITE = {
   name: "Woodlands Manor Farm",
   tagline: "Holiday Cottages with a Pool in Bude, Cornwall",
   description:
-    "A 17th-century farm stay in the Coombe Valley near Bude, Cornwall. Eight self-catering holiday cottages and two yurts with a heated indoor pool, farm animals and a warm Cornish welcome — the perfect family base for exploring Cornwall.",
+    "A 17th-century farm stay in the Coombe Valley near Bude, North Cornwall. Seven self-catering holiday cottages and two yurts with a heated indoor pool, farm animals and a warm Cornish welcome — the perfect family base for exploring Cornwall.",
   url: "https://woodlandsmanorfarm.co.uk",
   locale: "en_GB",
   priceRange: "££",
