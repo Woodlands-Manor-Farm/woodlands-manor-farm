@@ -3,13 +3,15 @@
 @theme {
   /* Brand palette — ported from the original WIP HTML :root variables */
   --color-cream: #f7f3ee;
-  --color-deep-green: #7f9789;
+  /* Darkened for readable contrast: deep-green now passes AA both as
+     heading text on cream and as a background behind light text. */
+  --color-deep-green: #4d6a5e;
   --color-mid-green: #6a8478;
   --color-warm-stone: #adbfb9;
   --color-violet: #8b7bb5;
   --color-text-dark: #1e2422;
   --color-text-mid: #4a5550;
-  --color-text-light: #8a9990;
+  --color-text-light: #5f6e66;
   --color-white: #fefefe;
 
   /* Fonts wired up via next/font/google in layout.tsx — variable names match. */
