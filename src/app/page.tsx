@@ -140,13 +140,16 @@ const REVIEWS = [
   },
 ];
 
-const AWARDS = [
-  { icon: "🏆", name: "TripAdvisor Travellers' Choice 2026" },
-  { icon: "⭐", name: "Booking.com 6 Awards" },
-  { icon: "🌿", name: "Sustainable Tourism 3-Leaf" },
-  { icon: "🏡", name: "Airbnb Superhost" },
-  { icon: "🎉", name: "Cornwall Tourism Awards" },
+const AWARD_LOGOS = [
+  { src: "/images/awards/booking-awards.png", alt: "Booking.com Traveller Review Awards 2026", w: 168, h: 52 },
+  { src: "/images/awards/cornwall-tourism-awards.png", alt: "Cornwall Tourism Awards 2025/26 Commended", w: 50, h: 70 },
+  { src: "/images/awards/airbnb-superhost.png", alt: "Airbnb Superhost at Woodlands Manor Farm", w: 70, h: 70 },
+  { src: "/images/awards/pasc-member.png", alt: "PASC Member — Professional Association of Self-Caterers", w: 70, h: 70 },
+  { src: "/images/awards/bude-way-accredited.png", alt: "The Bude Way Accredited", w: 88, h: 68 },
 ];
+
+const TRIPADVISOR_URL =
+  "https://www.tripadvisor.com/Hotel_Review-g190804-d1676332-Reviews-Woodlands_Manor_Farm-Bude_Bude_Stratton_Cornwall_England.html";
 
 const NEARBY = [
   { name: "Duckpool Beach (National Trust)", distance: "2 miles" },
@@ -400,11 +403,31 @@ export default function HomePage() {
           ))}
         </div>
         <div className={styles.awardsRow}>
-          {AWARDS.map((a) => (
-            <div key={a.name} className={styles.awardBadge}>
-              <div className={styles.awardIcon}>{a.icon}</div>
-              <div className={styles.awardName}>{a.name}</div>
-            </div>
+          <Link href="/reviews/" className={styles.ratingBadge} aria-label="4.9 out of 5 on Google reviews">
+            <span className={styles.ratingSource}>Google</span>
+            <span className={styles.ratingStars}>★★★★★</span>
+            <span className={styles.ratingScore}>4.9 · 116 reviews</span>
+          </Link>
+          <a
+            href={TRIPADVISOR_URL}
+            target="_blank"
+            rel="noreferrer"
+            className={styles.ratingBadge}
+            aria-label="Rated Excellent on Tripadvisor"
+          >
+            <span className={styles.ratingSource}>Tripadvisor</span>
+            <span className={styles.ratingStars}>★★★★★</span>
+            <span className={styles.ratingScore}>Rated Excellent</span>
+          </a>
+          {AWARD_LOGOS.map((a) => (
+            <Image
+              key={a.src}
+              src={a.src}
+              alt={a.alt}
+              width={a.w}
+              height={a.h}
+              className={styles.awardLogo}
+            />
           ))}
         </div>
       </section>
