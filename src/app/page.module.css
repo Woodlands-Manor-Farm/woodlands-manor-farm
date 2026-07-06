@@ -797,18 +797,40 @@
   max-width: 1200px;
   margin: 0 auto;
 }
-.awardBadge {
-  text-align: center;
+.awardLogo {
+  height: 62px;
+  width: auto;
+  object-fit: contain;
+  opacity: 0.9;
+  transition: opacity 0.2s;
 }
-.awardIcon {
-  font-size: 24px;
-  margin-bottom: 6px;
+.awardLogo:hover {
+  opacity: 1;
 }
-.awardName {
+.ratingBadge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  text-decoration: none;
+  padding: 6px 4px;
+}
+.ratingSource {
   font-size: 11px;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: var(--color-deep-green);
+  font-weight: 500;
+}
+.ratingStars {
+  color: #e8b923;
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+.ratingScore {
+  font-size: 11px;
+  color: var(--color-text-light);
+  letter-spacing: 0.5px;
 }
 
 /* ─── LOCATION ──────────────────────────────────────────── */
