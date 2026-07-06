@@ -293,7 +293,7 @@
 
 /* Group banner */
 .groupBanner {
-  background: #3f5850;
+  background: var(--color-deep-green);
   padding: 64px 32px;
   display: grid;
   grid-template-columns: 1fr 1fr;
