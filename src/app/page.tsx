@@ -274,8 +274,13 @@ export default function HomePage() {
       {/* Trust bar */}
       <div className={styles.trustBar}>
         <Link href="/reviews/" className={styles.ratingBadge} aria-label="4.9 out of 5 on Google reviews">
-          <span className={styles.ratingSource}>Google</span>
-          <span className={styles.ratingStars}>★★★★★</span>
+          <Image
+            src="/images/awards/google-reviews.png"
+            alt="Rated 5 stars on Google reviews"
+            width={110}
+            height={46}
+            className={styles.ratingLogoGoogle}
+          />
           <span className={styles.ratingScore}>4.9 · 116 reviews</span>
         </Link>
         <a
@@ -285,9 +290,14 @@ export default function HomePage() {
           className={styles.ratingBadge}
           aria-label="Rated Excellent on Tripadvisor"
         >
-          <span className={styles.ratingSource}>Tripadvisor</span>
-          <span className={styles.ratingStars}>★★★★★</span>
-          <span className={styles.ratingScore}>Rated Excellent</span>
+          <Image
+            src="/images/awards/tripadvisor.png"
+            alt="Tripadvisor — rated Excellent"
+            width={128}
+            height={28}
+            className={styles.ratingLogoTa}
+          />
+          <span className={styles.ratingScore}>★★★★★ Rated Excellent</span>
         </a>
         {AWARD_LOGOS.map((a) => (
           <Image
