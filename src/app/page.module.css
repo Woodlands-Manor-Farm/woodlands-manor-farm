@@ -797,8 +797,19 @@
   max-width: 1200px;
   margin: 0 auto;
 }
+.trustBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding: 32px;
+  background: var(--color-cream);
+  border-top: 1px solid rgba(127,151,137,0.12);
+  border-bottom: 1px solid rgba(127,151,137,0.12);
+}
 .awardLogo {
-  height: 62px;
+  height: 48px;
   width: auto;
   object-fit: contain;
   opacity: 0.9;

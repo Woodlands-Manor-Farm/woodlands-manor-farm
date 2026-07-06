@@ -271,6 +271,36 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Trust bar */}
+      <div className={styles.trustBar}>
+        <Link href="/reviews/" className={styles.ratingBadge} aria-label="4.9 out of 5 on Google reviews">
+          <span className={styles.ratingSource}>Google</span>
+          <span className={styles.ratingStars}>★★★★★</span>
+          <span className={styles.ratingScore}>4.9 · 116 reviews</span>
+        </Link>
+        <a
+          href={TRIPADVISOR_URL}
+          target="_blank"
+          rel="noreferrer"
+          className={styles.ratingBadge}
+          aria-label="Rated Excellent on Tripadvisor"
+        >
+          <span className={styles.ratingSource}>Tripadvisor</span>
+          <span className={styles.ratingStars}>★★★★★</span>
+          <span className={styles.ratingScore}>Rated Excellent</span>
+        </a>
+        {AWARD_LOGOS.map((a) => (
+          <Image
+            key={a.src}
+            src={a.src}
+            alt={a.alt}
+            width={a.w}
+            height={a.h}
+            className={styles.awardLogo}
+          />
+        ))}
+      </div>
+
       {/* Stays */}
       <section id="stays" className={styles.stays}>
         <div className={styles.sectionHead}>
@@ -400,34 +430,6 @@ export default function HomePage() {
                 </div>
               </div>
             </div>
-          ))}
-        </div>
-        <div className={styles.awardsRow}>
-          <Link href="/reviews/" className={styles.ratingBadge} aria-label="4.9 out of 5 on Google reviews">
-            <span className={styles.ratingSource}>Google</span>
-            <span className={styles.ratingStars}>★★★★★</span>
-            <span className={styles.ratingScore}>4.9 · 116 reviews</span>
-          </Link>
-          <a
-            href={TRIPADVISOR_URL}
-            target="_blank"
-            rel="noreferrer"
-            className={styles.ratingBadge}
-            aria-label="Rated Excellent on Tripadvisor"
-          >
-            <span className={styles.ratingSource}>Tripadvisor</span>
-            <span className={styles.ratingStars}>★★★★★</span>
-            <span className={styles.ratingScore}>Rated Excellent</span>
-          </a>
-          {AWARD_LOGOS.map((a) => (
-            <Image
-              key={a.src}
-              src={a.src}
-              alt={a.alt}
-              width={a.w}
-              height={a.h}
-              className={styles.awardLogo}
-            />
           ))}
         </div>
       </section>
