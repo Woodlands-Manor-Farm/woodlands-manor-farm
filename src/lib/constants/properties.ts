@@ -102,9 +102,9 @@ export const PROPERTIES: Property[] = [
     type: "yurt",
     sleeps: 4,
     bedrooms: 1,
-    shortDescription: "Hand-crafted Mongolian yurt in its own meadow with private hot tub.",
+    shortDescription: "Authentic Mongolian yurt in a secluded spot by the pond — wood burner, private kitchen & bathroom, sleeps 4.",
     href: "/budhyn-yurt/",
-    heroImage: "/images/budhyn-yurt/413fc9c154a95c8e.jpg",
+    heroImage: "/images/budhyn-yurt/budhyn-exterior-hero.jpg",
     superControlId: "593204",
   },
   {
@@ -113,9 +113,9 @@ export const PROPERTIES: Property[] = [
     type: "yurt",
     sleeps: 4,
     bedrooms: 1,
-    shortDescription: "Sister yurt to Budhyn — woodburner, big sky, deep quiet.",
+    shortDescription: "Sister yurt to Budhyn, nestled by the woodland — wood burner, private kitchen & bathroom, sleeps 4.",
     href: "/fenton-yurt/",
-    heroImage: "/images/cottages/ee96ea80e53b6e33.jpg",
+    heroImage: "/images/fenton-yurt/fenton-exterior-hero.jpg",
     superControlId: "593172",
   },
 ];
