@@ -58,7 +58,7 @@ export default function Page() {
             {
               icon: "♨️",
               title: "Hot tub",
-              body: "Communal hot tub on the terrace — perfect for sundowners after a day on the coast path. Yurt guests have private hot tubs too.",
+              body: "Communal hot tub on the terrace — perfect for sundowners after a day on the coast path.",
               variant: "gold",
             },
             {

@@ -109,9 +109,9 @@ export const YURT_CARDS: PropertyCardData[] = [
   {
     href: "/budhyn-yurt/",
     name: "Budhyn Yurt",
-    desc: "Authentic Mongolian glamping with a high-end Nordpeis wood-burner at its heart. Super king bed, two singles, your own private kitchen, bathroom and a picnic table with valley views.",
-    img: "/images/cottages/178e79588e66b04a.jpg",
-    alt: "Inside the Budhyn Yurt",
+    desc: "Authentic Mongolian glamping with a high-end wood burner at its heart. Kingsize bed, two singles, your own private kitchen and bathroom, and a BBQ and picnic bench facing the meadow.",
+    img: "/images/budhyn-yurt/budhyn-exterior-hero.jpg",
+    alt: "Budhyn Yurt exterior — authentic Mongolian yurt in the meadow",
     tags: [{ label: "Glamping", featured: true }, { label: "Sleeps 4" }],
     stats: [
       { val: "4", label: "Guests" },
@@ -123,9 +123,9 @@ export const YURT_CARDS: PropertyCardData[] = [
   {
     href: "/fenton-yurt/",
     name: "Fenton Yurt",
-    desc: "Identical in luxury to Budhyn — nestled beside it in the valley with the same wood-burner warmth, private bathroom and kitchen. Book both yurts together for a group of eight.",
-    img: "/images/cottages/ee96ea80e53b6e33.jpg",
-    alt: "Fenton Yurt — valley setting",
+    desc: "Identical in luxury to Budhyn — nestled beside it by the woodland with the same wood-burner warmth, private bathroom and kitchen. Book both yurts together for a group of eight.",
+    img: "/images/fenton-yurt/fenton-exterior-hero.jpg",
+    alt: "Fenton Yurt exterior — authentic Mongolian yurt by the woodland",
     tags: [{ label: "Glamping", featured: true }, { label: "Sleeps 4" }],
     stats: [
       { val: "4", label: "Guests" },
