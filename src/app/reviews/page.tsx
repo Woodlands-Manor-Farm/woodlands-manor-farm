@@ -43,12 +43,6 @@ const REVIEWS = [
     source: "Jasmine Cottage · 2024",
   },
   {
-    text: "Magical few nights — woke up to the sound of sheep, fell asleep watching the stars. Couldn't fault it. The hot tub was the perfect end to each day.",
-    initials: "TW",
-    name: "The Wests",
-    source: "Fenton Yurt · 2024",
-  },
-  {
     text: "Loved the openness and light — and not having to do stairs with our toddler was a godsend. Beautiful conversion. We've already booked to come back next year.",
     initials: "ST",
     name: "Sarah & Tom",
