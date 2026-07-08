@@ -4,14 +4,17 @@ import Link from "next/link";
 import styles from "@/components/marketing/marketing.module.css";
 import { BOOK_HREF } from "@/lib/constants/nav";
 import { SITE } from "@/lib/constants/seo";
+import { getGoogleReviews } from "@/lib/google-reviews";
 
-// The Google summary — update the count when it changes.
+// Rendered per request so the live Google feed stays fresh (the fetch itself
+// is edge-cached for 24h, so Google is only called about once a day).
+export const dynamic = "force-dynamic";
+
+// The Google summary — fallback values if the live feed is unavailable.
 const GOOGLE = { rating: "4.9", count: 116, url: SITE.contact.googleMapsUrl };
 
-// Top Google reviews, mirrored from the live listing. Refresh monthly.
-// NOTE: the last three texts are truncated exactly as shown in the widget —
-// replace the "…" with the full verbatim wording from Google before publishing.
-const GOOGLE_REVIEWS = [
+// Fallback Google reviews, used only if the live feed can't be reached.
+const FALLBACK_GOOGLE_REVIEWS = [
   {
     name: "F7543RYgrahamc",
     initial: "F",
@@ -112,7 +115,21 @@ export const metadata: Metadata = {
   alternates: { canonical: "/reviews/" },
 };
 
-export default function Page() {
+export default async function Page() {
+  const live = await getGoogleReviews();
+  const rating = live ? live.rating.toString() : GOOGLE.rating;
+  const count = live ? live.count : GOOGLE.count;
+  const googleReviews =
+    live && live.reviews.length > 0
+      ? live.reviews.slice(0, 8).map((r) => ({
+          name: r.name,
+          initial: r.initial,
+          color: r.color,
+          date: r.relativeTime,
+          text: r.text,
+        }))
+      : FALLBACK_GOOGLE_REVIEWS;
+
   return (
     <>
       <section className={styles.hero} style={{ height: "55vh", minHeight: 440 }}>
@@ -132,8 +149,8 @@ export default function Page() {
               What our <em>guests say</em>
             </h1>
             <p>
-              Rated 4.9 out of 5 across 116 Google reviews, and 5-star rated on TripAdvisor,
-              Booking.com and Airbnb. Most importantly: guests come back.
+              Rated {rating} out of 5 across {count} Google reviews, and 5-star rated on
+              TripAdvisor, Booking.com and Airbnb. Most importantly: guests come back.
             </p>
           </div>
         </div>
@@ -145,7 +162,7 @@ export default function Page() {
           <div>
             <div className={styles.gHeaderName}>{SITE.name}</div>
             <div style={{ display: "flex", alignItems: "center", gap: 14, justifyContent: "center", marginTop: 10 }}>
-              <span className={styles.gHeaderScore}>{GOOGLE.rating}</span>
+              <span className={styles.gHeaderScore}>{rating}</span>
               <span style={{ fontSize: 13, color: "var(--color-text-light)", textAlign: "left", lineHeight: 1.3 }}>
                 Out of 5<br />stars
               </span>
@@ -153,14 +170,14 @@ export default function Page() {
               <GoogleG size={26} />
             </div>
             <div className={styles.gHeaderMeta} style={{ marginTop: 12 }}>
-              Overall rating out of <strong>{GOOGLE.count} Google reviews</strong>
+              Overall rating out of <strong>{count} Google reviews</strong>
             </div>
           </div>
         </div>
 
         {/* Live-style Google reviews */}
         <div className={styles.gReviewsGrid}>
-          {GOOGLE_REVIEWS.map((r) => (
+          {googleReviews.map((r) => (
             <article key={r.name} className={styles.gReviewCard}>
               <div className={styles.gReviewTop}>
                 <div className={styles.gAvatar} style={{ background: r.color }}>{r.initial}</div>
