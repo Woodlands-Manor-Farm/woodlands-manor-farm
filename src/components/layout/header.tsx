@@ -58,7 +58,10 @@ export function Header() {
             width={350}
             height={100}
             priority
-            className={cn("h-12 w-auto transition-all duration-300", scrolled && "h-10")}
+            className={cn(
+              "h-12 w-auto transition-all duration-300 [filter:brightness(0)_invert(1)] drop-shadow-[0_1px_3px_rgba(0,0,0,0.35)]",
+              scrolled && "h-10",
+            )}
           />
         </Link>
 
