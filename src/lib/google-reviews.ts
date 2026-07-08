@@ -67,16 +67,25 @@ export async function getPlacesApiKey(): Promise<string | undefined> {
   // On OpenNext/Cloudflare the secret is on the Worker env, which isn't
   // always mirrored to process.env during RSC rendering — read it from the
   // Cloudflare context first, then fall back to process.env.
+  // Match on a trimmed key name so a stray space in the Cloudflare secret
+  // name (e.g. "GOOGLE_PLACES_API_KEY ") still resolves.
+  const pick = (env: Record<string, unknown> | undefined): string | undefined => {
+    if (!env) return undefined;
+    for (const [k, v] of Object.entries(env)) {
+      if (k.trim() === "GOOGLE_PLACES_API_KEY" && typeof v === "string" && v) return v;
+    }
+    return undefined;
+  };
+
   try {
     const mod = await import("@opennextjs/cloudflare");
-    const env = mod.getCloudflareContext?.()?.env as
-      | { GOOGLE_PLACES_API_KEY?: string }
-      | undefined;
-    if (env?.GOOGLE_PLACES_API_KEY) return env.GOOGLE_PLACES_API_KEY;
+    const env = mod.getCloudflareContext?.()?.env as Record<string, unknown> | undefined;
+    const fromCtx = pick(env);
+    if (fromCtx) return fromCtx;
   } catch {
     // fall through to process.env
   }
-  return process.env.GOOGLE_PLACES_API_KEY;
+  return pick(process.env as Record<string, unknown>);
 }
 
 export async function getGoogleReviews(): Promise<GoogleData | null> {
