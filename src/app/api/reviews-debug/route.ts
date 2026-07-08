@@ -1,49 +1,21 @@
-import { getPlacesApiKey } from "@/lib/google-reviews";
-
-// Temporary diagnostic for the live Google reviews feed. Returns no secrets.
+// Temporary diagnostic for the live Google reviews feed. Returns no secret
+// VALUES — only whether the key is bound and readable, plus env var NAMES.
 export const dynamic = "force-dynamic";
 
 export async function GET() {
-  const key = await getPlacesApiKey();
-  const info: Record<string, unknown> = {
-    hasKey: !!key,
-    keyLength: key ? key.length : 0,
-  };
+  const info: Record<string, unknown> = {};
 
-  if (!key) return Response.json(info);
+  info.processEnvHasKey = !!process.env.GOOGLE_PLACES_API_KEY;
 
   try {
-    const res = await fetch("https://places.googleapis.com/v1/places:searchText", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "X-Goog-Api-Key": key,
-        "X-Goog-FieldMask":
-          "places.displayName,places.rating,places.userRatingCount,places.reviews",
-      },
-      body: JSON.stringify({
-        textQuery: "Woodlands Manor Farm, Woodford, Bude, Cornwall",
-        languageCode: "en",
-      }),
-    });
-    info.status = res.status;
-    const json = (await res.json()) as {
-      places?: Array<{
-        displayName?: { text?: string };
-        rating?: number;
-        userRatingCount?: number;
-        reviews?: unknown[];
-      }>;
-      error?: { message?: string; status?: string };
-    };
-    info.placesFound = json.places?.length ?? 0;
-    info.firstPlace = json.places?.[0]?.displayName?.text ?? null;
-    info.rating = json.places?.[0]?.rating ?? null;
-    info.ratingCount = json.places?.[0]?.userRatingCount ?? null;
-    info.reviewsReturned = json.places?.[0]?.reviews?.length ?? 0;
-    if (json.error) info.googleError = `${json.error.status}: ${json.error.message}`;
+    const mod = await import("@opennextjs/cloudflare");
+    info.hasGetContext = typeof mod.getCloudflareContext === "function";
+    const ctx = mod.getCloudflareContext?.();
+    const env = (ctx?.env ?? undefined) as Record<string, unknown> | undefined;
+    info.ctxEnvKeys = env ? Object.keys(env).slice(0, 60) : null;
+    info.ctxHasKey = !!(env && env.GOOGLE_PLACES_API_KEY);
   } catch (e) {
-    info.exception = String(e);
+    info.ctxError = String(e);
   }
 
   return Response.json(info);
