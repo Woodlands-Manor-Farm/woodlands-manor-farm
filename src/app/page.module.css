@@ -36,10 +36,10 @@
       rgba(74,100,89,0.15) 80%,
       rgba(74,100,89,0.25) 100%),
     linear-gradient(to right,
-      rgba(74,100,89,0.65) 0%,
-      rgba(74,100,89,0.45) 35%,
-      rgba(74,100,89,0.10) 65%,
-      rgba(74,100,89,0)    100%);
+      rgba(40,54,48,0.82) 0%,
+      rgba(40,54,48,0.55) 35%,
+      rgba(40,54,48,0.18) 65%,
+      rgba(40,54,48,0)    100%);
 }
 .heroContent {
   position: relative;
@@ -52,9 +52,10 @@
   font-size: 11px;
   letter-spacing: 4px;
   text-transform: uppercase;
-  color: var(--color-warm-stone);
+  color: #e6ece9;
   margin-bottom: 24px;
-  font-weight: 400;
+  font-weight: 500;
+  text-shadow: 0 1px 6px rgba(20, 30, 25, 0.6);
 }
 .heroHeadline {
   font-family: var(--font-serif);
@@ -63,18 +64,20 @@
   line-height: 1.05;
   margin-bottom: 24px;
   font-weight: 400;
+  text-shadow: 0 2px 14px rgba(20, 30, 25, 0.45);
 }
 .heroHeadline em {
   font-style: italic;
-  color: var(--color-warm-stone);
+  color: #dfe7e2;
 }
 .heroBody {
   font-size: 17px;
-  color: rgba(247,243,238,0.75);
+  color: rgba(247, 244, 239, 0.95);
   line-height: 1.8;
   max-width: 480px;
   margin-bottom: 40px;
   font-weight: 300;
+  text-shadow: 0 1px 8px rgba(20, 30, 25, 0.55);
 }
 .heroCtas {
   display: flex;
@@ -115,7 +118,8 @@
   flex-wrap: wrap;
   font-size: 13px;
   letter-spacing: 0.4px;
-  color: rgba(247, 243, 238, 0.92);
+  color: rgba(247, 243, 238, 0.98);
+  text-shadow: 0 1px 6px rgba(20, 30, 25, 0.55);
 }
 .heroRatingItem {
   display: inline-flex;
