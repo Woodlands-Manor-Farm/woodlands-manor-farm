@@ -63,8 +63,24 @@ function parse(json: PlacesJson): GoogleData | null {
   };
 }
 
+export async function getPlacesApiKey(): Promise<string | undefined> {
+  // On OpenNext/Cloudflare the secret is on the Worker env, which isn't
+  // always mirrored to process.env during RSC rendering — read it from the
+  // Cloudflare context first, then fall back to process.env.
+  try {
+    const mod = await import("@opennextjs/cloudflare");
+    const env = mod.getCloudflareContext?.()?.env as
+      | { GOOGLE_PLACES_API_KEY?: string }
+      | undefined;
+    if (env?.GOOGLE_PLACES_API_KEY) return env.GOOGLE_PLACES_API_KEY;
+  } catch {
+    // fall through to process.env
+  }
+  return process.env.GOOGLE_PLACES_API_KEY;
+}
+
 export async function getGoogleReviews(): Promise<GoogleData | null> {
-  const key = process.env.GOOGLE_PLACES_API_KEY;
+  const key = await getPlacesApiKey();
   if (!key) return null;
 
   const cacheKey = new Request("https://cache.internal/google-reviews-v1");
