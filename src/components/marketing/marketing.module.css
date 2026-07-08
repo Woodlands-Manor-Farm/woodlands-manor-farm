@@ -555,3 +555,40 @@
   transition: border-color 0.2s, box-shadow 0.2s;
 }
 .gAllBtn:hover { border-color: var(--color-deep-green); box-shadow: 0 2px 8px rgba(30,36,34,0.08); }
+
+/* Platform summary row (reviews page) */
+.platformRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
+  flex-wrap: wrap;
+  max-width: 640px;
+  margin: 20px auto 0;
+  padding: 18px 24px;
+}
+.platformLabel {
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--color-text-light);
+}
+.platformItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.platformLogoLg { height: 52px; width: auto; object-fit: contain; }
+.platformLogoTa { height: 22px; width: auto; object-fit: contain; }
+.platformScore {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--color-text-dark);
+  line-height: 1.1;
+}
+.platformScore span { color: #e8b923; }
+.platformSub { font-size: 11px; color: var(--color-text-light); margin-top: 2px; }
+.platformDivider { width: 1px; height: 34px; background: rgba(127,151,137,0.25); }
+@media (max-width: 560px) {
+  .platformDivider { display: none; }
+}
