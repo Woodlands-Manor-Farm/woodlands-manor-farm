@@ -199,6 +199,26 @@ export default async function Page() {
           </div>
         </div>
 
+        {/* Also loved on Airbnb & Tripadvisor */}
+        <div className={styles.platformRow}>
+          <span className={styles.platformLabel}>Also loved on</span>
+          <div className={styles.platformItem}>
+            <Image src="/images/awards/airbnb-superhost.png" alt="Airbnb Superhost" width={64} height={64} className={styles.platformLogoLg} />
+            <div>
+              <div className={styles.platformScore}>4.96 <span>★</span></div>
+              <div className={styles.platformSub}>Superhost · Guest Favourite</div>
+            </div>
+          </div>
+          <div className={styles.platformDivider} />
+          <div className={styles.platformItem}>
+            <Image src="/images/awards/tripadvisor.png" alt="Tripadvisor" width={120} height={28} className={styles.platformLogoTa} />
+            <div>
+              <div className={styles.platformScore}>★★★★★</div>
+              <div className={styles.platformSub}>Rated Excellent</div>
+            </div>
+          </div>
+        </div>
+
         {/* Live-style Google reviews */}
         <div className={styles.gReviewsGrid}>
           {googleReviews.map((r) => (
