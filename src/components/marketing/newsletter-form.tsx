@@ -62,6 +62,14 @@ export function NewsletterForm({
     const form = e.currentTarget;
     const email = (form.elements.namedItem("email") as HTMLInputElement).value.trim();
     const firstName = (form.elements.namedItem("firstName") as HTMLInputElement).value.trim();
+    const honeypot = (form.elements.namedItem("website") as HTMLInputElement).value;
+
+    // Humans never see the honeypot field; a filled value means a spam bot.
+    // Show the success state so the bot moves on, but send nothing.
+    if (honeypot) {
+      setStatus("success");
+      return;
+    }
 
     // Field names for both providers: Mailchimp reads EMAIL/FNAME,
     // Brevo reads EMAIL/FIRSTNAME; each ignores the other's extras.
@@ -132,6 +140,18 @@ export function NewsletterForm({
 
   return (
     <form onSubmit={handleSubmit} className="flex flex-col gap-3">
+      {/* Honeypot: hidden from people (and screen readers), tempting to bots. */}
+      <div aria-hidden="true" className="absolute -left-[9999px] h-0 w-0 overflow-hidden">
+        <label htmlFor={`${variant}-newsletter-website`}>Leave this field empty</label>
+        <input
+          id={`${variant}-newsletter-website`}
+          name="website"
+          type="text"
+          tabIndex={-1}
+          autoComplete="off"
+          defaultValue=""
+        />
+      </div>
       <div className={clsx("flex flex-col gap-3", popup && "sm:flex-row")}>
         <label className="sr-only" htmlFor={`${variant}-newsletter-name`}>
           First name
