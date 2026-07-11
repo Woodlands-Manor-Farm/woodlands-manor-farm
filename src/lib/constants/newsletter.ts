@@ -30,7 +30,7 @@ export const NEWSLETTER: {
 } = {
   formActionUrl:
     "https://85327b1a.sibforms.com/serve/MUIFACuLdg6JxeeKsHa2AMxDNeOZw0DKPPr879r-k06EhDzNXj2oS1-vugqK7Eqa6UOz-pjnPWbGeE3_cLyjLqVEmb4hSjn8od4eRkIQTHRV3AVmdGVu7zD8F3uN9hAWfWwl8F0gDuy_Sqw3On0ccYi8H4nqU86Tr_4u4C1mPiWiE3588sBUb4rw7TzM2nb79baNnRnSetPrd_yOZA==",
-  brevoConversationsId: "",
+  brevoConversationsId: "6a52a5f83b1e1b74600d5343",
   popupDelayMs: 8000,
   dismissCooldownDays: 30,
 };
