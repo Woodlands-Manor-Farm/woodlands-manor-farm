@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { NewsletterForm } from "@/components/marketing/newsletter-form";
+import { NEWSLETTER } from "@/lib/constants/newsletter";
 import { SITE } from "@/lib/constants/seo";
 
 const STAY_LINKS = [
@@ -138,6 +140,23 @@ export function Footer() {
           </ul>
         </div>
       </div>
+
+      {NEWSLETTER.formActionUrl && (
+        <div className="mx-auto grid max-w-6xl gap-8 border-b border-[rgba(247,243,238,0.1)] py-12 md:grid-cols-2 md:items-center">
+          <div>
+            <h4 className="mb-3 text-[11px] uppercase tracking-[0.25em] text-[var(--color-warm-stone)]">
+              Last-minute offers &amp; farm news
+            </h4>
+            <p className="max-w-sm text-[13px] font-light leading-6 text-[rgba(247,243,238,0.45)]">
+              Late-availability deals and a short monthly newsletter from the farm. No spam —
+              unsubscribe any time.
+            </p>
+          </div>
+          <div className="max-w-md">
+            <NewsletterForm variant="footer" />
+          </div>
+        </div>
+      )}
 
       <div className="mx-auto mt-10 flex max-w-6xl flex-col items-start justify-between gap-3 text-xs text-[rgba(247,243,238,0.3)] md:flex-row md:items-center">
         <span>© {year} Woodlands Manor Farm. All rights reserved.</span>
