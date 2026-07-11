@@ -65,11 +65,14 @@ export function NewsletterForm({
 
     // Field names for both providers: Mailchimp reads EMAIL/FNAME,
     // Brevo reads EMAIL/FIRSTNAME; each ignores the other's extras.
+    // email_address_check is Brevo's honeypot — must be sent empty.
     const params = new URLSearchParams({
       EMAIL: email,
       FNAME: firstName,
       FIRSTNAME: firstName,
       email,
+      email_address_check: "",
+      locale: "en",
     });
 
     setStatus("sending");
