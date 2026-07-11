@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Jost, Playfair_Display } from "next/font/google";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
+import { ChatWidget } from "@/components/marketing/chat-widget";
+import { NewsletterPopup } from "@/components/marketing/newsletter-popup";
 import { StructuredData } from "@/components/seo/structured-data";
 import { SITE } from "@/lib/constants/seo";
 import "./globals.css";
@@ -62,6 +64,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Header />
         <main>{children}</main>
         <Footer />
+        <NewsletterPopup />
+        <ChatWidget />
       </body>
     </html>
   );
