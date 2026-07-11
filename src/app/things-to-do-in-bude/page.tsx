@@ -75,8 +75,8 @@ export default function Page() {
   return (
     <>
       <InfoHero
-        image="/images/blog-template/dcf926b3c1174be3.jpg"
-        alt="Things to do in Bude"
+        image="/images/bude/bude-sea-pool.jpg"
+        alt="Bude sea pool below the cliffs at Summerleaze Beach"
         eyebrow="Woodlands Manor Farm · Bude, Cornwall"
         title={
           <>

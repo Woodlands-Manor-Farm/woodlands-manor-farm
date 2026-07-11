@@ -7,8 +7,8 @@ import { BOOK_HREF } from "@/lib/constants/nav";
 
 const EXPERIENCES = [
   {
-    img: "/images/home/57c6f3124406e0a5.jpg",
-    alt: "Feeding the animals at Woodlands",
+    img: "/images/farm/feeding-goats.jpg",
+    alt: "Children feeding the pygmy goats at Woodlands",
     type: "Free with every stay",
     name: "Feed the Animals tour",
     body: "Ruth runs a guided tour every Sunday and Wednesday morning — meet the alpacas, ponies, pigs, sheep, rabbits and chickens. The most-mentioned highlight in our guest reviews.",
@@ -23,15 +23,15 @@ const EXPERIENCES = [
     detail: "8am–8pm daily · Free for guests",
   },
   {
-    img: "/images/home/3c62af48f5d7d88b.jpg",
-    alt: "Children playing in the meadow",
+    img: "/images/farm/lulu-pony.jpg",
+    alt: "Grooming Lulu the mini Shetland pony",
     type: "Outdoors",
     name: "Pony experience",
     body: "An hour with Lulu, the gentlest pony on the farm — grooming, leading and brushing. Brilliant for children aged 3+. Costs £35, runs in school holidays, book at least a week ahead.",
     detail: "School holidays · From £35",
   },
   {
-    img: "/images/home/53289620864625e8.jpg",
+    img: "/images/farm/bluebell-woodland.jpg",
     alt: "Bluebell woodland walk",
     type: "Spring only",
     name: "Bluebell walk & cream tea",

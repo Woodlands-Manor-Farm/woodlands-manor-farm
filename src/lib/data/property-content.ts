@@ -52,14 +52,15 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "A large traditional Grade II-listed farmhouse, listed as 17th Century or earlier, retaining magnificent original features — low lintels, slate floors, and stone fireplaces. Three lounges, a dining room, a four-oven Aga kitchen, conservatory, and six characterful bedrooms make this our most loved and most requested property.",
     gallery: [
-      { src: "/images/cottages/812784261e6d52d7.jpg", alt: "Stone lounge with beams and fireplace" },
-      { src: "/images/the-manor-house/67da4c25a4e4f055.jpg", alt: "Manor House conservatory kitchen" },
-      { src: "/images/home/ec8c89b6a5ac2c67.jpg", alt: "Conservatory with summer flowers" },
-      { src: "/images/the-manor-house/9dd7637b6fc73c5e.jpg", alt: "Bluebell bedroom with fireplace" },
-      { src: "/images/the-manor-house/0d83a0c4da301840.jpg", alt: "Front bedroom with original beams" },
-      { src: "/images/the-manor-house/a7809ad1acb99a01.jpg", alt: "Dining room set for twelve" },
-      { src: "/images/the-manor-house/5f1b71cd596a600d.jpg", alt: "Manor House bathroom with roll-top bath" },
-      { src: "/images/the-manor-house/44ce64a67274246a.jpg", alt: "Manor House exterior and garden" },
+      { src: "/images/the-manor-house/manor-exterior-garden.jpg", alt: "The Manor House from the garden — 17th-century stone farmhouse" },
+      { src: "/images/the-manor-house/manor-lounge.jpg", alt: "Manor House sitting room with stone fireplace" },
+      { src: "/images/the-manor-house/manor-lounge-2.jpg", alt: "Second lounge at the Manor House" },
+      { src: "/images/the-manor-house/manor-dining-room.jpg", alt: "Dining room with the table set for twelve" },
+      { src: "/images/the-manor-house/manor-conservatory.jpg", alt: "Conservatory with summer flowers" },
+      { src: "/images/the-manor-house/manor-bedroom-bluebell.jpg", alt: "Bluebell bedroom — super king-size double" },
+      { src: "/images/the-manor-house/manor-bedroom-front.jpg", alt: "Front double bedroom with original beams" },
+      { src: "/images/the-manor-house/manor-bathroom.jpg", alt: "Manor House bathroom" },
+      { src: "/images/the-manor-house/manor-conservatory-2.jpg", alt: "Conservatory seating — a sun trap all year" },
     ],
     stats: { guests: 12, bedrooms: 6, bathrooms: 3, dogs: "Yes" },
     amenities: [
@@ -142,12 +143,9 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "A characterful, comfortable cottage with a beautiful stone fireplace, beamed ceilings, and two separate lounges that give plenty of breathing room when the family wants to spread out. Direct access to the courtyard garden, with the indoor pool just a few steps away.",
     gallery: [
+      { src: "/images/rose-cottage/rose-lounge.jpg", alt: "Rose Cottage lounge with beamed ceiling" },
       { src: "/images/cottages/32742e1c3f3de7dd.jpg", alt: "Rose Cottage stone fireplace and beamed lounge" },
-      { src: "/images/cottages/7275ce59f132f14c.jpg", alt: "Rose Cottage exterior with roses" },
-      { src: "/images/the-coach-house/aac208ec0cdf465f.jpg", alt: "Rose Cottage kitchen" },
-      { src: "/images/the-coach-house/c37579d9656f4a47.jpg", alt: "Rose Cottage bedroom" },
-      { src: "/images/the-coach-house/edfaafc55db5e90c.jpg", alt: "Rose Cottage second lounge" },
-      { src: "/images/the-coach-house/ef538d16f0008242.jpg", alt: "Rose Cottage dining" },
+      { src: "/images/rose-cottage/rose-exterior-dining.jpg", alt: "Outdoor dining at Rose Cottage" },
     ],
     stats: { guests: 8, bedrooms: 4, bathrooms: 2, dogs: "Yes" },
     amenities: [
@@ -207,11 +205,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       "Light-filled rooms, a private patio overlooking the meadow, and a layout that just works for families. Three bedrooms upstairs, a generous kitchen-diner, and your own slice of the farmyard view from the breakfast table.",
     gallery: [
       { src: "/images/jasmine-cottage/125d965f9db47fa9.jpg", alt: "Jasmine Cottage living room" },
-      { src: "/images/cottages/7275ce59f132f14c.jpg", alt: "Jasmine Cottage exterior" },
-      { src: "/images/the-coach-house/aac208ec0cdf465f.jpg", alt: "Jasmine Cottage kitchen" },
-      { src: "/images/the-coach-house/c37579d9656f4a47.jpg", alt: "Jasmine Cottage bedroom" },
-      { src: "/images/the-coach-house/edfaafc55db5e90c.jpg", alt: "Jasmine Cottage dining" },
-      { src: "/images/the-coach-house/ef538d16f0008242.jpg", alt: "Jasmine Cottage bathroom" },
+      { src: "/images/jasmine-cottage/jasmine-kitchen-table.jpg", alt: "Jasmine Cottage kitchen-diner with farmhouse table" },
+      { src: "/images/jasmine-cottage/jasmine-kitchen-lounge.jpg", alt: "Open-plan kitchen and lounge at Jasmine Cottage" },
     ],
     stats: { guests: 6, bedrooms: 3, bathrooms: 2, dogs: "Yes" },
     amenities: [
@@ -266,11 +261,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "Thick stone walls, a snug woodburner-warmed lounge, and a country-style kitchen — Lavender is the cottage that guests come back to year after year. Perfect for couples or a small family, with everything you need on the farm a short walk away.",
     gallery: [
-      { src: "/images/the-coach-house/aac208ec0cdf465f.jpg", alt: "Lavender Cottage kitchen" },
-      { src: "/images/the-coach-house/c37579d9656f4a47.jpg", alt: "Lavender Cottage lounge" },
-      { src: "/images/the-coach-house/edfaafc55db5e90c.jpg", alt: "Lavender Cottage bedroom" },
-      { src: "/images/the-coach-house/ef538d16f0008242.jpg", alt: "Lavender Cottage exterior" },
-      { src: "/images/cottages/7275ce59f132f14c.jpg", alt: "Lavender Cottage garden" },
+      { src: "/images/lavender-cottage/lavender-lounge.jpg", alt: "Lavender Cottage lounge with wood burner" },
+      { src: "/images/cottages/69d76075f1839b61.jpg", alt: "Lavender Cottage" },
     ],
     stats: { guests: 4, bedrooms: 2, bathrooms: 1, dogs: "Yes" },
     amenities: [
@@ -323,14 +315,16 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "An ivy-clad Cornish stone cottage with vaulted beams, a super-king bedroom, and a private garden. Built for couples or a small family wanting peace and quiet, with everything the farm has to offer just a stroll across the courtyard.",
     gallery: [
-      { src: "/images/cottages/7da27dbd79d1c7d5.jpg", alt: "Coach House — ivy-clad Cornish stone" },
+      { src: "/images/the-coach-house/coach-exterior.jpg", alt: "The Coach House — ivy-clad Cornish stone exterior" },
       { src: "/images/the-coach-house/a1295bc7fa8049b6.jpg", alt: "Coach House lounge with vaulted beams" },
+      { src: "/images/the-coach-house/coach-bedroom.jpg", alt: "Coach House super-king bedroom" },
+      { src: "/images/the-coach-house/coach-bedroom-window.jpg", alt: "Coach House bedroom window seat" },
       { src: "/images/the-coach-house/aac208ec0cdf465f.jpg", alt: "Coach House kitchen" },
       { src: "/images/the-coach-house/b61c34915125b31f.jpg", alt: "Coach House bedroom" },
       { src: "/images/the-coach-house/b7ce2cbb907a7186.jpg", alt: "Coach House bathroom" },
       { src: "/images/the-coach-house/c37579d9656f4a47.jpg", alt: "Coach House dining" },
       { src: "/images/the-coach-house/edfaafc55db5e90c.jpg", alt: "Coach House garden" },
-      { src: "/images/the-coach-house/ef538d16f0008242.jpg", alt: "Coach House exterior" },
+      { src: "/images/cottages/7da27dbd79d1c7d5.jpg", alt: "Coach House in summer" },
     ],
     stats: { guests: 2, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
@@ -384,12 +378,11 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "A bright, airy single-storey conversion with an arched front door, freestanding bath, and views down the valley. Fully accessible (no stairs), with two double bedrooms and an open-plan living space that's flooded with light.",
     gallery: [
+      { src: "/images/the-stables/stables-exterior-pond.jpg", alt: "The Stables — single-storey stone conversion overlooking the pond" },
       { src: "/images/cottages/b2a31f0f839f8fce.jpg", alt: "The Stables — light open-plan lounge with arched door" },
+      { src: "/images/the-stables/stables-lounge.jpg", alt: "The Stables lounge" },
       { src: "/images/the-stables/a99e1cc416aefd1d.jpg", alt: "The Stables freestanding bath" },
-      { src: "/images/the-coach-house/aac208ec0cdf465f.jpg", alt: "The Stables kitchen" },
-      { src: "/images/the-coach-house/c37579d9656f4a47.jpg", alt: "The Stables bedroom" },
-      { src: "/images/the-coach-house/edfaafc55db5e90c.jpg", alt: "The Stables dining" },
-      { src: "/images/the-coach-house/ef538d16f0008242.jpg", alt: "The Stables exterior" },
+      { src: "/images/the-stables/stables-bathroom.jpg", alt: "Master bathroom at The Stables" },
     ],
     stats: { guests: 4, bedrooms: 2, bathrooms: 1, dogs: "Yes" },
     amenities: [
@@ -446,10 +439,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "Our most intimate cottage — a snug, characterful one-bedroom retreat ideal for couples. Stone walls, a roll-top bath, and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
     gallery: [
-      { src: "/images/the-coach-house/aac208ec0cdf465f.jpg", alt: "Honeysuckle Cottage lounge" },
-      { src: "/images/the-coach-house/c37579d9656f4a47.jpg", alt: "Honeysuckle Cottage bedroom" },
-      { src: "/images/the-coach-house/edfaafc55db5e90c.jpg", alt: "Honeysuckle Cottage kitchen" },
-      { src: "/images/the-coach-house/ef538d16f0008242.jpg", alt: "Honeysuckle Cottage bathroom" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg", alt: "Honeysuckle Cottage open-plan kitchen and lounge" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-bedroom.jpg", alt: "Honeysuckle Cottage king-size bedroom" },
       { src: "/images/cottages/7275ce59f132f14c.jpg", alt: "Honeysuckle Cottage exterior" },
     ],
     stats: { guests: 2, bedrooms: 1, bathrooms: 1, dogs: "Yes" },

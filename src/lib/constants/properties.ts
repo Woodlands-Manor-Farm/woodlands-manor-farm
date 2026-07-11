@@ -27,7 +27,7 @@ export const PROPERTIES: Property[] = [
     shortDescription:
       "The original 17th-century farmhouse — six bedrooms, sleeps twelve, perfect for large family gatherings.",
     href: "/the-manor-house/",
-    heroImage: "/images/cottages/812784261e6d52d7.jpg",
+    heroImage: "/images/the-manor-house/manor-exterior-garden.jpg",
     superControlId: "563129",
   },
   {
@@ -38,7 +38,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 4,
     shortDescription: "Two-lounge converted barn with stone fireplace, sleeps 8.",
     href: "/rose-cottage/",
-    heroImage: "/images/cottages/32742e1c3f3de7dd.jpg",
+    heroImage: "/images/rose-cottage/rose-lounge.jpg",
     superControlId: "562739",
   },
   {
@@ -60,7 +60,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 2,
     shortDescription: "Cosy stone cottage with woodburner and country-style kitchen.",
     href: "/lavender-cottage/",
-    heroImage: "/images/cottages/69d76075f1839b61.jpg",
+    heroImage: "/images/lavender-cottage/lavender-lounge.jpg",
     superControlId: "577258",
   },
   {
@@ -71,7 +71,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 1,
     shortDescription: "Ivy-clad couples' retreat with vaulted beams and super-king bed.",
     href: "/the-coach-house/",
-    heroImage: "/images/cottages/7da27dbd79d1c7d5.jpg",
+    heroImage: "/images/the-coach-house/coach-exterior.jpg",
     superControlId: "565805",
   },
   {
@@ -82,7 +82,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 2,
     shortDescription: "Single-storey conversion with valley views and freestanding bath.",
     href: "/the-stables/",
-    heroImage: "/images/cottages/b2a31f0f839f8fce.jpg",
+    heroImage: "/images/the-stables/stables-exterior-pond.jpg",
     superControlId: "565803",
   },
   {
@@ -93,7 +93,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 1,
     shortDescription: "Intimate one-bedroom cottage ideal for couples.",
     href: "/honeysuckle-cottage/",
-    heroImage: "/images/cottages/7275ce59f132f14c.jpg",
+    heroImage: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg",
     superControlId: "565804",
   },
   {
