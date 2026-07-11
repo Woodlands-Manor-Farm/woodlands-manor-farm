@@ -18,8 +18,8 @@ export default function Page() {
   return (
     <>
       <InfoHero
-        image="/images/home/c2909c0800e4042d.jpg"
-        alt="On the farm at Woodlands Manor Farm"
+        image="/images/farm/meadow-woodlands-sign.jpg"
+        alt="The Woodlands sign in the meadow at Woodlands Manor Farm"
         eyebrow="Woodlands Manor Farm · On the Farm"
         title={
           <>

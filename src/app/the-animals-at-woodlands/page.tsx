@@ -20,7 +20,7 @@ const ANIMALS = [
     name: "Lulu",
     species: "Mini Shetland Pony",
     bio: "The kindest, sweetest mini pony you will ever meet. She never tires of meeting little people, loves to be groomed and made a fuss of. Lulu loves the summer season — she particularly enjoys the pony experience sessions, where she gets to be made extremely beautiful and go on walks with the children.",
-    img: "/images/animals/d2e104531205804a.jpg",
+    img: "/images/farm/lulu-pony.jpg",
   },
   {
     name: "Merlin",
@@ -32,7 +32,7 @@ const ANIMALS = [
     name: "Zap & Sparky",
     species: "Pygmy Goats",
     bio: "Often seen playing chase in the field. They love the feed the animals routine with guests, where they get lots of fuss and are fed by hand. Pure entertainment — watch them tackle the adventure course with treats for motivation.",
-    img: "/images/animals/d2e104531205804a.jpg",
+    img: "/images/farm/feeding-goats.jpg",
   },
   {
     name: "Napoleon, Henry & Erebus",
@@ -44,13 +44,13 @@ const ANIMALS = [
     name: "Lucas & Layla",
     species: "Kune Kune Pigs",
     bio: "Brother and sister — firm favourites on the feed the animals rounds. Playful, kind and love a tummy tickle or a mud bath in summer. Lucas is very good at escaping his pen to find longer grass, while Layla stays behind and enjoys the peace and quiet.",
-    img: "/images/animals/37f845543e54531f.jpg",
+    img: "/images/farm/feeding-pigs.jpg",
   },
   {
     name: "Cutie Pie, Little Z, Twinkle & Rosario",
     species: "Sheep",
     bio: "Rosario is a survivor — hand-reared after a difficult birth and now more like a dog than a sheep. Cutie Pie was the cutest of the 2022 lambs. Little Z has always been the odd one out — we love her for it.",
-    img: "/images/animals/d2e104531205804a.jpg",
+    img: "/images/farm/feeding-sheep.jpg",
   },
   {
     name: "Ralf & Molly",

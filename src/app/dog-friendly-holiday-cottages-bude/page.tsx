@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: "Dog Friendly Holiday Cottages in Bude, Cornwall — Woodlands Manor Farm",
     description:
       "All nine cottages and yurts welcome well-behaved dogs. 15 acres of off-lead woodland, open meadow, and dog-friendly beaches on the doorstep.",
-    images: ["/images/home/53289620864625e8.jpg"],
+    images: ["/images/farm/bluebell-woodland.jpg"],
   },
 };
 
@@ -24,7 +24,7 @@ export default function DogFriendlyPage() {
   return (
     <>
       <InfoHero
-        image="/images/home/53289620864625e8.jpg"
+        image="/images/farm/bluebell-woodland.jpg"
         alt="Bluebell woodland walk at Woodlands Manor Farm — 15 acres of off-lead dog walking"
         eyebrow="Woodlands Manor Farm · Bude, Cornwall"
         title={
