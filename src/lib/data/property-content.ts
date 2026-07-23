@@ -493,13 +493,17 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "An authentic hand-crafted Mongolian yurt in a secluded corner of the farm, looking down over the pond and woodland. Sleeps four in a kingsize bed and two singles — all made up and waiting with luxury linen and soft white towels. Your own private kitchen-diner and bathroom cabin, a high-end wood burner that keeps you toasty even in winter, and your own BBQ and picnic bench facing the meadow. Full run of the farm too — heated indoor pool, feed the animals, games room and woodland walks.",
     gallery: [
-      { src: "/images/budhyn-yurt/budhyn-exterior-hero.jpg", alt: "Budhyn yurt exterior — authentic Mongolian yurt in the meadow at Woodlands Manor Farm, Bude" },
-      { src: "/images/budhyn-yurt/budhyn-bed-hero.jpg", alt: "Budhyn yurt kingsize bed made up with luxury linen" },
-      { src: "/images/budhyn-yurt/budhyn-interior-wide.jpg", alt: "Inside Budhyn yurt — wood burner and beds" },
+      { src: "/images/budhyn-yurt/budhyn-exterior-hero.jpg", alt: "Budhyn yurt exterior — authentic Mongolian yurt with green cover and wood-burner flue at Woodlands Manor Farm, Bude" },
+      { src: "/images/budhyn-yurt/budhyn-interior-wide.jpg", alt: "Inside Budhyn yurt — wood burner beneath the crown skylight with a kingsize and two single beds" },
+      { src: "/images/budhyn-yurt/budhyn-bed-hero.jpg", alt: "Budhyn yurt kingsize bed made up with luxury linen and cushions" },
+      { src: "/images/budhyn-yurt/budhyn-single-bed.jpg", alt: "Two single beds against the yurt lattice at Budhyn" },
+      { src: "/images/budhyn-yurt/budhyn-interior.jpg", alt: "Budhyn yurt interior from the side — wood burner and beds" },
       { src: "/images/budhyn-yurt/budhyn-woodburner.jpg", alt: "High-end wood burner inside Budhyn yurt" },
-      { src: "/images/budhyn-yurt/budhyn-kitchen.jpg", alt: "Private kitchen cabin at Budhyn yurt" },
+      { src: "/images/budhyn-yurt/budhyn-kitchen.jpg", alt: "Private kitchen and dining cabin at Budhyn yurt" },
       { src: "/images/budhyn-yurt/budhyn-dining-view.jpg", alt: "Dining cabin at Budhyn looking out to the yurt and meadow" },
-      { src: "/images/budhyn-yurt/budhyn-bathroom.jpg", alt: "Private bathroom cabin at Budhyn yurt" },
+      { src: "/images/budhyn-yurt/budhyn-dining.jpg", alt: "Budhyn kitchen cabin set among the woodland" },
+      { src: "/images/budhyn-yurt/budhyn-bathroom.jpg", alt: "Private bathroom cabin at Budhyn yurt with walk-in rainfall shower" },
+      { src: "/images/budhyn-yurt/budhyn-washroom.jpg", alt: "Wash cabin at Budhyn yurt with sink and shower beyond" },
     ],
     stats: { guests: 4, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
