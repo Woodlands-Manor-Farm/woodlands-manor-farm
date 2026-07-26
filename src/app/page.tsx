@@ -143,7 +143,7 @@ const REVIEWS = [
 const AWARD_LOGOS = [
   { src: "/images/awards/booking-awards.png", alt: "Booking.com Traveller Review Awards 2026", w: 168, h: 52 },
   { src: "/images/awards/cornwall-tourism-awards.png", alt: "Cornwall Tourism Awards 2025/26 Commended", w: 50, h: 70 },
-  { src: "/images/awards/airbnb-superhost.png", alt: "Airbnb Superhost at Woodlands Manor Farm", w: 70, h: 70 },
+  { src: "/images/awards/airbnb-superhost.png", alt: "Airbnb Superhost at Woodlands Manor Farm", w: 70, h: 70, big: true },
   { src: "/images/awards/pasc-member.png", alt: "PASC Member — Professional Association of Self-Caterers", w: 70, h: 70 },
   { src: "/images/awards/bude-way-accredited.png", alt: "The Bude Way Accredited", w: 88, h: 68 },
 ];
@@ -306,7 +306,7 @@ export default function HomePage() {
             alt={a.alt}
             width={a.w}
             height={a.h}
-            className={styles.awardLogo}
+            className={a.big ? styles.awardLogoAirbnb : styles.awardLogo}
           />
         ))}
       </div>
