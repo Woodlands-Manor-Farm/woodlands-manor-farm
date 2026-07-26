@@ -267,14 +267,21 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Cosy stone cottage",
     subtitle: "The cosy stone retreat — sleeps 4 + cot",
     description:
-      "Thick stone walls, a snug woodburner-warmed lounge, and a country-style kitchen — Lavender is the cottage that guests come back to year after year. Perfect for couples or a small family, with everything you need on the farm a short walk away.",
+      "Thick stone walls, a bright and comfortable lounge, and a country-style kitchen — Lavender is the cottage that guests come back to year after year. Perfect for couples or a small family, with everything you need on the farm a short walk away.",
     gallery: [
-      { src: "/images/lavender-cottage/lavender-lounge.jpg", alt: "Lavender Cottage lounge with wood burner" },
-      { src: "/images/cottages/69d76075f1839b61.jpg", alt: "Lavender Cottage" },
+      { src: "/images/lavender-cottage/lavender-exterior.jpg", alt: "Lavender Cottage exterior — stone cottage with the Lavender Cottage sign at Woodlands Manor Farm, Bude" },
+      { src: "/images/lavender-cottage/lavender-lounge.jpg", alt: "Lavender Cottage open-plan lounge with teal sofa and dining table" },
+      { src: "/images/lavender-cottage/lavender-kitchen-diner.jpg", alt: "Lavender Cottage kitchen-diner with country-style units" },
+      { src: "/images/lavender-cottage/lavender-kitchen.jpg", alt: "Lavender Cottage kitchen with electric oven and hob" },
+      { src: "/images/lavender-cottage/lavender-bedroom-master.jpg", alt: "Master bedroom at Lavender Cottage" },
+      { src: "/images/lavender-cottage/lavender-bedroom-double.jpg", alt: "Double bedroom at Lavender Cottage" },
+      { src: "/images/lavender-cottage/lavender-twin.jpg", alt: "Twin bedroom at Lavender Cottage" },
+      { src: "/images/lavender-cottage/lavender-bathroom.jpg", alt: "Lavender Cottage bathroom with corner shower" },
+      { src: "/images/lavender-cottage/lavender-ensuite.jpg", alt: "En-suite at Lavender Cottage with colourful tiled bath" },
+      { src: "/images/lavender-cottage/lavender-exterior-2.jpg", alt: "Lavender Cottage stone frontage with blue doors" },
     ],
     stats: { guests: 4, bedrooms: 2, bathrooms: 1, dogs: "Yes" },
     amenities: [
-      "Wood burner",
       "Country kitchen",
       "Stone walls",
       "Indoor pool access",
@@ -291,13 +298,13 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
         author: "Emma M. — Lavender, 2024",
       },
     ],
-    facilityChips: SHARED_FACILITIES,
+    facilityChips: SHARED_FACILITIES.filter((f) => f.label !== "Wood burner"),
     detailColumns: [
       {
         title: "Ground floor",
         items: [
           "Country-style kitchen with electric oven, dishwasher, fridge/freezer",
-          "Cosy lounge with wood burner & Smart TV",
+          "Cosy lounge with Smart TV",
           "Dining table seats 4",
           "Cloakroom WC",
         ],
