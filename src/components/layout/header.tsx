@@ -4,12 +4,30 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { BOOK_HREF } from "@/lib/constants/nav";
+import { COTTAGES, YURTS } from "@/lib/constants/properties";
 import { SITE } from "@/lib/constants/seo";
 import { cn } from "@/lib/utils";
 
-const DRAWER_LINKS = [
-  { num: "01", label: "Cottages", href: "/bude-holiday-cottages/" },
-  { num: "02", label: "Yurts", href: "/yurts/" },
+type DrawerLink = {
+  num: string;
+  label: string;
+  href: string;
+  children?: { label: string; href: string }[];
+};
+
+const DRAWER_LINKS: DrawerLink[] = [
+  {
+    num: "01",
+    label: "Cottages",
+    href: "/bude-holiday-cottages/",
+    children: COTTAGES.map((c) => ({ label: c.name, href: c.href })),
+  },
+  {
+    num: "02",
+    label: "Yurts",
+    href: "/yurts/",
+    children: YURTS.map((y) => ({ label: y.name, href: y.href })),
+  },
   { num: "03", label: "Dog Friendly", href: "/dog-friendly-holiday-cottages-bude/" },
   { num: "04", label: "Experiences", href: "/experiences-weddings-events/" },
   { num: "05", label: "About", href: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
@@ -137,17 +155,36 @@ export function Header() {
 
         <nav className="flex flex-1 flex-col py-2">
           {DRAWER_LINKS.map((link) => (
-            <Link
+            <div
               key={link.href}
-              href={link.href}
-              onClick={() => setOpen(false)}
-              className="group flex items-baseline gap-4 border-b border-[rgba(247,243,238,0.05)] px-10 py-[15px] font-serif text-xl text-[rgba(247,243,238,0.6)] transition-all duration-200 hover:pl-12 hover:text-[#F7F4EF]"
+              className="border-b border-[rgba(247,243,238,0.05)]"
             >
-              <span className="min-w-[18px] font-sans text-[10px] tracking-[0.18em] text-[var(--color-violet)]">
-                {link.num}
-              </span>
-              {link.label}
-            </Link>
+              <Link
+                href={link.href}
+                onClick={() => setOpen(false)}
+                className="group flex items-baseline gap-4 px-10 py-[15px] font-serif text-xl text-[rgba(247,243,238,0.6)] transition-all duration-200 hover:pl-12 hover:text-[#F7F4EF]"
+              >
+                <span className="min-w-[18px] font-sans text-[10px] tracking-[0.18em] text-[var(--color-violet)]">
+                  {link.num}
+                </span>
+                {link.label}
+              </Link>
+              {link.children && (
+                <ul className="pb-3 pl-[72px] pr-10">
+                  {link.children.map((child) => (
+                    <li key={child.href}>
+                      <Link
+                        href={child.href}
+                        onClick={() => setOpen(false)}
+                        className="block py-[7px] font-sans text-[14px] font-light text-[rgba(247,243,238,0.45)] transition-colors duration-200 hover:text-[#F7F4EF]"
+                      >
+                        {child.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
           ))}
         </nav>
 
