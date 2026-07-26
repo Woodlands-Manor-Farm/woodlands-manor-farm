@@ -212,9 +212,18 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "Light-filled rooms, a private patio overlooking the meadow, and a layout that just works for families. Three bedrooms upstairs, a generous kitchen-diner, and your own slice of the farmyard view from the breakfast table.",
     gallery: [
-      { src: "/images/jasmine-cottage/125d965f9db47fa9.jpg", alt: "Jasmine Cottage living room" },
-      { src: "/images/jasmine-cottage/jasmine-kitchen-table.jpg", alt: "Jasmine Cottage kitchen-diner with farmhouse table" },
-      { src: "/images/jasmine-cottage/jasmine-kitchen-lounge.jpg", alt: "Open-plan kitchen and lounge at Jasmine Cottage" },
+      { src: "/images/jasmine-cottage/jasmine-exterior.jpg", alt: "Jasmine Cottage exterior — stone barn conversion at Woodlands Manor Farm, Bude" },
+      { src: "/images/jasmine-cottage/jasmine-lounge.jpg", alt: "Open-plan lounge and dining at Jasmine Cottage with stone fireplace" },
+      { src: "/images/jasmine-cottage/jasmine-lounge-fire.jpg", alt: "Jasmine Cottage lounge with wood burner and grey sofa" },
+      { src: "/images/jasmine-cottage/jasmine-dining.jpg", alt: "Jasmine Cottage dining table set beneath the windows" },
+      { src: "/images/jasmine-cottage/jasmine-kitchen.jpg", alt: "Jasmine Cottage kitchen with wooden units and island" },
+      { src: "/images/jasmine-cottage/jasmine-kitchen-bookcase.jpg", alt: "Jasmine Cottage kitchen with the reading nook and bookcase" },
+      { src: "/images/jasmine-cottage/jasmine-bedroom-master.jpg", alt: "Master bedroom at Jasmine Cottage" },
+      { src: "/images/jasmine-cottage/jasmine-bedroom-master-2.jpg", alt: "A second double bedroom at Jasmine Cottage" },
+      { src: "/images/jasmine-cottage/jasmine-bedroom-double.jpg", alt: "Double bedroom at Jasmine Cottage" },
+      { src: "/images/jasmine-cottage/jasmine-bathroom.jpg", alt: "Jasmine Cottage bathroom" },
+      { src: "/images/jasmine-cottage/jasmine-ensuite.jpg", alt: "En-suite shower room at Jasmine Cottage" },
+      { src: "/images/jasmine-cottage/jasmine-exterior-2.jpg", alt: "Jasmine Cottage front door" },
     ],
     stats: { guests: 6, bedrooms: 3, bathrooms: 2, dogs: "Yes" },
     amenities: [
@@ -454,9 +463,14 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "Our most intimate cottage — a snug, characterful one-bedroom retreat ideal for couples. Stone walls, a roll-top bath, and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
     gallery: [
-      { src: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg", alt: "Honeysuckle Cottage open-plan kitchen and lounge" },
-      { src: "/images/honeysuckle-cottage/honeysuckle-bedroom.jpg", alt: "Honeysuckle Cottage king-size bedroom" },
-      { src: "/images/cottages/7275ce59f132f14c.jpg", alt: "Honeysuckle Cottage exterior" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-exterior.jpg", alt: "Honeysuckle Cottage exterior — stone barn conversion in the courtyard at Woodlands Manor Farm, Bude" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg", alt: "Honeysuckle Cottage open-plan living space with dining table and red sofa under beamed ceiling" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-kitchen.jpg", alt: "Honeysuckle Cottage kitchen with wooden units and open-plan lounge" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-fireplace.jpg", alt: "Honeysuckle Cottage stone fireplace with wood burner" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-lounge.jpg", alt: "Honeysuckle Cottage lounge with red sofa beneath exposed beams" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-bedroom.jpg", alt: "Bedroom at Honeysuckle Cottage with pine bed" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-bedroom-2.jpg", alt: "King-size bedroom at Honeysuckle Cottage" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-bathroom.jpg", alt: "Honeysuckle Cottage bathroom with bath and green tiling" },
     ],
     stats: { guests: 2, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
