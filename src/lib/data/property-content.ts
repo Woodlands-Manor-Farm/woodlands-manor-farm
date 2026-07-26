@@ -463,9 +463,14 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "Our most intimate cottage — a snug, characterful one-bedroom retreat ideal for couples. Stone walls, a roll-top bath, and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
     gallery: [
-      { src: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg", alt: "Honeysuckle Cottage open-plan kitchen and lounge" },
-      { src: "/images/honeysuckle-cottage/honeysuckle-bedroom.jpg", alt: "Honeysuckle Cottage king-size bedroom" },
-      { src: "/images/cottages/7275ce59f132f14c.jpg", alt: "Honeysuckle Cottage exterior" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-exterior.jpg", alt: "Honeysuckle Cottage exterior — stone barn conversion in the courtyard at Woodlands Manor Farm, Bude" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg", alt: "Honeysuckle Cottage open-plan living space with dining table and red sofa under beamed ceiling" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-kitchen.jpg", alt: "Honeysuckle Cottage kitchen with wooden units and open-plan lounge" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-fireplace.jpg", alt: "Honeysuckle Cottage stone fireplace with wood burner" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-lounge.jpg", alt: "Honeysuckle Cottage lounge with red sofa beneath exposed beams" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-bedroom.jpg", alt: "Bedroom at Honeysuckle Cottage with pine bed" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-bedroom-2.jpg", alt: "King-size bedroom at Honeysuckle Cottage" },
+      { src: "/images/honeysuckle-cottage/honeysuckle-bathroom.jpg", alt: "Honeysuckle Cottage bathroom with bath and green tiling" },
     ],
     stats: { guests: 2, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
