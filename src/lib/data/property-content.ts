@@ -461,7 +461,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Couples' retreat · Intimate",
     subtitle: "Intimate one-bedroom — sleeps 2 + cot",
     description:
-      "Our most intimate cottage — a snug, characterful one-bedroom retreat ideal for couples. Stone walls, a roll-top bath, and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
+      "Our most intimate cottage — a snug, characterful one-bedroom retreat ideal for couples. Stone walls, exposed beams, and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
     gallery: [
       { src: "/images/honeysuckle-cottage/honeysuckle-exterior.jpg", alt: "Honeysuckle Cottage exterior — stone barn conversion in the courtyard at Woodlands Manor Farm, Bude" },
       { src: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg", alt: "Honeysuckle Cottage open-plan living space with dining table and red sofa under beamed ceiling" },
@@ -474,7 +474,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     stats: { guests: 2, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
-      "Roll-top bath",
+      "Bath & shower",
       "Private patio",
       "Stone walls",
       "Indoor pool access",
@@ -487,7 +487,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "Romantic, peaceful and quietly luxurious. The roll-top bath sealed the deal. We'll be back.",
+        text: "Romantic, peaceful and quietly luxurious — every little touch sealed the deal. We'll be back.",
         author: "L & M — Honeysuckle, 2024",
       },
     ],
@@ -506,7 +506,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
         title: "First floor",
         items: [
           "Master bedroom — king-size double",
-          "Bathroom with roll-top bath, shower, WC, basin",
+          "Bathroom with bath, shower, WC, basin",
         ],
       },
       GOOD_TO_KNOW_COL,
