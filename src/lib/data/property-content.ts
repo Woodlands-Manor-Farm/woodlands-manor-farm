@@ -572,13 +572,17 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "Fenton is Budhyn's sister yurt, tucked a few steps away in the same secluded spot by the pond — this one nestled closer to the woodland. Same authentic hand-crafted Mongolian build, same luxury: a kingsize bed and two singles made up with quality linen and soft white towels, your own private kitchen-diner and bathroom cabin, a high-end wood burner for winter, and your own BBQ and picnic bench. Just 20 metres from Budhyn — book both together for a group of eight, or one for a secluded escape.",
     gallery: [
-      { src: "/images/fenton-yurt/fenton-exterior-hero.jpg", alt: "Fenton yurt exterior — authentic Mongolian yurt by the woodland at Woodlands Manor Farm, Bude" },
-      { src: "/images/fenton-yurt/fenton-master-bed.jpg", alt: "Fenton yurt kingsize bed made up with luxury linen" },
-      { src: "/images/fenton-yurt/fenton-interior-side.jpg", alt: "Inside Fenton yurt — wood burner and seating" },
+      { src: "/images/fenton-yurt/fenton-exterior-hero.jpg", alt: "Fenton yurt exterior — authentic Mongolian yurt with green cover set by the woodland at Woodlands Manor Farm, Bude" },
+      { src: "/images/fenton-yurt/fenton-interior-wide.jpg", alt: "Inside Fenton yurt — wood burner beneath the crown skylight with a kingsize and two single beds" },
+      { src: "/images/fenton-yurt/fenton-master-bed.jpg", alt: "Fenton yurt kingsize bed made up with luxury linen and cushions" },
+      { src: "/images/fenton-yurt/fenton-single-bed.jpg", alt: "Single beds against the yurt lattice at Fenton" },
+      { src: "/images/fenton-yurt/fenton-interior-side.jpg", alt: "Fenton yurt interior from the side — wood burner and beds" },
       { src: "/images/fenton-yurt/fenton-woodburner.jpg", alt: "High-end wood burner inside Fenton yurt" },
-      { src: "/images/fenton-yurt/fenton-roof-detail.jpg", alt: "Hand-crafted crown of the Fenton Mongolian yurt" },
-      { src: "/images/fenton-yurt/fenton-back-view.jpg", alt: "Fenton yurt nestled beside the woodland" },
-      { src: "/images/fenton-yurt/fenton-bathroom.jpg", alt: "Private bathroom cabin at Fenton yurt" },
+      { src: "/images/fenton-yurt/fenton-roof-detail.jpg", alt: "Hand-crafted crown skylight of the Fenton Mongolian yurt" },
+      { src: "/images/fenton-yurt/fenton-kitchen.jpg", alt: "Private kitchen cabin at Fenton yurt set among the trees" },
+      { src: "/images/fenton-yurt/fenton-bathroom.jpg", alt: "Private bathroom cabin at Fenton yurt with walk-in rainfall shower" },
+      { src: "/images/fenton-yurt/fenton-washroom.jpg", alt: "Wash cabin at Fenton yurt with sink and shower beyond" },
+      { src: "/images/fenton-yurt/fenton-bathroom-exterior.jpg", alt: "The bathroom and wash cabin beside Fenton yurt" },
     ],
     stats: { guests: 4, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
