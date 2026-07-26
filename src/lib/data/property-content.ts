@@ -267,7 +267,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Cosy stone cottage",
     subtitle: "The cosy stone retreat — sleeps 4 + cot",
     description:
-      "Thick stone walls, a snug woodburner-warmed lounge, and a country-style kitchen — Lavender is the cottage that guests come back to year after year. Perfect for couples or a small family, with everything you need on the farm a short walk away.",
+      "Thick stone walls, a bright and comfortable lounge, and a country-style kitchen — Lavender is the cottage that guests come back to year after year. Perfect for couples or a small family, with everything you need on the farm a short walk away.",
     gallery: [
       { src: "/images/lavender-cottage/lavender-exterior.jpg", alt: "Lavender Cottage exterior — stone cottage with the Lavender Cottage sign at Woodlands Manor Farm, Bude" },
       { src: "/images/lavender-cottage/lavender-lounge.jpg", alt: "Lavender Cottage open-plan lounge with teal sofa and dining table" },
@@ -282,7 +282,6 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     stats: { guests: 4, bedrooms: 2, bathrooms: 1, dogs: "Yes" },
     amenities: [
-      "Wood burner",
       "Country kitchen",
       "Stone walls",
       "Indoor pool access",
@@ -299,13 +298,13 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
         author: "Emma M. — Lavender, 2024",
       },
     ],
-    facilityChips: SHARED_FACILITIES,
+    facilityChips: SHARED_FACILITIES.filter((f) => f.label !== "Wood burner"),
     detailColumns: [
       {
         title: "Ground floor",
         items: [
           "Country-style kitchen with electric oven, dishwasher, fridge/freezer",
-          "Cosy lounge with wood burner & Smart TV",
+          "Cosy lounge with Smart TV",
           "Dining table seats 4",
           "Cloakroom WC",
         ],
