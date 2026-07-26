@@ -37,7 +37,7 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
     href: "/jasmine-cottage/",
     name: "Jasmine Cottage",
     desc: "A spacious barn conversion with a secret bookcase door connecting to Lavender — combine them for 10 guests. Three doubles, a stunning farm table and a stone wood burner.",
-    img: "/images/cottages/4e9d92fa8d3c1e84.jpg",
+    img: "/images/jasmine-cottage/jasmine-lounge.jpg",
     alt: "Jasmine Cottage kitchen dining",
     tags: [{ label: "Sleeps 6" }, { label: "Secret door" }],
     stats: [

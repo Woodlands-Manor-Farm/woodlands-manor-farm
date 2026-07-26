@@ -49,7 +49,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 3,
     shortDescription: "Light-filled cottage with a private patio overlooking the meadow.",
     href: "/jasmine-cottage/",
-    heroImage: "/images/jasmine-cottage/125d965f9db47fa9.jpg",
+    heroImage: "/images/jasmine-cottage/jasmine-lounge.jpg",
     superControlId: "577259",
   },
   {
