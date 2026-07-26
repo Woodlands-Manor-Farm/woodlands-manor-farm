@@ -143,9 +143,17 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "A characterful, comfortable cottage with a beautiful stone fireplace, beamed ceilings, and two separate lounges that give plenty of breathing room when the family wants to spread out. Direct access to the courtyard garden, with the indoor pool just a few steps away.",
     gallery: [
-      { src: "/images/rose-cottage/rose-lounge.jpg", alt: "Rose Cottage lounge with beamed ceiling" },
-      { src: "/images/cottages/32742e1c3f3de7dd.jpg", alt: "Rose Cottage stone fireplace and beamed lounge" },
-      { src: "/images/rose-cottage/rose-exterior-dining.jpg", alt: "Outdoor dining at Rose Cottage" },
+      { src: "/images/rose-cottage/rose-exterior.jpg", alt: "Rose Cottage exterior — converted stone barn at Woodlands Manor Farm, Bude" },
+      { src: "/images/rose-cottage/rose-lounge.jpg", alt: "Rose Cottage lounge with round window and comfy sofas" },
+      { src: "/images/rose-cottage/rose-lounge-fire.jpg", alt: "Cosy second lounge at Rose Cottage with wood burner and sofas" },
+      { src: "/images/rose-cottage/rose-fireplace.jpg", alt: "Rose Cottage stone fireplace with wood burner lit" },
+      { src: "/images/rose-cottage/rose-kitchen.jpg", alt: "Rose Cottage kitchen with wooden units against the stone wall" },
+      { src: "/images/rose-cottage/rose-dining.jpg", alt: "Rose Cottage dining area beside the stone fireplace" },
+      { src: "/images/rose-cottage/rose-bedroom-four-poster.jpg", alt: "Four-poster bedroom at Rose Cottage" },
+      { src: "/images/rose-cottage/rose-bedroom-double.jpg", alt: "Double bedroom at Rose Cottage with four-poster bed" },
+      { src: "/images/rose-cottage/rose-twin.jpg", alt: "Twin bedroom at Rose Cottage" },
+      { src: "/images/rose-cottage/rose-bathroom.jpg", alt: "Rose Cottage bathroom with bath and green tiling" },
+      { src: "/images/rose-cottage/rose-shower-room.jpg", alt: "Ground-floor shower room at Rose Cottage" },
     ],
     stats: { guests: 8, bedrooms: 4, bathrooms: 2, dogs: "Yes" },
     amenities: [
