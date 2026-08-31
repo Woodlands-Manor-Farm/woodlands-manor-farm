@@ -56,11 +56,13 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       { src: "/images/the-manor-house/manor-lounge.jpg", alt: "Manor House sitting room with stone fireplace" },
       { src: "/images/the-manor-house/manor-lounge-2.jpg", alt: "Second lounge at the Manor House" },
       { src: "/images/the-manor-house/manor-dining-room.jpg", alt: "Dining room with the table set for twelve" },
+      { src: "/images/the-manor-house/manor-kitchen.jpg", alt: "Four-oven AGA kitchen with granite island in the conservatory" },
       { src: "/images/the-manor-house/manor-conservatory.jpg", alt: "Conservatory with summer flowers" },
       { src: "/images/the-manor-house/manor-bedroom-bluebell.jpg", alt: "Bluebell bedroom — super king-size double" },
       { src: "/images/the-manor-house/manor-bedroom-front.jpg", alt: "Front double bedroom with original beams" },
       { src: "/images/the-manor-house/manor-bathroom.jpg", alt: "Manor House bathroom with black roll-top bath and beamed walls" },
       { src: "/images/the-manor-house/manor-conservatory-2.jpg", alt: "Conservatory seating — a sun trap all year" },
+      { src: "/images/the-manor-house/manor-exterior-2.jpg", alt: "The Manor House front elevation from the garden" },
     ],
     stats: { guests: 12, bedrooms: 6, bathrooms: 3, dogs: "Yes" },
     amenities: [
@@ -145,6 +147,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       "A characterful, comfortable cottage with a beautiful stone fireplace, beamed ceilings, and two separate lounges that give plenty of breathing room when the family wants to spread out. Direct access to the courtyard garden, with the indoor pool just a few steps away.",
     gallery: [
       { src: "/images/rose-cottage/rose-exterior.jpg", alt: "Rose Cottage exterior — converted stone barn at Woodlands Manor Farm, Bude" },
+      { src: "/images/rose-cottage/rose-exterior-dining.jpg", alt: "Rose Cottage patio with outdoor dining and rolling valley views" },
       { src: "/images/rose-cottage/rose-lounge.jpg", alt: "Rose Cottage lounge with round window and comfy sofas" },
       { src: "/images/rose-cottage/rose-lounge-fire.jpg", alt: "Cosy second lounge at Rose Cottage with wood burner and sofas" },
       { src: "/images/rose-cottage/rose-fireplace.jpg", alt: "Rose Cottage stone fireplace with wood burner lit" },
@@ -341,7 +344,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       "An ivy-clad Cornish stone cottage with vaulted beams, a super-king bedroom, and a private garden. Built for couples or a small family wanting peace and quiet, with everything the farm has to offer just a stroll across the courtyard.",
     gallery: [
       { src: "/images/the-coach-house/coach-exterior.jpg", alt: "The Coach House — ivy-clad Cornish stone exterior" },
-      { src: "/images/the-coach-house/a1295bc7fa8049b6.jpg", alt: "Coach House lounge with vaulted beams" },
+      { src: "/images/the-coach-house/coach-lounge-fire.jpg", alt: "Coach House lounge with the wood burner lit and exposed beams" },
       { src: "/images/the-coach-house/coach-bedroom.jpg", alt: "Coach House super-king bedroom" },
       { src: "/images/the-coach-house/coach-bedroom-window.jpg", alt: "Coach House bedroom window seat" },
       { src: "/images/the-coach-house/aac208ec0cdf465f.jpg", alt: "Coach House kitchen" },
