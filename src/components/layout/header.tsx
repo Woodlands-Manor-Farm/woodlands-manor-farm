@@ -66,7 +66,7 @@ export function Header() {
           "fixed inset-x-0 top-0 z-[200] flex items-center justify-between px-6 py-5 transition-all duration-300 md:px-12",
           scrolled
             ? "bg-[rgba(74,100,89,0.96)] py-3 shadow-[0_1px_0_rgba(173,191,185,0.15)] backdrop-blur-md"
-            : "bg-gradient-to-b from-[rgba(15,28,19,0.55)] via-[rgba(15,28,19,0.22)] to-transparent",
+            : "bg-gradient-to-b from-[rgba(15,28,19,0.82)] via-[rgba(15,28,19,0.45)] to-transparent",
         )}
       >
         <Link href="/" className="flex items-center" aria-label={SITE.name}>
