@@ -43,8 +43,8 @@ const STAYS = [
     name: "Woodlands Manor House",
     type: "Centrepiece · Sleeps 12 + cots",
     detail: "Three lounges · AGA kitchen · Period features",
-    img: "/images/cottages/812784261e6d52d7.jpg",
-    alt: "Woodlands Manor House — stone walls, beams and period charm",
+    img: "/images/the-manor-house/manor-exterior-garden.jpg",
+    alt: "The Manor House from the garden — 17th-century stone farmhouse",
     large: true,
   },
   {
@@ -60,8 +60,8 @@ const STAYS = [
     name: "Rose Cottage",
     type: "Cottage · Sleeps 8 + cots",
     detail: "Stone fireplace · Two lounges · Garden",
-    img: "/images/cottages/32742e1c3f3de7dd.jpg",
-    alt: "Rose Cottage stone fireplace and beamed lounge",
+    img: "/images/rose-cottage/rose-lounge.jpg",
+    alt: "Rose Cottage lounge with the round window and comfy sofas",
   },
   {
     href: "/the-stables/",
@@ -76,8 +76,8 @@ const STAYS = [
     name: "The Coach House",
     type: "Retreat · Sleeps 2 + cot",
     detail: "Vaulted beams · Super king",
-    img: "/images/cottages/7da27dbd79d1c7d5.jpg",
-    alt: "Coach House — ivy-clad Cornish stone cottage",
+    img: "/images/the-coach-house/coach-exterior.jpg",
+    alt: "The Coach House — ivy-clad Cornish stone exterior",
   },
 ];
 
