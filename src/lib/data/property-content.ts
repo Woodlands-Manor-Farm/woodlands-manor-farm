@@ -59,7 +59,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       { src: "/images/the-manor-house/manor-conservatory.jpg", alt: "Conservatory with summer flowers" },
       { src: "/images/the-manor-house/manor-bedroom-bluebell.jpg", alt: "Bluebell bedroom — super king-size double" },
       { src: "/images/the-manor-house/manor-bedroom-front.jpg", alt: "Front double bedroom with original beams" },
-      { src: "/images/the-manor-house/manor-bathroom.jpg", alt: "Manor House bathroom" },
+      { src: "/images/the-manor-house/manor-bathroom.jpg", alt: "Manor House bathroom with black roll-top bath and beamed walls" },
       { src: "/images/the-manor-house/manor-conservatory-2.jpg", alt: "Conservatory seating — a sun trap all year" },
     ],
     stats: { guests: 12, bedrooms: 6, bathrooms: 3, dogs: "Yes" },
@@ -68,6 +68,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       "Indoor heated pool",
       "Three lounges",
       "Wood burner",
+      "Roll-top bath",
       "Private garden",
       "Games room access",
       "EV charger on site",
@@ -402,11 +403,19 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     description:
       "A bright, airy single-storey conversion with an arched front door, freestanding bath, and views down the valley. Fully accessible (no stairs), with two double bedrooms and an open-plan living space that's flooded with light.",
     gallery: [
-      { src: "/images/the-stables/stables-exterior-pond.jpg", alt: "The Stables — single-storey stone conversion overlooking the pond" },
-      { src: "/images/cottages/b2a31f0f839f8fce.jpg", alt: "The Stables — light open-plan lounge with arched door" },
-      { src: "/images/the-stables/stables-lounge.jpg", alt: "The Stables lounge" },
-      { src: "/images/the-stables/a99e1cc416aefd1d.jpg", alt: "The Stables freestanding bath" },
-      { src: "/images/the-stables/stables-bathroom.jpg", alt: "Master bathroom at The Stables" },
+      { src: "/images/the-stables/stables-exterior-pond.jpg", alt: "The Stables — single-storey stone conversion overlooking the pond at Woodlands Manor Farm, Bude" },
+      { src: "/images/the-stables/stables-exterior.jpg", alt: "The Stables exterior with its stone patio" },
+      { src: "/images/the-stables/stables-patio.jpg", alt: "The Stables patio with BBQ, dining and valley views" },
+      { src: "/images/the-stables/stables-lounge.jpg", alt: "The Stables lounge with arched door and sofa" },
+      { src: "/images/the-stables/stables-lounge-view.jpg", alt: "The Stables lounge with French doors opening onto the valley view" },
+      { src: "/images/the-stables/stables-lounge-kitchen.jpg", alt: "Open-plan lounge and kitchen at The Stables" },
+      { src: "/images/the-stables/stables-kitchen.jpg", alt: "The Stables kitchen with electric oven and hob" },
+      { src: "/images/the-stables/stables-bedroom-master.jpg", alt: "Master bedroom at The Stables with patio doors" },
+      { src: "/images/the-stables/stables-bedroom-master-2.jpg", alt: "Master bedroom at The Stables with fitted wardrobes" },
+      { src: "/images/the-stables/stables-twin.jpg", alt: "Twin bedroom at The Stables" },
+      { src: "/images/the-stables/stables-bathroom.jpg", alt: "The Stables master bathroom with freestanding bath" },
+      { src: "/images/the-stables/stables-shower-room.jpg", alt: "Walk-in shower room at The Stables" },
+      { src: "/images/the-stables/stables-bathroom-2.jpg", alt: "Second bathroom at The Stables" },
     ],
     stats: { guests: 4, bedrooms: 2, bathrooms: 1, dogs: "Yes" },
     amenities: [
@@ -461,7 +470,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Couples' retreat · Intimate",
     subtitle: "Intimate one-bedroom — sleeps 2 + cot",
     description:
-      "Our most intimate cottage — a snug, characterful one-bedroom retreat ideal for couples. Stone walls, a roll-top bath, and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
+      "Our most intimate cottage — a snug, characterful one-bedroom retreat ideal for couples. Stone walls, exposed beams, and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
     gallery: [
       { src: "/images/honeysuckle-cottage/honeysuckle-exterior.jpg", alt: "Honeysuckle Cottage exterior — stone barn conversion in the courtyard at Woodlands Manor Farm, Bude" },
       { src: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg", alt: "Honeysuckle Cottage open-plan living space with dining table and red sofa under beamed ceiling" },
@@ -474,7 +483,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     stats: { guests: 2, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
-      "Roll-top bath",
+      "Bath & shower",
       "Private patio",
       "Stone walls",
       "Indoor pool access",
@@ -487,7 +496,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "Romantic, peaceful and quietly luxurious. The roll-top bath sealed the deal. We'll be back.",
+        text: "Romantic, peaceful and quietly luxurious — every little touch sealed the deal. We'll be back.",
         author: "L & M — Honeysuckle, 2024",
       },
     ],
@@ -506,7 +515,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
         title: "First floor",
         items: [
           "Master bedroom — king-size double",
-          "Bathroom with roll-top bath, shower, WC, basin",
+          "Bathroom with bath, shower, WC, basin",
         ],
       },
       GOOD_TO_KNOW_COL,

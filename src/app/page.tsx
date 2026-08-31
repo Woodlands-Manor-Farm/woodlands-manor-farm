@@ -68,8 +68,8 @@ const STAYS = [
     name: "The Stables",
     type: "Converted · Sleeps 4 + cots",
     detail: "Valley view · Freestanding bath",
-    img: "/images/cottages/b2a31f0f839f8fce.jpg",
-    alt: "The Stables — light open-plan lounge with arched door",
+    img: "/images/the-stables/stables-patio.jpg",
+    alt: "The Stables patio with dining and valley views",
   },
   {
     href: "/the-coach-house/",
