@@ -62,8 +62,8 @@ export function HeroCarousel() {
           Breathe in <em>Cornwall.</em>
         </h1>
         <p className={styles.heroBody}>
-          Seven characterful cottages, two Mongolian yurts, an indoor heated pool, and animals that
-          know your name by day two.
+          Seven characterful cottages, two Mongolian yurts, an indoor heated pool, and friendly farm
+          animals that love attention.
         </p>
         <div className={styles.heroCtas}>
           <a href="#booking-widget" className={styles.btnPrimary}>
