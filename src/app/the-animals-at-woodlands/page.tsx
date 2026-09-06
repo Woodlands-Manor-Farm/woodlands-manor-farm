@@ -8,6 +8,7 @@ import {
   infoStyles as styles,
 } from "@/components/info/info-shell";
 import { BOOK_HREF } from "@/lib/constants/nav";
+import { FarmVideo } from "@/components/ui/farm-video";
 
 const ANIMALS = [
   {
@@ -187,6 +188,41 @@ export default function Page() {
         >
           Book an experience
         </Link>
+      </section>
+
+      <section style={{ background: "var(--color-deep-green)", padding: "0 32px 80px" }}>
+        <div style={{ maxWidth: 1100, margin: "0 auto", paddingBottom: 28, textAlign: "center" }}>
+          <p
+            style={{
+              fontSize: 11,
+              letterSpacing: "0.22em",
+              textTransform: "uppercase",
+              color: "var(--color-warm-stone)",
+              fontWeight: 500,
+              marginBottom: 10,
+            }}
+          >
+            A little preview
+          </p>
+          <h2
+            style={{
+              fontFamily: "var(--font-serif)",
+              fontSize: "clamp(22px, 2.6vw, 32px)",
+              color: "var(--color-cream)",
+              fontWeight: 400,
+            }}
+          >
+            See a Feed the Animals morning
+          </h2>
+        </div>
+        <FarmVideo
+          videoId="nypjKJONHBE"
+          start={8}
+          poster="/images/farm/feeding-goats.jpg"
+          posterAlt="Guests feeding the goats on the Feed the Animals tour at Woodlands Manor Farm"
+          title="Feed the Animals — Woodlands Manor Farm"
+          subtitle="Watch the preview"
+        />
       </section>
 
       <CtaStrip

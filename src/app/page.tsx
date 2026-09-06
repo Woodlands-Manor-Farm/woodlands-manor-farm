@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from "./page.module.css";
 import { HeroCarousel } from "@/components/home/hero-carousel";
+import { FarmVideo } from "@/components/ui/farm-video";
 import { SuperControlWidget } from "@/components/booking/super-control-widget";
 import { BOOK_HREF } from "@/lib/constants/nav";
 import { SITE } from "@/lib/constants/seo";
@@ -400,26 +401,13 @@ export default function HomePage() {
             you need to know before you book.
           </p>
         </div>
-        <div className={styles.videoFrame}>
-          <div className={styles.videoPlaceholder}>
-            <div className={styles.videoBg}>
-              <Image
-                src="/images/home/6779d3d99e56e799.jpg"
-                alt="Woodlands Manor Farm stone cottage with valley views"
-                fill
-                sizes="(min-width: 1100px) 1100px, 100vw"
-                style={{ objectFit: "cover" }}
-              />
-            </div>
-            <button type="button" className={styles.playBtn} aria-label="Play farm tour video">
-              <div className={styles.playIcon} />
-            </button>
-            <div className={styles.videoText}>
-              <h3>Farm Tour — Woodlands Manor Farm</h3>
-              <p>Coming soon</p>
-            </div>
-          </div>
-        </div>
+        <FarmVideo
+          videoId="CgYdd1_zB_k"
+          poster="/images/home/6779d3d99e56e799.jpg"
+          posterAlt="Woodlands Manor Farm stone cottage with valley views"
+          title="Farm Tour — Woodlands Manor Farm"
+          subtitle="Watch the 3-minute tour"
+        />
       </section>
 
       {/* Reviews */}
