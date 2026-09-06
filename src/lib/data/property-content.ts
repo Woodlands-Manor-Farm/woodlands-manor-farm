@@ -352,8 +352,11 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       "An ivy-clad Cornish stone cottage with vaulted beams, a super-king bedroom, and a private garden. Built for couples or a small family wanting peace and quiet, with everything the farm has to offer just a stroll across the courtyard.",
     gallery: [
       { src: "/images/the-coach-house/coach-exterior.jpg", alt: "The Coach House — ivy-clad Cornish stone exterior" },
-      { src: "/images/the-coach-house/coach-bedroom.jpg", alt: "Coach House super-king bedroom" },
-      { src: "/images/the-coach-house/coach-bedroom-window.jpg", alt: "Coach House bedroom window seat" },
+      { src: "/images/the-coach-house/coach-garden.jpg", alt: "The Coach House garden and stone steps with valley views" },
+      { src: "/images/the-coach-house/coach-lounge-kitchen.jpg", alt: "Coach House open-plan living space with corner sofa and kitchen" },
+      { src: "/images/the-coach-house/coach-bedroom.jpg", alt: "Coach House super-king bedroom with vaulted beams" },
+      { src: "/images/the-coach-house/coach-bedroom-window.jpg", alt: "Coach House bedroom seating nook by the window" },
+      { src: "/images/the-coach-house/coach-bathroom.jpg", alt: "Coach House shower room with quadrant shower" },
     ],
     stats: { guests: 2, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
