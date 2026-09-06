@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import {
   CtaStrip,
@@ -6,6 +7,25 @@ import {
   InfoHero,
   infoStyles as styles,
 } from "@/components/info/info-shell";
+
+const BAILEY_PHOTOS = [
+  {
+    src: "/images/farm/dog-bailey-bluebells.jpg",
+    alt: "Bailey, the Woodlands Bernedoodle, in the bluebell woodland",
+  },
+  {
+    src: "/images/farm/dog-bailey-meadow.jpg",
+    alt: "Bailey sitting in the open meadow in his harness",
+  },
+  {
+    src: "/images/farm/dog-bailey-family.jpg",
+    alt: "A family woodland walk with Bailey at Woodlands Manor Farm",
+  },
+  {
+    src: "/images/farm/dog-bailey-grass.jpg",
+    alt: "Bailey relaxing in the long grass on the farm",
+  },
+];
 
 export const metadata: Metadata = {
   title: "Dog Friendly Holiday Cottages in Bude, Cornwall",
@@ -46,6 +66,46 @@ export default function DogFriendlyPage() {
           Bernedoodle, Bailey, will tell you there&rsquo;s no better place to be a dog: fifteen
           acres of ancient woodland to explore off the lead, an open meadow for zoomies, and some
           of Cornwall&rsquo;s best dog-friendly beaches ten minutes down the road.
+        </p>
+
+        <div
+          style={{
+            display: "grid",
+            gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))",
+            gap: 12,
+            marginTop: 28,
+          }}
+        >
+          {BAILEY_PHOTOS.map((p) => (
+            <div
+              key={p.src}
+              style={{
+                position: "relative",
+                aspectRatio: "3 / 4",
+                borderRadius: 10,
+                overflow: "hidden",
+              }}
+            >
+              <Image
+                src={p.src}
+                alt={p.alt}
+                fill
+                sizes="(min-width: 900px) 22vw, 45vw"
+                style={{ objectFit: "cover", objectPosition: "center" }}
+              />
+            </div>
+          ))}
+        </div>
+        <p
+          style={{
+            fontSize: 13,
+            color: "var(--color-text-mid)",
+            fontWeight: 300,
+            fontStyle: "italic",
+            marginTop: 10,
+          }}
+        >
+          Bailey, our Bernedoodle — chief woodland officer.
         </p>
 
         <h3 className={styles.subHeading}>Room to run</h3>
