@@ -78,6 +78,23 @@ export default function Page() {
               body: "Why not treat yourself or your partner to a bit of pampering during your stay with us? We have a qualified therapist called Leanne who offers a wide range of treatments. She can carry out the treatments in the comfort of your own cottage.",
               variant: "violet",
             },
+            {
+              icon: "👶",
+              title: "Babies & toddlers",
+              body: "We are extremely baby and child-friendly. We can provide a cot, highchair, baby bath, nappy bin, changing mat, bottle steriliser, plastic cutlery, bowls, plates and socket covers. For toddlers: bed guard, potty, step, toilet seat and booster seat. Just ask when booking.",
+              variant: "gold",
+            },
+            {
+              icon: "📶",
+              title: "Super-fast broadband",
+              body: "Woodlands Manor Farm has a super-fast broadband connection and complimentary WiFi throughout all cottages and yurts — strong enough for working, streaming and video calls at the same time.",
+              variant: "dark",
+            },
+            {
+              icon: "♻️",
+              title: "Recycling on site",
+              body: "We have recycling bins on site for glass, paper, cardboard and tin. We provide kitchen essentials to cut down on waste, and use eco-friendly cleaning products throughout.",
+            },
           ]}
         />
       </div>
