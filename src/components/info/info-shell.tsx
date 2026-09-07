@@ -89,9 +89,10 @@ export type InfoCardData = {
   title: string;
   body: string;
   variant?: "default" | "violet" | "gold" | "dark";
+  link?: { href: string; label: string };
 };
 
-export function InfoCard({ icon, title, body, variant = "default" }: InfoCardData) {
+export function InfoCard({ icon, title, body, variant = "default", link }: InfoCardData) {
   return (
     <div
       className={cn(
@@ -104,6 +105,23 @@ export function InfoCard({ icon, title, body, variant = "default" }: InfoCardDat
       <span className={styles.icIcon}>{icon}</span>
       <div className={styles.icTitle}>{title}</div>
       <p className={styles.icBody}>{body}</p>
+      {link ? (
+        <a
+          href={link.href}
+          target="_blank"
+          rel="noreferrer"
+          style={{
+            display: "inline-block",
+            marginTop: 12,
+            fontSize: 13,
+            fontWeight: 500,
+            color: "var(--color-violet)",
+            textDecoration: "none",
+          }}
+        >
+          {link.label} →
+        </a>
+      ) : null}
     </div>
   );
 }
