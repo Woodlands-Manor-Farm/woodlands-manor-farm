@@ -9,6 +9,7 @@ export type GoogleReview = {
   rating: number;
   text: string;
   relativeTime: string;
+  publishTime: string;
   initial: string;
   color: string;
 };
@@ -36,6 +37,7 @@ type PlacesJson = {
       text?: { text?: string };
       originalText?: { text?: string };
       relativePublishTimeDescription?: string;
+      publishTime?: string;
       authorAttribution?: { displayName?: string };
     }>;
   }>;
@@ -51,10 +53,15 @@ function parse(json: PlacesJson): GoogleData | null {
       rating: r.rating ?? 5,
       text: r.text?.text ?? r.originalText?.text ?? "",
       relativeTime: r.relativePublishTimeDescription ?? "",
+      publishTime: r.publishTime ?? "",
       initial: name.charAt(0).toUpperCase(),
       color: colorFor(name),
     };
-  }).filter((r) => r.text.length > 0);
+  })
+    .filter((r) => r.text.length > 0)
+    // Newest first — Google returns reviews ranked by relevance, not date,
+    // so an older review can otherwise surface at the top of the grid.
+    .sort((a, b) => (b.publishTime > a.publishTime ? 1 : b.publishTime < a.publishTime ? -1 : 0));
 
   return {
     rating: place.rating ?? 4.9,
@@ -108,7 +115,7 @@ export async function getGoogleReviews(): Promise<GoogleData | null> {
         "Content-Type": "application/json",
         "X-Goog-Api-Key": key,
         "X-Goog-FieldMask":
-          "places.displayName,places.rating,places.userRatingCount,places.reviews",
+          "places.displayName,places.rating,places.userRatingCount,places.reviews.rating,places.reviews.text,places.reviews.originalText,places.reviews.relativePublishTimeDescription,places.reviews.publishTime,places.reviews.authorAttribution",
       },
       body: JSON.stringify({
         textQuery: "Woodlands Manor Farm, Woodford, Bude, Cornwall",
