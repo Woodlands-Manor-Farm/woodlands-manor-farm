@@ -12,10 +12,10 @@ import { FarmVideo } from "@/components/ui/farm-video";
 
 const ANIMALS = [
   {
-    name: "Pringle",
-    species: "Pure Dartmoor Pony",
-    bio: "Pringle wins the cheekiest animal on the farm award, hands down. A special pure Dartmoor pony who spent his first 6 months with the herd on the moors. Known for picking up anything not locked down, knocking fences down and winding up every other animal on the farm with his playful antics.",
-    img: "/images/animals/d2e104531205804a.jpg",
+    name: "Wilma",
+    species: "Fell Pony",
+    bio: "The head of the herd — a beautiful Fell pony who keeps the whole herd in order, yet kindly looks out for little Lulu, her best friend.",
+    img: "/images/animals/wilma-fell-pony.jpg",
   },
   {
     name: "Lulu",
@@ -27,7 +27,13 @@ const ANIMALS = [
     name: "Merlin",
     species: "Welsh Cob",
     bio: "The elder statesman of the herd and the boss. A lovely boy but can be a little grumpy if not fed first or given the respect he deserves. His favourite pastime is galloping through fields — that is when he is at his happiest.",
-    img: "/images/animals/d2e104531205804a.jpg",
+    img: "/images/animals/merlin-welsh-cob.jpg",
+  },
+  {
+    name: "Lady",
+    species: "Pony",
+    bio: "One of our much-loved ponies — gentle, steady and always happy to say hello on the Feed the Animals tour with Ruth.",
+    img: "/images/animals/lady-pony.jpg",
   },
   {
     name: "Zap & Sparky",
@@ -39,7 +45,7 @@ const ANIMALS = [
     name: "Napoleon, Henry & Erebus",
     species: "Alpacas",
     bio: "The three amigos — the most inquisitive animals on the farm. Napoleon is a Suri Alpaca with a beautiful dreadlock fleece. Erebus and Henry are Huacaya Alpacas who look like massive teddy bears. They love carrots (finely cut — only bottom teeth!) and will come over to say hello to everyone.",
-    img: "/images/animals/37f845543e54531f.jpg",
+    img: "/images/animals/alpacas-woodlands.jpg",
   },
   {
     name: "Lucas & Layla",
@@ -57,13 +63,13 @@ const ANIMALS = [
     name: "Ralf & Molly",
     species: "Rabbits",
     bio: "Ralf is a Mini Lop and Molly is a Lion Lop. Best of friends who sleep curled around one another. We are convinced Ralf is the brother of Peter Rabbit — he loves carrots and is constantly plotting an escape into the allotment.",
-    img: "/images/animals/d2e104531205804a.jpg",
+    img: "/images/animals/ralf-molly-rabbits.jpg",
   },
   {
     name: "Growler",
     species: "Farm Cat — Chief Ratter",
     bio: "Growler adopted us in 2022, making his way over from a nearby farm. Spoilt rotten ever since. Loves his status as chief ratter but most of all loves fuss and sitting on people's laps. Very happy indeed.",
-    img: "/images/animals/d2e104531205804a.jpg",
+    img: "/images/animals/growler-cat.jpg",
   },
 ];
 
@@ -86,7 +92,7 @@ export default function Page() {
             Meet the <em>animals</em>
           </>
         }
-        description="From Pringle the cheeky Dartmoor pony to Growler the farm cat — every animal at Woodlands has a name, a personality, and a story."
+        description="From Wilma at the head of the herd to Growler the farm cat — every animal at Woodlands has a name, a personality, and a story."
       />
       <AboutSubnav activeHref="/the-animals-at-woodlands/" />
 
