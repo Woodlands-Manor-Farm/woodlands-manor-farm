@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from "./page.module.css";
 import { HeroCarousel } from "@/components/home/hero-carousel";
+import { GuestReviews, type HomeReview } from "@/components/home/guest-reviews";
 import { FarmVideo } from "@/components/ui/farm-video";
 import { SuperControlWidget } from "@/components/booking/super-control-widget";
 import { BOOK_HREF } from "@/lib/constants/nav";
@@ -123,7 +124,7 @@ const EXP_TILES = [
 // Homepage testimonials: keep these to genuine 5-star reviews from the last
 // ~6 months so the homepage always feels current. Sourced from the vetted
 // reviews on /reviews/ — refresh them as newer 5-star reviews come in.
-const REVIEWS = [
+const REVIEWS: HomeReview[] = [
   {
     text: "This place should be allowed more stars, I can't rate it enough. This was our second visit! It's a beautiful setting, feels so safe, so much to do, so well taken care of — loved reading in the evening listening to the sheep and cows in the distance. Absolutely stunning, recommended to anyone who will listen.",
     initials: "Z",
@@ -419,20 +420,7 @@ export default function HomePage() {
           <div className={styles.stars}>★ ★ ★ ★ ★</div>
           <h2>What guests are saying</h2>
         </div>
-        <div className={styles.reviewsGrid}>
-          {REVIEWS.map((r) => (
-            <div key={r.name} className={styles.reviewCard}>
-              <p className={styles.reviewText}>{r.text}</p>
-              <div className={styles.reviewAuthor}>
-                <div className={styles.reviewAvatar}>{r.initials}</div>
-                <div>
-                  <div className={styles.reviewName}>{r.name}</div>
-                  <div className={styles.reviewUnit}>{r.unit}</div>
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
+        <GuestReviews fallback={REVIEWS} />
       </section>
 
       {/* Location */}

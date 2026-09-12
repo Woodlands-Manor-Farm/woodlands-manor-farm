@@ -70,6 +70,25 @@ function parse(json: PlacesJson): GoogleData | null {
   };
 }
 
+// Pick genuine 5-star reviews published within the last `months`, newest
+// first. Reviews without a parseable publishTime are excluded so a stale
+// cached payload (from before publishTime was requested) can't leak in.
+export function pickRecentFiveStar(
+  reviews: GoogleReview[],
+  { months = 6, limit = 3 }: { months?: number; limit?: number } = {},
+): GoogleReview[] {
+  const cutoff = new Date();
+  cutoff.setMonth(cutoff.getMonth() - months);
+  return reviews
+    .filter((r) => r.rating === 5)
+    .filter((r) => {
+      const t = Date.parse(r.publishTime);
+      return !Number.isNaN(t) && t >= cutoff.getTime();
+    })
+    .sort((a, b) => (b.publishTime > a.publishTime ? 1 : b.publishTime < a.publishTime ? -1 : 0))
+    .slice(0, limit);
+}
+
 export async function getPlacesApiKey(): Promise<string | undefined> {
   // On OpenNext/Cloudflare the secret is on the Worker env, which isn't
   // always mirrored to process.env during RSC rendering — read it from the
