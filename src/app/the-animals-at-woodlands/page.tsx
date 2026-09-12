@@ -48,9 +48,9 @@ const ANIMALS = [
     img: "/images/farm/feeding-pigs.jpg",
   },
   {
-    name: "Cutie Pie, Little Z, Twinkle & Rosario",
+    name: "Cutie Pie, Z, Twinkle & Rosario",
     species: "Sheep",
-    bio: "Rosario is a survivor — hand-reared after a difficult birth and now more like a dog than a sheep. Cutie Pie was the cutest of the 2022 lambs. Little Z has always been the odd one out — we love her for it.",
+    bio: "Rosario is a survivor — hand-reared after a difficult birth and now more like a dog than a sheep. Cutie Pie was the cutest of the 2022 lambs. Z has always been the odd one out — we love her for it.",
     img: "/images/farm/feeding-sheep.jpg",
   },
   {
