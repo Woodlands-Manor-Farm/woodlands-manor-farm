@@ -120,24 +120,27 @@ const EXP_TILES = [
   },
 ];
 
+// Homepage testimonials: keep these to genuine 5-star reviews from the last
+// ~6 months so the homepage always feels current. Sourced from the vetted
+// reviews on /reviews/ — refresh them as newer 5-star reviews come in.
 const REVIEWS = [
   {
-    text: "Really beautiful authentic old Manor House with quirky rooms and period features. Beautiful flat stone floors and huge fireplace. Brilliant place for multiple families with kids. Highly recommend.",
-    initials: "AK",
-    name: "Alex K.",
-    unit: "Manor House · 2023",
+    text: "This place should be allowed more stars, I can't rate it enough. This was our second visit! It's a beautiful setting, feels so safe, so much to do, so well taken care of — loved reading in the evening listening to the sheep and cows in the distance. Absolutely stunning, recommended to anyone who will listen.",
+    initials: "Z",
+    name: "Zebraaa",
+    unit: "TripAdvisor · Jun 2026",
   },
   {
-    text: "Such a beautiful spot! Everything kitted out with the guest in mind. Andrew was very helpful and happy to help at a moment's notice. We are looking to book again with friends!",
-    initials: "EM",
-    name: "Emma M.",
-    unit: "Lavender Cottage · 2024",
+    text: "Amazing peaceful location for a family holiday, deep in the Cornish countryside, yet only 10 minutes drive from exceptional beaches. Ruth and Andy were helpful and friendly and the facilities within the house and grounds were extensive. A very enjoyable place to spend a holiday.",
+    initials: "GC",
+    name: "Graham C",
+    unit: "Manor House · May 2026",
   },
   {
-    text: "We absolutely loved our stay in one of the beautiful yurts. Andrew has really thought about everything you might need. We are already looking at staying again! Highly recommend!",
-    initials: "JP",
-    name: "John & Pippa",
-    unit: "Budhyn Yurt · 2024",
+    text: "Property was excellent. Beautifully thought out. Shower with constant hot water. Plenty of cooking facilities. A nice big field for dog walking and many other walks nearby. Quiet location.",
+    initials: "EB",
+    name: "EnglandBanker",
+    unit: "TripAdvisor · May 2026",
   },
 ];
 
