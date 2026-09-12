@@ -32,8 +32,9 @@ const DRAWER_LINKS: DrawerLink[] = [
   { num: "04", label: "Experiences", href: "/experiences-weddings-events/" },
   { num: "05", label: "About", href: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
   { num: "06", label: "Reviews", href: "/reviews/" },
-  { num: "07", label: "Special Offers", href: "/special-offers/" },
-  { num: "08", label: "Find Us", href: "/contact-us/" },
+  { num: "07", label: "News", href: "/news/" },
+  { num: "08", label: "Special Offers", href: "/special-offers/" },
+  { num: "09", label: "Find Us", href: "/contact-us/" },
 ];
 
 export function Header() {
