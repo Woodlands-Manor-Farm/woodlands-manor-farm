@@ -71,6 +71,12 @@ const ANIMALS = [
     bio: "Growler adopted us in 2022, making his way over from a nearby farm. Spoilt rotten ever since. Loves his status as chief ratter but most of all loves fuss and sitting on people's laps. Very happy indeed.",
     img: "/images/animals/growler-cat.jpg",
   },
+  {
+    name: "Chick Chick",
+    species: "Chicken",
+    bio: "A true legend of the farm. Chick Chick does her rounds every single day, visiting all the other animals and pinching a little bit of food along the way — and she still rewards us with an amazing, lovely egg too.",
+    img: "/images/animals/chick-chick.jpg",
+  },
 ];
 
 export const metadata: Metadata = {
