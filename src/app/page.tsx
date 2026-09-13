@@ -15,6 +15,7 @@ const INTRO_TILES = [
     title: "Heated Indoor Pool",
     body: "Swim whatever the weather, kept at a warm 30°C all year — a firm family favourite",
     objectPosition: "center",
+    href: "/on-the-farm/",
   },
   {
     src: "/images/home/b2879a790a48a11e.jpg",
@@ -22,6 +23,7 @@ const INTRO_TILES = [
     title: "Feed the Animals",
     body: "Get hands-on with our farm animals — a magical moment for children of all ages",
     objectPosition: "center 30%",
+    href: "/the-animals-at-woodlands/",
   },
   {
     src: "/images/home/e76061d989fd39c9.jpg",
@@ -29,6 +31,7 @@ const INTRO_TILES = [
     title: "Outdoor Play",
     body: "Playground, playing field and five-a-side goals — space to run free",
     objectPosition: "center 20%",
+    href: "/on-the-farm/",
   },
   {
     src: "/images/home/ec8c89b6a5ac2c67.jpg",
@@ -36,6 +39,7 @@ const INTRO_TILES = [
     title: "5-Star Interiors",
     body: "TripAdvisor Travellers' Choice & Booking.com awards — beautifully appointed throughout",
     objectPosition: "center",
+    href: "/reviews/",
   },
 ];
 
@@ -225,7 +229,7 @@ export default function HomePage() {
       {/* Intro strip */}
       <div className={styles.introStrip}>
         {INTRO_TILES.map((t) => (
-          <div key={t.title} className={styles.introTile}>
+          <Link key={t.title} href={t.href} className={styles.introTile}>
             <div className={styles.introTileImg}>
               <Image
                 src={t.src}
@@ -239,7 +243,7 @@ export default function HomePage() {
               <h3>{t.title}</h3>
               <p>{t.body}</p>
             </div>
-          </div>
+          </Link>
         ))}
       </div>
 
