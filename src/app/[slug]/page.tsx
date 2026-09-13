@@ -14,7 +14,12 @@ export async function generateStaticParams() {
   return getAllPostSlugs().map((slug) => ({ slug }));
 }
 
-export const dynamicParams = false;
+// Prerender every known post at build time (generateStaticParams above), but
+// allow on-demand rendering for a cache miss too. Under OpenNext + Cloudflare
+// with trailingSlash, a prerendered "/slug/" request can miss the cache key;
+// with dynamicParams=false that becomes a hard 404, so we keep it true and let
+// getPostBySlug drive the real 404 for genuinely unknown slugs.
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }: { params: Params }): Promise<Metadata> {
   const { slug } = await params;

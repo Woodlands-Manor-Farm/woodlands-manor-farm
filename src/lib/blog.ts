@@ -1,10 +1,4 @@
-import fs from "node:fs";
-import path from "node:path";
-import matter from "gray-matter";
-import { remark } from "remark";
-import remarkHtml from "remark-html";
-
-const BLOG_DIR = path.join(process.cwd(), "content", "blog");
+import postsData from "./generated-blog.json";
 
 export type BlogPost = {
   slug: string;
@@ -17,6 +11,17 @@ export type BlogPost = {
 };
 
 export type BlogPostFull = BlogPost & {
+  contentHtml: string;
+};
+
+type RawPost = {
+  slug: string;
+  title: string;
+  date: string;
+  author: string | null;
+  excerpt: string | null;
+  featureImage: string | null;
+  category: string | null;
   contentHtml: string;
 };
 
@@ -52,44 +57,30 @@ export function formatPostDate(date?: string): string {
   return d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
 }
 
-function readPostFiles(): string[] {
-  if (!fs.existsSync(BLOG_DIR)) return [];
-  return fs.readdirSync(BLOG_DIR).filter((f) => f.endsWith(".md"));
-}
-
-function parseMeta(filename: string): BlogPost {
-  const file = fs.readFileSync(path.join(BLOG_DIR, filename), "utf8");
-  const { data } = matter(file);
-  const slug = (data.slug as string) ?? filename.replace(/\.md$/, "");
-  const title = (data.title as string) ?? slug;
+function toMeta(p: RawPost): BlogPost {
   return {
-    slug,
-    title,
-    date: (data.date as string) ?? "",
-    author: data.author as string | undefined,
-    excerpt: data.excerpt as string | undefined,
-    featureImage:
-      (data.feature_image as string | undefined) ?? (data.featureImage as string | undefined),
-    category: (data.category as string | undefined) ?? categoryFor(slug, title),
+    slug: p.slug,
+    title: p.title,
+    date: p.date,
+    author: p.author ?? undefined,
+    excerpt: p.excerpt ?? undefined,
+    featureImage: p.featureImage ?? undefined,
+    category: p.category ?? categoryFor(p.slug, p.title),
   };
 }
 
+const POSTS = postsData as RawPost[];
+
 export function getAllPosts(): BlogPost[] {
-  return readPostFiles()
-    .map(parseMeta)
-    .sort((a, b) => (a.date < b.date ? 1 : -1));
+  return POSTS.map(toMeta).sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 export function getAllPostSlugs(): string[] {
-  return readPostFiles().map((f) => parseMeta(f).slug);
+  return POSTS.map((p) => p.slug);
 }
 
 export async function getPostBySlug(slug: string): Promise<BlogPostFull | null> {
-  const file = readPostFiles().find((f) => parseMeta(f).slug === slug);
-  if (!file) return null;
-  const meta = parseMeta(file);
-  const fullPath = path.join(BLOG_DIR, file);
-  const { content } = matter(fs.readFileSync(fullPath, "utf8"));
-  const processed = await remark().use(remarkHtml).process(content);
-  return { ...meta, contentHtml: processed.toString() };
+  const post = POSTS.find((p) => p.slug === slug);
+  if (!post) return null;
+  return { ...toMeta(post), contentHtml: post.contentHtml };
 }
