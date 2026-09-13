@@ -77,10 +77,11 @@ export default function AboutPage() {
       <section className={styles.split}>
         <div className={styles.splitImg}>
           <Image
-            src="/images/about/f768b622b6cab139.jpg"
-            alt="The Peters family at Woodlands Manor Farm"
+            src="/images/about/family-andy-ruth-peters.jpg"
+            alt="Andy and Ruth Peters with their daughters and Bailey the dog on the Cornish coast"
             fill
             sizes="(min-width: 900px) 50vw, 100vw"
+            style={{ objectFit: "cover", objectPosition: "center 35%" }}
           />
         </div>
         <div className={styles.splitContent}>
