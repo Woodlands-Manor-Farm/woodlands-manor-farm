@@ -26,7 +26,7 @@ const ANIMALS = [
   {
     name: "Merlin",
     species: "Welsh Cob",
-    bio: "The elder statesman of the herd and the boss. A lovely boy but can be a little grumpy if not fed first or given the respect he deserves. His favourite pastime is galloping through fields — that is when he is at his happiest.",
+    bio: "The elder statesman of the herd, but very much a youngster at heart. A lovely boy, but can be a little grumpy if not fed first or given the respect he deserves, or his daily hay. His favourite pastime is galloping through fields — that is when he is at his happiest.",
     img: "/images/animals/merlin-welsh-cob.jpg",
   },
   {
