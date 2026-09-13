@@ -9,6 +9,42 @@ import {
 
 const ATTRACTIONS = [
   {
+    distance: "6 miles",
+    name: "The Castle, Bude",
+    body: "Bude's historic castle beside the canal, built in the 1830s by local inventor Sir Goldsworthy Gurney — famously on a raft of sand. Now a heritage centre with a museum telling Bude's story, an art gallery, gift shop and a café with lovely canal views.",
+    href: "https://www.thecastlebude.co.uk/",
+  },
+  {
+    distance: "6 miles",
+    name: "Bude Sea Pool",
+    body: "A much-loved semi-natural tidal sea pool below the cliffs at Summerleaze Beach. Free to use and cared for by a local charity, it's one of the finest and safest spots for a sea swim whatever the weather.",
+    href: "https://www.budeseapool.org/",
+  },
+  {
+    distance: "6 miles",
+    name: "Teylu Glass",
+    body: "A friendly glass studio in Bude running creative glass workshops for all ages (5+), alongside a gallery of beautiful handmade pieces. Book a hands-on class or simply browse for a special, locally-made gift — a perfect rainy-day activity.",
+    href: "https://www.teyluglass.co.uk/",
+  },
+  {
+    distance: "6 miles",
+    name: "Budehaven Recreation Ground",
+    body: "A much-loved recreation ground in the heart of Bude, run as a charitable trust since 1923. Tennis and squash courts, crazy golf, putting, bowls, table tennis and a café — great affordable family fun right by the town and beaches.",
+    href: "https://budehavenrec.com/",
+  },
+  {
+    distance: "18 miles",
+    name: "Cornwall at War Museum",
+    body: "Set on the historic WWII airfield at Davidstow, this volunteer-run museum houses aircraft, vehicles, uniforms and memorabilia telling the story of Cornwall at war. A fascinating day out for history enthusiasts.",
+    href: "https://cornwallatwarmuseum.co.uk/",
+  },
+  {
+    distance: "20 miles",
+    name: "The Big Sheep",
+    body: "A multi-award-winning family theme park just over the Devon border near Bideford. Sheep racing, duck trials, live shows, big rides and a huge indoor play barn — a brilliant full day out whatever the weather.",
+    href: "https://thebigsheep.co.uk/",
+  },
+  {
     distance: "30 miles",
     name: "Tintagel Castle",
     body: "One of the most spectacular historic sites in Britain. Built half on the mainland and half on a jagged headland, it is associated with the legend of King Arthur. English Heritage site — book in advance.",
