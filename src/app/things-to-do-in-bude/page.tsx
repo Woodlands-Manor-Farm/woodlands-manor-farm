@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import {
   AboutSubnav,
   CtaStrip,
@@ -136,6 +137,17 @@ export default function Page() {
         </p>
 
         <h3 className={styles.subHeading}>Beaches nearby</h3>
+        <div className={styles.imageBand}>
+          {[
+            { src: "/images/bude/beach-duckpool-thrift.jpg", alt: "Sea thrift in bloom above a wild North Cornwall beach near Bude" },
+            { src: "/images/bude/bude-sea-pool-swimmers.jpg", alt: "Swimmers enjoying Bude Sea Pool at Summerleaze Beach" },
+            { src: "/images/bude/summerleaze-summer-beach.jpg", alt: "Families on the golden sand at Summerleaze Beach, Bude in summer" },
+          ].map((img) => (
+            <div key={img.src} className={styles.imageBandItem}>
+              <Image src={img.src} alt={img.alt} fill sizes="(min-width: 640px) 33vw, 100vw" />
+            </div>
+          ))}
+        </div>
         <InfoCardGrid
           twoColumn
           cards={[
