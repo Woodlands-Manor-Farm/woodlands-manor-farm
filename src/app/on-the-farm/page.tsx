@@ -56,9 +56,9 @@ export default function Page() {
               variant: "violet",
             },
             {
-              icon: "♨️",
-              title: "Hot tub",
-              body: "Communal hot tub on the terrace — perfect for sundowners after a day on the coast path.",
+              icon: "🍖",
+              title: "High-end BBQ",
+              body: "Each cottage comes complete with a high-end BBQ, and all the cottages are surrounded by stunning valley views and outdoor space for relaxing and outdoor dining.",
               variant: "gold",
             },
             {
