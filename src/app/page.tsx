@@ -162,7 +162,7 @@ const TRIPADVISOR_URL =
 
 const NEARBY = [
   { name: "Duckpool Beach (National Trust)", distance: "2 miles" },
-  { name: "Sandymouth Beach", distance: "2.5 miles" },
+  { name: "Sandymouth Beach (National Trust)", distance: "2.5 miles" },
   { name: "Bude town & sea pool", distance: "6 miles" },
   { name: "Bude Surf School", distance: "7 miles" },
   { name: "The Bush Inn, Morwenstow", distance: "4 miles" },
