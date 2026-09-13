@@ -385,7 +385,12 @@
 .introTile {
   background: #fff;
   overflow: hidden;
+  display: block;
+  text-decoration: none;
+  color: inherit;
 }
+.introTileBody h3 { transition: color 0.2s; }
+.introTile:hover .introTileBody h3 { color: var(--color-violet); }
 .introTileImg {
   position: relative;
   height: 200px;
