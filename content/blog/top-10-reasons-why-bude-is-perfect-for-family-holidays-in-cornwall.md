@@ -4,7 +4,7 @@ slug: "top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall"
 date: "2025-02-11T15:08:38+00:00"
 author: "ruth"
 excerpt: "Explore the best family-friendly holidays in Cornwall with Bude's stunning beaches and attractions that everyone will love."
-feature_image: "/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/efbfb4df1717.png"
+feature_image: "/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/efbfb4df1717.jpg"
 source_url: "https://woodlandsmanorfarm.co.uk/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/"
 ---
 ## 10 Reasons Bude offers the best Family-Friendly Holidays, Cornwall
