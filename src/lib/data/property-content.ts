@@ -302,6 +302,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     stats: { guests: 4, bedrooms: 2, bathrooms: 1, dogs: "Yes" },
     amenities: [
+      "Open-plan kitchen-lounge-diner",
       "Country kitchen",
       "Stone walls",
       "Indoor pool access",
