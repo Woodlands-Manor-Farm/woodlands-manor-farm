@@ -86,12 +86,12 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "Really beautiful authentic old Manor House with quirky rooms and period features. Beautiful flat stone floors and huge fireplace. Brilliant place for multiple families with kids.",
-        author: "Alex K. — Manor House, 2023",
+        text: "We had an amazing stay in the Manor House, so much space and everything you need for a comfortable stay. Mattresses were so comfy too, lots to do in the surrounding areas and the heated pool was an added bonus. We loved it and will be back — thank you!",
+        author: "Donna M — Manor House, May 2026",
       },
       {
-        text: "Loads of space, the kitchen is really well equipped and bedrooms all really comfy. The indoor pool and games room was a godsend on a pretty wet week — the kids loved it all.",
-        author: "Claire P. — Manor House, 2023",
+        text: "A wonderful weekend in the Manor farmhouse with my family and five grandchildren. They absolutely loved exploring the house and playing hide and seek. There was so much space, the children enjoyed the lovely pool and we all had fun in the games room. We can't wait to go back!",
+        author: "Hilary S — Manor House, Mar 2026",
       },
     ],
     facilityChips: [
