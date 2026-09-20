@@ -82,7 +82,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 2,
     shortDescription: "Single-storey conversion with valley views and freestanding bath.",
     href: "/the-stables/",
-    heroImage: "/images/the-stables/stables-lounge-kitchen.jpg",
+    heroImage: "/images/the-stables/stables-exterior-pond.jpg",
     superControlId: "565803",
   },
   {
