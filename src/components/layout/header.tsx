@@ -142,7 +142,7 @@ export function Header() {
           type="button"
           aria-label="Close menu"
           onClick={() => setOpen(false)}
-          className="absolute right-5 top-[18px] p-1 text-2xl leading-none text-[rgba(247,243,238,0.3)] transition-colors hover:text-[#F7F4EF]"
+          className="absolute right-5 top-[18px] p-1 text-2xl leading-none text-[rgba(247,243,238,0.6)] transition-colors hover:text-[#F7F4EF]"
         >
           ×
         </button>
@@ -163,7 +163,7 @@ export function Header() {
               <Link
                 href={link.href}
                 onClick={() => setOpen(false)}
-                className="group flex items-baseline gap-4 px-10 py-[15px] font-serif text-xl text-[rgba(247,243,238,0.6)] transition-all duration-200 hover:pl-12 hover:text-[#F7F4EF]"
+                className="group flex items-baseline gap-4 px-10 py-[15px] font-serif text-xl text-[rgba(247,243,238,0.82)] transition-all duration-200 hover:pl-12 hover:text-[#F7F4EF]"
               >
                 <span className="min-w-[18px] font-sans text-[10px] tracking-[0.18em] text-[var(--color-violet)]">
                   {link.num}
@@ -177,7 +177,7 @@ export function Header() {
                       <Link
                         href={child.href}
                         onClick={() => setOpen(false)}
-                        className="block py-[7px] font-sans text-[14px] font-light text-[rgba(247,243,238,0.45)] transition-colors duration-200 hover:text-[#F7F4EF]"
+                        className="block py-[7px] font-sans text-[14px] font-light text-[rgba(247,243,238,0.62)] transition-colors duration-200 hover:text-[#F7F4EF]"
                       >
                         {child.label}
                       </Link>
@@ -197,7 +197,7 @@ export function Header() {
           >
             Check Availability
           </Link>
-          <div className="flex flex-col gap-1 text-xs font-light text-[rgba(247,243,238,0.4)]">
+          <div className="flex flex-col gap-1 text-xs font-light text-[rgba(247,243,238,0.8)]">
             <a href={`tel:${SITE.contact.phone}`} className="transition-colors hover:text-[#F7F4EF]">
               {SITE.contact.phoneDisplay}
             </a>
@@ -210,7 +210,7 @@ export function Header() {
               href="https://www.facebook.com/woodlandsmanorfarm.co.uk/"
               target="_blank"
               rel="noreferrer"
-              className="text-[10px] uppercase tracking-[0.18em] text-[rgba(247,243,238,0.3)] transition-colors hover:text-[var(--color-warm-stone)]"
+              className="text-[10px] uppercase tracking-[0.18em] text-[rgba(247,243,238,0.72)] transition-colors hover:text-[var(--color-warm-stone)]"
             >
               Facebook
             </a>
@@ -218,7 +218,7 @@ export function Header() {
               href="https://www.instagram.com/woodlandsmanorfarm/"
               target="_blank"
               rel="noreferrer"
-              className="text-[10px] uppercase tracking-[0.18em] text-[rgba(247,243,238,0.3)] transition-colors hover:text-[var(--color-warm-stone)]"
+              className="text-[10px] uppercase tracking-[0.18em] text-[rgba(247,243,238,0.72)] transition-colors hover:text-[var(--color-warm-stone)]"
             >
               Instagram
             </a>
