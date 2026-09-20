@@ -38,7 +38,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 4,
     shortDescription: "Two-lounge converted barn with stone fireplace, sleeps 8.",
     href: "/rose-cottage/",
-    heroImage: "/images/rose-cottage/rose-lounge.jpg",
+    heroImage: "/images/rose-cottage/rose-lounge-upstairs.jpg",
     superControlId: "562739",
   },
   {
