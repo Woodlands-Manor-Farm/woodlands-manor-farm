@@ -27,7 +27,7 @@ const EXPERIENCES = [
     alt: "Grooming Lulu the mini Shetland pony",
     type: "Outdoors",
     name: "Pony experience",
-    body: "An hour with Lulu, the gentlest pony on the farm — grooming, leading and brushing. Brilliant for children aged 3+. Costs £35, runs in school holidays, book at least a week ahead.",
+    body: "An hour with Lulu, the gentlest pony on the farm — grooming, leading and brushing. Brilliant for children aged 3+. Transform her into a Rainbow Unicorn and have a little ride around the farm.",
     detail: "School holidays · From £35",
   },
   {
