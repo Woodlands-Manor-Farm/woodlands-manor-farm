@@ -17,32 +17,32 @@ Forget the big-brand rush, shopping in Bude is about meaningful purchases, frien
 
 A two-storey independent treasure trove — with coastal-inspired fashion, footwear, homewares, gifts, and accessories.
 
- [![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) The merchantman](https://www.visitbude.info/directory/the-merchantman/)
+ [The merchantman](https://www.visitbude.info/directory/the-merchantman/)
 
 ### Spencer Thorn Bookshop
 
 Beloved Bude bookshop with fiction, children’s titles, Cornish reads, maps, and cards. A true community gem.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [spencerthorn.com](https://spencerthorn.com/)
+[spencerthorn.com](https://spencerthorn.com/)
 
 ### Wildwood Cornwall
 
 Lifestyle store with natural textiles, ethical fashion, handmade lighting, local artwork, and more.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [wildwoodcornwall.co.uk](https://wildwoodcornwall.co.uk/)
+[wildwoodcornwall.co.uk](https://wildwoodcornwall.co.uk/)
 
 ### Budeful Ltd
 
 A bright, design-led shop featuring Bude-themed gifts, prints, and home decor. A top stop for souvenirs and stylish interiors.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [budeful.com](https://www.budeful.com/)
+[budeful.com](https://www.budeful.com/)
 
 ### Bellini’s Deli Kitchen
 
 Stocking delicious deli items, Cornish produce, fine wines, hampers, and sweet treats. Great for gifting and self-indulgence.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [bellinisdelikitchen.co.uk](https://bellinisdelikitchen.co.uk/)
+[bellinisdelikitchen.co.uk](https://bellinisdelikitchen.co.uk/)
 
 ### Refill Shop Bude
 
 Eco-living hub with plastic-free alternatives, local goods, and beautiful lifestyle gifts.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [refillshop.co.uk](https://refillshop.co.uk/)
+[refillshop.co.uk](https://refillshop.co.uk/)
 
 ### Coast and Country Interiors
 
@@ -63,7 +63,7 @@ Contemporary lifestyle and interiors shop with candles, glassware, home decor, a
 ### Wroes Department Store
 
 Traditional and much-loved department store — fashion, homewares, and kitchen essentials all under one roof.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [wroes.co.uk](https://www.wroes.co.uk/)
+[wroes.co.uk](https://www.wroes.co.uk/)
 
 ### North Coast Wine Lounge
 
@@ -82,69 +82,69 @@ National favourite for low-cost books, toys, games, and stocking fillers.
 ### Lucas & Rose
 
 Stylish boutique across two Bude locations, offering on-trend women’s fashion with great service.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [facebook.com/lucasandrosebude](https://www.facebook.com/lucasandrosebude)
+[facebook.com/lucasandrosebude](https://www.facebook.com/lucasandrosebude)
 
 ### Saltrock Bude
 
 Bright, bold, and coastal. Surfwear for all ages — from hoodies to graphic tees.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [saltrock.com](https://www.saltrock.com/)
+[saltrock.com](https://www.saltrock.com/)
 
 ### Quba & Co
 
 Nautical heritage fashion, perfect for winter layering. Smart, practical, and coastal cool.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [quba.com](https://www.quba.com/)
+[quba.com](https://www.quba.com/)
 
 ### 2nd Lyfe
 
 Independent children’s clothing shop focused on sustainable, ethical fashion and pre-loved goods.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [2ndlyfe.co.uk](https://www.2ndlyfe.co.uk/)
+[2ndlyfe.co.uk](https://www.2ndlyfe.co.uk/)
 
 ### Kernow Fleece
 
 Locally-made fleeces, cosywear, and knit accessories. A Cornish classic.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [facebook.com/kernowfleece](https://www.facebook.com/kernowfleece)
+[facebook.com/kernowfleece](https://www.facebook.com/kernowfleece)
 
 ### Ann’s Cottage
 
 Legendary surf brand with a great selection of clothing, wetsuits, and footwear.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [annscottage.com](https://www.annscottage.com/)
+[annscottage.com](https://www.annscottage.com/)
 
 ### Animal
 
 Relaxed, active coastal clothing for surfers and adventurers.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [animal.co.uk](https://www.animal.co.uk/)
+[animal.co.uk](https://www.animal.co.uk/)
 
 ### Peacocks
 
 Accessible high-street fashion for the whole family.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [peacocks.co.uk](https://www.peacocks.co.uk/)
+[peacocks.co.uk](https://www.peacocks.co.uk/)
 
 ### Mountain Warehouse
 
 Adventure-ready outdoor wear, thermals, jackets and gear for walking holidays.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [mountainwarehouse.com](https://www.mountainwarehouse.com/)
+[mountainwarehouse.com](https://www.mountainwarehouse.com/)
 
 ### Trespass
 
 Another go-to for waterproofs, boots, and all-weather essentials.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [trespass.com](https://www.trespass.com/)
+[trespass.com](https://www.trespass.com/)
 
 ### Wroes Department Store (Clothing Section)
 
 In addition to homewares and gifts, Wroes also stocks quality menswear and womenswear with a focus on comfort and seasonal style.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [wroes.co.uk](https://www.wroes.co.uk/)
+[wroes.co.uk](https://www.wroes.co.uk/)
 
 ## Art Galleries & Studios
 
 ### Seventh Wave Gallery
 
 Showcasing Cornwall’s most vibrant artists. A must for art lovers and collectors.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [seventhwavegallery.co.uk](https://seventhwavegallery.co.uk/)
+[seventhwavegallery.co.uk](https://seventhwavegallery.co.uk/)
 
 ### The Castle Bude
 
 Home to rotating exhibitions, gift shop, history displays, and Café Limelight.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [thecastlebude.co.uk](https://www.thecastlebude.co.uk/)
+[thecastlebude.co.uk](https://www.thecastlebude.co.uk/)
 
 ### Beau Nidol
 
@@ -165,7 +165,7 @@ Combining skilled framing with curated gallery exhibitions and bespoke gifts.
 ### Teyr Fine Art
 
 Contemporary art gallery featuring striking exhibitions from new and established artists.  
-![🌐](/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/2e01a5172f2b.svg) [teyrfineart.co.uk](https://www.teyrfineart.co.uk/)
+[teyrfineart.co.uk](https://www.teyrfineart.co.uk/)
 
 ### Ocean And Earth
 
