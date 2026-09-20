@@ -43,8 +43,8 @@ const EXPERIENCES = [
     alt: "Wedding setup at Woodlands",
     type: "Exclusive use",
     name: "Weddings & events",
-    body: "Hire the whole farm exclusively for your wedding, milestone birthday, corporate retreat or family reunion. All 9 properties (44 guests), pool, games room, and the courtyard for ceremony or party.",
-    detail: "Up to 44 guests · Bespoke",
+    body: "Hire the whole farm exclusively for your wedding, milestone birthday, corporate retreat or family reunion. All 9 properties (accommodating 44 guests), pool and games room, plus a variety of locations to choose from — the courtyard, orchard and playing field.",
+    detail: "Up to 44 guests accommodated + additional guests",
   },
   {
     img: "/images/blog-template/dcf926b3c1174be3.jpg",
