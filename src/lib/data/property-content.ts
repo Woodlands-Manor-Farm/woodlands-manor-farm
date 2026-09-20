@@ -182,8 +182,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "Perfect family base — two lounges meant the kids had their space and we had ours. Stone fireplace lit beautifully. Andy is a brilliant host.",
-        author: "The Holland family — Rose Cottage, 2024",
+        text: "Rose Cottage comfortably accommodated three generations aged from less than one to over 60. There was plenty for the children and adults to do at the farm, and the children particularly enjoyed feeding the animals — Sparky was a real hit! We would happily come back.",
+        author: "Peter — Rose Cottage, Airbnb",
       },
     ],
     facilityChips: SHARED_FACILITIES,
@@ -349,7 +349,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Vaulted beams · Couples' retreat",
     subtitle: "Ivy-clad stone retreat — sleeps 2 + cot",
     description:
-      "An ivy-clad Cornish stone cottage with vaulted beams, a super-king bedroom, and a private garden. Built for couples or a small family wanting peace and quiet, with everything the farm has to offer just a stroll across the courtyard.",
+      "An ivy-clad Cornish stone cottage with vaulted beams, a super-king bedroom, and valley views. Built for couples or a small family wanting peace and quiet, with everything the farm has to offer just a stroll across the courtyard.",
     gallery: [
       { src: "/images/the-coach-house/coach-exterior.jpg", alt: "The Coach House — ivy-clad Cornish stone exterior" },
       { src: "/images/the-coach-house/coach-garden.jpg", alt: "The Coach House garden and stone steps with valley views" },
