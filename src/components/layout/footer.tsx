@@ -33,11 +33,11 @@ export function Footer() {
         <div>
           <Link href="/" className="block font-serif text-xl text-[var(--color-cream)] no-underline">
             {SITE.name}
-            <span className="mt-0.5 block font-sans text-[10px] font-normal uppercase tracking-[0.3em] text-[var(--color-warm-stone)]">
+            <span className="mt-0.5 block font-sans text-[10px] font-normal uppercase tracking-[0.3em] text-[var(--color-cream)]">
               Bude, Cornwall · {SITE.contact.address.postalCode}
             </span>
           </Link>
-          <p className="mt-6 max-w-sm text-[13px] font-light leading-7 text-[rgba(247,243,238,0.45)]">
+          <p className="mt-6 max-w-sm text-[13px] font-light leading-7 text-[rgba(247,243,238,0.85)]">
             A 17th-century farm in the Coombe Valley offering cottages, yurts, an indoor pool, and
             the warmest of Cornish welcomes.
           </p>
@@ -47,7 +47,7 @@ export function Footer() {
               target="_blank"
               rel="noreferrer"
               aria-label="Facebook"
-              className="flex h-9 w-9 items-center justify-center rounded-full border border-[rgba(247,243,238,0.15)] text-xs text-[rgba(247,243,238,0.6)] transition-colors hover:border-[var(--color-cream)] hover:text-[var(--color-cream)]"
+              className="flex h-9 w-9 items-center justify-center rounded-full border border-[rgba(247,243,238,0.15)] text-xs text-[rgba(247,243,238,0.85)] transition-colors hover:border-[var(--color-cream)] hover:text-[var(--color-cream)]"
             >
               f
             </a>
@@ -56,7 +56,7 @@ export function Footer() {
               target="_blank"
               rel="noreferrer"
               aria-label="Instagram"
-              className="flex h-9 w-9 items-center justify-center rounded-full border border-[rgba(247,243,238,0.15)] text-xs text-[rgba(247,243,238,0.6)] transition-colors hover:border-[var(--color-cream)] hover:text-[var(--color-cream)]"
+              className="flex h-9 w-9 items-center justify-center rounded-full border border-[rgba(247,243,238,0.15)] text-xs text-[rgba(247,243,238,0.85)] transition-colors hover:border-[var(--color-cream)] hover:text-[var(--color-cream)]"
             >
               ig
             </a>
@@ -64,7 +64,7 @@ export function Footer() {
         </div>
 
         <div>
-          <h4 className="mb-5 text-[11px] uppercase tracking-[0.25em] text-[var(--color-warm-stone)]">
+          <h4 className="mb-5 text-[11px] uppercase tracking-[0.25em] text-[var(--color-cream)]">
             Stay
           </h4>
           <ul className="space-y-2.5 text-[13px] font-light">
@@ -72,7 +72,7 @@ export function Footer() {
               <li key={link.href}>
                 <Link
                   href={link.href}
-                  className="text-[rgba(247,243,238,0.5)] transition-colors hover:text-[var(--color-cream)]"
+                  className="text-[rgba(247,243,238,0.85)] transition-colors hover:text-[var(--color-cream)]"
                 >
                   {link.label}
                 </Link>
@@ -82,7 +82,7 @@ export function Footer() {
         </div>
 
         <div>
-          <h4 className="mb-5 text-[11px] uppercase tracking-[0.25em] text-[var(--color-warm-stone)]">
+          <h4 className="mb-5 text-[11px] uppercase tracking-[0.25em] text-[var(--color-cream)]">
             Explore
           </h4>
           <ul className="space-y-2.5 text-[13px] font-light">
@@ -90,7 +90,7 @@ export function Footer() {
               <li key={link.href}>
                 <Link
                   href={link.href}
-                  className="text-[rgba(247,243,238,0.5)] transition-colors hover:text-[var(--color-cream)]"
+                  className="text-[rgba(247,243,238,0.85)] transition-colors hover:text-[var(--color-cream)]"
                 >
                   {link.label}
                 </Link>
@@ -100,10 +100,10 @@ export function Footer() {
         </div>
 
         <div>
-          <h4 className="mb-5 text-[11px] uppercase tracking-[0.25em] text-[var(--color-warm-stone)]">
+          <h4 className="mb-5 text-[11px] uppercase tracking-[0.25em] text-[var(--color-cream)]">
             Contact
           </h4>
-          <ul className="space-y-2.5 text-[13px] font-light text-[rgba(247,243,238,0.5)]">
+          <ul className="space-y-2.5 text-[13px] font-light text-[rgba(247,243,238,0.85)]">
             <li>
               <a
                 href={`tel:${SITE.contact.phone}`}
@@ -144,10 +144,10 @@ export function Footer() {
       {NEWSLETTER.formActionUrl && (
         <div className="mx-auto grid max-w-6xl gap-8 border-b border-[rgba(247,243,238,0.1)] py-12 md:grid-cols-2 md:items-center">
           <div>
-            <h4 className="mb-3 text-[11px] uppercase tracking-[0.25em] text-[var(--color-warm-stone)]">
+            <h4 className="mb-3 text-[11px] uppercase tracking-[0.25em] text-[var(--color-cream)]">
               Last-minute offers &amp; farm news
             </h4>
-            <p className="max-w-sm text-[13px] font-light leading-6 text-[rgba(247,243,238,0.45)]">
+            <p className="max-w-sm text-[13px] font-light leading-6 text-[rgba(247,243,238,0.85)]">
               Late-availability deals and a short monthly newsletter from the farm. No spam —
               unsubscribe any time.
             </p>
@@ -158,7 +158,7 @@ export function Footer() {
         </div>
       )}
 
-      <div className="mx-auto mt-10 flex max-w-6xl flex-col items-start justify-between gap-3 text-xs text-[rgba(247,243,238,0.3)] md:flex-row md:items-center">
+      <div className="mx-auto mt-10 flex max-w-6xl flex-col items-start justify-between gap-3 text-xs text-[rgba(247,243,238,0.85)] md:flex-row md:items-center">
         <span>© {year} Woodlands Manor Farm. All rights reserved.</span>
         <ul className="flex flex-wrap gap-x-5 gap-y-2">
           <li>
