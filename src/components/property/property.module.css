@@ -342,6 +342,23 @@
   border-radius: 4px;
   padding: 24px;
 }
+.sisterCta {
+  margin-top: 20px;
+  padding: 16px 20px;
+  background: var(--color-cream);
+  border: 1px solid rgba(127, 151, 137, 0.22);
+  border-radius: 4px;
+  font-size: 14px;
+  color: var(--color-text-mid);
+  font-weight: 300;
+  line-height: 1.7;
+}
+.sisterCta a {
+  color: var(--color-violet);
+  font-weight: 500;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(139, 123, 181, 0.35);
+}
 .bookFinePrint {
   margin-top: 20px;
   font-size: 12px;
