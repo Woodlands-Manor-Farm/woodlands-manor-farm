@@ -9,35 +9,6 @@ source_url: "https://woodlandsmanorfarm.co.uk/summerleaze-beach-top-20-uk-beach-
 ---
 ## Summerleaze Beach, Bude Beach Named in The Times Top 50 UK Beaches
 
-#gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
-
-[![Summerleaze Beach in Summer](/images/blog/summerleaze-beach-top-20-uk-beach-l/eaec8c78c097.webp)](https://woodlandsmanorfarm.co.uk/summerleaze-beach/)
-
-Summerleaze Beach in Summer
-
-[![Bude Sea Pool Blue](/images/blog/summerleaze-beach-top-20-uk-beach-l/d869a3433680.webp)](https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/screenshot-2024-02-04-at-16-50-33/)
-
-Bude Sea Pool, Cornwall
-
-[![Summerleaze Beach Huts](/images/blog/summerleaze-beach-top-20-uk-beach-l/1c250a180076.webp)](https://woodlandsmanorfarm.co.uk/ray-harrington-p-qt4gv0lc-unsplash/)
-
-Summerleaze Beach Huts
-
-  
-
-[![Bude Canal](/images/blog/summerleaze-beach-top-20-uk-beach-l/1b2c02fedd21.png)](https://woodlandsmanorfarm.co.uk/screenshot-2024-07-19-at-22-09-22/)
-
-Bude Canal
-
-[![Summerleaze Beach Sea View](/images/blog/summerleaze-beach-top-20-uk-beach-l/b3f89705044a.webp)](https://woodlandsmanorfarm.co.uk/fishing-in-and-around-bude/summerleaze-fishing/)
-
-Summerleaze Beach Sea View
-
-[![Bude Sea Pool and Beach](/images/blog/summerleaze-beach-top-20-uk-beach-l/8bb6f4f4a932.webp)](https://woodlandsmanorfarm.co.uk/woodlands-manor-farm-local-beaches/bude-sea-pool/)
-
-Bude Sea Pool and Beach
-
-  
 
 All in Bude are super proud that Summerleaze Beach, has been celebrated as one of the top 50 beaches in the UK by [The Times](https://www.thetimes.com/travel/destinations/uk-travel/best-beaches-uk-b5b2krtp7) newspaper. As locals we know how great the beach is, it has everything you need – sandy expanse, rock-pools, [Sea Pool,](https://www.budeseapool.org/) unique sea canal, [great surf schools](https://woodlandsmanorfarm.co.uk/local-surf-schools-bude/), cafes, restaurant’s and the town center a stones throw away. 
 

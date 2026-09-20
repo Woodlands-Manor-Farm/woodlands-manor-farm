@@ -9,7 +9,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/wild-swimming-delights-near-woodla
 ---
 # **Wild Swimming Delights near Woodlands Manor Farm, Cornwall**
 
-[Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/) in Cornwall isn’t just about stunning scenery and cozy cottages – it’s your gateway to a wild swimming adventure! With some of North Cornwall’s best wild swimming spots nearby, wild swimming is the perfect way to reconnect with nature. Plus, we offer the ideal place to stay – choose from one of our luxury [holiday cottages](https://woodlandsmanorfarm.co.uk/cottages-bude/) or [glamorous yurts](https://woodlandsmanorfarm.co.uk/yurts/).
+[Woodlands Manor Farm](/) in Cornwall isn’t just about stunning scenery and cozy cottages – it’s your gateway to a wild swimming adventure! With some of North Cornwall’s best wild swimming spots nearby, wild swimming is the perfect way to reconnect with nature. Plus, we offer the ideal place to stay – choose from one of our luxury [holiday cottages](/bude-holiday-cottages/) or [glamorous yurts](/yurts/).
 
 ## The Benefits of Wild Swimming
 
@@ -28,33 +28,6 @@ Discover these incredible wild swimming locations near Woodlands Manor Farm:
 -   **St Nectans Glen**
 -   **Westward Ho! Rock Sea Pool**
 
-[![Bude Sea Pool and Beach](/images/blog/wild-swimming-delights-near-woodlands-manor-farm/8bb6f4f4a932.webp)](https://woodlandsmanorfarm.co.uk/woodlands-manor-farm-local-beaches/bude-sea-pool/)
-
-Bude Sea Pool and Beach
-
-[![Goldiggins](/images/blog/wild-swimming-delights-near-woodlands-manor-farm/2c2e41b34a09.jpg)](https://woodlandsmanorfarm.co.uk/goldiggins-edited/)
-
-Goldiggins Quarry
-
-[![Golitha Falls](/images/blog/wild-swimming-delights-near-woodlands-manor-farm/ff232e62c37e.webp)](https://woodlandsmanorfarm.co.uk/golitha-falls-autumn/)
-
-Golitha Falls
-
-  
-
-[![Respryn Bridge](/images/blog/wild-swimming-delights-near-woodlands-manor-farm/d27da453611c.jpg)](https://woodlandsmanorfarm.co.uk/respryn-bridge/)
-
-Respryn Bridge
-
-[![St Nectans Glen](/images/blog/wild-swimming-delights-near-woodlands-manor-farm/a53f6a2d5fad.webp)](https://woodlandsmanorfarm.co.uk/st-nectans-glen_-waterfall-1-20mp-768x512/)
-
-St Nectans Glen
-
-[![Westward Ho Sea Pool](/images/blog/wild-swimming-delights-near-woodlands-manor-farm/803f1a259077.webp)](https://woodlandsmanorfarm.co.uk/westward-ho-sea-pool-730x480/)
-
-Westward Ho Sea Pool
-
-  
 
 ## Best Wild Swimming Locations – Cornwall
 
