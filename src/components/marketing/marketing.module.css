@@ -40,7 +40,7 @@
   font-size: 11px;
   letter-spacing: 4px;
   text-transform: uppercase;
-  color: var(--color-warm-stone);
+  color: var(--color-cream);
   margin-bottom: 14px;
 }
 .heroLeft h1 {
@@ -165,7 +165,7 @@
   color: var(--color-violet);
   margin-bottom: 12px;
 }
-.eyebrowLight { color: var(--color-warm-stone); }
+.eyebrowLight { color: var(--color-cream); }
 .sectionLead {
   font-size: 15px;
   color: var(--color-text-mid);
@@ -174,7 +174,7 @@
   max-width: 700px;
   margin-bottom: 40px;
 }
-.sectionLeadLight { color: rgba(247, 244, 239, 0.7); }
+.sectionLeadLight { color: rgba(247, 244, 239, 0.92); }
 
 /* Offer cards */
 .offerGrid {
@@ -413,7 +413,7 @@
 .finalCta h2 em { font-style: italic; color: var(--color-warm-stone); }
 .finalCta p {
   font-size: 15px;
-  color: rgba(247, 244, 239, 0.7);
+  color: rgba(247, 244, 239, 0.92);
   font-weight: 300;
   margin-bottom: 32px;
   max-width: 560px;
@@ -478,7 +478,7 @@
 .gHeaderScore {
   font-size: 46px;
   font-family: var(--font-serif);
-  color: #e8a020;
+  color: #b8790c;
   line-height: 1;
 }
 .gHeaderStars { color: #e8b923; font-size: 20px; letter-spacing: 2px; margin: 6px 0; }

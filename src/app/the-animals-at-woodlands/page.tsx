@@ -148,7 +148,7 @@ export default function Page() {
               fontSize: 10,
               letterSpacing: "0.25em",
               textTransform: "uppercase",
-              color: "var(--color-warm-stone)",
+              color: "var(--color-cream)",
               marginBottom: 10,
             }}
           >
@@ -168,7 +168,7 @@ export default function Page() {
           <p
             style={{
               fontSize: 14,
-              color: "rgba(247,244,239,0.65)",
+              color: "rgba(247,244,239,0.92)",
               fontWeight: 300,
               lineHeight: 1.75,
               maxWidth: 560,
@@ -209,7 +209,7 @@ export default function Page() {
               fontSize: 11,
               letterSpacing: "0.22em",
               textTransform: "uppercase",
-              color: "var(--color-warm-stone)",
+              color: "var(--color-cream)",
               fontWeight: 500,
               marginBottom: 10,
             }}

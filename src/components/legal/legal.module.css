@@ -11,7 +11,7 @@
   font-size: 11px;
   letter-spacing: 4px;
   text-transform: uppercase;
-  color: var(--color-warm-stone);
+  color: var(--color-cream);
   margin-bottom: 14px;
 }
 .title {
@@ -25,7 +25,7 @@
 .meta {
   margin-top: 14px;
   font-size: 13px;
-  color: rgba(247, 244, 239, 0.6);
+  color: rgba(247, 244, 239, 0.92);
   letter-spacing: 1px;
 }
 

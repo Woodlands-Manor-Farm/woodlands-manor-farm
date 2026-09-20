@@ -35,7 +35,7 @@
   font-size: 11px;
   letter-spacing: 4px;
   text-transform: uppercase;
-  color: var(--color-warm-stone);
+  color: var(--color-cream);
   margin-bottom: 12px;
 }
 .heroTitle {
@@ -208,7 +208,7 @@
 .cardTag {
   background: rgba(74, 100, 89, 0.72);
   backdrop-filter: blur(4px);
-  color: rgba(247, 244, 239, 0.9);
+  color: #ffffff;
   font-size: 9px;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -304,7 +304,7 @@
   font-size: 10px;
   letter-spacing: 4px;
   text-transform: uppercase;
-  color: var(--color-warm-stone);
+  color: var(--color-cream);
   margin-bottom: 14px;
 }
 .groupTitle {
@@ -318,7 +318,7 @@
 .groupTitle em { font-style: italic; color: var(--color-warm-stone); }
 .groupText {
   font-size: 14px;
-  color: rgba(247, 244, 239, 0.9);
+  color: #ffffff;
   line-height: 1.85;
   font-weight: 300;
 }
@@ -357,7 +357,7 @@
   gap: 3px;
 }
 .gcTile {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.16);
   padding: 24px 20px;
 }
 .gcNum {
@@ -371,7 +371,7 @@
   font-size: 10px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: var(--color-warm-stone);
+  color: var(--color-cream);
 }
 .gcDesc {
   font-size: 12px;

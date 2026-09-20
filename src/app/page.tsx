@@ -363,7 +363,7 @@ export default function HomePage() {
       {/* Experience */}
       <section id="experience" className={styles.experience}>
         <div className={styles.experienceLeft}>
-          <p className={styles.label} style={{ color: "var(--color-warm-stone)" }}>
+          <p className={styles.label} style={{ color: "var(--color-cream)" }}>
             More than a place to sleep
           </p>
           <h2>
@@ -398,7 +398,7 @@ export default function HomePage() {
       {/* Video tour */}
       <section id="video" className={styles.video}>
         <div className={styles.videoHead}>
-          <p className={styles.label} style={{ color: "var(--color-warm-stone)" }}>
+          <p className={styles.label} style={{ color: "var(--color-cream)" }}>
             See it for yourself
           </p>
           <h2>
