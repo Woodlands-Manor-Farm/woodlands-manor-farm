@@ -47,29 +47,29 @@ The opportunity to wake up to breathtaking views is another compelling reason to
 
 Glamping offers much more comfort compared to traditional camping, with amenities like comfortable beds, heating, air conditioning, and private bathrooms. The convenience of having a ready-made tent and provided essentials like cutlery and bedding means guests can start their holiday quicker and with less hassle. This level of comfort and convenience is particularly appealing to families, making glamping a preferred choice for a stress-free vacation.
 
-[![Fenton Yurt Woodlands Manor Farm](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/0460419657ff.webp)](https://woodlandsmanorfarm.co.uk/yurts-bude/)
+![Fenton Yurt Woodlands Manor Farm](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/0460419657ff.webp)
 
 Fenton Yurt Woodlands Manor Farm
 
-[![Yurt Kitchen / Diner](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/00a43ef9e1d6.webp)](https://woodlandsmanorfarm.co.uk/yurts-devon/)
+![Yurt Kitchen / Diner](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/00a43ef9e1d6.webp)
 
 Yurt Kitchen / Diner
 
-[![Yurt Bathroom and Wash Area](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/783ab0b22f76.webp)](https://woodlandsmanorfarm.co.uk/220526_9319/)
+![Yurt Bathroom and Wash Area](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/783ab0b22f76.webp)
 
 Yurt Bathroom and Wash Area
 
   
 
-[![Yurt Fenton, single bed](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/4cd4f604dc87.webp)](https://woodlandsmanorfarm.co.uk/220526_9403/)
+![Yurt Fenton, single bed](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/4cd4f604dc87.webp)
 
 Yurt Fenton, single bed
 
-[![Yurt Fenton, Outside View](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/c608d08bb962.webp)](https://woodlandsmanorfarm.co.uk/220526_9429/)
+![Yurt Fenton, Outside View](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/c608d08bb962.webp)
 
 Yurt Fenton, Outside View
 
-[![Budhyn Yurt, double bed](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/fc098f597226.webp)](https://woodlandsmanorfarm.co.uk/img_2875-2-home-page/)
+![Budhyn Yurt, double bed](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/fc098f597226.webp)
 
 Budhyn Yurt, King-Size bed
 
@@ -79,7 +79,7 @@ Budhyn Yurt, King-Size bed
 
 Most glamping sites in Cornwall are located in secure areas, often with added security measures such as staff on-site or gated entrances. This added peace of mind allows guests to fully immerse themselves in the glamping experience, knowing that their safety is a priority. The emphasis on security contributes to the overall appeal of glamping in Cornwall, ensuring a worry-free holiday.
 
-For those considering a glamping adventure in Cornwall, [Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/) offers a unique blend of luxury and nature. With two [luxury glamping Yurts](https://woodlandsmanorfarm.co.uk/yurts/) and many onsite activities, it’s the perfect place to experience the best of Cornwall. [Book direct](https://woodlandsmanorfarm.co.uk/book-direct/) with Woodlands Manor Farm for an unforgettable glamping experience.
+For those considering a glamping adventure in Cornwall, [Woodlands Manor Farm](/) offers a unique blend of luxury and nature. With two [luxury glamping Yurts](/yurts/) and many onsite activities, it’s the perfect place to experience the best of Cornwall. [Book direct](/holiday-cottage-direct-booking-woodlands-cornwall/) with Woodlands Manor Farm for an unforgettable glamping experience.
 
 ## Best Times of the Year to Go Glamping in Cornwall
 
@@ -113,13 +113,13 @@ For an exceptional glamping experience that combines luxury with the allure of n
 
 Cornwall’s glamping scene offers a diverse range of sites catering to different preferences, from family-friendly and pet-friendly options to luxurious retreats. Each site provides a unique way to experience the natural beauty and serenity of Cornwall, ensuring a memorable glamping adventure. Here’s a closer look at some of the top glamping sites in Cornwall, categorized to help you find the perfect spot for your next getaway.
 
-For those considering a glamping adventure in Cornwall, [Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/) offers a unique blend of luxury and nature. With a range of accommodations and activities, it’s the perfect place to experience the best of Cornwall. [Book directly](https://woodlandsmanorfarm.co.uk/book-direct/) with Woodlands Manor Farm for an unforgettable glamping experience.
+For those considering a glamping adventure in Cornwall, [Woodlands Manor Farm](/) offers a unique blend of luxury and nature. With a range of accommodations and activities, it’s the perfect place to experience the best of Cornwall. [Book directly](/holiday-cottage-direct-booking-woodlands-cornwall/) with Woodlands Manor Farm for an unforgettable glamping experience.
 
 ## Unique Glamping Accommodations
 
 Cornwall’s glamping landscape is as diverse as it is beautiful, offering a variety of unique accommodations that cater to every taste and preference. From yurts that whisk you away to a Mongolian-inspired retreat to safari tents that blend luxury with the wild, and shepherd’s huts that offer a quaint, cozy escape, Cornwall has it all. Here’s a closer look at these unique glamping accommodations that promise an unforgettable stay.
 
-### [Yurts](https://woodlandsmanorfarm.co.uk/yurts/)
+### [Yurts](/yurts/)
 
 Yurts in Cornwall provide a magical escape, combining the simplicity of living close to nature with the comforts of a luxury holiday. These spacious, eco-friendly accommodations are perfect for both families and couples, offering real beds, wood-burning stoves, and soft furnishings to enhance your stay.  
 
@@ -147,7 +147,7 @@ After a day of exploration, glamping in Cornwall also caters to those in pursuit
 
 Cornwall is steeped in history and culture, home to a wealth of attractions that appeal to all interests. From exploring ancient castles and historic fishing villages to visiting the world-renowned [Eden Project](https://www.edenproject.com/), there’s no shortage of places to discover. Art and culinary enthusiasts will find plenty to admire in Cornwall’s vibrant local community, offering an insight into the region’s rich cultural heritage. For families, theme parks, historic houses, and wildlife encounters provide entertaining and educational days out. And for those looking to immerse themselves in the local legends and scenery, [Tintagel Castle](https://www.english-heritage.org.uk/visit/places/tintagel-castle/) and [St Michael’s Mount](https://stmichaelsmount.co.uk/) are must-visit destinations.
 
-For an unforgettable glamping adventure that allows you to explore the best of Cornwall’s outdoor activities, relaxation opportunities, and local attractions, consider booking directly with [Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/). Offering a range of accommodations and activities, it’s the perfect base for your Cornwall exploration.
+For an unforgettable glamping adventure that allows you to explore the best of Cornwall’s outdoor activities, relaxation opportunities, and local attractions, consider booking directly with [Woodlands Manor Farm](/). Offering a range of accommodations and activities, it’s the perfect base for your Cornwall exploration.
 
 ## Glamping and Local Cuisine
 
@@ -155,7 +155,7 @@ For an unforgettable glamping adventure that allows you to explore the best of C
 
 Cornwall is renowned for its exceptional seafood and local produce. Visitors can indulge in freshly caught fish and seafood, a highlight of the region’s culinary offerings. For those interested in hands-on experiences, local fishing tours allow guests to catch their own dinner, adding a unique and personal touch to their culinary adventure.
 
-### [Cooking and Dining Experiences](https://woodlandsmanorfarm.co.uk/local-bude-restaurants/)
+### [Cooking and Dining Experiences](/the-best-bude-restaurants/)
 
 Glamping in Cornwall offers more than just a place to stay; it’s a gateway to gastronomic delights. 
 
@@ -167,7 +167,7 @@ For those looking to refine their culinary skills or simply enjoy a leisurely af
 
 Cornwall boasts a variety of dining options to suit all tastes. For insight into the best fine dining experiences in Cornwall head to the [Conde Nast Blog Here](https://www.cntraveller.com/gallery/best-restaurants-in-cornwall) and   [Michelin Guide Here](https://guide.michelin.com/en/gb/cornwall/restaurants/the-plate-michelin/page/2)
 
-Read about Woodlands Manor Farm favourite local [Bude restaurants](https://woodlandsmanorfarm.co.uk/local-bude-restaurants/) here.
+Read about Woodlands Manor Farm favourite local [Bude restaurants](/the-best-bude-restaurants/) here.
 
 ## Tips for First-Time Glampers
 
@@ -181,7 +181,7 @@ For dining and cooking, ensure to bring your own cutlery, crockery if planning t
 
 Safety should be a top priority when glamping. Always check the security features of the glamping site, such as the presence of smoke and carbon monoxide detectors and the overall maintenance of the site. Be mindful of the natural environment and store food securely to avoid attracting wildlife. Ensure your tent or pod is well-placed, ideally close to pathways and communal areas to deter potential thieves. For extra peace of mind, consider using a cable lock for valuable items or storing them in a locked car or site-provided safe.
 
-Booking your glamping trip directly with [Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/book-direct/) not only guarantees a memorable experience but also ensures that you are well-informed about the safety and facilities of your accommodation.
+Booking your glamping trip directly with [Woodlands Manor Farm](/holiday-cottage-direct-booking-woodlands-cornwall/) not only guarantees a memorable experience but also ensures that you are well-informed about the safety and facilities of your accommodation.
 
 ## Glamping Sustainability and Conservation in Cornwall
 
@@ -197,7 +197,7 @@ The colder months offer a unique opportunity to experience Cornwall’s natural 
 
 Exploring the [myriad glamping opportunities](https://www.pitchup.com/search/England/South_West/Cornwall/Bude/?type=13&type=7) in Cornwall offers an enriching escape into nature without compromising on comfort, blending the allure of the great outdoors with the luxury of well-appointed accommodations. From family-friendly sites near the beach to exclusive retreats offering solitude and serenity, Cornwall’s glamping spots cater to a broad spectrum of preferences, ensuring a memorable holiday experience for every visitor. The varied accommodations, ranging from cozy shepherd’s huts and luxurious yurts to innovative safari tents, not only promise a unique stay but also provide a sustainable way to enjoy Cornwall’s stunning landscapes, rich history, and vibrant local culture.
 
-As you plan your next glamping adventure in Cornwall, remember that the true essence of a memorable stay lies not just in the beauty of your surroundings but in selecting the right base to explore them. [Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/book-direct/) stands out as an impeccable choice, offering a blend of luxury, adventure, and a deep connection with nature. Book holiday cottages and y[urts direct with Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/yurts/) to ensure a stay that’s as rewarding as the landscapes you’ve come to explore. Whether you’re seeking a tranquil retreat into nature, an adventurous exploration of Cornwall’s coasts and countryside, or a deep dive into local culinary delights, your journey into the heart of glamping begins here, promising not just a holiday, but an experience to cherish.
+As you plan your next glamping adventure in Cornwall, remember that the true essence of a memorable stay lies not just in the beauty of your surroundings but in selecting the right base to explore them. [Woodlands Manor Farm](/holiday-cottage-direct-booking-woodlands-cornwall/) stands out as an impeccable choice, offering a blend of luxury, adventure, and a deep connection with nature. Book holiday cottages and y[urts direct with Woodlands Manor Farm](/yurts/) to ensure a stay that’s as rewarding as the landscapes you’ve come to explore. Whether you’re seeking a tranquil retreat into nature, an adventurous exploration of Cornwall’s coasts and countryside, or a deep dive into local culinary delights, your journey into the heart of glamping begins here, promising not just a holiday, but an experience to cherish.
 
 ## FAQs
 
