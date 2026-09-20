@@ -222,7 +222,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Light-filled · Garden views",
     subtitle: "A bright, family-sized cottage — sleeps 6 + cots",
     description:
-      "Light-filled rooms, a private patio overlooking the meadow, and a layout that just works for families. Three bedrooms upstairs, a generous kitchen-diner, and your own slice of the farmyard view from the breakfast table.",
+      "Light-filled rooms, a wood burner, and a layout that just works for families. Three bedrooms upstairs, a generous kitchen-diner and beautiful views across the valley.",
     gallery: [
       { src: "/images/jasmine-cottage/jasmine-exterior.jpg", alt: "Jasmine Cottage exterior — stone barn conversion at Woodlands Manor Farm, Bude" },
       { src: "/images/jasmine-cottage/jasmine-lounge.jpg", alt: "Open-plan lounge and dining at Jasmine Cottage with stone fireplace" },
