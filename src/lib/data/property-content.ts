@@ -615,7 +615,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Glamping · Authentic Mongolian yurt",
     subtitle: "Sister yurt to Budhyn — sleeps 4",
     description:
-      "Fenton is Budhyn's sister yurt, tucked a few steps away in the same secluded spot by the pond — this one nestled closer to the woodland. Same authentic hand-crafted Mongolian build, same luxury: a kingsize bed and two singles made up with quality linen and soft white towels, your own private kitchen-diner and bathroom cabin, a high-end wood burner for winter, and your own BBQ and picnic bench. Just 20 metres from Budhyn — book both together for a group of eight, or one for a secluded escape.",
+      "Fenton is Budhyn's sister yurt, tucked a few steps away in the same secluded spot by the pond — this one nestled closer to the woodland. Same authentic hand-crafted Mongolian build, same luxury: a kingsize bed and two singles made up with quality linen and soft white towels, your own private kitchen-diner and bathroom cabin, a high-end wood burner for winter, and your own BBQ and picnic bench. Just 20 metres from Budhyn, book both together for a group of eight, or one for a secluded escape.",
     gallery: [
       { src: "/images/fenton-yurt/fenton-exterior-hero.jpg", alt: "Fenton yurt exterior — authentic Mongolian yurt with green cover set by the woodland at Woodlands Manor Farm, Bude" },
       { src: "/images/fenton-yurt/fenton-interior-wide.jpg", alt: "Inside Fenton yurt — wood burner beneath the crown skylight with a kingsize and two single beds" },

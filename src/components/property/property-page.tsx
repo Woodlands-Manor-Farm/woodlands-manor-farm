@@ -30,6 +30,10 @@ export type PropertyPageData = {
 export function PropertyPage({ data }: { data: PropertyPageData }) {
   const property = PROPERTIES.find((p) => p.slug === data.slug);
   const others = PROPERTIES.filter((p) => p.slug !== data.slug).slice(0, 5);
+  const sisterYurt =
+    property?.type === "yurt"
+      ? PROPERTIES.find((p) => p.type === "yurt" && p.slug !== property.slug)
+      : undefined;
 
   const schema = property
     ? {
@@ -168,6 +172,13 @@ export function PropertyPage({ data }: { data: PropertyPageData }) {
             <div className={styles.widgetWrap}>
               <SuperControlWidget propertyId={property.superControlId} />
             </div>
+            {sisterYurt ? (
+              <p className={styles.sisterCta}>
+                {data.name} not available when you need it? Why not try its sister yurt,{" "}
+                <Link href={sisterYurt.href}>{sisterYurt.name}</Link> — just 20 metres away and
+                sleeps four too.
+              </p>
+            ) : null}
             <p className={styles.bookFinePrint}>
               Booking trouble? Call Andy direct on{" "}
               <a href={`tel:${SITE.contact.phone}`}>{SITE.contact.phoneDisplay}</a> — he&rsquo;ll
