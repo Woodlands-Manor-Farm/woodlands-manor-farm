@@ -66,8 +66,8 @@ const STAYS = [
     name: "Rose Cottage",
     type: "Cottage · Sleeps 8 + cots",
     detail: "Stone fireplace · Two lounges · Garden",
-    img: "/images/rose-cottage/rose-lounge.jpg",
-    alt: "Rose Cottage lounge with the round window and comfy sofas",
+    img: "/images/rose-cottage/rose-lounge-upstairs.jpg",
+    alt: "Rose Cottage upstairs lounge with teal sofas and beamed ceiling",
   },
   {
     href: "/the-stables/",
