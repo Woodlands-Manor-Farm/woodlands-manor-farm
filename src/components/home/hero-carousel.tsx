@@ -7,14 +7,14 @@ import { cn } from "@/lib/utils";
 
 const SLIDES = [
   {
-    src: "/images/home/farm-courtyard-cottages.jpg",
-    alt: "Woodlands Manor Farm courtyard and cottages in the sunshine, Bude Cornwall",
-    caption: "The farm courtyard — Woodlands Manor Farm",
-  },
-  {
     src: "/images/home/aerial-rose-honeysuckle-jasmine.jpg",
     alt: "Aerial view of the cottages surrounded by Cornish countryside",
     caption: "The farm from above — Coombe Valley, Cornwall",
+  },
+  {
+    src: "/images/home/farm-courtyard-cottages.jpg",
+    alt: "Woodlands Manor Farm courtyard and cottages in the sunshine, Bude Cornwall",
+    caption: "The farm courtyard — Woodlands Manor Farm",
   },
   {
     src: "/images/home/playing-field-kites.jpg",
