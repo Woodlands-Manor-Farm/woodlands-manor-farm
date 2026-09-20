@@ -71,7 +71,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 1,
     shortDescription: "Ivy-clad couples' retreat with vaulted beams and super-king bed.",
     href: "/the-coach-house/",
-    heroImage: "/images/the-coach-house/coach-exterior.jpg",
+    heroImage: "/images/the-coach-house/coach-bedroom.jpg",
     superControlId: "565805",
   },
   {
@@ -82,7 +82,7 @@ export const PROPERTIES: Property[] = [
     bedrooms: 2,
     shortDescription: "Single-storey conversion with valley views and freestanding bath.",
     href: "/the-stables/",
-    heroImage: "/images/the-stables/stables-exterior-pond.jpg",
+    heroImage: "/images/the-stables/stables-lounge-kitchen.jpg",
     superControlId: "565803",
   },
   {
