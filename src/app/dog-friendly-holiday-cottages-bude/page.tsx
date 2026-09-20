@@ -61,11 +61,11 @@ export default function DogFriendlyPage() {
           A farm holiday your dog will <em>never forget</em>
         </h2>
         <p className={styles.sectionBody}>
-          All nine of our holiday cottages and both glamping yurts welcome well-behaved dogs, with
-          no maximum per booking — bring the whole pack. It&rsquo;s £25 per dog per stay. Our own
-          Bernedoodle, Bailey, will tell you there&rsquo;s no better place to be a dog: fifteen
-          acres of ancient woodland to explore off the lead, an open meadow for zoomies, and some
-          of Cornwall&rsquo;s best dog-friendly beaches ten minutes down the road.
+          All nine of our holiday cottages and both glamping yurts welcome well-behaved dogs, for
+          just an additional £25 per dog per stay. Our own Bernedoodle, Bailey, will tell you
+          there&rsquo;s no better place to be a dog: fifteen acres of ancient woodland to explore
+          off the lead, an open meadow for zoomies, and some of Cornwall&rsquo;s best dog-friendly
+          beaches ten minutes down the road.
         </p>
 
         <div
