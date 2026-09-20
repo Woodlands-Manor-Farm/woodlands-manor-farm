@@ -408,7 +408,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Single-storey · Light & airy",
     subtitle: "Single-storey conversion — sleeps 4 + cots",
     description:
-      "A bright, airy single-storey conversion with an arched front door, freestanding bath, and views down the valley. Fully accessible (no stairs), with two double bedrooms and an open-plan living space that's flooded with light.",
+      "A beautiful and airy single-storey conversion with an arched front door, jacuzzi bath, private patio and views down the valley. Two double bedrooms, both with en-suite bathrooms, and an open-plan living space flooded with light. Stables is a firm favourite with all our guests.",
     gallery: [
       { src: "/images/the-stables/stables-exterior-pond.jpg", alt: "The Stables — single-storey stone conversion overlooking the pond at Woodlands Manor Farm, Bude" },
       { src: "/images/the-stables/stables-exterior.jpg", alt: "The Stables exterior with its stone patio" },
@@ -426,7 +426,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     stats: { guests: 4, bedrooms: 2, bathrooms: 1, dogs: "Yes" },
     amenities: [
-      "Single storey (no stairs)",
+      "Single storey (minimal steps)",
       "Freestanding bath",
       "Valley views",
       "Open-plan living",
@@ -453,7 +453,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
           "Wood burner & Smart TV in lounge",
           "Two double bedrooms",
           "Family bathroom with freestanding bath & shower",
-          "All on one level — fully accessible",
+          "All on one level — minimal steps",
           "Arched front door with valley views",
         ],
       },
@@ -477,7 +477,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Couples' retreat · Intimate",
     subtitle: "Intimate one-bedroom — sleeps 2 + cot",
     description:
-      "Our most intimate cottage — a snug, characterful one-bedroom retreat ideal for couples. Stone walls, exposed beams, and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
+      "Our most cosy and intimate cottage, a snug, characterful one-bedroom retreat ideal for couples or young families. Stone walls, exposed beams, log burner and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
     gallery: [
       { src: "/images/honeysuckle-cottage/honeysuckle-exterior.jpg", alt: "Honeysuckle Cottage exterior — stone barn conversion in the courtyard at Woodlands Manor Farm, Bude" },
       { src: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg", alt: "Honeysuckle Cottage open-plan living space with dining table and red sofa under beamed ceiling" },
