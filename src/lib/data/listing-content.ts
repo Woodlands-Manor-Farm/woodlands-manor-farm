@@ -23,7 +23,7 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
     href: "/rose-cottage/",
     name: "Rose Cottage",
     desc: "A large converted hay barn with two lounges and a glowing log burner. Perfect for family groups who need space to spread out, with bedroom and bathroom on the ground floor.",
-    img: "/images/rose-cottage/rose-lounge.jpg",
+    img: "/images/rose-cottage/rose-fireplace.jpg",
     alt: "Rose Cottage — stone fireplace and beamed lounge",
     tags: [{ label: "Sleeps 8" }],
     stats: [
