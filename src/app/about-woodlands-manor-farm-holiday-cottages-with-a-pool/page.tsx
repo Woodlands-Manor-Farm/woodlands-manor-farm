@@ -92,7 +92,7 @@ export default function AboutPage() {
           <p>
             We moved from London in September 2019, swapping a life running software companies for
             a life in sunny Bude and tourism. We love the change, and our goal is to ensure you
-            have the best holiday possible with family and friends — making happy memories that
+            have the best holiday possible with family and friends, making happy memories that
             last a lifetime.
           </p>
           <p>
