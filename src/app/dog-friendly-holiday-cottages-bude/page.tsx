@@ -134,6 +134,18 @@ export default function DogFriendlyPage() {
               body: "Leads on around the farmyard and courtyard please — the ponies, alpacas, goats and chickens live close by, and they're nosy.",
               variant: "dark",
             },
+            {
+              icon: "🏖️",
+              title: "Local beaches — endless adventure",
+              body: "Bude's local beaches offer endless adventure — Duckpool is a walk away, and others are a short drive.",
+              variant: "gold",
+            },
+            {
+              icon: "🐾",
+              title: "Out for the day?",
+              body: "If you're going out for the day and can't take the dog, please let us know — we can arrange dog walks and check-ins throughout the day.",
+              variant: "violet",
+            },
           ]}
         />
 
