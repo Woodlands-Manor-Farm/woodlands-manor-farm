@@ -54,7 +54,7 @@ export function HeroCarousel() {
 
       <div className={styles.heroContent}>
         <p className={styles.heroEyebrow}>
-          A 17th-century farm · Coombe Valley · Near Bude
+          A 17th-century farm · Coombe Valley · Bude · Cornwall
         </p>
         <h1 className={styles.heroHeadline}>
           Slow down.
