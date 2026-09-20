@@ -51,7 +51,7 @@ const EXPERIENCES = [
     alt: "Yoga retreat at Woodlands",
     type: "Wellness retreat",
     name: "Yoga & wellness retreats",
-    body: "We host independent retreat leaders running yoga, breathwork and wellness weekends. Get in touch for available dates or to book the farm for your own retreat.",
+    body: "Talk to Woodlands and we can advise you on the best places for pottery, art, glass and jewellery workshops, as well as yoga, Pilates or open-water swimming locations. Get in touch with Ruth and Andy to arrange.",
     detail: "Weekend dates · Enquire",
   },
 ];
