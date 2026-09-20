@@ -173,9 +173,27 @@ export default function DogFriendlyPage() {
           A few simple things so every guest — two- and four-legged — has a great stay. Please
           bring your dog&rsquo;s own bed and bowls, plus blankets to cover any furniture they like
           to sit on. Dogs aren&rsquo;t allowed in the bedrooms or on the beds. Full details are on
-          our <Link href="/dog-rules/" style={{ color: "var(--color-violet)" }}>dog guidelines page</Link>,
-          or just ask — we&rsquo;re dog people, we get it.
+          our dog rules page below, or just ask — we&rsquo;re dog people, we get it.
         </p>
+        <div style={{ marginTop: 22 }}>
+          <Link
+            href="/dog-rules/"
+            style={{
+              display: "inline-block",
+              background: "var(--color-violet)",
+              color: "#FEFEFE",
+              padding: "14px 28px",
+              borderRadius: 2,
+              fontSize: 12,
+              fontWeight: 500,
+              letterSpacing: "0.16em",
+              textTransform: "uppercase",
+              textDecoration: "none",
+            }}
+          >
+            Read the full dog rules →
+          </Link>
+        </div>
       </div>
 
       <CtaStrip
