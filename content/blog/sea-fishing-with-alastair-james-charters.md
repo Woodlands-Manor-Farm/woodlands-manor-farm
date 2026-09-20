@@ -27,24 +27,6 @@ For those seeking adventure and serenity, take a trip to Lundy Island. This remo
 
 For an even more indulgent experience, why not treat yourself to a champagne sightseeing trip? Relax and enjoy the gorgeous views of the coastline while sipping champagne on board the ‘Bluefin’. Whether it’s a special occasion or just a way to make your Cornwall visit even more memorable, this trip offers the perfect blend of luxury and scenic beauty.
 
-[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/Screenshot-2025-04-15-at-20.26.18.png)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/Screenshot-2025-04-15-at-20.26.08.png)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/Screenshot-2025-04-15-at-20.25.50.png)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/Screenshot-2025-04-15-at-20.25.31.png)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/Screenshot-2025-04-15-at-20.25.14.png)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/Screenshot-2025-04-15-at-20.24.50.png)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/Screenshot-2025-04-15-at-20.42.16.png)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/Screenshot-2025-04-15-at-20.26.29.png)
-
 ### **Why Choose Alastair James Charters for Sea Fishing?**
 
 Alastair James Charters is your go-to choice for sea fishing in North Devon. The experienced crew, headed by skipper Jim Dickson, knows the waters inside and out.  Ensuring you have a safe, enjoyable, and successful fishing experience, whatever your age or experience level.
@@ -57,8 +39,8 @@ With the Blue Fin being fast and fully equipped, you can rest assured that you�
 
 ### **Ready for Your Sea Fishing Adventure?**
 
-So, if you would like to book an unforgettable experience during your stay at [Woodlands Manor Farm](http://www.woodlandsmanorfarm.co.uk), book your sea fishing trip with Alastair James Charters.
+So, if you would like to book an unforgettable experience during your stay at [Woodlands Manor Farm](/), book your sea fishing trip with Alastair James Charters.
 
 Call **07970 656715** or visit [Alastair James Charters’ Website](https://www.clovellyfishingtrips.co.uk/) to book your trip. Whether you want to fish, sightsee, or just enjoy the coastal views, **Alastair James Charters** has the perfect adventure waiting for you.
 
-To explore more Woodands Manor Farm experiences, head over to the [Experience Page here.](https://woodlandsmanorfarm.co.uk/experiences-weddings-events/)
+To explore more Woodands Manor Farm experiences, head over to the [Experience Page here.](/experiences-weddings-events/)

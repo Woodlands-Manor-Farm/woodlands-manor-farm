@@ -15,16 +15,6 @@ We’re delighted to share that our fantastic local, **[The Bush Inn](https://ww
 
 Warm congratulations to Molly, Toby, and the entire team for creating such a special place, full of charm, hospitality, and community spirit. 🥂
 
-[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/The-Bush-Inn-1000x0-1.jpeg)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/680a39992922cb0be9fafaa2_Restaurant.jpeg)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/680a397d61658a9ae1ecdd65_image00001.jpeg)[
-
-](https://woodlandsmanorfarm.co.uk/wp-content/uploads/2025/04/470218398_122177065028247482_1504326081763510809_n.jpg)
-
 **Why We Love The Bush Inn**
 
 Whether you’re a returning guest or planning your first visit to North Cornwall, [The Bush Inn, Morwenstow](https://www.thebushinnmorwenstow.com/) is a real local highlight. Here’s why it’s such a firm favourite:
@@ -57,8 +47,8 @@ We’re lucky to be surrounded by such a brilliant food and drink scene—yet an
 
 **Stay With Us and Discover Cornwall’s Best Pubs**
 
-At [Woodlands Manor Farm](https://www.woodlandsmanorfarm.com/), we offer a peaceful countryside escape just minutes from the coast and all of Bude’s best-loved pubs, beaches, and attractions. Whether you’re here for a relaxing family holiday or a romantic weekend getaway, be sure to plan a pub visit (or two!) during your stay.
+At [Woodlands Manor Farm](/), we offer a peaceful countryside escape just minutes from the coast and all of Bude’s best-loved pubs, beaches, and attractions. Whether you’re here for a relaxing family holiday or a romantic weekend getaway, be sure to plan a pub visit (or two!) during your stay.
 
 📖 **Read the full Cornish Secrets list here:** [50 Best Pubs and Bars in Cornwall](https://www.cornishsecrets.co.uk/guide/50-best-pubs-bars-cornwall/)
 
-🍻 **Looking for more local recommendations?** Check out our [Local Area Guide](https://woodlandsmanorfarm.co.uk/top-holiday-ideas-bude/) for even more ideas on where to eat, drink, and explore.
+🍻 **Looking for more local recommendations?** Check out our [Local Area Guide](/things-to-do-in-bude/) for even more ideas on where to eat, drink, and explore.

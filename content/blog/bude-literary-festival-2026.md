@@ -11,13 +11,13 @@ source_url: "https://woodlandsmanorfarm.co.uk/bude-literary-festival-2026/"
 
 # **Words, Wonder & a Cornish Farm Stay**
 
-  **![📅](/images/blog/bude-literary-festival-2026/b41658d39d59.svg)  Wednesday 13 – Sunday 17 May 2026  |  89 Events  |  15 Venues Across Bude & Stratton**
+  **📅  Wednesday 13 – Sunday 17 May 2026  |  89 Events  |  15 Venues Across Bude & Stratton**
 
 _Cornwall is famous for dramatic coastlines, surf and cream teas — but this May, something quietly extraordinary is happening in Bude. [The Bude Literary Festival 2026](https://northcoastarts.co.uk/events/bude-literary-festival-wed-13-sun-17-may-2026/) brings some of the UK’s most celebrated authors, comedians, musicians and thinkers to the North Cornish coast for five unmissable days._
 
 Now in its fifth year, the Bude Literary Festival 2026 runs from Wednesday 13th to Sunday 17th May. With 89 events spread across 15 venues in and around Bude and Stratton, it’s bigger and more exciting than ever. Last year almost 5,000 people got involved, and this year the festival is already attracting national attention.
 
-At [Woodlands Manor Farm,](https://woodlandsmanorfarm.co.uk/bude-holiday-cottages/woo) we’re just six miles from Bude — which makes us the perfect base for a festival break. Imagine spending your days soaking up talks, readings and live performances, then retreating to a beautiful 17th-century Cornish farm each evening. It’s the kind of spring holiday that feeds the soul.
+At [Woodlands Manor Farm,](/bude-holiday-cottages/) we’re just six miles from Bude — which makes us the perfect base for a festival break. Imagine spending your days soaking up talks, readings and live performances, then retreating to a beautiful 17th-century Cornish farm each evening. It’s the kind of spring holiday that feeds the soul.
 
 ## **What is the Bude Literary Festival 2026?**
 
@@ -50,23 +50,23 @@ _…and dozens more. With 89 events to choose from, you could come for the whole
 
 ## **Festival Highlights Worth Booking Now**
 
-###  **![🎤](/images/blog/bude-literary-festival-2026/0332817e8ca4.svg) Evening Events at the Parkhouse Centre**
+###  **🎤 Evening Events at the Parkhouse Centre**
 
 The main evening events are the festival’s headline acts — expect big names, full houses and a proper event atmosphere. Mark Steel kicks things off on the opening night (Wednesday 13th) with his new book ‘The Leopard in my House’. These are the tickets to snap up first.
 
-###  **![🎵](/images/blog/bude-literary-festival-2026/bd8cb8df3921.svg) Free Lunchtime Music at the Bandstand**
+###  **🎵 Free Lunchtime Music at the Bandstand**
 
 One of the festival’s lovely traditions is the free lunchtime concerts at the Bandstand at Bude Castle — a perfect way to spend a sunny May afternoon with a coffee, completely free of charge. Acts include Annown on Wednesday 13th and The Barrel Tappers on Thursday 14th.
 
-###  **![🎭](/images/blog/bude-literary-festival-2026/d08e092f571c.svg) Family Events & Things for Children**
+###  **🎭 Family Events & Things for Children**
 
 The festival is wonderfully family-friendly. Look out for the Big Bude Lit Fest Family Literary Quiz (Tuesday 12th, Falcon Hotel), a Character Treasure Hunt for families at Ebbingford Manor, Play Story on the Bandstand for 3–5 year olds, and a sock puppet workshop linked to The Wind in The Willows in the Secret Garden at the Falcon Hotel. Combine this with a stay at Woodlands where the kids can feed the farm animals each morning, and you have a May half-term to remember.
 
-###  **![🥾](/images/blog/bude-literary-festival-2026/20ea4c3fe57c.svg) Literary Walks with Sam Horton**
+###  **🥾 Literary Walks with Sam Horton**
 
 If you love combining the outdoors with culture, the guided Bude Literary Walks with poet Sam Horton are a treat — departing from the Bandstand at the Castle on both Thursday 14th (10am and 3:30pm). A beautiful way to see the town through a literary lens.
 
-###  **![🍷](/images/blog/bude-literary-festival-2026/3206d4edc4f3.svg) Poetry & Spoken Word Open Mic**
+###  **🍷 Poetry & Spoken Word Open Mic**
 
 For something a little more intimate, the ‘Words-Work’ Poetry and Spoken Word Open Mic event at the North Coast Wine Lounge on Wednesday 13th (from 6pm) is a wonderful way to ease into the festival — relaxed, inclusive, and often full of surprises.
 
@@ -83,7 +83,7 @@ The Bude Literary Festival 2026 is all about slowing down and enjoying literatur
 -   Peaceful woodland walks right on the doorstep when you need a quiet moment between events
 -   Book direct with us for the best rates: 07887 677 354
 
-    **![📌](/images/blog/bude-literary-festival-2026/fe05cca55830.svg)  PRACTICAL INFO**  
+    **📌  PRACTICAL INFO**  
 
 **Festival dates:** Wednesday 13th – Sunday 17th May 2026
 
@@ -101,12 +101,12 @@ May is a wonderful time to visit Cornwall. The summer crowds haven’t arrived y
 
 **Availability in May fills up quickly, so if you’re thinking of coming for the festival, don’t leave it too long.**
 
- **![📞](/images/blog/bude-literary-festival-2026/d0cb02de1a16.svg) Call:** 07887 677 354
+ **📞 Call:** 07887 677 354
 
- **![✉️](/images/blog/bude-literary-festival-2026/d45d0ae7aae2.svg) Email:** enquiries@woodlandsmanorfarm.co.uk
+ **✉️ Email:** enquiries@woodlandsmanorfarm.co.uk
 
- **![🌐](/images/blog/bude-literary-festival-2026/2e01a5172f2b.svg) Book direct:** www.woodlandsmanorfarm.co.uk
+ **🌐 Book direct:** www.woodlandsmanorfarm.co.uk
 
- **![📱](/images/blog/bude-literary-festival-2026/043a33225b0a.svg) Follow us:** facebook.com/woodlandsmanorfarm.co.uk
+ **📱 Follow us:** facebook.com/woodlandsmanorfarm.co.uk
 
-_We look forward to welcoming you to the valley. ![🌿](/images/blog/bude-literary-festival-2026/ad3915423d92.svg)_
+_We look forward to welcoming you to the valley. 🌿_
