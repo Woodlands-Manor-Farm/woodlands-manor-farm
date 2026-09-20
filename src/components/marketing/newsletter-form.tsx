@@ -121,7 +121,7 @@ export function NewsletterForm({
         role="status"
         className={clsx(
           "text-[14px] font-light leading-6",
-          popup ? "text-[var(--color-text-mid)]" : "text-[rgba(247,243,238,0.7)]",
+          popup ? "text-[var(--color-text-mid)]" : "text-[rgba(247,243,238,0.85)]",
         )}
       >
         <p className={clsx("font-serif text-lg", popup ? "text-[var(--color-deep-green)]" : "text-[var(--color-cream)]")}>
@@ -136,7 +136,7 @@ export function NewsletterForm({
 
   const inputClasses = popup
     ? "w-full rounded border border-[rgba(30,36,34,0.18)] bg-[var(--color-white)] px-3.5 py-2.5 text-[14px] font-light text-[var(--color-text-dark)] outline-none transition-colors placeholder:text-[rgba(30,36,34,0.35)] focus:border-[var(--color-deep-green)]"
-    : "w-full rounded border border-[rgba(247,243,238,0.2)] bg-transparent px-3.5 py-2.5 text-[14px] font-light text-[var(--color-cream)] outline-none transition-colors placeholder:text-[rgba(247,243,238,0.35)] focus:border-[var(--color-cream)]";
+    : "w-full rounded border border-[rgba(247,243,238,0.2)] bg-transparent px-3.5 py-2.5 text-[14px] font-light text-[var(--color-cream)] outline-none transition-colors placeholder:text-[rgba(247,243,238,0.55)] focus:border-[var(--color-cream)]";
 
   return (
     <form onSubmit={handleSubmit} className="flex flex-col gap-3">
@@ -196,7 +196,7 @@ export function NewsletterForm({
       <p
         className={clsx(
           "text-[11px] font-light leading-5",
-          popup ? "text-[var(--color-text-light)]" : "text-[rgba(247,243,238,0.35)]",
+          popup ? "text-[var(--color-text-light)]" : "text-[rgba(247,243,238,0.85)]",
         )}
       >
         No spam, ever — just offers and farm news about once a month. Unsubscribe any time. See our{" "}
