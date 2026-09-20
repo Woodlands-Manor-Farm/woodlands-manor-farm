@@ -536,7 +536,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Glamping · Authentic Mongolian yurt",
     subtitle: "Secluded by the pond — sleeps 4",
     description:
-      "An authentic hand-crafted Mongolian yurt in a secluded corner of the farm, looking down over the pond and woodland. Sleeps four in a kingsize bed and two singles — all made up and waiting with luxury linen and soft white towels. Your own private kitchen-diner and bathroom cabin, a high-end wood burner that keeps you toasty even in winter, and your own BBQ and picnic bench facing the meadow. Full run of the farm too — heated indoor pool, feed the animals, games room and woodland walks.",
+      "An authentic hand-crafted Mongolian yurt in a secluded corner of the farm, looking out over the pond and woodland. Sleeps four in a kingsize bed and two singles, all made up and waiting with luxury linen and soft white towels. Your own private kitchen-diner and bathroom cabin, a high-end wood burner that keeps you toasty even in winter, and your own BBQ and picnic bench facing the meadow. Full run of the farm too — a heated indoor pool, feed the animals, a games room, and woodland walks.",
     gallery: [
       { src: "/images/budhyn-yurt/budhyn-exterior-hero.jpg", alt: "Budhyn yurt exterior — authentic Mongolian yurt with green cover and wood-burner flue at Woodlands Manor Farm, Bude" },
       { src: "/images/budhyn-yurt/budhyn-interior-wide.jpg", alt: "Inside Budhyn yurt — wood burner beneath the crown skylight with a kingsize and two single beds" },
