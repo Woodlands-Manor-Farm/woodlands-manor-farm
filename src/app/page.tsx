@@ -66,8 +66,9 @@ const STAYS = [
     name: "Rose Cottage",
     type: "Cottage · Sleeps 8 + cots",
     detail: "Stone fireplace · Two lounges · Garden",
-    img: "/images/rose-cottage/rose-lounge-upstairs.jpg",
-    alt: "Rose Cottage upstairs lounge with teal sofas and beamed ceiling",
+    img: "/images/rose-cottage/rose-fireplace.jpg",
+    alt: "Rose Cottage lounge with the stone fireplace and wood burner lit",
+    pos: "58% 50%",
   },
   {
     href: "/the-stables/",
@@ -347,7 +348,7 @@ export default function HomePage() {
                   alt={s.alt}
                   fill
                   sizes={i === 0 ? "(min-width:900px) 50vw, 100vw" : "(min-width:900px) 25vw, 100vw"}
-                  style={{ objectFit: "cover" }}
+                  style={{ objectFit: "cover", objectPosition: s.pos ?? "center" }}
                 />
               </div>
               <div className={styles.stayInfo}>
