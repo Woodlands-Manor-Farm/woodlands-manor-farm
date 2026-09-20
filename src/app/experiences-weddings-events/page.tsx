@@ -31,12 +31,12 @@ const EXPERIENCES = [
     detail: "School holidays · From £35",
   },
   {
-    img: "/images/farm/bluebell-woodland.jpg",
-    alt: "Bluebell woodland walk",
-    type: "Spring only",
-    name: "Bluebell walk & cream tea",
-    body: "April–May only — guided morning walk through the bluebell woodland, finishing with a Cornish cream tea on the terrace. Beautiful for couples and families alike.",
-    detail: "April & May · From £18 pp",
+    img: "/images/bude/summerleaze-summer-beach.jpg",
+    alt: "Surfers and beachgoers at Summerleaze beach, Bude",
+    type: "Adventure",
+    name: "Surfing & Outdoor Adventure",
+    body: "We will arrange the right instructors to fit your needs, private or larger groups, families or more experienced surfers. We have the local knowledge to ensure you have a fabulous time.",
+    detail: "All abilities · Arranged on request",
   },
   {
     img: "/images/animals/d2e104531205804a.jpg",
@@ -59,7 +59,7 @@ const EXPERIENCES = [
 export const metadata: Metadata = {
   title: "Experiences, Weddings & Events",
   description:
-    "Hire Woodlands Manor Farm exclusively for weddings, family celebrations, retreats — or join the Feed the Animals tour, pony experience or bluebell walk.",
+    "Hire Woodlands Manor Farm exclusively for weddings, family celebrations, retreats — or join the Feed the Animals tour, pony experience or a surf lesson.",
   alternates: { canonical: "/experiences-weddings-events/" },
 };
 
@@ -85,8 +85,8 @@ export default function Page() {
               <em>weddings &amp; events</em>
             </h1>
             <p>
-              Free farm tours, hands-on pony experiences, Cornish cream teas and exclusive-use
-              hire for the celebrations that matter most.
+              Free farm tours, hands-on pony experiences, surfing and outdoor adventures, and
+              exclusive-use hire for the celebrations that matter most.
             </p>
           </div>
         </div>
