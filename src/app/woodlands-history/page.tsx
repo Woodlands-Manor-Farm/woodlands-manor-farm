@@ -13,7 +13,7 @@ const TIMELINE: Milestone[] = [
   { year: "2001", text: "The building enclosing the swimming pool is completed in March." },
   { year: "2007", text: "The farm is sold again; the new owners convert the Grade II listed Manor House into a self-catering house." },
   { year: "2009", text: "Nigel and Adele Murray buy Woodlands and convert two more farm buildings into holiday cottages — The Coach House and The Stables." },
-  { year: "2019", text: "We buy the farm at the end of August as a going concern, with an ambition to keep improving the site so guests have a wonderful holiday and want to return." },
+  { year: "2019", text: "The Peters family buy the farm at the end of August as a going concern, with an ambition to keep improving the site so guests have a wonderful holiday and want to return." },
 ];
 
 export const metadata: Metadata = {
@@ -87,9 +87,9 @@ export default function Page() {
           The farm was sold again in 2007, and those owners converted the Manor House into a
           self-catering house too. In October 2009 Nigel and Adele Murray purchased Woodlands and
           converted two more farm buildings — The Coach House and The Stables — into holiday cottages.
-          We took Woodlands on as a going concern at the end of August 2019, and our ambition is a
-          simple one: to keep improving the farm so that every guest has a wonderful holiday and wants
-          to come back.
+          The Peters family took Woodlands on as a going concern at the end of August 2019, with a
+          simple ambition: to keep improving the farm so that every guest has a wonderful holiday and
+          wants to come back.
         </p>
 
         <h2 className={styles.sectionTitle}>
