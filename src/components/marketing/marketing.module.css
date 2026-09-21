@@ -183,6 +183,30 @@
   gap: 3px;
   margin-top: 40px;
 }
+.offerGridTwo {
+  grid-template-columns: repeat(2, 1fr);
+}
+@media (max-width: 760px) {
+  .offerGridTwo {
+    grid-template-columns: 1fr;
+  }
+}
+.offerFooterContact {
+  border-top: 1px solid rgba(127, 151, 137, 0.15);
+  padding-top: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+}
+.offerFooterContact a {
+  color: var(--color-violet);
+  text-decoration: none;
+  letter-spacing: 0.5px;
+}
+.offerFooterContact a:hover {
+  text-decoration: underline;
+}
 .offerCard {
   background: #fff;
   padding: 32px 28px;
