@@ -39,6 +39,13 @@ const BEACHES: Place[] = [
       "Turn right out of our driveway back along the lane and turn left onto the A39 towards Bideford. About 3 miles along, a brown tourist sign directs you left down a lane to Welcombe Mouth — keep following the signs for about 2 miles.",
   },
   {
+    name: "Widemouth Bay",
+    meta: "≈ 8 miles · Golden sand · Beginner surf",
+    body: "One of the most popular beaches in North Cornwall, with vast expanses of golden sand at low tide — perfect for families and beginner surfers, with a gentle shelving beach and surf schools in the summer. There are cafés and shops at the beach, and The Beach House bar has been listed among the Times’ top 20 beach bars in the UK.",
+    directions:
+      "Turn right out of our driveway back along the lane to the A39 and follow the signs to Bude. Carry on south through the town on the coast road, following the brown tourist signs for Widemouth Bay a few miles beyond Bude.",
+  },
+  {
     name: "Crackington Haven",
     meta: "≈ 10 miles · Dramatic cliffs · Beach café & inn",
     body: "A hidden gem tucked into the North Cornwall coast, framed by some of the highest cliffs in Cornwall and known for its rugged, dramatic beauty. Sand and rock pools appear at low tide, with the coast path climbing spectacularly away on either side. The Coombe Barton Inn and the Haven Beach Café both serve excellent food — including some of the best crab sandwiches around.",
