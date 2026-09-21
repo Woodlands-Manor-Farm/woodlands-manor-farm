@@ -11,10 +11,56 @@ try {
   console.warn("next.config: gen-blog-data skipped:", (err as Error).message);
 }
 
+// 301 redirects from old WordPress URLs whose slug changed or whose page was
+// removed, so inbound links and Google rankings carry over to the new site.
+// Sources are written without a trailing slash; trailingSlash: true keeps the
+// destination canonical.
+const LEGACY_REDIRECTS: { source: string; destination: string }[] = [
+  // Changed slugs
+  { source: "/cottages-bude", destination: "/bude-holiday-cottages/" },
+  { source: "/yurts-bude", destination: "/yurts/" },
+  { source: "/yurts-devon", destination: "/yurts/" },
+  { source: "/local-bude-restaurants", destination: "/the-best-bude-restaurants/" },
+  { source: "/book-direct", destination: "/holiday-cottage-direct-booking-woodlands-cornwall/" },
+  // Removed section pages -> closest live page
+  { source: "/woodlands-manor-farm-local-beaches", destination: "/things-to-do-in-bude/" },
+  { source: "/local-surf-schools-bude", destination: "/things-to-do-in-bude/" },
+  { source: "/fishing-in-and-around-bude", destination: "/things-to-do-in-bude/" },
+  { source: "/bude-wood-turning-coures", destination: "/things-to-do-in-bude/" },
+  { source: "/whats-on-in-bude-cornwall-february-half-term", destination: "/news/" },
+  // Old cycling pages -> current cycling post
+  {
+    source: "/north-cornwall-cycling-routes-woodlands-manor-farm",
+    destination: "/discover-the-breathtaking-cycling-routes-of-north-cornwall/",
+  },
+  {
+    source: "/cycling-in-cornwall-woodlands-manor-farm",
+    destination: "/discover-the-breathtaking-cycling-routes-of-north-cornwall/",
+  },
+  // Old individual beach pages -> things to do
+  { source: "/widemouth-bay", destination: "/things-to-do-in-bude/" },
+  { source: "/summerleaze-beach", destination: "/things-to-do-in-bude/" },
+  { source: "/sandymouth", destination: "/things-to-do-in-bude/" },
+  { source: "/northcott-mouth", destination: "/things-to-do-in-bude/" },
+  { source: "/crooklets", destination: "/things-to-do-in-bude/" },
+  { source: "/duckpool", destination: "/things-to-do-in-bude/" },
+  { source: "/crackington-haven", destination: "/things-to-do-in-bude/" },
+  // Legacy alias URLs -> canonical page (replaces the old alias pages)
+  { source: "/posts", destination: "/news/" },
+  { source: "/out-about", destination: "/things-to-do-in-bude/" },
+  { source: "/terms", destination: "/terms-conditions/" },
+  { source: "/hotel-term-condition", destination: "/terms-conditions/" },
+];
+
 const nextConfig: NextConfig = {
   trailingSlash: true,
   images: {
     formats: ["image/avif", "image/webp"],
+  },
+  async redirects() {
+    // statusCode 301 (rather than permanent: true, which emits 308) — a
+    // traditional 301 for the SEO migration.
+    return LEGACY_REDIRECTS.map((r) => ({ ...r, statusCode: 301 as const }));
   },
 };
 
