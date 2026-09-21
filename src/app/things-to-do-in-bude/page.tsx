@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import Image from "next/image";
+import Link from "next/link";
 import {
   AboutSubnav,
   CtaStrip,
-  InfoCardGrid,
   InfoHero,
   infoStyles as styles,
 } from "@/components/info/info-shell";
@@ -64,18 +64,6 @@ const ATTRACTIONS = [
     href: "https://www.edenproject.com/",
   },
   {
-    distance: "14 miles",
-    name: "Clovelly",
-    body: "A picturesque North Devon fishing village with steep cobbled streets and timeless charm. Famously car-free — transport relies on donkeys and sledges. Stunning views of the Bristol Channel.",
-    href: "https://www.clovelly.co.uk/",
-  },
-  {
-    distance: "25 miles",
-    name: "Boscastle",
-    body: "A charming village in a deep valley on the North Cornwall coast. Famous for its natural harbour and the Museum of Witchcraft and Magic. Perfect for hikers, history enthusiasts and nature lovers.",
-    href: "https://www.visitcornwall.com/boscastle",
-  },
-  {
     distance: "20 miles",
     name: "St Nectan's Glen",
     body: "One of Cornwall's most unspoilt hidden corners. A waterfall, ancient woodland and cafe in a genuinely magical setting. Voted an area of outstanding natural beauty and an SSSI.",
@@ -88,12 +76,6 @@ const ATTRACTIONS = [
     href: "https://www.themilkyway.co.uk/",
   },
   {
-    distance: "50 miles",
-    name: "Padstow",
-    body: "Cornwall's most celebrated foodie destination. Rick Stein restaurants, the National Lobster Hatchery, wildlife boat trips and a beautiful harbour town. Worth the hour's drive.",
-    href: "https://padstowlive.com/",
-  },
-  {
     distance: "28 miles",
     name: "Bodmin Steam Railway",
     body: "Cornwall's premier steam railway — a 13-mile round trip through stunning scenery. Christmas specials with Santa, dining services and murder mystery events on selected dates.",
@@ -104,7 +86,7 @@ const ATTRACTIONS = [
 export const metadata: Metadata = {
   title: "Things to Do in Bude",
   description:
-    "Beaches, surf schools, coastal walks, gardens and family days out within easy reach of Woodlands Manor Farm.",
+    "Family days out, gardens, castles and attractions within easy reach of Woodlands Manor Farm, Bude — Andy and Ruth's personal picks across North Cornwall and North Devon.",
   alternates: { canonical: "/things-to-do-in-bude/" },
 };
 
@@ -131,12 +113,19 @@ export default function Page() {
           Things to do <em>in &amp; around Bude</em>
         </h2>
         <p className={styles.sectionBody}>
-          Woodlands is perfectly located on the North Cornwall / North Devon border, putting you
-          within easy reach of some of England&rsquo;s finest beaches, coastline, gardens and
-          attractions. Here are Andy and Ruth&rsquo;s personal picks.
+          Woodlands is perfectly located on the North Cornwall / North Devon border, within easy
+          reach of England&rsquo;s finest coastline, gardens and family attractions. For the coast
+          itself, see our guide to{" "}
+          <Link href="/beaches-and-walks-near-bude/" className={styles.inlineLink}>
+            local beaches &amp; walks
+          </Link>
+          ; for characterful places to explore, our{" "}
+          <Link href="/local-towns-and-villages-near-bude/" className={styles.inlineLink}>
+            local towns &amp; villages
+          </Link>
+          . Below are Andy and Ruth&rsquo;s personal picks for days out and attractions.
         </p>
 
-        <h3 className={styles.subHeading}>Beaches nearby</h3>
         <div className={styles.imageBand}>
           {[
             { src: "/images/bude/beach-duckpool-thrift.jpg", alt: "Sea thrift in bloom above a wild North Cornwall beach near Bude" },
@@ -148,44 +137,6 @@ export default function Page() {
             </div>
           ))}
         </div>
-        <InfoCardGrid
-          twoColumn
-          cards={[
-            {
-              icon: "🏖️",
-              title: "Duckpool Beach — 2 miles",
-              body: "Our closest beach. A stunning, wild National Trust beach at the foot of the Coombe Valley. Dog-friendly all year round. Rock pools, stream, and one of the most unspoilt stretches of North Cornwall coastline.",
-            },
-            {
-              icon: "🏊",
-              title: "Summerleaze & Crooklets, Bude — 6 miles",
-              body: "Bude's two main town beaches. Summerleaze has the famous tidal sea pool — one of the finest outdoor swimming spots in England. Crooklets is the main surf beach. Both have beach cafes.",
-              variant: "violet",
-            },
-            {
-              icon: "🏖️",
-              title: "Sandymouth & Northcott Mouth — 4 miles",
-              body: "Two spectacular National Trust beaches within a couple of miles of each other. Sandymouth has dramatic rock formations and a lovely beach cafe. Northcott Mouth is quieter and wilder.",
-            },
-            {
-              icon: "🏖️",
-              title: "Widemouth Bay — 8 miles",
-              body: "One of the most popular beaches in North Cornwall — vast expanses of golden sand at low tide. Great for families and beginner surfers. The Beach House bar is listed in the Times' top 20 beach bars in the UK.",
-              variant: "dark",
-            },
-            {
-              icon: "🏖️",
-              title: "Crackington Haven — 10 miles",
-              body: "Tucked away on the North Cornwall coast, Crackington is a hidden gem known for its dramatic cliffs and rugged beauty. The Coombe Barton Inn and Haven Beach Cafe serve excellent food including the best crab sandwiches around.",
-            },
-            {
-              icon: "🌊",
-              title: "South West Coast Path — 2 miles",
-              body: "The 630-mile South West Coast Path passes just 2 miles from the farm. The section between Hartland Point and Bude is among the most spectacular in England — dramatic sea stacks, hidden coves and clifftop views.",
-              variant: "violet",
-            },
-          ]}
-        />
 
         <h3 className={styles.subHeading}>Attractions &amp; days out</h3>
         <div className={styles.attrGrid}>
