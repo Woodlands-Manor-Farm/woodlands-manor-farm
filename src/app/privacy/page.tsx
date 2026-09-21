@@ -38,8 +38,9 @@ export default function Page() {
                 , {SITE.contact.phoneDisplay}.
               </p>
               <p>
-                If you have a data protection query we can&rsquo;t resolve, you can also contact
-                the Information Commissioner&rsquo;s Office (ICO) at{" "}
+                We are registered with the Information Commissioner&rsquo;s Office (ICO),
+                registration reference ZB154200. If you have a data protection query we
+                can&rsquo;t resolve, you can also contact the ICO at{" "}
                 <a
                   href="https://ico.org.uk"
                   target="_blank"
