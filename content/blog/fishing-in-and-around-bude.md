@@ -7,7 +7,7 @@ excerpt: "With a wealth of fantastic freshwater and sea fishing locations nearby
 feature_image: "/images/blog/fishing-in-and-around-bude/0d63df6a2ae9.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/fishing-in-and-around-bude/"
 ---
-# Fishing In and Around Bude
+## Fishing In and Around Bude
 
 Are you a fishing enthusiast looking for the perfect destination to cast your line? Look no further than Woodlands Manor Farm. Nestled within 34 acres of stunning North Cornwall countryside, our [luxury holiday cottages](https://wmfarmprod.wpenginepowered.com/cottages/ "luxury holiday cottages in bude, cornwall") and [glamping yurts](https://wmfarmprod.wpenginepowered.com/yurts/ "Bude glamping") offer the ideal base for an unforgettable fishing holiday in Bude. With stunning panoramic views and easy access to the Atlantic coastline, Woodlands Manor Farm is a haven for anglers of all skill levels.
 

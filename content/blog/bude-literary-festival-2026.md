@@ -7,9 +7,7 @@ excerpt: "Discover the Bude Literary Festival 13–17 May 2026. 89 events, a sta
 feature_image: "/images/blog/bude-literary-festival-2026/c675ee9b1527.png"
 source_url: "https://woodlandsmanorfarm.co.uk/bude-literary-festival-2026/"
 ---
-# **Bude Literary Festival 2026:**
-
-# **Words, Wonder & a Cornish Farm Stay**
+## Bude Literary Festival 2026: Words, Wonder & a Cornish Farm Stay
 
   **📅  Wednesday 13 – Sunday 17 May 2026  |  89 Events  |  15 Venues Across Bude & Stratton**
 
@@ -27,7 +25,7 @@ Venues range from the iconic Bude Castle and the Parkhouse Centre to the Falcon 
 
 ## **Who’s Headlining in 2026?**
 
-  **![](/images/blog/bude-literary-festival-2026/56442d0cee84.webp) ![](/images/blog/bude-literary-festival-2026/e4b4edaef4c2.webp) ![Bude Literary Festival - Janet Street Porter](/images/blog/bude-literary-festival-2026/d95434ce2433.webp)**
+  **![Bude Literary Festival 2026 guest author](/images/blog/bude-literary-festival-2026/56442d0cee84.webp) ![Bude Literary Festival 2026 guest author](/images/blog/bude-literary-festival-2026/e4b4edaef4c2.webp) ![Bude Literary Festival - Janet Street Porter](/images/blog/bude-literary-festival-2026/d95434ce2433.webp)**
 
 The 2026 line-up is genuinely impressive. Highlights include:
 

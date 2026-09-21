@@ -10,7 +10,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/summerleaze-beach-top-20-uk-beach-
 ## Summerleaze Beach, Bude Beach Named in The Times Top 50 UK Beaches
 
 
-All in Bude are super proud that Summerleaze Beach, has been celebrated as one of the top 50 beaches in the UK by [The Times](https://www.thetimes.com/travel/destinations/uk-travel/best-beaches-uk-b5b2krtp7) newspaper. As locals we know how great the beach is, it has everything you need – sandy expanse, rock-pools, [Sea Pool,](https://www.budeseapool.org/) unique sea canal, [great surf schools](https://woodlandsmanorfarm.co.uk/local-surf-schools-bude/), cafes, restaurant’s and the town center a stones throw away. 
+All in Bude are super proud that Summerleaze Beach, has been celebrated as one of the top 50 beaches in the UK by [The Times](https://www.thetimes.com/travel/destinations/uk-travel/best-beaches-uk-b5b2krtp7) newspaper. As locals we know how great the beach is, it has everything you need – sandy expanse, rock-pools, [Sea Pool,](https://www.budeseapool.org/) unique sea canal, [great surf schools](/things-to-do-in-bude/), cafes, restaurant’s and the town center a stones throw away. 
 
 Its no wonder The Times highlighting its exceptional appeal among the nation’s coastal gems. This recognition confirms the beach’s combination of natural beauty, recreational opportunities, and excellent facilities that make it a standout destination for your holiday, whatever the season.
 
@@ -18,7 +18,7 @@ Its no wonder The Times highlighting its exceptional appeal among the nation’s
 
 Nestled close to the town center of Bude, Summerleaze Beach offers an expansive sandy shore that is perfect for a variety of activities. The beach is renowned for its iconic [Bude Sea Pool,](https://www.budeseapool.org/) a semi-natural tidal pool that provides a safe and unique swimming experience regardless of the ocean’s conditions. This pool, built into the rocks at the southern end of the beach, is a favourite spot for both locals and visitors, offering a sheltered environment for swimmers of all ages.
 
-Summerleaze Beach is also a haven for [surfers](https://woodlandsmanorfarm.co.uk/local-surf-schools-bude/), with its year-round waves attracting enthusiasts from far and wide. Designated areas ensure the safety of both surfers and swimmers, making it an ideal location for water sports. The beach’s amenities include a large car park, restrooms, a café, and beach shops, enhancing the overall visitor experience. Accessibility is a key feature, with facilities such as a Changing Places toilet and beach sand wheelchairs available to ensure everyone can enjoy the coastal beauty.
+Summerleaze Beach is also a haven for [surfers](/things-to-do-in-bude/), with its year-round waves attracting enthusiasts from far and wide. Designated areas ensure the safety of both surfers and swimmers, making it an ideal location for water sports. The beach’s amenities include a large car park, restrooms, a café, and beach shops, enhancing the overall visitor experience. Accessibility is a key feature, with facilities such as a Changing Places toilet and beach sand wheelchairs available to ensure everyone can enjoy the coastal beauty.
 
 Families particularly enjoy Summerleaze Beach for its gently sloping shoreline, making it safe for children to paddle and play whatever the tide is doing.
 
@@ -42,7 +42,7 @@ Just a short walk north of Summerleaze, Crooklets Beach is another gem in Bude�
 
 Sandymouth Beach
 
-Located a few miles north of Bude and a local beach to [Woodlands Manor Farm,](http://www.woodlandsmanorfarm.co.uk) [Sandymouth Beach](https://www.nationaltrust.org.uk/visit/cornwall/sandymouth) is renowned for its dramatic cliffs, extensive rock pools, and impressive stretches of sand. Managed by the National Trust, this beach offers a more secluded and natural experience. The beach is accessed via a steep path, adding to its wild and untouched appeal. Facilities include a seasonal café and toilets, making it a fantastic spot for a day trip.
+Located a few miles north of Bude and a local beach to [Woodlands Manor Farm,](/) [Sandymouth Beach](https://www.nationaltrust.org.uk/visit/cornwall/sandymouth) is renowned for its dramatic cliffs, extensive rock pools, and impressive stretches of sand. Managed by the National Trust, this beach offers a more secluded and natural experience. The beach is accessed via a steep path, adding to its wild and untouched appeal. Facilities include a seasonal café and toilets, making it a fantastic spot for a day trip.
 
 [Duckpool Beach](https://www.nationaltrust.org.uk/visit/cornwall/duckpool)
 
@@ -70,7 +70,7 @@ For those seeking a quieter and more rugged beach experience, Northcott Mouth is
 
 ### Beach Safety and Rip Tides
 
-When visiting any beach, safety should always be a top priority, At Bude, like all top attractions, accidents do happen. Luckily we have amazing l[ife guards and life savers](https://rnli.org/find-my-nearest/lifeboat-stations/bude-lifeboat-station), but we would much rather everyone in Bude and particularly our guests at [Woodlands Manor Farm](http://www.woodlandsmanorfarm.co.uk) stay safe.
+When visiting any beach, safety should always be a top priority, At Bude, like all top attractions, accidents do happen. Luckily we have amazing l[ife guards and life savers](https://rnli.org/find-my-nearest/lifeboat-stations/bude-lifeboat-station), but we would much rather everyone in Bude and particularly our guests at [Woodlands Manor Farm](/) stay safe.
 
 Rip tides, which are powerful, narrow channels of fast-moving water, can pose a significant risk to swimmers. These currents can quickly pull swimmers out to sea, making them one of the most dangerous natural hazards at the beach.
 
@@ -93,4 +93,4 @@ For more information, you can visit [Visit Bude](https://www.visitbude.info) or 
 
 ### Woodlands Manor Farm
 
-Woodlands Manor farm is the perfect location for your holiday. We have seven [holiday cottages](https://woodlandsmanorfarm.co.uk/cottages-bude/), (sleep from 2 – 12) and [two glamping yurts](https://woodlandsmanorfarm.co.uk/yurts/) (sleep 4) set within the Coombe Valley, Bude. We welcome families, large groups, small groups, walkers, dog lovers and romantic couples. We are proud of our facilities that include – indoor swimming pool, games room, playing field, woodlands, feed the animal experience, pony experience and lots more.
+Woodlands Manor farm is the perfect location for your holiday. We have seven [holiday cottages](/bude-holiday-cottages/), (sleep from 2 – 12) and [two glamping yurts](/yurts/) (sleep 4) set within the Coombe Valley, Bude. We welcome families, large groups, small groups, walkers, dog lovers and romantic couples. We are proud of our facilities that include – indoor swimming pool, games room, playing field, woodlands, feed the animal experience, pony experience and lots more.

@@ -7,7 +7,7 @@ excerpt: "Read our What’s On In Bude, February Half-Term Guide to discover a h
 feature_image: "/images/blog/whats-on-in-bude-cornwall-february-half-term/cff22d11ef17.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/"
 ---
-# What’s on in Bude, Cornwall – February Half Term
+## What’s on in Bude, Cornwall – February Half Term
 
 February half-term is now just a week away, and our What’s On guide is brimming with exciting things to do for all the family. It covers Bude and the surrounding North Cornwall/Devon area. Foodie, cultural connoisseur, child, adventurer, art lover or nature fan – there is something for everyone, reminding us why Bude and North Cornwall is such a fabulous holiday destination.
 

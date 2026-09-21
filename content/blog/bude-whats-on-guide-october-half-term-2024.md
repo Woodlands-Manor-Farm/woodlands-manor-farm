@@ -11,7 +11,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/bude-whats-on-guide-october-half-t
 
 This is the ultimate what’s on guide for Bude, October Half Term.  Autumn in Bude, North Cornwall, offers a unique blend of natural beauty, family-friendly activities, and charming accommodations, making it an ideal destination for a memorable half-term break with the kids or a holiday cottages destination for large groups.
 
-If you’re planning your October Autumn Half-Term 2024 holiday and looking for the perfect place to stay, consider **Bude holiday cottages**, such as the **[Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/)**,
+If you’re planning your October Autumn Half-Term 2024 holiday and looking for the perfect place to stay, consider **Bude holiday cottages**, such as the **[Woodlands Manor Farm](/)**,
 
 **Why Bude is Perfect destination for** **October Half Term**
 
@@ -25,11 +25,11 @@ Bude, a picturesque coastal town in North Cornwall, is famous for its rugged coa
 
 Crooklets Beach
 
-[Bude’s beaches](https://woodlandsmanorfarm.co.uk/top-holiday-ideas-bude/) are renowned for their beauty and are a must-visit during your stay. The sea is actually at its warmest at this time of year so why not take a dip in the sea or [The Bude Sea Pool](https://www.budeseapool.org/) or even body board, safely of course, always between the flags remember. Autumn is often the best time of the year for surfing too and you can check out our [recommended surf schools here](https://woodlandsmanorfarm.co.uk/local-surf-schools-bude/).
+[Bude’s beaches](/top-holiday-ideas-bude/) are renowned for their beauty and are a must-visit during your stay. The sea is actually at its warmest at this time of year so why not take a dip in the sea or [The Bude Sea Pool](https://www.budeseapool.org/) or even body board, safely of course, always between the flags remember. Autumn is often the best time of the year for surfing too and you can check out our [recommended surf schools here](/things-to-do-in-bude/).
 
 Also, the many beaches are perfect for long walks, beachcombing, crabbing and sandcastle building. Summerleaze Beach, with its tidal pool, is a popular spot where kids can splash around safely. Crooklets Beach and Widemouth Bay are also excellent for a day of seaside fun.
 
-Check out our blog on all the best [Bude beaches here](https://woodlandsmanorfarm.co.uk/woodlands-manor-farm-local-beaches/)
+Check out our blog on all the best [Bude beaches here](/things-to-do-in-bude/)
 
 ### **Bude Coastal Walks**
 
@@ -41,7 +41,7 @@ The [South West Coast Path](https://www.southwestcoastpath.org.uk/) is a must-in
 
 If you would like a guided walk, electric bide tours or trail running during your stay at Woodlands do let us know. We highly recommend [David Myers](http://www.davidmyers.co.uk/) and be very happy to help you arrange the perfect itinerary for you.
 
-### **[Wild Swimming](https://woodlandsmanorfarm.co.uk/wild-swimming-delights-near-woodlands-manor-farm/)**
+### **[Wild Swimming](/wild-swimming-delights-near-woodlands-manor-farm/)**
 
 ![St Nectans Glen](/images/blog/bude-whats-on-guide-october-half-term-2024/c708522ad764.jpg)
 
@@ -99,7 +99,7 @@ It’s also worth checking out the [arts and craft page on Visit Bude](https://w
 
 Lifes a Beach Restaurant
 
-A key focus for the whats on guide Bude October Half Term has to be food and dining out, after all, who wants to cook when they are on holiday! Bude boasts a variety of family-friendly eateries, offering everything from traditional Cornish pasties to gourmet meals. Check out our full dining blog on [Bude’s best restaurants here](https://woodlandsmanorfarm.co.uk/local-bude-restaurants/) – quick summary below
+A key focus for the whats on guide Bude October Half Term has to be food and dining out, after all, who wants to cook when they are on holiday! Bude boasts a variety of family-friendly eateries, offering everything from traditional Cornish pasties to gourmet meals. Check out our full dining blog on [Bude’s best restaurants here](/the-best-bude-restaurants/) – quick summary below
 
 #### [**The Beach House**](https://www.beachhousewidemouth.co.uk/)
 
@@ -128,7 +128,7 @@ Visit Bude has a full listing page of all events month by month – [click here 
 -   [Breaking Out Art Exhibition](https://www.visitbude.info/event/breaking-out-art-exhibition/2024-10-26/)
 -   And [Bude’s Annual Open Studio](https://www.visitbude.info/event/open-studio/)
 
-Of course, the ever-popular garden and theme parks and animal attractions are also open and a full list of these famous Cornish activities [can be found here](https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/) – from [The Eden Project](https://www.edenproject.com/), [RHS Rosemoor,](https://www.rhs.org.uk/gardens/rosemoor?utm_source=google&utm_medium=cpc&utm_campaign=20406277102&utm_adgroup=&utm_term=&utm_content=&gad_source=1&gclid=CjwKCAjwnei0BhB-EiwAA2xuBkZA-UbgEJDQcVup9UnlJorvOt0xQw05gtyAiS1Wy9Bk2lEGSx1dKRoCpCgQAvD_BwE&gclsrc=aw.ds) [Tintagel Castle](https://www.english-heritage.org.uk/visit/places/tintagel-castle/), [The Lost Gardens of Heligan](https://www.heligan.com/) to [The Milky Way](https://www.themilkyway.co.uk/), [The Big Sheep](https://www.thebigsheep.co.uk/) to [Exmoor Zoo](https://www.exmoorzoo.co.uk/?utm_campaign=General&utm_source=google&utm_medium=ppc&utm_term=zoo%20exmoor&utm_content=4269422-e1-ng-me-c20207638539-g150398515395-a660165970308-uCjwKCAjwnei0BhB-EiwAA2xuBnSJ7rMC3fui9b8yBVVztP-9fpH9A13YygGfgWqHgyIReiKE4rlG2hoCAxsQAvD_BwE-cat11362450-kzoo%20exmoor-modexmoor&gad_source=1&gclid=CjwKCAjwnei0BhB-EiwAA2xuBnSJ7rMC3fui9b8yBVVztP-9fpH9A13YygGfgWqHgyIReiKE4rlG2hoCAxsQAvD_BwE), you wont be disappointed.
+Of course, the ever-popular garden and theme parks and animal attractions are also open and a full list of these famous Cornish activities [can be found here](/news/) – from [The Eden Project](https://www.edenproject.com/), [RHS Rosemoor,](https://www.rhs.org.uk/gardens/rosemoor?utm_source=google&utm_medium=cpc&utm_campaign=20406277102&utm_adgroup=&utm_term=&utm_content=&gad_source=1&gclid=CjwKCAjwnei0BhB-EiwAA2xuBkZA-UbgEJDQcVup9UnlJorvOt0xQw05gtyAiS1Wy9Bk2lEGSx1dKRoCpCgQAvD_BwE&gclsrc=aw.ds) [Tintagel Castle](https://www.english-heritage.org.uk/visit/places/tintagel-castle/), [The Lost Gardens of Heligan](https://www.heligan.com/) to [The Milky Way](https://www.themilkyway.co.uk/), [The Big Sheep](https://www.thebigsheep.co.uk/) to [Exmoor Zoo](https://www.exmoorzoo.co.uk/?utm_campaign=General&utm_source=google&utm_medium=ppc&utm_term=zoo%20exmoor&utm_content=4269422-e1-ng-me-c20207638539-g150398515395-a660165970308-uCjwKCAjwnei0BhB-EiwAA2xuBnSJ7rMC3fui9b8yBVVztP-9fpH9A13YygGfgWqHgyIReiKE4rlG2hoCAxsQAvD_BwE-cat11362450-kzoo%20exmoor-modexmoor&gad_source=1&gclid=CjwKCAjwnei0BhB-EiwAA2xuBnSJ7rMC3fui9b8yBVVztP-9fpH9A13YygGfgWqHgyIReiKE4rlG2hoCAxsQAvD_BwE), you wont be disappointed.
 
 We will be writing a new blog with complete listing for October Half Term activities later on in the year when all events are announced.
 
@@ -154,10 +154,10 @@ Booking a stay in one of Bude’s holiday cottages is straightforward, and many 
 
 The Manor, Red Lounge
 
-When it comes to accommodation, Bude holiday cottages stand out for their great location and country feel. Staying in a holiday cottage allows you to enjoy a home-away-from-home experience, complete with all the amenities you need for a relaxing stay. For families or large groups looking for something extra special, **[Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/)** is a top choice.  Thanks to our guests we have won numerous awards and pride ourselves on helping to make happy memories that last forever.
+When it comes to accommodation, Bude holiday cottages stand out for their great location and country feel. Staying in a holiday cottage allows you to enjoy a home-away-from-home experience, complete with all the amenities you need for a relaxing stay. For families or large groups looking for something extra special, **[Woodlands Manor Farm](/)** is a top choice.  Thanks to our guests we have won numerous awards and pride ourselves on helping to make happy memories that last forever.
 
 We are nestled in the heart of the countryside, the farm offers spacious cottages and glamping yurts that sleep from 2 – 12 + cots. The range of facilities, including an indoor swimming pool, games room, making it perfect for a family holiday.
 
 ### **Conclusion**
 
-We hope you find our Whats on guide Bude October Half Term, helpful to plan your stay. Bude is a fantastic destination for a family holiday or friends at any time of the year. With its beautiful beaches, stunning coastal walks, and a variety of indoor and outdoor activities, there’s something for everyone. Staying in one of the charming Bude holiday cottages, like those at [Woodlands Manor Farm,](http://www.woodlandsmanorfarm.co.uk) ensures a comfortable and enjoyable stay. Whether you’re exploring the rugged coastline, indulging in local cuisine, or simply relaxing by the pool, Bude offers the perfect setting for an unforgettable winter break in the UK.
+We hope you find our Whats on guide Bude October Half Term, helpful to plan your stay. Bude is a fantastic destination for a family holiday or friends at any time of the year. With its beautiful beaches, stunning coastal walks, and a variety of indoor and outdoor activities, there’s something for everyone. Staying in one of the charming Bude holiday cottages, like those at [Woodlands Manor Farm,](/) ensures a comfortable and enjoyable stay. Whether you’re exploring the rugged coastline, indulging in local cuisine, or simply relaxing by the pool, Bude offers the perfect setting for an unforgettable winter break in the UK.
