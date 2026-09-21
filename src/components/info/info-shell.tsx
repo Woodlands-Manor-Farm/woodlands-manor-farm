@@ -6,9 +6,12 @@ import { cn } from "@/lib/utils";
 
 const ABOUT_SUBNAV = [
   { href: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/", label: "About Woodlands" },
+  { href: "/woodlands-history/", label: "Our History" },
   { href: "/on-the-farm/", label: "On the Farm" },
   { href: "/the-animals-at-woodlands/", label: "The Animals" },
   { href: "/things-to-do-in-bude/", label: "Things to Do" },
+  { href: "/beaches-and-walks-near-bude/", label: "Beaches & Walks" },
+  { href: "/local-towns-and-villages-near-bude/", label: "Towns & Villages" },
   { href: "/places-to-eat-in-bude/", label: "Places to Eat" },
   { href: "/the-little-extras/", label: "Little Extras" },
   { href: "/holiday-cottage-inventory/", label: "Inventory" },
