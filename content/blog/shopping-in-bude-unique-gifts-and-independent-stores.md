@@ -4,7 +4,7 @@ slug: "shopping-in-bude-unique-gifts-and-independent-stores"
 date: "2026-02-01T11:29:14+00:00"
 author: "ruth"
 excerpt: "Shopping in Bude? Discover our favourite Independent and local stories in Bude, Cornwall — from independent boutiques and artisan gift shops to local galleries and stylish clothing stores."
-feature_image: "/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/f8983ed12003.png"
+feature_image: "/images/blog/shopping-in-bude-unique-gifts-and-independent-stores/f8983ed12003.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/shopping-in-bude-unique-gifts-and-independent-stores/"
 ---
 Bude is more than just a beach town, it’s a shopping destination that celebrates creativity, craftsmanship, and community. Whether you’re visiting for the festive season or exploring during a sunny break, you’ll discover a thriving mix of independent shops, artisan boutiques, quirky galleries, and trusted local stores.

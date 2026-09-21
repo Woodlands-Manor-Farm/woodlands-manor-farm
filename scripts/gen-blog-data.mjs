@@ -7,9 +7,43 @@ import path from "node:path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
+import sharp from "sharp";
 
 const BLOG_DIR = path.join(process.cwd(), "content", "blog");
+const PUBLIC_DIR = path.join(process.cwd(), "public");
 const OUT = path.join(process.cwd(), "src", "lib", "generated-blog.json");
+
+// Read intrinsic dimensions for a local image (cached), so we can add
+// width/height to <img> tags and reserve layout space (prevents CLS).
+const dimCache = new Map();
+async function imgDims(src) {
+  if (!src.startsWith("/images/")) return null;
+  if (dimCache.has(src)) return dimCache.get(src);
+  let dims = null;
+  try {
+    const meta = await sharp(path.join(PUBLIC_DIR, src)).metadata();
+    if (meta.width && meta.height) dims = { w: meta.width, h: meta.height };
+  } catch {
+    dims = null;
+  }
+  dimCache.set(src, dims);
+  return dims;
+}
+
+// Add lazy-loading, async decoding and intrinsic dimensions to blog images.
+async function enhanceImages(html) {
+  const srcs = [...html.matchAll(/<img\b[^>]*\bsrc="([^"]+)"/g)].map((m) => m[1]);
+  const dims = {};
+  for (const s of new Set(srcs)) dims[s] = await imgDims(s);
+  return html.replace(/<img\b([^>]*)>/g, (_full, attrs) => {
+    const sm = attrs.match(/src="([^"]+)"/);
+    let add = ' loading="lazy" decoding="async"';
+    if (sm && dims[sm[1]] && !/\bwidth=/.test(attrs)) {
+      add += ` width="${dims[sm[1]].w}" height="${dims[sm[1]].h}"`;
+    }
+    return `<img${attrs}${add}>`;
+  });
+}
 
 async function main() {
   const files = fs.existsSync(BLOG_DIR)
@@ -22,6 +56,7 @@ async function main() {
     const { data, content } = matter(raw);
     const slug = data.slug ?? file.replace(/\.md$/, "");
     const processed = await remark().use(remarkHtml).process(content);
+    const contentHtml = await enhanceImages(processed.toString());
     posts.push({
       slug,
       title: data.title ?? slug,
@@ -30,7 +65,7 @@ async function main() {
       excerpt: data.excerpt ?? null,
       featureImage: data.feature_image ?? data.featureImage ?? null,
       category: data.category ?? null,
-      contentHtml: processed.toString(),
+      contentHtml,
     });
   }
 

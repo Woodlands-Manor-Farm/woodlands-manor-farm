@@ -4,24 +4,24 @@ slug: "woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards"
 date: "2026-02-07T22:08:24+00:00"
 author: "ruth"
 excerpt: "Woodlands Manor Farm celebrates 6 Travellers’ Choice Awards for its holiday cottages in Cornwall. Discover why guests love staying with us—and why booking direct gets you the best deal."
-feature_image: "/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/dc9d18f82aa7.png"
+feature_image: "/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/dc9d18f82aa7.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/"
 ---
 We’re pleased to share the exciting news that **six of our seven holiday cottages at Woodlands Manor Farm have just been awarded the prestigious [Travellers’ Choice Award!](https://www.booking.com/traveller-review-awards/index.en-gb.html)** This is a huge honour and a moment of pride for our whole team.
 
 From [_Rose Cottage_,](/rose-cottage/) which received an unbeatable 10/10, to [_The Coach House_,](/the-coach-house/) [_Jasmine_](/jasmine-cottage/), [_Honeysuckle_](/honeysuckle-cottage/), _[The Manor House, Holiday Cottage with Pool, Bude](/the-manor-house/)_ and [_Lavender_](/lavender-cottage/) – each of these beautiful cottages received the award thanks to outstanding guest reviews and consistently high star ratings. – each of these special places has received incredible recognition, and it’s all thanks to **you, our wonderful guests**. The only cottage that missed out was _The Stables. And thats_ only because it’s so popular that guests usually book direct with us, meaning it rarely appears on third-party platforms like Booking.com. That’s a good problem to have!
 
-![Rose Cottage - Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/8699826e971d.png)
+![Rose Cottage - Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/8699826e971d.webp)
 
-![The Manor Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/7d985b4cebaf.png)
+![The Manor Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/7d985b4cebaf.webp)
 
-![Lavender Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/7b04dc8e9613.png)
+![Lavender Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/7b04dc8e9613.webp)
 
-![The Coach House Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/b13c4fd00a47.png)
+![The Coach House Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/b13c4fd00a47.webp)
 
-![Jasmine Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/1373e2cec05b.png)
+![Jasmine Travellers Choice Award](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/1373e2cec05b.webp)
 
-![Honeysuckle Travellers Choice Awards](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/23883b6d7ecb.png)
+![Honeysuckle Travellers Choice Awards](/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/23883b6d7ecb.webp)
 
 ## **Thank You to Our Guests and Booking Partners**
 
