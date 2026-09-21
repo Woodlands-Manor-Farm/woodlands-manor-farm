@@ -315,8 +315,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "Such a beautiful spot! Everything kitted out with the guest in mind. Andrew was very helpful and happy to help at a moment's notice. We are looking to book again with friends!",
-        author: "Emma M. — Lavender, 2024",
+        text: "Fabulous location, peace and quiet, amazing walks on the doorstep. Beautiful beaches close by. The cottage is decorated to the highest standard, clean and well equipped — so comfortable and homely. The heated pool was an exciting bonus. We definitely will be back.",
+        author: "Steph C — TripAdvisor, Feb 2026",
       },
     ],
     facilityChips: SHARED_FACILITIES.filter((f) => f.label !== "Wood burner"),
@@ -373,8 +373,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "Perfect bolt-hole for the two of us. The vaulted ceiling, the wood burner, the quiet — exactly what we needed.",
-        author: "James & Hannah — Coach House, 2024",
+        text: "Everything is very tastefully and cleverly designed. Andrew is lovely, hospitable and helpful. A wonderful place with a very special aura. Incomparable.",
+        author: "Max — Airbnb, 2026",
       },
     ],
     facilityChips: SHARED_FACILITIES,
@@ -439,8 +439,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "Loved the openness and light — and not having to do stairs with our toddler was a godsend. Beautiful conversion.",
-        author: "Sarah & Tom — The Stables, 2024",
+        text: "We had a wonderful stay. The cottage is clean and warm and has everything you need. Ruth and Andy are friendly and welcoming and the animals are adorable. We would definitely come again.",
+        author: "Samantha R — TripAdvisor, Feb 2026",
       },
     ],
     facilityChips: SHARED_FACILITIES,
@@ -503,8 +503,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "Romantic, peaceful and quietly luxurious — every little touch sealed the deal. We'll be back.",
-        author: "L & M — Honeysuckle, 2024",
+        text: "Property was excellent. Beautifully thought out. Shower with constant hot water. Plenty of cooking facilities. A nice big field for dog walking and many other walks nearby. Quiet location.",
+        author: "EnglandBanker — TripAdvisor, May 2026",
       },
     ],
     facilityChips: SHARED_FACILITIES,
@@ -565,8 +565,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "We absolutely loved our stay in one of the beautiful yurts. Andrew has really thought about everything you might need. We are already looking at staying again!",
-        author: "John & Pippa — Budhyn, 2024",
+        text: "We had a fantastic weekend staying in one of the Yurts. It's extremely family and dog friendly and our kids loved all the facilities including the climbing frame, swimming pool and games room. We enjoyed BBQs both evenings and I would highly recommend a visit!",
+        author: "Jimmy — Yurts, Airbnb 2026",
       },
     ],
     facilityChips: [
@@ -644,8 +644,8 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     miniReviews: [
       {
-        text: "Magical few nights — woke up to the sound of sheep, fell asleep watching the stars. Couldn't fault it.",
-        author: "The Wests — Fenton, 2024",
+        text: "Our second time staying here as a family of four. Perfect place for the kids to get the outdoor experience, but plenty of on-site amenities to entertain, and well located in Cornwall for beaches and towns. Will come back again.",
+        author: "Mike — Airbnb, 2026",
       },
     ],
     facilityChips: [
