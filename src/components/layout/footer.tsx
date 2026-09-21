@@ -167,8 +167,13 @@ export function Footer() {
             </Link>
           </li>
           <li>
+            <Link href="/website-terms/" className="hover:text-[var(--color-cream)]">
+              Website Terms
+            </Link>
+          </li>
+          <li>
             <Link href="/terms-conditions/" className="hover:text-[var(--color-cream)]">
-              Terms
+              Booking Terms
             </Link>
           </li>
           <li>

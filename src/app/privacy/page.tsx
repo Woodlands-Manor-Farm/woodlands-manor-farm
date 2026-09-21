@@ -15,102 +15,158 @@ export default function Page() {
       eyebrow="Woodlands Manor Farm · Legal"
       title="Privacy"
       titleAccent="policy"
-      lastUpdated="February 2024"
+      lastUpdated="September 2026"
       intro={
         <p style={{ marginBottom: 32 }}>
-          This privacy policy explains how Woodlands Manor Farm Ltd (&ldquo;we&rdquo;,
-          &ldquo;us&rdquo; or &ldquo;our&rdquo;) collects, uses and protects your personal data
-          when you book a stay, contact us or use this website. We are the data controller for
-          the purposes of the UK GDPR and Data Protection Act 2018.
+          Woodlands Manor Farm Holidays Ltd (company number 13474637, registered office 79 Higher
+          Bore Street, Bodmin, England, PL31 1JT) is the data controller responsible for your
+          personal data collected through this website. Trading address: Woodlands Manor Farm,
+          Coombe Valley, Bude, Cornwall, EX23 9HT.
         </p>
       }
       sections={[
         {
-          id: "data-collected",
-          title: "What data we collect",
+          id: "who-we-are",
+          title: "1. Who we are",
           content: (
             <>
-              <p>We collect the following information when you make a booking or enquiry:</p>
+              <p>
+                Contact: Andrew Peters,{" "}
+                <a href={`mailto:${SITE.contact.email}`} style={{ color: "var(--color-violet)" }}>
+                  {SITE.contact.email}
+                </a>
+                , {SITE.contact.phoneDisplay}.
+              </p>
+              <p>
+                If you have a data protection query we can&rsquo;t resolve, you can also contact
+                the Information Commissioner&rsquo;s Office (ICO) at{" "}
+                <a
+                  href="https://ico.org.uk"
+                  target="_blank"
+                  rel="noreferrer"
+                  style={{ color: "var(--color-violet)" }}
+                >
+                  ico.org.uk
+                </a>
+                .
+              </p>
+            </>
+          ),
+        },
+        {
+          id: "data-collected",
+          title: "2. What personal data we collect",
+          content: (
+            <>
+              <p>Depending on how you interact with the site, we may collect:</p>
               <ul>
-                <li>Your name, address, phone number and email address</li>
-                <li>Booking details: dates, party size, special requests, dietary needs</li>
-                <li>Payment details (processed securely by our payment provider — we never store card numbers)</li>
-                <li>Any correspondence between us</li>
-                <li>Basic website analytics (page views, device type) via privacy-friendly analytics</li>
+                <li>
+                  <strong>Mailing list sign-ups:</strong> name and email address, submitted via
+                  our footer/popup sign-up form.
+                </li>
+                <li>
+                  <strong>Live chat:</strong> your name, email or phone number if you provide
+                  them, the content of your messages, and basic technical data (pages viewed,
+                  browser/device, approximate location from IP).
+                </li>
+                <li>
+                  <strong>Booking enquiries:</strong> name, contact details, and booking-related
+                  information you provide via SuperControl.
+                </li>
               </ul>
             </>
           ),
         },
         {
           id: "how-we-use",
-          title: "How we use your data",
+          title: "3. How we use your data, and our legal basis",
           content: (
-            <>
-              <p>We use your data to:</p>
-              <ul>
-                <li>Process your booking and accept payment</li>
-                <li>Communicate with you about your stay (arrival info, follow-ups)</li>
-                <li>Issue receipts and tax-compliant invoices</li>
-                <li>Respond to enquiries you send us</li>
-                <li>Send you marketing emails — only if you have opted in</li>
-                <li>Comply with our legal obligations (tax, accounting, fraud prevention)</li>
-              </ul>
-            </>
-          ),
-        },
-        {
-          id: "legal-basis",
-          title: "Legal basis",
-          content: (
-            <p>
-              We process your data on the basis of contract performance (for bookings),
-              legitimate interest (for replying to enquiries and improving our service), legal
-              obligation (for tax records) and consent (for marketing).
-            </p>
+            <ul>
+              <li>
+                <strong>Sending you newsletters/marketing emails</strong> — Your consent (given
+                when you sign up); you can withdraw this at any time.
+              </li>
+              <li>
+                <strong>Responding to chat messages and enquiries</strong> — Legitimate interest
+                (responding to a request you initiated).
+              </li>
+              <li>
+                <strong>Processing bookings</strong> — Contract (necessary to fulfil a booking).
+              </li>
+              <li>
+                <strong>Legal or regulatory obligations</strong> — Legal obligation.
+              </li>
+            </ul>
           ),
         },
         {
           id: "sharing",
-          title: "Who we share your data with",
+          title: "4. Who we share your data with",
           content: (
             <>
-              <p>We share your data only with:</p>
+              <p>
+                We use the following third-party processors, who only handle your data on our
+                instructions:
+              </p>
               <ul>
-                <li>Our booking platform (Supercontrol) — to process the booking</li>
-                <li>Our payment provider — to process payment securely</li>
-                <li>Our accountants — for tax and accounting purposes</li>
-                <li>Cleaning &amp; maintenance team — only your name and dates, not personal details</li>
+                <li>
+                  <strong>Brevo</strong> — used for two purposes: (1) Brevo Conversations, our
+                  live chat widget, which sets a cookie to keep your conversation linked across
+                  pages and shows our team basic session data so we can respond to you; and (2)
+                  our newsletter sign-up form, which sends your name and email to Brevo when you
+                  submit it. Brevo is based in the EU (France); transfers from the UK are covered
+                  by the UK&rsquo;s data adequacy arrangements with the EU.
+                </li>
+                <li>
+                  <strong>SuperControl</strong> — our booking system, used to process booking
+                  enquiries and reservations. Data is held on the hosting datacentre provided as
+                  part of the SuperControl booking engine.
+                </li>
               </ul>
-              <p>We <strong>never sell or share your data with third parties</strong> for marketing.</p>
+              <p>
+                We do not sell your personal data. We do not currently run any advertising,
+                retargeting, or marketing-analytics trackers (no Google Analytics, Meta Pixel,
+                GTM, Hotjar, or similar) on this site.
+              </p>
             </>
           ),
         },
         {
           id: "retention",
-          title: "How long we keep your data",
+          title: "5. How long we keep your data",
           content: (
-            <p>
-              Booking data is retained for 7 years to comply with UK tax law. Marketing data is
-              retained until you unsubscribe. Enquiries that don&rsquo;t result in a booking are
-              deleted after 12 months.
-            </p>
+            <ul>
+              <li>
+                <strong>Mailing list data:</strong> until you unsubscribe or ask us to delete it.
+              </li>
+              <li>
+                <strong>Chat transcripts:</strong> 24 months from your last interaction, unless
+                needed longer to resolve a dispute.
+              </li>
+              <li>
+                <strong>Booking records:</strong> retained as required for accounting and tax
+                purposes (typically 6 years).
+              </li>
+            </ul>
           ),
         },
         {
           id: "your-rights",
-          title: "Your rights",
+          title: "6. Your rights",
           content: (
             <>
-              <p>Under UK GDPR you have the right to:</p>
+              <p>Under UK GDPR, you have the right to:</p>
               <ul>
-                <li>Request a copy of the personal data we hold about you</li>
-                <li>Ask us to correct or delete your data</li>
-                <li>Withdraw consent for marketing at any time</li>
-                <li>Object to our processing or restrict it</li>
-                <li>Lodge a complaint with the Information Commissioner&rsquo;s Office (ICO)</li>
+                <li>Access the personal data we hold about you</li>
+                <li>Have inaccurate data corrected</li>
+                <li>Ask us to delete your data (&ldquo;right to be forgotten&rdquo;)</li>
+                <li>Object to or restrict our processing</li>
+                <li>Withdraw consent at any time (e.g. unsubscribe from marketing)</li>
+                <li>Data portability, where applicable</li>
+                <li>Complain to the ICO if you&rsquo;re unhappy with how we&rsquo;ve handled your data</li>
               </ul>
               <p>
-                To exercise any of these rights, email us at{" "}
+                To exercise any of these rights, email{" "}
                 <a href={`mailto:${SITE.contact.email}`} style={{ color: "var(--color-violet)" }}>
                   {SITE.contact.email}
                 </a>
@@ -121,26 +177,50 @@ export default function Page() {
         },
         {
           id: "cookies",
-          title: "Cookies",
+          title: "7. Cookies",
+          content: (
+            <>
+              <p>This website uses a small number of cookies:</p>
+              <ul>
+                <li>
+                  Brevo Conversations (live chat) sets a functional cookie so your conversation
+                  persists as you move between pages or return to the site.
+                </li>
+                <li>
+                  We do not run any advertising, retargeting, or marketing-analytics trackers on
+                  this site.
+                </li>
+              </ul>
+            </>
+          ),
+        },
+        {
+          id: "security",
+          title: "8. Security",
           content: (
             <p>
-              We use a minimal set of cookies for site functionality and basic analytics. We do
-              not use advertising cookies, retargeting pixels or third-party trackers. You can
-              disable cookies in your browser at any time without affecting your ability to book.
+              We take reasonable technical and organisational measures to protect your personal
+              data against unauthorised access, loss, or misuse.
             </p>
           ),
         },
         {
-          id: "contact",
-          title: "Contact us",
+          id: "children",
+          title: "9. Children",
           content: (
             <p>
-              If you have any questions about this privacy policy or how we handle your data,
-              contact Andy Peters at{" "}
-              <a href={`mailto:${SITE.contact.email}`} style={{ color: "var(--color-violet)" }}>
-                {SITE.contact.email}
-              </a>{" "}
-              or {SITE.contact.phoneDisplay}.
+              This website is not aimed at children, and we do not knowingly collect personal
+              data from anyone under 16 without parental consent.
+            </p>
+          ),
+        },
+        {
+          id: "changes",
+          title: "10. Changes to this policy",
+          content: (
+            <p>
+              We may update this policy from time to time; the current version will always be
+              available on this page.
             </p>
           ),
         },
