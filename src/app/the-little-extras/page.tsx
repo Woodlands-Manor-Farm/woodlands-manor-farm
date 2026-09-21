@@ -64,7 +64,7 @@ const EXTRAS = [
     type: "Pamper",
     name: "Spa Treatment",
     body: "Why not treat yourself or your partner to a bit of pampering during your stay with us? We have a qualified therapist called Leanne who offers a wide range of treatments. She can carry out the treatments in the comfort of your own cottage.",
-    detail: "In the comfort of your cottage",
+    link: { href: "/menus/spa-treatments-menu.pdf", label: "View the treatments menu (PDF)" },
   },
   {
     img: "/images/farm/playing-field-slide.jpg",

@@ -23,7 +23,7 @@ const LEGACY_REDIRECTS: { source: string; destination: string }[] = [
   { source: "/local-bude-restaurants", destination: "/the-best-bude-restaurants/" },
   { source: "/book-direct", destination: "/holiday-cottage-direct-booking-woodlands-cornwall/" },
   // Removed section pages -> closest live page
-  { source: "/woodlands-manor-farm-local-beaches", destination: "/things-to-do-in-bude/" },
+  { source: "/woodlands-manor-farm-local-beaches", destination: "/beaches-and-walks-near-bude/" },
   { source: "/local-surf-schools-bude", destination: "/things-to-do-in-bude/" },
   { source: "/fishing-in-and-around-bude", destination: "/things-to-do-in-bude/" },
   { source: "/bude-wood-turning-coures", destination: "/things-to-do-in-bude/" },
@@ -37,14 +37,14 @@ const LEGACY_REDIRECTS: { source: string; destination: string }[] = [
     source: "/cycling-in-cornwall-woodlands-manor-farm",
     destination: "/discover-the-breathtaking-cycling-routes-of-north-cornwall/",
   },
-  // Old individual beach pages -> things to do
-  { source: "/widemouth-bay", destination: "/things-to-do-in-bude/" },
-  { source: "/summerleaze-beach", destination: "/things-to-do-in-bude/" },
-  { source: "/sandymouth", destination: "/things-to-do-in-bude/" },
-  { source: "/northcott-mouth", destination: "/things-to-do-in-bude/" },
-  { source: "/crooklets", destination: "/things-to-do-in-bude/" },
-  { source: "/duckpool", destination: "/things-to-do-in-bude/" },
-  { source: "/crackington-haven", destination: "/things-to-do-in-bude/" },
+  // Old individual beach pages -> beaches & walks
+  { source: "/widemouth-bay", destination: "/beaches-and-walks-near-bude/" },
+  { source: "/summerleaze-beach", destination: "/beaches-and-walks-near-bude/" },
+  { source: "/sandymouth", destination: "/beaches-and-walks-near-bude/" },
+  { source: "/northcott-mouth", destination: "/beaches-and-walks-near-bude/" },
+  { source: "/crooklets", destination: "/beaches-and-walks-near-bude/" },
+  { source: "/duckpool", destination: "/beaches-and-walks-near-bude/" },
+  { source: "/crackington-haven", destination: "/beaches-and-walks-near-bude/" },
   // Legacy alias URLs -> canonical page (replaces the old alias pages)
   { source: "/posts", destination: "/news/" },
   { source: "/out-about", destination: "/things-to-do-in-bude/" },
