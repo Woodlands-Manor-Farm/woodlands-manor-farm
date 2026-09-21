@@ -7,7 +7,7 @@ excerpt: "If you are seeking adventure and excitement during your stay at Woodla
 feature_image: "/images/blog/local-surf-schools-bude/810000bc2e5e.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/local-surf-schools-bude/"
 ---
-# Hit the Waves at One of the Local Surf Schools
+## Hit the Waves at One of the Local Surf Schools
 
 Located in the beautiful countryside of North Cornwall, our [luxury holiday cottages](https://wmfarmprod.wpenginepowered.com/cottages/ "Luxury holiday cottages in Bude") and lovely [yurts](https://wmfarmprod.wpenginepowered.com/yurts/ "Yurts in Devon and Cornwall") offer an idyllic holiday destination for those seeking peace and tranquillity. However, for those seeking adventure and excitement, the nearby coastal town of Bude provides the ideal spot for surfing.
 

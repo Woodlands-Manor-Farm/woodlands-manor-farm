@@ -7,11 +7,11 @@ excerpt: "Visit Woodlands Manor Farm to enjoy a peaceful and unique experience w
 feature_image: "/images/blog/alpaca-walking-woodlands-manor-farm/c9679163577b.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/alpaca-walking-woodlands-manor-farm/"
 ---
-# Get Ready for an Amazing Alpaca Walking Adventure at Woodlands Manor Farm
+## Get Ready for an Amazing Alpaca Walking Adventure at Woodlands Manor Farm
 
 ![Alpacas - Woodlands Manor Farm](/images/blog/alpaca-walking-woodlands-manor-farm/4ad02335cdc5.webp)
 
-If you’re looking for an unforgettable holiday experience, Woodlands Manor Farm in Cornwall has you covered. Alongside our charming [self-catering holiday cottages](https://woodlandsmanorfarm.co.uk/cottages-bude/ "self catering holiday cottages in Bude") and [luxury yurts](https://wmfarmprod.wpenginepowered.com/yurts/), our idyllic retreat is home to three delightful alpacas, Napoleon, Erebus, and Henry, who live with us here on the farm. Visiting our fuzzy friends will add a whole new level of charm to your stay, and best of all, we hope to offer a unique alpaca walking experience for our guests this summer, giving you the chance to get up close and personal.
+If you’re looking for an unforgettable holiday experience, Woodlands Manor Farm in Cornwall has you covered. Alongside our charming [self-catering holiday cottages](/bude-holiday-cottages/) and [luxury yurts](https://wmfarmprod.wpenginepowered.com/yurts/), our idyllic retreat is home to three delightful alpacas, Napoleon, Erebus, and Henry, who live with us here on the farm. Visiting our fuzzy friends will add a whole new level of charm to your stay, and best of all, we hope to offer a unique alpaca walking experience for our guests this summer, giving you the chance to get up close and personal.
 
 Alpaca trekking has become popular in recent years, and it’s not hard to see why. These gentle and curious creatures have an irresistible charm that appeals to people of all ages. When you walk side by side with these friendly animals, you’ll forge a unique bond that connects you with nature in a way you’ve never experienced before.
 
@@ -25,4 +25,4 @@ If you’re looking for a relaxing retreat, a chance to reconnect with nature, o
 
 Don’t miss out on the magic of alpaca walking! Plan your visit to Woodlands Manor Farm and let the delightful company of Napoleon, Erebus, and Henry steal your heart and lift your spirits. Immerse yourself in the beauty of Cornwall, embrace the tranquillity of the countryside, and embark on an unforgettable journey side by side with our gorgeous alpacas.
 
-If you want to enjoy a memorable stay in one of our lovely [self-catering cottages](https://woodlandsmanorfarm.co.uk/cottages-bude/ "self catering holiday cottages in Bude") or [luxury yurts](https://woodlandsmanorfarm.co.uk/yurts/), check our [availability](https://woodlandsmanorfarm.co.uk/book-direct/) and book your holiday today.
+If you want to enjoy a memorable stay in one of our lovely [self-catering cottages](/bude-holiday-cottages/) or [luxury yurts](/yurts/), check our [availability](/holiday-cottage-direct-booking-woodlands-cornwall/) and book your holiday today.

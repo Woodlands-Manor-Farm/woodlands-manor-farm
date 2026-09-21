@@ -7,7 +7,7 @@ excerpt: "Family Holiday Cottages North Cornwall Holiday Ideas for Woodlands Man
 feature_image: "/images/blog/top-holiday-ideas-bude/bda3c0d2434e.png"
 source_url: "https://woodlandsmanorfarm.co.uk/top-holiday-ideas-bude/"
 ---
-# Family Holiday Cottages North Cornwall
+## Family Holiday Cottages North Cornwall
 
 ## Holiday Ideas for Woodlands Manor Farm – Bude 
 
@@ -21,15 +21,15 @@ You can walk from our land, down through Combe Valley (AONB) to Duckpool Cove an
 
 You can also walk around our land, which is just one of the reasons we think our **holiday cottage** and yurt accommodation is amongst the best in Cornwall.
 
-[![Bude Coastal Walk](/images/blog/top-holiday-ideas-bude/2c1efe8af049.webp)](https://woodlandsmanorfarm.co.uk/the-little-extras/sherpa_-cornwall-cycle-bike-at-cape-cornwall-989893-500px/)
+![Bude Coastal Walk](/images/blog/top-holiday-ideas-bude/2c1efe8af049.webp)
 
 South West Coastal Path
 
-[![The Lost Gardens of Heligan](/images/blog/top-holiday-ideas-bude/e0a401422df1.webp)](https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/screenshot-2024-02-04-at-16-08-50-1/)
+![The Lost Gardens of Heligan](/images/blog/top-holiday-ideas-bude/e0a401422df1.webp)
 
 The Lost Gardens of Heligan
 
-[![Duckpool Beach, Near Woodlands Manor Farm](/images/blog/top-holiday-ideas-bude/e5d50f6ef7a6.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-02-at-11-05-16/)
+![Duckpool Beach, Near Woodlands Manor Farm](/images/blog/top-holiday-ideas-bude/e5d50f6ef7a6.webp)
 
 Duckpool Beach, Near Woodlands Manor Farm
 
@@ -37,7 +37,7 @@ Duckpool Beach, Near Woodlands Manor Farm
 
 ### Beaches
 
-There are so many beaches to choose from close to the farm in North Cornwall. Here are just a few of our favourites and you can also check out our latest blog for a detailed run-down of the [best beaches.](https://woodlandsmanorfarm.co.uk/woodlands-manor-farm-local-beaches/)
+There are so many beaches to choose from close to the farm in North Cornwall. Here are just a few of our favourites and you can also check out our latest blog for a detailed run-down of the [best beaches.](/things-to-do-in-bude/)
 
 **Duckpool** – Our nearest beach at just 2 miles away from the cottages at Woodlands Manor Farm. It is a very natural and wild cove and, although swimming is not recommended, the surf is good for experienced surfers.
 
@@ -49,35 +49,35 @@ Duckpool is favoured by many as a quiet retreat away from it all and offers spec
 
 **Widemouth Bay**  – Pronounced ‘Widmuth’, the Bay is 3 miles south of Bude and offers 2 stunning beaches stretching approx 1.5 miles. Excellent facilities, with a number of surf schools.
 
-[![Summerleaze Beach in Summer](/images/blog/top-holiday-ideas-bude/eaec8c78c097.webp)](https://woodlandsmanorfarm.co.uk/summerleaze-beach/)
+![Summerleaze Beach in Summer](/images/blog/top-holiday-ideas-bude/eaec8c78c097.webp)
 
 Summerleaze Beach in Summer
 
-[![Duckpool Beach, Near Woodlands Manor Farm](/images/blog/top-holiday-ideas-bude/e5d50f6ef7a6.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-02-at-11-05-16/)
+![Duckpool Beach, Near Woodlands Manor Farm](/images/blog/top-holiday-ideas-bude/e5d50f6ef7a6.webp)
 
 Duckpool Beach, Near Woodlands Manor Farm
 
-[![Sandymouth Beach](/images/blog/top-holiday-ideas-bude/8e7d9c7f40df.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-02-at-11-14-41/)
+![Sandymouth Beach](/images/blog/top-holiday-ideas-bude/8e7d9c7f40df.webp)
 
 Sandymouth Beach
 
   
 
-[![Northcott Beach](/images/blog/top-holiday-ideas-bude/deb59bca64b3.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-02-at-11-18-33/)
+![Northcott Beach](/images/blog/top-holiday-ideas-bude/deb59bca64b3.webp)
 
 Northcott Beach
 
-[![Crooklets Beach](/images/blog/top-holiday-ideas-bude/1700a7e4fe9f.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-02-at-11-07-37/)
+![Crooklets Beach](/images/blog/top-holiday-ideas-bude/1700a7e4fe9f.webp)
 
 Crooklets Beach
 
-[![Widemouth Bay seaview from cliff](/images/blog/top-holiday-ideas-bude/f9053255d500.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-02-at-11-06-53/)
+![Widemouth Bay seaview from cliff](/images/blog/top-holiday-ideas-bude/f9053255d500.webp)
 
 Widemouth Bay seaview from cliff
 
   
 
-[![Widemouth Bay and Black Rock Beach](/images/blog/top-holiday-ideas-bude/9739fe1e3900.webp)](https://woodlandsmanorfarm.co.uk/widemouth-bay/)
+![Widemouth Bay and Black Rock Beach](/images/blog/top-holiday-ideas-bude/9739fe1e3900.webp)
 
 Widemouth Bay and Black Rock Beach
 
@@ -107,29 +107,29 @@ Once a month, on the first Sunday of the month, there is a great [farmers market
 
 Visit Tintagel Web for more details [www.tintagelweb.co.uk](http://www.tintagelweb.co.uk/)
 
-[![Crackington Haven](/images/blog/top-holiday-ideas-bude/504d6638b867.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-02-at-11-27-14/)
+![Crackington Haven](/images/blog/top-holiday-ideas-bude/504d6638b867.webp)
 
 Crackington Haven
 
-[![Bude Artisan Farmers Market](/images/blog/top-holiday-ideas-bude/d5388f2a434e.webp)](https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/screenshot-2024-02-04-at-21-49-04/)
+![Bude Artisan Farmers Market](/images/blog/top-holiday-ideas-bude/d5388f2a434e.webp)
 
 Bude Artisan Farmers Market
 
-[![The Bude Castle](/images/blog/top-holiday-ideas-bude/2468d253ad1f.webp)](https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/screenshot-2024-02-05-at-18-34-13-1/)
+![The Bude Castle](/images/blog/top-holiday-ideas-bude/2468d253ad1f.webp)
 
 The Bude Castle
 
   
 
-[![Tintagle Castle, Cornwall](/images/blog/top-holiday-ideas-bude/daa105fcccfa.webp)](https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/screenshot-2024-02-04-at-17-00-23/)
+![Tintagle Castle, Cornwall](/images/blog/top-holiday-ideas-bude/daa105fcccfa.webp)
 
 Tintagle Castle, Cornwall
 
-[![](/images/blog/top-holiday-ideas-bude/6fb5d984da2f.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-02-at-14-22-07-2/)
+![A village near Bude, Cornwall](/images/blog/top-holiday-ideas-bude/6fb5d984da2f.webp)
 
 Instow
 
-[![Bocastle Village](/images/blog/top-holiday-ideas-bude/03e4a276dd85.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-02-at-14-22-36-2/)
+![Bocastle Village](/images/blog/top-holiday-ideas-bude/03e4a276dd85.webp)
 
 Bocastle Village
 
@@ -145,15 +145,15 @@ The Smithy in Welcombe offers a unique dining experience in a converted blacksmi
 
 [The Preston Gate](https://prestongateinn.co.uk/) Inn is another great pub in Bude that offers fabulous food and drink. Its well worth a visit any time of year.
 
-[![The Bush Inn](/images/blog/top-holiday-ideas-bude/e9e6db4426c2.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-03-at-11-21-06/)
+![The Bush Inn](/images/blog/top-holiday-ideas-bude/e9e6db4426c2.webp)
 
 The Bush Inn
 
-[![The Old Smithy Inn](/images/blog/top-holiday-ideas-bude/be7786e259f0.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-03-at-11-21-57/)
+![The Old Smithy Inn](/images/blog/top-holiday-ideas-bude/be7786e259f0.webp)
 
 The Old Smithy Inn
 
-[![](/images/blog/top-holiday-ideas-bude/7b063cea4397.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-03-at-11-23-40/)
+![A traditional pub near Bude, Cornwall](/images/blog/top-holiday-ideas-bude/7b063cea4397.webp)
 
 The Preston Gate Inn
 
@@ -175,15 +175,15 @@ Local artist Hannah Jenkinson has a unique studio with a sea view near Bude. Han
 
 [Welcombe Pottery](https://www.welcombepottery.co.uk/) also have an amazing studio and shop that is well worth a visit. The also hold regular workshops if you fancy learning a new skill.
 
-[![Hannah Jenkinson](/images/blog/top-holiday-ideas-bude/6f0cf967702a.webp)](https://woodlandsmanorfarm.co.uk/screenshot-2024-05-03-at-11-39-20/)
+![Hannah Jenkinson](/images/blog/top-holiday-ideas-bude/6f0cf967702a.webp)
 
 Hannah Jenkinson
 
-[![Welcombe Pottery](/images/blog/top-holiday-ideas-bude/9f6bbcbc81ff.png)](https://woodlandsmanorfarm.co.uk/the-little-extras/screenshot-2024-04-24-at-13-57-53/)
+![Welcombe Pottery](/images/blog/top-holiday-ideas-bude/9f6bbcbc81ff.png)
 
 Welcombe Pottery
 
-[![bude wood turning coures](/images/blog/top-holiday-ideas-bude/06f9869f4dea.webp)](https://woodlandsmanorfarm.co.uk/bude-wood-turning-coures/)
+![bude wood turning coures](/images/blog/top-holiday-ideas-bude/06f9869f4dea.webp)
 
 Hide Studio – Wood Turning
 

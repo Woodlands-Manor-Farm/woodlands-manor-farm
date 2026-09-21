@@ -42,6 +42,6 @@ Check out our latest summer 2025 reel on Facebook or Instagram, or head over to 
 
 ### Come Stay At Woodlands
 
-If you’re thinking about a family getaway, why not book one of our seven cosy cottages or try one of our two yurts and come see it all firsthand? [Find out more here.](https://woodlandsmanorfarm.co.uk/bude-holiday-cottages/)
+If you’re thinking about a family getaway, why not book one of our seven cosy cottages or try one of our two yurts and come see it all firsthand? [Find out more here.](/bude-holiday-cottages/)
 
 Just remember to bring your wellies, this is Cornwall, after all! And I have seen enough muddy white trainers to last a lifetime 🙂

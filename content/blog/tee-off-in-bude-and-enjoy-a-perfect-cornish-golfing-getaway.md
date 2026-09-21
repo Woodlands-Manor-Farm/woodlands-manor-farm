@@ -7,11 +7,11 @@ excerpt: "Check out our top 5 golf courses. Seasoned pro or casual player, Woodl
 feature_image: "/images/blog/tee-off-in-bude-and-enjoy-a-perfect-cornish-golfing-getaway/3452919a8969.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/tee-off-in-bude-and-enjoy-a-perfect-cornish-golfing-getaway/"
 ---
-# Enjoy the Top 5 Golf Courses – North Cornwall
+## Enjoy the Top 5 Golf Courses – North Cornwall
 
 Are you a golf enthusiast looking for the perfect destination in North Cornwall, one surrounded by breathtaking natural beauty? Look no further than Woodlands Manor Farm in Bude, your ideal base for a Cornish golfing getaway. Whether you’re a seasoned pro or a casual player, Bude and the surrounding areas offer a golfing experience that’s both challenging and unforgettable.
 
-At Woodlands Manor Farm, we understand the allure of a well-crafted golf break. That’s why we’re proud to offer the perfect base for your golfing adventure. Our stunning [holiday cottages](https://woodlandsmanorfarm.co.uk/cottages-bude/ "holiday cottages Bude, Cornwall") and luxurious [yurts](https://woodlandsmanorfarm.co.uk/yurts/ "yurts Bude, Cornwall") provide spacious and comfortable accommodations, while our [extensive facilities, including an indoor pool, games room, and farm animals](https://woodlandsmanorfarm.co.uk/on-the-farm/), ensure there’s something for everyone in your group to enjoy.
+At Woodlands Manor Farm, we understand the allure of a well-crafted golf break. That’s why we’re proud to offer the perfect base for your golfing adventure. Our stunning [holiday cottages](/bude-holiday-cottages/) and luxurious [yurts](/yurts/ "yurts Bude, Cornwall") provide spacious and comfortable accommodations, while our [extensive facilities, including an indoor pool, games room, and farm animals](/on-the-farm/), ensure there’s something for everyone in your group to enjoy.
 
 ### Enjoy Our Top 5 Diverse Golf Courses in and Around Bude
 
@@ -59,6 +59,6 @@ When you’re not on the course, explore the abundance of activities that our co
 
 ### Woodlands Manor Farm – Your Home Away from Home
 
-After a day of golfing adventures, return to the warmth and comfort of Woodlands Manor Farm. Relax in your spacious [cottage](https://woodlandsmanorfarm.co.uk/cottages-bude/ "holiday cottage Bude, Cornwall") or luxury [yurt](https://woodlandsmanorfarm.co.uk/on-the-farm/ "yurts Bude, Cornwall"), unwind in the indoor pool, or enjoy a delicious meal prepared with fresh local produce. Ruth and Andy at the farm are always happy to help you plan your itinerary and ensure you have a memorable stay.
+After a day of golfing adventures, return to the warmth and comfort of Woodlands Manor Farm. Relax in your spacious [cottage](/bude-holiday-cottages/) or luxury [yurt](/on-the-farm/ "yurts Bude, Cornwall"), unwind in the indoor pool, or enjoy a delicious meal prepared with fresh local produce. Ruth and Andy at the farm are always happy to help you plan your itinerary and ensure you have a memorable stay.
 
-So, pack your clubs, [book your stay at Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/book-direct/), and tee off on an unforgettable golfing getaway in Bude!
+So, pack your clubs, [book your stay at Woodlands Manor Farm](/holiday-cottage-direct-booking-woodlands-cornwall/), and tee off on an unforgettable golfing getaway in Bude!

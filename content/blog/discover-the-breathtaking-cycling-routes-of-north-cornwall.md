@@ -7,17 +7,15 @@ excerpt: "Enjoy a cycling experience you won't forget. From local routes to esta
 feature_image: "/images/blog/discover-the-breathtaking-cycling-routes-of-north-cornwall/aa12f99a4ed1.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/discover-the-breathtaking-cycling-routes-of-north-cornwall/"
 ---
-# Discover the Breathtaking Cycling Routes of North
-
-# Cornwall
+## Discover the Breathtaking Cycling Routes of North Cornwall
 
 If you’re a cycling enthusiast or simply enjoy exploring the great outdoors on two wheels, Woodlands Manor Farm in Bude, North Cornwall, is the perfect destination for your next self-catering holiday. Surrounded by the captivating beauty of the Cornish countryside, our peaceful retreat not only offers charming cottages and cosy yurts but also provides access to an array of stunning cycling routes that are perfect for those looking for a cycling experience they won’t forget. Read on to discover nearby locations as well as established cycling trails that offer something for cyclists of all abilities. Saddle up and get ready to embark on exciting cycling adventures during your stay at Woodlands Manor Farm.
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 50%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![Cycling in Cornwall - Woodlands Manor Farm](/images/blog/discover-the-breathtaking-cycling-routes-of-north-cornwall/9c3bddc8e0d4.webp)](https://woodlandsmanorfarm.co.uk/cycling-in-cornwall-woodlands-manor-farm/)
+![Cycling in Cornwall - Woodlands Manor Farm](/images/blog/discover-the-breathtaking-cycling-routes-of-north-cornwall/9c3bddc8e0d4.webp)
 
-[![North Cornwall Cycling Routes - Woodlands Manor Farm](/images/blog/discover-the-breathtaking-cycling-routes-of-north-cornwall/500f5e3530bc.webp)](https://woodlandsmanorfarm.co.uk/north-cornwall-cycling-routes-woodlands-manor-farm/)
+![North Cornwall Cycling Routes - Woodlands Manor Farm](/images/blog/discover-the-breathtaking-cycling-routes-of-north-cornwall/500f5e3530bc.webp)
 
   
 
@@ -56,4 +54,4 @@ Venture slightly further afield to the Ruby Trail, an exhilarating route that tr
 
 Before setting off on your cycling adventures, remember to check the weather forecast and bring appropriate clothing and equipment. Helmets are essential for your safety, and it’s advisable to carry some basic tools and a puncture repair kit. Additionally, ensure you have plenty of water and snacks to keep you energised throughout your ride.
 
-Whether you’re a casual cyclist or a seasoned pro, we are privileged to have a wealth of cycling routes nearby that cater to all preferences and abilities. So, why not combine your love for cycling with a memorable holiday in the heart of North Cornwall? [Book your stay at Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/cottages-bude/) and get ready to immerse yourself in the beauty of Cornwall from the comfort of your saddle. If you’re looking for recommendations, pop in and speak to Ruth and Andy who are always happy to help you plan the perfect bike ride. Happy cycling!
+Whether you’re a casual cyclist or a seasoned pro, we are privileged to have a wealth of cycling routes nearby that cater to all preferences and abilities. So, why not combine your love for cycling with a memorable holiday in the heart of North Cornwall? [Book your stay at Woodlands Manor Farm](/bude-holiday-cottages/) and get ready to immerse yourself in the beauty of Cornwall from the comfort of your saddle. If you’re looking for recommendations, pop in and speak to Ruth and Andy who are always happy to help you plan the perfect bike ride. Happy cycling!

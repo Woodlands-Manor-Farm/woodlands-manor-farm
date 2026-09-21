@@ -9,7 +9,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/discover-the-best-glamping-spots-i
 ---
 Cornwall and its [breathtaking landscapes](https://www.pitchup.com/search/England/South_West/Cornwall/Bude/?type=13&type=7), offers a unique backdrop for the perfect Cornish glamping holiday. As the trend for immersive nature experiences continues to grow, glamping in Cornwall is the ideal mix of outdoor adventure and comfort. This delightful form of accommodation allows visitors to relax in the natural beauty of Cornwall’s outdoors without sacrificing the luxuries of a holiday cottage. Whether it’s relaxing under starry skies near Bude or retreating to a shepherd’s hut after exploring Land’s End, glamping in Cornwall caters to all who seek a slice of tranquility with a touch of luxury.
 
-This article guides you through the best glamping spots in Cornwall for 2024, from coastal cabins to camping pods nestled in the countryside, and lists activities to consider. Don’t forget that [Woodlands Manor Farm](homehttps://woodlandsmanorfarm.co.uk/) delivers its own [luxury glamping experience](yurthttps://woodlandsmanorfarm.co.uk/yurts/) for friends and family to enjoy.
+This article guides you through the best glamping spots in Cornwall for 2024, from coastal cabins to camping pods nestled in the countryside, and lists activities to consider. Don’t forget that [Woodlands Manor Farm](/) delivers its own [luxury glamping experience](/yurts/) for friends and family to enjoy.
 
 ## Why Choose Glamping in Cornwall?
 

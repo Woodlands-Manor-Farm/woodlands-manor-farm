@@ -19,7 +19,7 @@ A beloved local tradition and the highlight of everyone’s Christmas in Bude! O
 
 **Tip:** Spectators welcome. Wrap up warm, bring a flask, and cheer from the shore!
 
-![](/images/blog/christmas-in-bude-2025/24f1649eadf3.jpg) ![](/images/blog/christmas-in-bude-2025/d85fc1d594ba.webp)
+![Christmas Day swim at Crooklets Beach, Bude](/images/blog/christmas-in-bude-2025/24f1649eadf3.jpg) ![Christmas Day swim at Crooklets Beach, Bude](/images/blog/christmas-in-bude-2025/d85fc1d594ba.webp)
 
 ### 2\. [An Enchanted Castle Christmas at The Castle Heritage Centre](https://www.thecastlebude.co.uk/an-enchanted-christmas/)
 
@@ -34,7 +34,7 @@ A family-friendly, festive weekend in the heart of Bude.
 
 **Tip:** Some workshops require booking. Great for indoor fun if the weather turns.
 
-![](/images/blog/christmas-in-bude-2025/20d9714fb7ce.jpg)
+![An Enchanted Christmas at The Castle, Bude](/images/blog/christmas-in-bude-2025/20d9714fb7ce.jpg)
 
 3\. Christmas Markets & Artisan Shopping
 
@@ -44,7 +44,7 @@ A family-friendly, festive weekend in the heart of Bude.
 
 **Tip:** Come early for the best picks. Ideal for unique gifts and local treats.
 
-![](/images/blog/christmas-in-bude-2025/0701b6d96993.webp) ![](/images/blog/christmas-in-bude-2025/9e234a851a6e.jpg)
+![An Enchanted Christmas at The Castle, Bude](/images/blog/christmas-in-bude-2025/0701b6d96993.webp) ![An Enchanted Christmas at The Castle, Bude](/images/blog/christmas-in-bude-2025/9e234a851a6e.jpg)
 
 ### 4\. Live Music, Carols & Festive Atmosphere
 
@@ -91,7 +91,7 @@ Just a short drive away in North Devon, the **[RHS Glow event](https://www.rhs.o
 
 **Tip:** Evening event. Dress warmly and book tickets in advance.
 
-![](/images/blog/christmas-in-bude-2025/f8f58de5cf19.jpg) ![](/images/blog/christmas-in-bude-2025/72a51562a138.jpg)
+![RHS Garden Rosemoor Glow Christmas lights](/images/blog/christmas-in-bude-2025/f8f58de5cf19.jpg) ![RHS Garden Rosemoor Glow Christmas lights](/images/blog/christmas-in-bude-2025/72a51562a138.jpg)
 
 ### 8\. Crackington Haven Christmas Market
 
@@ -99,4 +99,4 @@ On **Saturday, 13 December 2025**, head to the [Crackington Haven](https://www.f
 
 **Tip:** Combine with a coastal walk for a peaceful festive day.
 
-**Final Thoughts** From the festive swim to light trails and cosy craft markets, Bude offers an unforgettable Christmas experience. Whether you’re staying at [Woodlands Manor Farm i](https://woodlandsmanorfarm.co.uk/bude-holiday-cottages/)n one of our cosy Cottages or Yurts, or just visiting for the day, there’s plenty to keep the holiday spirit alive.
+**Final Thoughts** From the festive swim to light trails and cosy craft markets, Bude offers an unforgettable Christmas experience. Whether you’re staying at [Woodlands Manor Farm i](/bude-holiday-cottages/)n one of our cosy Cottages or Yurts, or just visiting for the day, there’s plenty to keep the holiday spirit alive.

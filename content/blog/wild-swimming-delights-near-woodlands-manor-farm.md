@@ -7,7 +7,7 @@ excerpt: "Woodlands Manor Farm has some of Cornwall's best wild swimming spots. 
 feature_image: "/images/blog/wild-swimming-delights-near-woodlands-manor-farm/a56623a8678e.jpg"
 source_url: "https://woodlandsmanorfarm.co.uk/wild-swimming-delights-near-woodlands-manor-farm/"
 ---
-# **Wild Swimming Delights near Woodlands Manor Farm, Cornwall**
+## **Wild Swimming Delights near Woodlands Manor Farm, Cornwall**
 
 [Woodlands Manor Farm](/) in Cornwall isn’t just about stunning scenery and cozy cottages – it’s your gateway to a wild swimming adventure! With some of North Cornwall’s best wild swimming spots nearby, wild swimming is the perfect way to reconnect with nature. Plus, we offer the ideal place to stay – choose from one of our luxury [holiday cottages](/bude-holiday-cottages/) or [glamorous yurts](/yurts/).
 

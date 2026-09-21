@@ -7,11 +7,11 @@ excerpt: "Discover the best Bude restaurants, our top picks includes something f
 feature_image: "/images/blog/the-best-bude-restaurants/56b1b374fed0.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/the-best-bude-restaurants/"
 ---
-#  Fantastic Local Bude Restaurants
+##  Fantastic Local Bude Restaurants
 
 Bude Restaurants have so much to offer, from fine dining to amazing tapas, the best beach cafes, and even undoubtedly one of the best bakeries in the UK. This article includes our top Bude restaurant recommendations, so we hope you have fun eating out and supporting the local Bude eateries. 
 
-Of course, each of our [luxury holiday cottages](https://woodlandsmanorfarm.co.uk/cottages-bude/ "luxury holiday cottages in Bude") and [yurts](https://woodlandsmanorfarm.co.uk/yurts/ "Yurts in Devon and Cornwall") have kitchen areas that are equipped with everything you need to create your own fantastic meals during your stay at Woodlands Manor Farm. However, for those days when you just don’t feel like cooking, there are our top picks for amazing Bude dining options.
+Of course, each of our [luxury holiday cottages](/bude-holiday-cottages/) and [yurts](/yurts/ "Yurts in Devon and Cornwall") have kitchen areas that are equipped with everything you need to create your own fantastic meals during your stay at Woodlands Manor Farm. However, for those days when you just don’t feel like cooking, there are our top picks for amazing Bude dining options.
 
 While most of these picks are in Bude, just 15 minutes away, we have included the best local pubs and even a few further afield, that are worth considering.
 
@@ -177,4 +177,4 @@ Well unfortunately Potters the Michelin star Bude restaurant has sadly closed it
 
 ### Enjoy the Perfect Dining Experience During your Visit to Woodlands Manor Farm
 
-Whether it’s a casual afternoon snack after enjoying a few hours at the beach or a slap-up meal to celebrate the last day of your vacation, there is no shortage of fantastic options when you stay at [Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/). We are privileged to have so many excellent cafes and restaurants close by and hope our guests enjoy many delicious meals during their time here. If none of these recommendations are making your mouths water, pop in to the farm where Ruth and Andy will be more than happy to suggest alternatives that may be more up your street.
+Whether it’s a casual afternoon snack after enjoying a few hours at the beach or a slap-up meal to celebrate the last day of your vacation, there is no shortage of fantastic options when you stay at [Woodlands Manor Farm](/). We are privileged to have so many excellent cafes and restaurants close by and hope our guests enjoy many delicious meals during their time here. If none of these recommendations are making your mouths water, pop in to the farm where Ruth and Andy will be more than happy to suggest alternatives that may be more up your street.

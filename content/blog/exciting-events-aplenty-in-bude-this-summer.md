@@ -7,9 +7,9 @@ excerpt: "There are a number of amazing events planned in Bude this summer and W
 feature_image: "/images/blog/exciting-events-aplenty-in-bude-this-summer/5d2790c88b1a.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/exciting-events-aplenty-in-bude-this-summer/"
 ---
-# Exciting Events Aplenty in Bude this Summer
+## Exciting Events Aplenty in Bude this Summer
 
-The summer months of July and August are a fantastic time to visit Woodlands Manor Farm with a number of amazing events planned in the nearby town of Bude. When you’re not enjoying the stunning surroundings of our [self-catering holiday cottages](https://woodlandsmanorfarm.co.uk/cottages-bude/ "self-catering holiday cottages in Bude") and [yurts](https://woodlandsmanorfarm.co.uk/yurts/ "Bude glamping yurts in North Cornwall"), you can take the short trip into Bude and make the most of their exciting line-up of summer activities. Here are some of the events we are most looking forward to:
+The summer months of July and August are a fantastic time to visit Woodlands Manor Farm with a number of amazing events planned in the nearby town of Bude. When you’re not enjoying the stunning surroundings of our [self-catering holiday cottages](/bude-holiday-cottages/) and [yurts](/yurts/ "Bude glamping yurts in North Cornwall"), you can take the short trip into Bude and make the most of their exciting line-up of summer activities. Here are some of the events we are most looking forward to:
 
 **North Coast Arts Open-Air Theatre Festival** _(June – August)_
 
@@ -35,4 +35,4 @@ A massive hit with our guests and locals alike is the highly anticipated [Bude C
 
 Prepare to be swept away by the soulful melodies and infectious rhythms of the [Bude Jazz Festival](https://www.budejazzfestival.info/). Immerse yourself in the sounds of jazz, blues, ragtime and more as talented musicians grace various venues throughout the town. Get ready to tap your feet and swing to the beats!
 
-Bude comes alive with a multitude of exciting events during the summer months and there is truly something for everyone. For more information about all of the events and activities happening in Bude and to plan your visit, take a look at [Visit Bude’s Events Calendar](https://www.visitbude.info/new-events/) for a full list of the occasions to look forward to over the coming months. To book your stay at Woodlands Manor Farm and secure the perfect base to explore Bude’s upcoming events, [check our availability](https://woodlandsmanorfarm.co.uk/cottages-bude/) and get in touch with us today.
+Bude comes alive with a multitude of exciting events during the summer months and there is truly something for everyone. For more information about all of the events and activities happening in Bude and to plan your visit, take a look at [Visit Bude’s Events Calendar](https://www.visitbude.info/new-events/) for a full list of the occasions to look forward to over the coming months. To book your stay at Woodlands Manor Farm and secure the perfect base to explore Bude’s upcoming events, [check our availability](/bude-holiday-cottages/) and get in touch with us today.

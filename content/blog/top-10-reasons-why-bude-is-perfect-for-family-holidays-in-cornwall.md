@@ -13,29 +13,29 @@ Nestled along the dramatic North Cornwall coastline, Bude is a favourite destina
 
 Here are the top 10 reasons Bude is a fantastic choice for family-friendly holidays in Cornwall.
 
-[![The Beach House, Bude Cornwall](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/942bfc500606.webp)](https://woodlandsmanorfarm.co.uk/places-to-eat-in-bude/screenshot-2024-10-10-at-21-38-42/)
+![The Beach House, Bude Cornwall](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/942bfc500606.webp)
 
 The Beach House
 
-[![The Crooklets Beach Cafe - family-friendly](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/535314f38398.png)](https://woodlandsmanorfarm.co.uk/places-to-eat-in-bude/screenshot-2024-10-10-at-21-32-46/)
+![The Crooklets Beach Cafe - family-friendly](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/535314f38398.png)
 
 The Crooklets Beach Cafe
 
-[![Bude Sea Pool Blue](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/d869a3433680.webp)](https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/screenshot-2024-02-04-at-16-50-33/)
+![Bude Sea Pool Blue](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/d869a3433680.webp)
 
 Bude Sea Pool, Cornwall
 
   
 
-[![The Big Sheep, family friendly attraction](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/e1d94ac35b27.webp)](https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/screenshot-2024-02-04-at-16-35-31/)
+![The Big Sheep, family friendly attraction](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/e1d94ac35b27.webp)
 
 The Big Sheep
 
-[![Surfing - Luxury Holiday Cottages Bude](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/2b08b459fc0f.webp)](https://woodlandsmanorfarm.co.uk/local-surf-schools-bude/surfing-luxury-holiday-cottages-bude/)
+![Surfing - Luxury Holiday Cottages Bude](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/2b08b459fc0f.webp)
 
 Surfing at Bude
 
-[![South West Coastal Path, family friendly holiday activity](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/00fe6edc7c65.webp)](https://woodlandsmanorfarm.co.uk/on-the-farm/img_7897/)
+![South West Coastal Path, family friendly holiday activity](/images/blog/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/00fe6edc7c65.webp)
 
 South West Coastal Path
 
@@ -51,23 +51,23 @@ Lastly, [Sandymouth](https://www.visitbude.info/beaches/sandymouth-beach/), [Duc
 
 **Note:** please be aware that Duckpool does not have lifeguards on the beach in summer, so as always, paddle unless you are a very experienced sea swimmer.
 
-[Read more about the Bude Beaches here.](https://woodlandsmanorfarm.co.uk/woodlands-manor-farm-local-beaches/)
+[Read more about the Bude Beaches here.](/things-to-do-in-bude/)
 
 #### 2\. Great Wild Swimming Spots 
 
 Wild swimming has significantly increased in popularity across the UK in recent years. According to the Outdoor Swimming Society, approximately 7.5 million people in the UK regularly swim in natural waters such as rivers, lakes, lidos, and seas.
 
-The iconic [Bude Sea Poo](https://www.budeseapool.org/faqs/)l is a semi-natural swimming pool built into the rocks at Summerleaze. It provides a safe environment for children to enjoy the water all year round, and you will find many dedicated wild swimmers swimming up and down the 91-metre pool. There are many additional fabulous wild swimming spots nearby, and you can find our [top wild swimming blog here.](https://woodlandsmanorfarm.co.uk/wild-swimming-delights-near-woodlands-manor-farm/)
+The iconic [Bude Sea Poo](https://www.budeseapool.org/faqs/)l is a semi-natural swimming pool built into the rocks at Summerleaze. It provides a safe environment for children to enjoy the water all year round, and you will find many dedicated wild swimmers swimming up and down the 91-metre pool. There are many additional fabulous wild swimming spots nearby, and you can find our [top wild swimming blog here.](/wild-swimming-delights-near-woodlands-manor-farm/)
 
 #### 3\. Outdoor Adventures in Nature
 
 Of course, you cannot come to Bude without considering surfing. There are so many options for both the experienced and beginner level.
 
-[Check out our recommendations on surf schools here.](https://woodlandsmanorfarm.co.uk/local-surf-schools-bude/)
+[Check out our recommendations on surf schools here.](/things-to-do-in-bude/)
 
 For families who love the great outdoors, Bude is surrounded by stunning countryside and coastal paths. [The South West Coastal Path](https://www.southwestcoastpath.org.uk/) offers breathtaking views of the Atlantic Ocean and opportunities to spot wildlife.
 
-Families can also explore the [Bude Canal,](https://www.visitbude.info/exploring-the-bude-canal/) perfect for a relaxing walk or a paddleboarding adventure. The area’s many nature reserves, like the [Tamar Lakes](https://www.swlakestrust.org.uk/tamar), provide ample opportunities for birdwatching, paddleboarding, kayaking, sailing, fishing, and other activities. They also run the [local park](https://www.parkrun.org.uk/tamarlakes/) [at Tamar Lake](_wp_link_placeholder) on a Sunday for keen runners.
+Families can also explore the [Bude Canal,](https://www.visitbude.info/exploring-the-bude-canal/) perfect for a relaxing walk or a paddleboarding adventure. The area’s many nature reserves, like the [Tamar Lakes](https://www.swlakestrust.org.uk/tamar), provide ample opportunities for birdwatching, paddleboarding, kayaking, sailing, fishing, and other activities. They also run the [local park](https://www.parkrun.org.uk/tamarlakes/) at Tamar Lake on a Sunday for keen runners.
 
 Coasteering is also offered [by Saltwater Safari](https://www.saltwatersafari.co.uk/), which we highly recommend for both surfing and other seaside adventures.
 
@@ -93,13 +93,13 @@ Families can immerse themselves in the history and culture of Bude by visiting i
 
 Cornwall is renowned for its food, and Bude is no exception. Many family-friendly dining options exist, from traditional Cornish pasties to fresh seafood. Many cafes and restaurants in Bude cater to children, offering kids’ menus and relaxed atmospheres. Don’t forget to treat the family to some [locally made ice cream](https://budeicecream.com/) while taking in the ocean views.
 
-Please read [the blog with our top restaurant recommendations here](https://woodlandsmanorfarm.co.uk/the-best-bude-restaurants/) 
+Please read [the blog with our top restaurant recommendations here](/the-best-bude-restaurants/) 
 
 #### 7\. Accommodation to Suit Every Family
 
-Bude offers many family-friendly accommodation options, from self-catering cottages to farm stays, holiday parks, and beachfront hotels. Of course, we would love you all to stay at [Woodlands](http://www.woodlandsmanorfarm.ci.uk) in one of our holiday cottages or yurts. However, there are many fabulous options, and [Visit Bude](https://www.visitbude.info/stay/) is a great place to explore ideas – but ideally, call us first :). Families can opt for unique accommodations like [yurts](https://woodlandsmanorfarm.co.uk/yurts/) or [farm stays for a truly memorable stay](https://woodlandsmanorfarm.co.uk/), which allows kids to get up close with animals and nature.
+Bude offers many family-friendly accommodation options, from self-catering cottages to farm stays, holiday parks, and beachfront hotels. Of course, we would love you all to stay at [Woodlands](http://www.woodlandsmanorfarm.ci.uk) in one of our holiday cottages or yurts. However, there are many fabulous options, and [Visit Bude](https://www.visitbude.info/stay/) is a great place to explore ideas – but ideally, call us first :). Families can opt for unique accommodations like [yurts](/yurts/) or [farm stays for a truly memorable stay](/), which allows kids to get up close with animals and nature.
 
-[Check out our latest reviews here](https://woodlandsmanorfarm.co.uk/reviews/) 
+[Check out our latest reviews here](/reviews/) 
 
 #### 8\. Year-Round Appeal
 
@@ -125,4 +125,4 @@ Bude has it all for a family-friendly holiday in Cornwall: stunning natural beau
 
 So what are you waiting for? Pack your bags and head to Bude.
 
-Don’t forget to consider [Woodlands Manor Farm](https://woodlandsmanorfarm.co.uk/) for your next holiday, we would love to have you as our guest on the farm.
+Don’t forget to consider [Woodlands Manor Farm](/) for your next holiday, we would love to have you as our guest on the farm.
