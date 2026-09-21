@@ -9,5 +9,5 @@
  * cookieless) and needs no configuration here.
  */
 export const ANALYTICS: { gaMeasurementId: string } = {
-  gaMeasurementId: "",
+  gaMeasurementId: "G-0ZPYCREFWT",
 };
