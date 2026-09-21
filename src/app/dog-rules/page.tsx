@@ -16,7 +16,7 @@ export default function Page() {
       eyebrow="Woodlands Manor Farm · Pet policy"
       title="Bringing"
       titleAccent="your dog"
-      lastUpdated="January 2025"
+      lastUpdated="21 September 2026"
       intro={
         <>
           <p style={{ marginBottom: 16 }}>
@@ -43,10 +43,7 @@ export default function Page() {
                 Dogs are <strong>not permitted</strong> in the swimming pool, games room or
                 children&rsquo;s soft play area.
               </li>
-              <li>
-                Please don&rsquo;t leave your dog unattended in the cottage. If you need to be out
-                without them, talk to us — we may be able to help.
-              </li>
+              <li>{DOG_POLICY.supervision}</li>
               <li>{DOG_POLICY.indoors} Please bring your own dog bed.</li>
             </ul>
           ),
@@ -67,9 +64,8 @@ export default function Page() {
                 <li>If your dog has a strong prey drive, give the animal areas a wide berth.</li>
               </ul>
               <div className={s.warn}>
-                ⚠ Worrying livestock is a criminal offence. The farmer is legally entitled to
-                shoot any dog caught attacking sheep — please don&rsquo;t put us in that
-                position.
+                Please keep your dog under control at all times. If your dog is distressed
+                around livestock, move away and speak to Ruth or Andy before returning.
               </div>
             </>
           ),
@@ -85,7 +81,9 @@ export default function Page() {
                 West Coast Path.
               </p>
               <ul>
-                <li>Bluebell woodland walk — on the farm, year-round, with dogs on leads.</li>
+                <li>Bluebell woodland walk — dogs may be off lead while kept under control.</li>
+                <li>Meadow — dogs may be off lead while kept under control.</li>
+                <li>Playing field, farmyard and courtyard — dogs must be on leads.</li>
                 <li>Coombe Valley walk — 2 miles to Duckpool Beach (dog-friendly all year).</li>
                 <li>Coast path — Duckpool to Sandymouth is one of our favourite local walks.</li>
               </ul>
@@ -97,10 +95,8 @@ export default function Page() {
           title: "What we provide",
           content: (
             <ul>
-              <li>Dog towels in the boot room of every cottage</li>
               <li>An outdoor tap for muddy-paw rinses</li>
               <li>List of dog-friendly local pubs and beaches in your welcome pack</li>
-              <li>Water bowls available on request</li>
             </ul>
           ),
         },
@@ -110,6 +106,7 @@ export default function Page() {
           content: (
             <ul>
               <li>Your dog&rsquo;s bed</li>
+              <li>Dog towels</li>
               <li>Dog food &amp; bowls</li>
               <li>Lead, harness, poop bags</li>
               <li>Crate if your dog uses one</li>

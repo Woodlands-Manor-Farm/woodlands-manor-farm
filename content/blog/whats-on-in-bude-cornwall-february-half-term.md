@@ -3,10 +3,14 @@ title: "What’s on in Bude, Cornwall - February Half Term"
 slug: "whats-on-in-bude-cornwall-february-half-term"
 date: "2024-02-05T22:51:01+00:00"
 author: "ruth"
-excerpt: "Read our What’s On In Bude, February Half-Term Guide to discover a host of exciting things to do for all the family."
+excerpt: "Archive: February half term 2024. Read our What’s On In Bude, February Half-Term Guide to discover a host of exciting things to do for all the family."
 feature_image: "/images/blog/whats-on-in-bude-cornwall-february-half-term/cff22d11ef17.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february-half-term/"
+category: "Archive"
 ---
+
+> **From the archive — February half term 2024.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+
 ## What’s on in Bude, Cornwall – February Half Term
 
 February half-term is now just a week away, and our What’s On guide is brimming with exciting things to do for all the family. It covers Bude and the surrounding North Cornwall/Devon area. Foodie, cultural connoisseur, child, adventurer, art lover or nature fan – there is something for everyone, reminding us why Bude and North Cornwall is such a fabulous holiday destination.
@@ -246,4 +250,4 @@ This exhibition is about as environmentally friendly as they come. Everything ha
 
 With so many fantastic events and activities happening, I am sure you will agree there is something for everyone this half-term in Bude and Woodlands Manor Farm! If you have any further questions, please do not hesitate to ask Ruth & Andy.
 
-Whilst you are staying don’t forget to experience one of the many great restaurants we are priviliged to have nearby – [read more about them in our food blog](https://wmfarmprod.wpenginepowered.com/local-bude-restaurants/).
+Whilst you are staying don’t forget to experience one of the many great restaurants we are priviliged to have nearby – [read more about them in our food blog](/the-best-bude-restaurants/).

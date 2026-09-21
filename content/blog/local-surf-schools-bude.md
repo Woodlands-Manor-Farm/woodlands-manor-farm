@@ -9,9 +9,9 @@ source_url: "https://woodlandsmanorfarm.co.uk/local-surf-schools-bude/"
 ---
 ## Hit the Waves at One of the Local Surf Schools
 
-Located in the beautiful countryside of North Cornwall, our [luxury holiday cottages](https://wmfarmprod.wpenginepowered.com/cottages/ "Luxury holiday cottages in Bude") and lovely [yurts](https://wmfarmprod.wpenginepowered.com/yurts/ "Yurts in Devon and Cornwall") offer an idyllic holiday destination for those seeking peace and tranquillity. However, for those seeking adventure and excitement, the nearby coastal town of Bude provides the ideal spot for surfing.
+Located in the beautiful countryside of North Cornwall, our [luxury holiday cottages](/bude-holiday-cottages/ "Luxury holiday cottages in Bude") and lovely [yurts](/yurts/ "Yurts in Devon and Cornwall") offer an idyllic holiday destination for those seeking peace and tranquillity. However, for those seeking adventure and excitement, the nearby coastal town of Bude provides the ideal spot for surfing.
 
-Bude’s location on the coast means that it is exposed to some of the best waves in the UK. This makes it a popular destination for surfers from all over the world. With [Summerleaze Beach, Crooklets Beach and Widemouth Bay](https://wmfarmprod.wpenginepowered.com/woodlands-manor-farm-local-beaches/) all in close proximity, you have plenty of fantastic options to choose from when you fancy hitting the waves. The town itself has a number of excellent surf schools, which offer lessons and equipment hire for all levels of surfers.
+Bude’s location on the coast means that it is exposed to some of the best waves in the UK. This makes it a popular destination for surfers from all over the world. With [Summerleaze Beach, Crooklets Beach and Widemouth Bay](/woodlands-manor-farm-local-beaches/) all in close proximity, you have plenty of fantastic options to choose from when you fancy hitting the waves. The town itself has a number of excellent surf schools, which offer lessons and equipment hire for all levels of surfers.
 
 For those staying at Woodlands Manor Farm, there are several surf schools that we recommend. Here are some of the local surf schools that we know offer fantastic experiences:
 
@@ -21,7 +21,7 @@ Great for beginners and experienced surfers alike, [Saltwater Safari](https://ww
 
 ### Big Blue Surf School
 
-With over 20 years of experience in teaching people to surf on [Summerleaze Beach](https://wmfarmprod.wpenginepowered.com/woodlands-manor-farm-local-beaches/), you can rest assured that you will be in good hands with [Big Blue Surf School](https://www.bigbluesurfschool.com/). Great for groups of friends and family, they can also cater for disabled and neurodiverse surfers.
+With over 20 years of experience in teaching people to surf on [Summerleaze Beach](/woodlands-manor-farm-local-beaches/), you can rest assured that you will be in good hands with [Big Blue Surf School](https://www.bigbluesurfschool.com/). Great for groups of friends and family, they can also cater for disabled and neurodiverse surfers.
 
 ### MLH Surf Coaching
 
@@ -29,7 +29,7 @@ Run by professional surfer Miles Lee-Hargreaves, [MLH Surf Coaching](https://www
 
 ### Freewave Surf Academy
 
-Offering individual and small group sessions at both [Widemouth Bay and Summerleaze Beach](https://wmfarmprod.wpenginepowered.com/woodlands-manor-farm-local-beaches/), the team of local instructors at [Freewave Surf Academy](https://freewavesurfacademy.co.uk/) delivers a truly first-rate surfing experience. From complete beginners to seasoned surfers looking to improve their skills, all are welcome.
+Offering individual and small group sessions at both [Widemouth Bay and Summerleaze Beach](/woodlands-manor-farm-local-beaches/), the team of local instructors at [Freewave Surf Academy](https://freewavesurfacademy.co.uk/) delivers a truly first-rate surfing experience. From complete beginners to seasoned surfers looking to improve their skills, all are welcome.
 
 Enjoy a Fantastic Surfing Experience During your Stay at Woodlands Manor Farm. Whether you’re a serious surfer or just looking for a fun family day out, Bude and the surrounding areas have some great spots for surfing with plenty of passionate and knowledgeable instructors available to provide an unforgettable experience. Whichever local surf school you choose, we’re confident you’ll have an incredible time tackling some of the best waves the UK has to offer.
 

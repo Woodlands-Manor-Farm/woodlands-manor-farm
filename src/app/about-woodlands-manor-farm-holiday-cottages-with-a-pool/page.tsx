@@ -142,7 +142,7 @@ export default function AboutPage() {
               {
                 icon: "🐮",
                 title: "Farm Animals",
-                body: "Ponies, alpacas, pygmy goats, Kune Kune pigs, sheep, rabbits, chickens and Growler the cat. Ruth's feed the animals tour runs every Sunday and Wednesday morning.",
+                body: "Ponies, alpacas, pygmy goats, Kune Kune pigs, sheep, rabbits, chickens and Growler the cat. Ruth's free Feed the Animals tour runs on Wednesdays at 8am and Sundays at 8.30am. Please book in advance.",
               },
               {
                 icon: "🌿",

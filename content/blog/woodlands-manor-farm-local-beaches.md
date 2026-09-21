@@ -13,13 +13,13 @@ _Bude Sea Pool at Summerleaze Beach_ – 📷 _[Visit Cornwall](https://www.visi
 
 Who doesn’t love a day at the beach? Whether you’re sunbathing, taking a dip in the sea, building a sand castle, having a picnic, taking a romantic stroll or anything else, having a beach nearby is always fantastic. At Woodlands Manor Farm it’s fair to say that we are absolutely spoiled by choice when it comes to local beaches! With each one offering something a little different, you will definitely find the perfect beach to enjoy your chosen activity.
 
-If you’re looking for a nice relaxing stay in a comfortable [farm cottage](https://wmfarmprod.wpenginepowered.com/little-extras/ "farm cottages near the beach in Bude") or in search of the perfect spot for some [glamping near the beach](https://wmfarmprod.wpenginepowered.com/yurts/ "farm glamping in Cornwall"), Woodlands Manor Farm is the perfect location. Read on for our guide to each of the local beaches you can visit during your stay with us.
+If you’re looking for a nice relaxing stay in a comfortable [farm cottage](/the-little-extras/ "farm cottages near the beach in Bude") or in search of the perfect spot for some [glamping near the beach](/yurts/ "farm glamping in Cornwall"), Woodlands Manor Farm is the perfect location. Read on for our guide to each of the local beaches you can visit during your stay with us.
 
 ### Duckpool
 
 _Duckpool Beach –_ 📷 _[National Trust](https://www.nationaltrust.org.uk/duckpool)_
 
-[Duckpool](https://www.nationaltrust.org.uk/duckpool) is the closest beach to our [luxury holiday cottages](https://wmfarmprod.wpenginepowered.com/cottages/) and you can drive there in under 10 minutes. This remote beach enjoys some amazing surroundings, including many rock pools and the 100 metre high Steeple Point Cliff which is a truly imposing feature.
+[Duckpool](https://www.nationaltrust.org.uk/duckpool) is the closest beach to our [luxury holiday cottages](/bude-holiday-cottages/) and you can drive there in under 10 minutes. This remote beach enjoys some amazing surroundings, including many rock pools and the 100 metre high Steeple Point Cliff which is a truly imposing feature.
 
 Unfortunately, Duckpool isn’t suitable for swimming and many parts may be too rocky for a comfortable seaside picnic, but the scenery is beautiful. If you fancy a coastal walk you can head south to nearby Sandymouth beach or travel north to visit [Hawker’s Hut](https://www.nationaltrust.org.uk/morwenstow/trails/hawkers-hut-walk) and enjoy the best cream tea and pastries around at the [Rectory Farm Tearooms](http://www.rectory-tearooms.co.uk/) – so good it was featured on _The Hairy Bikers Comfort Food_ on the BBC!
 
@@ -163,4 +163,4 @@ We are so privileged to have some truly beautiful beaches in North Cornwall and 
 
 t the farm are always on hand to offer advice and recommendations.
 
-_For a [glamping](https://wmfarmprod.wpenginepowered.com/yurts/ "glamping North Cornwall") or [farm cottage holiday near the beach](https://wmfarmprod.wpenginepowered.com/little-extras/ "farm cottages near the beach in Bude"), book your stay at Woodlands Manor Farm today._
+_For a [glamping](/yurts/ "glamping North Cornwall") or [farm cottage holiday near the beach](/the-little-extras/ "farm cottages near the beach in Bude"), book your stay at Woodlands Manor Farm today._

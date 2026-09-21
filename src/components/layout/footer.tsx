@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { CookieSettingsButton } from "@/components/marketing/cookie-settings-button";
 import { NewsletterForm } from "@/components/marketing/newsletter-form";
 import { NEWSLETTER } from "@/lib/constants/newsletter";
 import { SITE } from "@/lib/constants/seo";
@@ -141,7 +142,7 @@ export function Footer() {
         </div>
       </div>
 
-      {NEWSLETTER.formActionUrl && (
+      {NEWSLETTER.enabled && (
         <div className="mx-auto grid max-w-6xl gap-8 border-b border-[rgba(247,243,238,0.1)] py-12 md:grid-cols-2 md:items-center">
           <div>
             <h4 className="mb-3 text-[11px] uppercase tracking-[0.25em] text-[var(--color-cream)]">
@@ -161,6 +162,7 @@ export function Footer() {
       <div className="mx-auto mt-10 flex max-w-6xl flex-col items-start justify-between gap-3 text-xs text-[rgba(247,243,238,0.85)] md:flex-row md:items-center">
         <span>© {year} Woodlands Manor Farm. All rights reserved.</span>
         <ul className="flex flex-wrap gap-x-5 gap-y-2">
+          <li><CookieSettingsButton /></li>
           <li>
             <Link href="/privacy/" className="hover:text-[var(--color-cream)]">
               Privacy

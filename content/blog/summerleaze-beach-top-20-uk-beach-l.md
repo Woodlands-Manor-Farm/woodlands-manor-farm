@@ -50,7 +50,7 @@ Located a few miles north of Bude and a local beach to [Woodlands Manor Farm,](/
 
 Duckpool Beach, Near Woodlands Manor Farm
 
-[Duckpool](https://www.nationaltrust.org.uk/duckpool) is the closest beach to our [luxury holiday cottages](https://wmfarmprod.wpenginepowered.com/cottages/) and you can drive there in under 5 minutes. This remote beach enjoys some amazing surroundings, including many rock pools and the 100 metre high Steeple Point Cliff which is a truly imposing feature. Please note this wild beach does not have coast guards so please be careful entering the water and don’t swim out of your depth.
+[Duckpool](https://www.nationaltrust.org.uk/duckpool) is the closest beach to our [luxury holiday cottages](/bude-holiday-cottages/) and you can drive there in under 5 minutes. This remote beach enjoys some amazing surroundings, including many rock pools and the 100 metre high Steeple Point Cliff which is a truly imposing feature. Please note this wild beach does not have coast guards so please be careful entering the water and don’t swim out of your depth.
 
 #### [Widemouth Bay](https://www.visitcornwall.com/things-to-do/beaches/widemouth-bay-beach)
 

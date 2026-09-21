@@ -7,7 +7,7 @@ import { NEWSLETTER } from "@/lib/constants/newsletter";
 import { NewsletterForm } from "./newsletter-form";
 
 const DISMISSED_KEY = "wmf-newsletter-dismissed-at";
-const SUBSCRIBED_KEY = "wmf-newsletter-subscribed";
+const REQUESTED_KEY = "wmf-newsletter-requested";
 
 export function NewsletterPopup() {
   const [open, setOpen] = useState(false);
@@ -17,11 +17,11 @@ export function NewsletterPopup() {
 
   useEffect(() => {
     const preview = new URLSearchParams(window.location.search).get("newsletter") === "preview";
-    if (!NEWSLETTER.formActionUrl && !preview) return;
+    if (!NEWSLETTER.enabled && !preview) return;
 
     if (!preview) {
       try {
-        if (localStorage.getItem(SUBSCRIBED_KEY)) return;
+        if (localStorage.getItem(REQUESTED_KEY)) return;
         const dismissedAt = Number(localStorage.getItem(DISMISSED_KEY) ?? 0);
         const cooldownMs = NEWSLETTER.dismissCooldownDays * 24 * 60 * 60 * 1000;
         if (Date.now() - dismissedAt < cooldownMs) return;
@@ -114,7 +114,7 @@ export function NewsletterPopup() {
             from the farm — new arrivals in the animal barn, what&rsquo;s on in Bude, and the
             odd special offer just for subscribers.
           </p>
-          <NewsletterForm variant="popup" onSuccess={() => setTimeout(dismiss, 3500)} />
+          <NewsletterForm variant="popup" />
         </div>
       </div>
     </div>

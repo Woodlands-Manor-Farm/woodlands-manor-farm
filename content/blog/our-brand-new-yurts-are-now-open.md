@@ -13,7 +13,7 @@ Our two fantastic new [yurts](/yurts/ "yurts in Devon and Cornwall") are offic
 
 ## What is a Yurt?
 
-The question we’re sure many of you will be asking yourselves right now! A [yurt](https://wmfarmprod.wpenginepowered.com/yurts/ "Book Yurts Devon and Cornwall") is a traditional type of tent originating in Central Asia. These unique structures were created to provide a stable and comfortable home that could also be easily unassembled and moved in order to suit the typically nomadic lifestyles of their inhabitants. Constructed from wood or bamboo and covered with animal skins or felt, yurts have been offering warmth, protection from the elements and a place to call home for thousands of years.
+The question we’re sure many of you will be asking yourselves right now! A [yurt](/yurts/ "Book Yurts Devon and Cornwall") is a traditional type of tent originating in Central Asia. These unique structures were created to provide a stable and comfortable home that could also be easily unassembled and moved in order to suit the typically nomadic lifestyles of their inhabitants. Constructed from wood or bamboo and covered with animal skins or felt, yurts have been offering warmth, protection from the elements and a place to call home for thousands of years.
 
 ### Authenticity and Luxury Under One Roof
 

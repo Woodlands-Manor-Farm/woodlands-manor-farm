@@ -1,0 +1,155 @@
+{
+  "runtime": "local Cloudflare Worker",
+  "posts": 25,
+  "sitemap": "all retained posts present; competition and confirmation landing excluded",
+  "results": [
+    {
+      "path": "/woodlands-manor-farm-wins-a-tripadvisor-travellers-choice-award-2026/",
+      "status": 200
+    },
+    {
+      "path": "/bude-literary-festival-2026/",
+      "status": 200
+    },
+    {
+      "path": "/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/",
+      "status": 200
+    },
+    {
+      "path": "/shopping-in-bude-unique-gifts-and-independent-stores/",
+      "status": 200
+    },
+    {
+      "path": "/christmas-in-bude-2025/",
+      "status": 200
+    },
+    {
+      "path": "/the-magic-of-feed-the-animals/",
+      "status": 200
+    },
+    {
+      "path": "/bush-inn-morwenstow-best-pub-cornwall/",
+      "status": 200
+    },
+    {
+      "path": "/sea-fishing-with-alastair-james-charters/",
+      "status": 200
+    },
+    {
+      "path": "/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/",
+      "status": 200
+    },
+    {
+      "path": "/the-best-bude-restaurants/",
+      "status": 200
+    },
+    {
+      "path": "/summerleaze-beach-top-20-uk-beach-l/",
+      "status": 200
+    },
+    {
+      "path": "/bude-whats-on-guide-october-half-term-2024/",
+      "status": 200
+    },
+    {
+      "path": "/discover-the-best-glamping-spots-in-cornwall-for-2025/",
+      "status": 200
+    },
+    {
+      "path": "/wild-swimming-delights-near-woodlands-manor-farm/",
+      "status": 200
+    },
+    {
+      "path": "/top-holiday-ideas-bude/",
+      "status": 200
+    },
+    {
+      "path": "/tee-off-in-bude-and-enjoy-a-perfect-cornish-golfing-getaway/",
+      "status": 200
+    },
+    {
+      "path": "/whats-on-in-bude-cornwall-february-half-term/",
+      "status": 200
+    },
+    {
+      "path": "/fishing-in-and-around-bude/",
+      "status": 200
+    },
+    {
+      "path": "/experience-an-unforgettable-family-winter-break/",
+      "status": 200
+    },
+    {
+      "path": "/discover-the-breathtaking-cycling-routes-of-north-cornwall/",
+      "status": 200
+    },
+    {
+      "path": "/exciting-events-aplenty-in-bude-this-summer/",
+      "status": 200
+    },
+    {
+      "path": "/alpaca-walking-woodlands-manor-farm/",
+      "status": 200
+    },
+    {
+      "path": "/local-surf-schools-bude/",
+      "status": 200
+    },
+    {
+      "path": "/woodlands-manor-farm-local-beaches/",
+      "status": 200
+    },
+    {
+      "path": "/our-brand-new-yurts-are-now-open/",
+      "status": 200
+    },
+    {
+      "path": "/competition/",
+      "status": 410
+    },
+    {
+      "path": "/win-a-weekend-at-woodlands-manor-farm/",
+      "status": 410
+    },
+    {
+      "path": "/wp-content/uploads/2023/01/2023-Menu.pdf",
+      "status": 301,
+      "destination": "/menus/private-chef-menu.pdf",
+      "targetStatus": 200
+    },
+    {
+      "path": "/wp-content/uploads/2023/11/woodlands-beauty-treatments.pdf",
+      "status": 301,
+      "destination": "/menus/spa-treatments-menu.pdf",
+      "targetStatus": 200
+    },
+    {
+      "path": "/elementor-10201/",
+      "status": 301,
+      "destination": "/bude-holiday-cottages/",
+      "targetStatus": 200
+    },
+    {
+      "path": "/about/",
+      "status": 301,
+      "destination": "/on-the-farm/",
+      "targetStatus": 200
+    },
+    {
+      "path": "/what-to-do-woodlands/",
+      "status": 301,
+      "destination": "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/",
+      "targetStatus": 200
+    },
+    {
+      "path": "/api/newsletter/",
+      "status": 503,
+      "error": "Newsletter signup is temporarily unavailable. Please try again later."
+    },
+    {
+      "path": "/api/contact/",
+      "status": 503,
+      "error": "The message service is temporarily unavailable. Please email enquiries@woodlandsmanorfarm.co.uk or call 07887 944 161."
+    }
+  ]
+}

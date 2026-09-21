@@ -3,10 +3,14 @@ title: "Christmas In Bude 2025"
 slug: "christmas-in-bude-2025"
 date: "2025-11-22T21:15:58+00:00"
 author: "ruth"
-excerpt: "Experience the magic of Christmas in Bude with festive events, markets, and the unforgettable Christmas Day swim in 2025."
+excerpt: "Archive: Christmas 2025. Experience the magic of Christmas in Bude with festive events, markets, and the unforgettable Christmas Day swim in 2025."
 feature_image: "/images/blog/christmas-in-bude-2025/977e540dff4d.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/christmas-in-bude-2025/"
+category: "Archive"
 ---
+
+> **From the archive — Christmas 2025.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+
 ## Christmas **in Bude & at Woodlands Manor Farm: A Magical Festive Escape**
 
 Christmas in Bude and at Woodlands Manor Farm is nothing short of magical. Whether you’re planning a cosy romantic getaway or gathering the whole family for a festive celebration, this beautiful corner of North Cornwall is packed with seasonal activities to make your Christmas in Bude truly memorable.

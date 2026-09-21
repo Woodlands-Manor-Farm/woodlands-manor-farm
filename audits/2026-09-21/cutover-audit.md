@@ -1,5 +1,7 @@
 # Woodlands Manor Farm: final content and SEO cutover audit
 
+> Follow-up: [owner answers, batch 1](owner-answers-batch-1.md) and [batch 2 implementation and remaining work](owner-answers-batch-2.md) supersede the corresponding findings below. This report preserves the original audit snapshot.
+
 **Reviewed:** 21 September 2026  
 **Recommendation:** Hold the cutover until the launch gates below are closed.  
 **Repository:** `09f70eb9337048a67312ceca2284f9683dd0c44a` on `main`  

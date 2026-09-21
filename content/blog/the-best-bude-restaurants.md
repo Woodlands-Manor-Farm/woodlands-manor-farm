@@ -21,7 +21,7 @@ While most of these picks are in Bude, just 15 minutes away, we have included th
 
 Lifes a Beach Restaurant
 
-Overlooking [Summerleaze Beach](https://wmfarmprod.wpenginepowered.com/woodlands-manor-farm-local-beaches/), this cafe and bistro is the perfect spot whether you fancy a small bite to eat or a sit down meal. As is to be expected from an eatery within touching distance of the sea, freshly sourced seafood is their speciality. Although if seafood isn’t your thing you don’t need to worry – [Life’s A Beach’s](http://lifesabeach.info/) delicious menu caters to all tastes.
+Overlooking [Summerleaze Beach](/woodlands-manor-farm-local-beaches/), this cafe and bistro is the perfect spot whether you fancy a small bite to eat or a sit down meal. As is to be expected from an eatery within touching distance of the sea, freshly sourced seafood is their speciality. Although if seafood isn’t your thing you don’t need to worry – [Life’s A Beach’s](http://lifesabeach.info/) delicious menu caters to all tastes.
 
 [http://lifesabeach.info](http://lifesabeach.info/)
 

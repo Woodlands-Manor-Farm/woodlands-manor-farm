@@ -3,10 +3,14 @@ title: "Bude, What's on Guide - October Half Term 2024"
 slug: "bude-whats-on-guide-october-half-term-2024"
 date: "2024-07-19T19:07:07+00:00"
 author: "ruth"
-excerpt: "Ultimate what's on guide, Bude October Half Term. The coastal town is close to Woodlands Manor Farm, holiday cottages, and glamping yurts."
+excerpt: "Archive: October half term 2024. Ultimate what's on guide, Bude October Half Term. The coastal town is close to Woodlands Manor Farm, holiday cottages, and glamping yurts."
 feature_image: "/images/blog/bude-whats-on-guide-october-half-term-2024/cff22d11ef17.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/bude-whats-on-guide-october-half-term-2024/"
+category: "Archive"
 ---
+
+> **From the archive — October half term 2024.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+
 ## Exploring North Cornwall: Bude in the October Autumn Half Term 2024
 
 This is the ultimate what’s on guide for Bude, October Half Term.  Autumn in Bude, North Cornwall, offers a unique blend of natural beauty, family-friendly activities, and charming accommodations, making it an ideal destination for a memorable half-term break with the kids or a holiday cottages destination for large groups.

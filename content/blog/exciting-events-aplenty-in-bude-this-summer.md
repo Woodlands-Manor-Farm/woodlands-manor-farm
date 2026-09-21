@@ -3,10 +3,14 @@ title: "Exciting Events Aplenty in Bude this Summer"
 slug: "exciting-events-aplenty-in-bude-this-summer"
 date: "2023-06-29T16:00:23+00:00"
 author: "ruth"
-excerpt: "There are a number of amazing events planned in Bude this summer and Woodlands Manor Farm offers the perfect base to get involved and make the most of them."
+excerpt: "Archive: summer 2023. There are a number of amazing events planned in Bude this summer and Woodlands Manor Farm offers the perfect base to get involved and make the most of them."
 feature_image: "/images/blog/exciting-events-aplenty-in-bude-this-summer/5d2790c88b1a.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/exciting-events-aplenty-in-bude-this-summer/"
+category: "Archive"
 ---
+
+> **From the archive — summer 2023.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+
 ## Exciting Events Aplenty in Bude this Summer
 
 The summer months of July and August are a fantastic time to visit Woodlands Manor Farm with a number of amazing events planned in the nearby town of Bude. When you’re not enjoying the stunning surroundings of our [self-catering holiday cottages](/bude-holiday-cottages/) and [yurts](/yurts/ "Bude glamping yurts in North Cornwall"), you can take the short trip into Bude and make the most of their exciting line-up of summer activities. Here are some of the events we are most looking forward to:

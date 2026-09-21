@@ -12,7 +12,7 @@ import { SITE } from "@/lib/constants/seo";
 export const metadata: Metadata = {
   title: "The Little Extras",
   description:
-    "Welcome packs, breakfast hampers, a private chef, in-cottage spa treatments, grocery delivery and EV charging — the optional extras you can arrange before your stay.",
+    "Welcome packs, a private chef, in-cottage spa treatments, grocery delivery and EV charging — the optional extras you can arrange before your stay.",
   alternates: { canonical: "/the-little-extras/" },
 };
 
@@ -24,17 +24,8 @@ const EXTRAS = [
     alt: "Welcome pack essentials in a cottage kitchen at Woodlands Manor Farm",
     type: "Included",
     name: "Welcome pack",
-    body: "Tea, coffee, milk, sugar, herbs, salt and pepper waiting on the kitchen counter — included free with every stay. Add a Cornish cream tea or a bottle of Camel Valley fizz for £25.",
+    body: "Tea, coffee, milk, sugar, herbs, salt and pepper waiting on the kitchen counter — included free with every stay.",
     detail: "Free with every stay",
-    email: SITE.contact.email,
-  },
-  {
-    img: "/images/jasmine-cottage/jasmine-dining.jpg",
-    alt: "Breakfast laid out in a cottage dining room at Woodlands Manor Farm",
-    type: "Pre-order",
-    name: "Breakfast hamper",
-    body: "Local sourdough, free-range eggs, smoked bacon and a pint of fresh milk delivered for your first morning — £18 for two, £30 for four.",
-    detail: "£18 for two · £30 for four",
     email: SITE.contact.email,
   },
   {
@@ -42,9 +33,9 @@ const EXTRAS = [
     alt: "A dining table set for a meal at Woodlands Manor Farm",
     type: "Private chef",
     name: "Call for a Cook",
-    body: "If you would like to have a lovely meal ready for your arrival or have a special event and would rather rely on the expertise of an outside caterer, we have an excellent private chef called Nicky who will deliver to your cottage.",
+    body: "Nicky Vereker prepares freshly cooked meals, chilled and delivered to your cottage with reheating instructions. Book in advance and give at least 24 hours’ notice. The minimum order is £45; see the 2026 menu for dishes and prices.",
     detail: "Book direct with Nicky",
-    link: { href: "/menus/private-chef-menu.pdf", label: "View Nicky's sample menu (PDF)" },
+    link: { href: "/menus/private-chef-menu.pdf", label: "View Nicky's 2026 menu (PDF)" },
     bookDirect: {
       name: "Nicky",
       phone: "07831155279",
@@ -65,15 +56,15 @@ const EXTRAS = [
     alt: "The courtyard and cottages at Woodlands Manor Farm",
     type: "On site",
     name: "EV charging",
-    body: "Free type 2 EV charger on site for guests. Plug in when you arrive — no need to pre-book, just let us know if you'd like priority.",
-    detail: "Free · Type 2 connector",
+    body: "A Type 2 EV charger is available on site. Download the app shown on the charger and use it at the stated price.",
+    detail: "Paid charging · Type 2 connector",
   },
   {
     img: "/images/home/c2909c0800e4042d.jpg",
     alt: "The heated indoor pool at Woodlands Manor Farm",
     type: "Pamper",
-    name: "Spa Treatment",
-    body: "Why not treat yourself or your partner to a bit of pampering during your stay with us? We have a qualified therapist called Leanne who offers a wide range of treatments. She can carry out the treatments in the comfort of your own cottage.",
+    name: "Spa treatments with Leanne",
+    body: "Leanne at The Hideaway Lounge offers massage, facials and beauty treatments at your accommodation or in her private treatment space. Please book in advance. The treatment menu lists the options and prices, with a £50 minimum appointment.",
     detail: "Book direct with Leanne",
     link: { href: "/menus/spa-treatments-menu.pdf", label: "View the treatments menu (PDF)" },
     bookDirect: {
@@ -122,7 +113,7 @@ export default function Page() {
             The little <em>extras</em>
           </>
         }
-        description="Welcome packs, breakfast hampers, a private chef, in-cottage spa treatments, grocery delivery and EV charging — the small things you can arrange before you arrive."
+        description="Welcome packs, a private chef, in-cottage spa treatments, grocery delivery and EV charging — the small things you can arrange before you arrive."
       />
       <AboutSubnav activeHref="/the-little-extras/" />
 
@@ -133,12 +124,12 @@ export default function Page() {
         </h2>
         <p className={styles.sectionBody}>
           Some things make a holiday — a welcome pack waiting for you, a private chef cooking
-          dinner, a spa treatment in your cottage, the shopping already in the fridge. The easiest
-          way to arrange any of these is to{" "}
+          dinner, a spa treatment in your cottage, the shopping already in the fridge. Please
+          book experiences and extras in advance. For general arrangements, the easiest way is to{" "}
           <a href={`mailto:${SITE.contact.email}`} className={styles.inlineLink}>
-            email us
-          </a>{" "}
-          — before you book or during your stay — and we&rsquo;ll sort it.
+            email Ruth and Andy
+          </a>. For private catering and spa treatments, book directly with Nicky or Leanne using
+          the contact details below.
         </p>
 
         <div className={m.experienceGrid}>

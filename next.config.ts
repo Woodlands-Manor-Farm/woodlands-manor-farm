@@ -16,6 +16,13 @@ try {
 // Sources are written without a trailing slash; trailingSlash: true keeps the
 // destination canonical.
 const LEGACY_REDIRECTS: { source: string; destination: string }[] = [
+  // Owner-supplied current menus replace the old downloads.
+  { source: "/wp-content/uploads/2023/01/2023-Menu.pdf", destination: "/menus/private-chef-menu.pdf" },
+  { source: "/wp-content/uploads/2023/11/woodlands-beauty-treatments.pdf", destination: "/menus/spa-treatments-menu.pdf" },
+  // Retained legacy aliases
+  { source: "/elementor-10201", destination: "/bude-holiday-cottages/" },
+  { source: "/about", destination: "/on-the-farm/" },
+  { source: "/what-to-do-woodlands", destination: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
   // Changed slugs
   { source: "/cottages-bude", destination: "/bude-holiday-cottages/" },
   { source: "/yurts-bude", destination: "/yurts/" },
@@ -26,11 +33,7 @@ const LEGACY_REDIRECTS: { source: string; destination: string }[] = [
   { source: "/the-animals-at-woodlands", destination: "/on-the-farm/" },
   { source: "/local-towns-and-villages-near-bude", destination: "/beaches-and-walks-near-bude/" },
   // Removed section pages -> closest live page
-  { source: "/woodlands-manor-farm-local-beaches", destination: "/beaches-and-walks-near-bude/" },
-  { source: "/local-surf-schools-bude", destination: "/things-to-do-in-bude/" },
-  { source: "/fishing-in-and-around-bude", destination: "/things-to-do-in-bude/" },
   { source: "/bude-wood-turning-coures", destination: "/things-to-do-in-bude/" },
-  { source: "/whats-on-in-bude-cornwall-february-half-term", destination: "/news/" },
   // Old cycling pages -> current cycling post
   {
     source: "/north-cornwall-cycling-routes-woodlands-manor-farm",

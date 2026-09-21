@@ -9,7 +9,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/fishing-in-and-around-bude/"
 ---
 ## Fishing In and Around Bude
 
-Are you a fishing enthusiast looking for the perfect destination to cast your line? Look no further than Woodlands Manor Farm. Nestled within 34 acres of stunning North Cornwall countryside, our [luxury holiday cottages](https://wmfarmprod.wpenginepowered.com/cottages/ "luxury holiday cottages in bude, cornwall") and [glamping yurts](https://wmfarmprod.wpenginepowered.com/yurts/ "Bude glamping") offer the ideal base for an unforgettable fishing holiday in Bude. With stunning panoramic views and easy access to the Atlantic coastline, Woodlands Manor Farm is a haven for anglers of all skill levels.
+Are you a fishing enthusiast looking for the perfect destination to cast your line? Look no further than Woodlands Manor Farm. Nestled within 34 acres of stunning North Cornwall countryside, our [luxury holiday cottages](/bude-holiday-cottages/ "luxury holiday cottages in bude, cornwall") and [glamping yurts](/yurts/ "Bude glamping") offer the ideal base for an unforgettable fishing holiday in Bude. With stunning panoramic views and easy access to the Atlantic coastline, Woodlands Manor Farm is a haven for anglers of all skill levels.
 
 ### Year-Round Fishing Delights
 
@@ -29,15 +29,15 @@ _Summerleaze Beach – A Popular Spot with Anglers_
 
 ### Woodlands Manor Farm – The Perfect Fishing Retreat
 
-Woodlands Manor Farm understands the needs of anglers and ensures that your fishing holiday is both comfortable and enjoyable. After a day of fishing adventures, return to your [luxury holiday cottage](https://wmfarmprod.wpenginepowered.com/cottages/ "luxury holiday cottages Bude, Cornwall") or [glamping yurt](https://wmfarmprod.wpenginepowered.com/yurts/ "Bude glamping, yurts") to relax and unwind. [Our indoor heated swimming pool and well-equipped games room](https://wmfarmprod.wpenginepowered.com/what-to-do-woodlands/) provide entertainment for the whole family.
+Woodlands Manor Farm understands the needs of anglers and ensures that your fishing holiday is both comfortable and enjoyable. After a day of fishing adventures, return to your [luxury holiday cottage](/bude-holiday-cottages/ "luxury holiday cottages Bude, Cornwall") or [glamping yurt](/yurts/ "Bude glamping, yurts") to relax and unwind. [Our indoor heated swimming pool and well-equipped games room](/about-woodlands-manor-farm-holiday-cottages-with-a-pool/) provide entertainment for the whole family.
 
 ### Why Choose Woodlands Manor Farm?
 
--   Our [farm cottages](https://wmfarmprod.wpenginepowered.com/ "farm cottages near Bude") provide stunning panoramic views, allowing you to immerse yourself in the natural beauty of Bude.
+-   Our [farm cottages](/ "farm cottages near Bude") provide stunning panoramic views, allowing you to immerse yourself in the natural beauty of Bude.
 -   Woodlands Manor Farm offers a range of all-weather facilities, ensuring your comfort and enjoyment throughout your stay.
 -   Enjoy the personal touches of our accommodations, including wood-burning stoves, luxury bed linen, and welcome goodies.
--   We pride ourselves on delivering a farm [self-catering holiday cottage](https://wmfarmprod.wpenginepowered.com/ "self catering holiday cottages Bude") experience, combining comfort, convenience, and a touch of luxury.
+-   We pride ourselves on delivering a farm [self-catering holiday cottage](/ "self catering holiday cottages Bude") experience, combining comfort, convenience, and a touch of luxury.
 
 ## Book Your Fishing Adventure at Woodlands Manor Farm
 
-For avid anglers seeking a memorable fishing experience in and around Bude, Woodlands Manor Farm is the perfect destination. Choose from our array of self-catering [luxury holiday cottages](https://wmfarmprod.wpenginepowered.com/cottages/ "luxury holiday cottages in Bude, Cornwall") and [glamping yurts](https://wmfarmprod.wpenginepowered.com/yurts/ "Bude glamping yurts"), set in the heart of a picturesque landscape. With excellent fishing spots nearby and a range of facilities to ensure your comfort, Woodlands Manor Farm is the ultimate retreat for fishing enthusiasts. [Book your stay today](https://wmfarmprod.wpenginepowered.com/#check-availability) and get ready to cast your line in the idyllic fishing waters of Bude.
+For avid anglers seeking a memorable fishing experience in and around Bude, Woodlands Manor Farm is the perfect destination. Choose from our array of self-catering [luxury holiday cottages](/bude-holiday-cottages/ "luxury holiday cottages in Bude, Cornwall") and [glamping yurts](/yurts/ "Bude glamping yurts"), set in the heart of a picturesque landscape. With excellent fishing spots nearby and a range of facilities to ensure your comfort, Woodlands Manor Farm is the ultimate retreat for fishing enthusiasts. [Book your stay today](/holiday-cottage-direct-booking-woodlands-cornwall/) and get ready to cast your line in the idyllic fishing waters of Bude.

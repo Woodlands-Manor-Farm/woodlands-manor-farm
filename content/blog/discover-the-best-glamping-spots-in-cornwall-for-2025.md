@@ -3,10 +3,14 @@ title: "Glamping Cornwall: Experience Nature in Luxury"
 slug: "discover-the-best-glamping-spots-in-cornwall-for-2025"
 date: "2024-06-06T13:43:42+00:00"
 author: "Ruth Peters"
-excerpt: "Experience the ultimate glamping holiday in Cornwall. Immerse yourself in nature without sacrificing comfort at stunning locations in 2024."
+excerpt: "Archive: 2024–2025. Experience the ultimate glamping holiday in Cornwall. Immerse yourself in nature without sacrificing comfort at stunning locations in 2024."
 feature_image: "/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/b6edeefa0e3f.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/discover-the-best-glamping-spots-in-cornwall-for-2025/"
+category: "Archive"
 ---
+
+> **From the archive — 2024–2025.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+
 Cornwall and its [breathtaking landscapes](https://www.pitchup.com/search/England/South_West/Cornwall/Bude/?type=13&type=7), offers a unique backdrop for the perfect Cornish glamping holiday. As the trend for immersive nature experiences continues to grow, glamping in Cornwall is the ideal mix of outdoor adventure and comfort. This delightful form of accommodation allows visitors to relax in the natural beauty of Cornwall’s outdoors without sacrificing the luxuries of a holiday cottage. Whether it’s relaxing under starry skies near Bude or retreating to a shepherd’s hut after exploring Land’s End, glamping in Cornwall caters to all who seek a slice of tranquility with a touch of luxury.
 
 This article guides you through the best glamping spots in Cornwall for 2024, from coastal cabins to camping pods nestled in the countryside, and lists activities to consider. Don’t forget that [Woodlands Manor Farm](/) delivers its own [luxury glamping experience](/yurts/) for friends and family to enjoy.

@@ -3,10 +3,14 @@ title: "Bude Literary Festival 2026 - A Literary Treat for All the Family"
 slug: "bude-literary-festival-2026"
 date: "2026-04-20T20:11:47+00:00"
 author: "ruth"
-excerpt: "Discover the Bude Literary Festival 13–17 May 2026. 89 events, a star-studded line-up & Woodlands Manor Farm, just 6 miles away, is the perfect base."
+excerpt: "Archive: May 2026. Discover the Bude Literary Festival 13–17 May 2026. 89 events, a star-studded line-up & Woodlands Manor Farm, just 6 miles away, is the perfect base."
 feature_image: "/images/blog/bude-literary-festival-2026/c675ee9b1527.png"
 source_url: "https://woodlandsmanorfarm.co.uk/bude-literary-festival-2026/"
+category: "Archive"
 ---
+
+> **From the archive — May 2026.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+
 ## Bude Literary Festival 2026: Words, Wonder & a Cornish Farm Stay
 
   **📅  Wednesday 13 – Sunday 17 May 2026  |  89 Events  |  15 Venues Across Bude & Stratton**
@@ -58,7 +62,7 @@ One of the festival’s lovely traditions is the free lunchtime concerts at the 
 
 ###  **🎭 Family Events & Things for Children**
 
-The festival is wonderfully family-friendly. Look out for the Big Bude Lit Fest Family Literary Quiz (Tuesday 12th, Falcon Hotel), a Character Treasure Hunt for families at Ebbingford Manor, Play Story on the Bandstand for 3–5 year olds, and a sock puppet workshop linked to The Wind in The Willows in the Secret Garden at the Falcon Hotel. Combine this with a stay at Woodlands where the kids can feed the farm animals each morning, and you have a May half-term to remember.
+The festival is wonderfully family-friendly. Look out for the Big Bude Lit Fest Family Literary Quiz (Tuesday 12th, Falcon Hotel), a Character Treasure Hunt for families at Ebbingford Manor, Play Story on the Bandstand for 3–5 year olds, and a sock puppet workshop linked to The Wind in The Willows in the Secret Garden at the Falcon Hotel. Combine this with a stay at Woodlands where the kids can join free animal feeding on Wednesdays at 8am and Sundays at 8.30am, booked in advance, and you have a May half-term to remember.
 
 ###  **🥾 Literary Walks with Sam Horton**
 
@@ -76,10 +80,10 @@ The Bude Literary Festival 2026 is all about slowing down and enjoying literatur
 -   Seven cottages to choose from, sleeping 2 to 12, perfect for solo readers, couples, friends’ groups or families
 -   Two Mongolian glamping yurts with stunning valley views — ideal for a May glamping break alongside the festival
 -   Indoor heated pool to unwind in after a full day of talks and performances
--   Feed the farm animals each morning — the perfect gentle start to a festival day
+-   Join free animal feeding on Wednesdays at 8am and Sundays at 8.30am — please book in advance
 -   Dog-friendly throughout — your four-legged companion is very welcome
 -   Peaceful woodland walks right on the doorstep when you need a quiet moment between events
--   Book direct with us for the best rates: 07887 677 354
+-   Book direct with us for the best rates: 07887 944 161
 
     **📌  PRACTICAL INFO**  
 
@@ -99,7 +103,7 @@ May is a wonderful time to visit Cornwall. The summer crowds haven’t arrived y
 
 **Availability in May fills up quickly, so if you’re thinking of coming for the festival, don’t leave it too long.**
 
- **📞 Call:** 07887 677 354
+ **📞 Call:** 07887 944 161
 
  **✉️ Email:** enquiries@woodlandsmanorfarm.co.uk
 

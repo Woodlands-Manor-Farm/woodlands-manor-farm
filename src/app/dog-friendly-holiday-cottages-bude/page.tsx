@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Dog Friendly Holiday Cottages in Bude, Cornwall — Woodlands Manor Farm",
     description:
-      `Seven cottages and two yurts welcome well-behaved dogs. ${DOG_POLICY.charge}. ${DOG_POLICY.additionalDogs} Woodland walks on leads and dog-friendly beaches nearby.`,
+      `Seven cottages and two yurts welcome well-behaved dogs. ${DOG_POLICY.charge}. ${DOG_POLICY.additionalDogs} Off-lead meadow and woodland walks, with dogs under control.`,
     images: ["/images/farm/bluebell-woodland.jpg"],
   },
 };
@@ -46,7 +46,7 @@ export default function DogFriendlyPage() {
     <>
       <InfoHero
         image="/images/farm/bluebell-woodland.jpg"
-        alt="Bluebell woodland walk at Woodlands Manor Farm — explore with your dog on a lead"
+        alt="Bluebell woodland walk at Woodlands Manor Farm — dogs may explore off lead under control"
         eyebrow="Woodlands Manor Farm · Bude, Cornwall"
         title={
           <>
@@ -114,13 +114,13 @@ export default function DogFriendlyPage() {
           cards={[
             {
               icon: "🌳",
-              title: "15-acre woodland — on lead",
-              body: "Explore our ancient woodland with your dog on a lead. Carpeted in bluebells through April and May, there is plenty to sniff all year round.",
+              title: "15-acre woodland — off lead",
+              body: "Explore our ancient woodland with your dog off lead, keeping them under control. Carpeted in bluebells through April and May, there is plenty to sniff all year round.",
             },
             {
               icon: "🌾",
-              title: "Open meadow — on lead",
-              body: "A big open meadow for a morning or evening walk with your dog. Please keep them on a lead as you explore.",
+              title: "Open meadow — off lead",
+              body: "A big open meadow for a morning or evening walk with your dog. Dogs may be off lead here, provided they stay under control.",
               variant: "violet",
             },
             {
@@ -144,7 +144,7 @@ export default function DogFriendlyPage() {
             {
               icon: "🐾",
               title: "Out for the day?",
-              body: "If you're going out for the day and can't take the dog, please let us know — we can arrange dog walks and check-ins throughout the day.",
+              body: DOG_POLICY.supervision,
               variant: "violet",
             },
           ]}
@@ -173,7 +173,7 @@ export default function DogFriendlyPage() {
         <p style={{ fontSize: 14, color: "var(--color-text-mid)", lineHeight: 1.85, fontWeight: 300 }}>
           A few simple things so every guest — two- and four-legged — has a great stay. Please
           bring your dog&rsquo;s own bed and bowls. {DOG_POLICY.indoors} {DOG_POLICY.leads}{" "}
-          {DOG_POLICY.additionalDogs} Full details are on our dog rules page below, or just ask
+          {DOG_POLICY.additionalDogs} {DOG_POLICY.supervision} Full details are on our dog rules page below, or just ask
           — we&rsquo;re dog people, we get it.
         </p>
         <div style={{ marginTop: 22 }}>

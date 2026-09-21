@@ -20,10 +20,10 @@ const PLACES = [
     href: "https://lifesabeach.info/",
   },
   {
-    type: "Brunch · 6 miles",
-    name: "Olive & Co",
-    body: "The brunch spot in Bude. Sourdough, eggs done properly, and the best coffee in town.",
-    href: "https://www.oliveandco-bude.co.uk/",
+    type: "Restaurant · Bude",
+    name: "The Olive Tree",
+    body: "The Olive Tree in Bude is one of Ruth and Andy’s local recommendations. Visit its website for current menus and booking information.",
+    href: "https://www.olivetreebude.co.uk/",
   },
   {
     type: "Beach café · 4 miles",

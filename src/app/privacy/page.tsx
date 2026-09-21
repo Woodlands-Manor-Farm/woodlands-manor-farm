@@ -62,7 +62,7 @@ export default function Page() {
               <p>Depending on how you interact with the site, we may collect:</p>
               <ul>
                 <li>
-                  <strong>Mailing list sign-ups:</strong> name and email address, submitted via
+                  <strong>Mailing list sign-ups:</strong> email address and your marketing consent, submitted via
                   our footer/popup sign-up form.
                 </li>
                 <li>
@@ -72,7 +72,7 @@ export default function Page() {
                 </li>
                 <li>
                   <strong>Booking enquiries:</strong> name, contact details, and booking-related
-                  information you provide via SuperControl.
+                  information you provide via our contact form or SuperControl.
                 </li>
               </ul>
             </>
@@ -85,7 +85,7 @@ export default function Page() {
             <ul>
               <li>
                 <strong>Sending you newsletters/marketing emails</strong> — Your consent (given
-                when you sign up); you can withdraw this at any time.
+                when you sign up and confirm your email address); you can withdraw this at any time.
               </li>
               <li>
                 <strong>Responding to chat messages and enquiries</strong> — Legitimate interest
@@ -111,12 +111,12 @@ export default function Page() {
               </p>
               <ul>
                 <li>
-                  <strong>Brevo</strong> — used for two purposes: (1) Brevo Conversations, our
-                  live chat widget, which sets a cookie to keep your conversation linked across
-                  pages and shows our team basic session data so we can respond to you; and (2)
-                  our newsletter sign-up form, which sends your name and email to Brevo when you
-                  submit it. Brevo is based in the EU (France); transfers from the UK are covered
-                  by the UK&rsquo;s data adequacy arrangements with the EU.
+                  <strong>Brevo</strong> — provides our live chat, newsletter and enquiry
+                  email service. Chat links your conversation across pages. Newsletter signup
+                  sends your email address to Brevo to request a confirmation email; you join
+                  the Woodlands Newsletter only after clicking its confirmation link. Enquiries
+                  send your name, email, optional phone number and message to Ruth and Andy
+                  through Brevo. Brevo is based in France.
                 </li>
                 <li>
                   <strong>SuperControl</strong> — our booking system, used to process booking
@@ -126,7 +126,7 @@ export default function Page() {
                 <li>
                   <strong>Google</strong> — we use Google Analytics (GA4) to understand how
                   visitors use the site (such as pages viewed, device type and approximate
-                  location from IP), which helps us improve it; Google Analytics sets cookies. We
+                  location from IP), which helps us improve it. It loads and sets cookies only if you accept analytics. We
                   also use Google Search Console, which reports how the site performs in Google
                   Search and does not track individual visitors on this site. Data may be
                   processed by Google outside the UK under appropriate safeguards.
@@ -188,8 +188,13 @@ export default function Page() {
           title: "7. Cookies",
           content: (
             <>
-              <p>This website uses a small number of cookies:</p>
+              <p>This website uses cookies and local browser storage:</p>
               <ul>
+                <li>
+                  We remember your analytics choice in local storage for 180 days. We also
+                  remember newsletter popup dismissals and confirmation requests to avoid
+                  repeatedly showing the signup prompt.
+                </li>
                 <li>
                   Brevo Conversations (live chat) sets a functional cookie — only if you open the
                   chat — so your conversation persists as you move between pages or return to the
@@ -200,18 +205,11 @@ export default function Page() {
                   statistics; this does not use cookies or track individuals.
                 </li>
                 <li>
-                  Google Analytics (GA4) sets cookies (such as _ga) to measure how the site is
-                  used — for example which pages are visited and whether you are a returning
-                  visitor. You can opt out using Google&rsquo;s{" "}
-                  <a
-                    href="https://tools.google.com/dlpage/gaoptout"
-                    target="_blank"
-                    rel="noreferrer"
-                    style={{ color: "var(--color-violet)" }}
-                  >
-                    Analytics opt-out browser add-on
-                  </a>
-                  , or by blocking cookies in your browser.
+                  Google Analytics (GA4) loads only after you choose &ldquo;Accept
+                  analytics&rdquo;. It uses cookies such as _ga to measure page visits and
+                  returning visitors. Choose &ldquo;Necessary only&rdquo; to decline. You can
+                  withdraw consent using Cookie settings in the footer; this stops analytics
+                  and clears its cookies on this site.
                 </li>
               </ul>
             </>

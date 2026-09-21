@@ -12,8 +12,8 @@ const EXPERIENCES = [
     alt: "Children feeding the pygmy goats at Woodlands",
     type: "Free with every stay",
     name: "Feed the Animals tour",
-    body: "Ruth runs a guided tour every Sunday and Wednesday morning — meet the alpacas, ponies, pigs, sheep, rabbits and chickens. The most-mentioned highlight in our guest reviews.",
-    detail: "Sundays & Wednesdays · No booking needed",
+    body: "Join Ruth on Wednesdays at 8am or Sundays at 8.30am to meet the alpacas, ponies, pigs, sheep, rabbits and chickens. Free for all Woodlands guests; please book in advance.",
+    detail: "Wed 8am · Sun 8.30am · Advance booking",
   },
   {
     img: "/images/home/c2909c0800e4042d.jpg",
@@ -28,8 +28,8 @@ const EXPERIENCES = [
     alt: "Grooming Lulu the mini Shetland pony",
     type: "Outdoors",
     name: "Pony experience",
-    body: "An hour with Lulu, the gentlest pony on the farm — grooming, leading and brushing. Brilliant for children aged 3+. Transform her into a Rainbow Unicorn and have a little ride around the farm.",
-    detail: "School holidays · From £35",
+    body: "Spend half an hour with Lulu, grooming, leading and brushing. £25 per half-hour session, for ages 3 and above. A maximum of two children can join each session, with no limit on accompanying adults. Available all year; please book in advance.",
+    detail: "£25 per half hour · Ages 3+ · Book in advance",
   },
   {
     img: "/images/bude/surf-lesson-bude.jpg",
@@ -37,7 +37,7 @@ const EXPERIENCES = [
     type: "Adventure",
     name: "Surfing & Outdoor Adventure",
     body: "We will arrange the right instructors to fit your needs, private or larger groups, families or more experienced surfers. We have the local knowledge to ensure you have a fabulous time.",
-    detail: "All abilities · Arranged on request",
+    detail: "All abilities · Advance booking required",
   },
   {
     img: "/images/animals/d2e104531205804a.jpg",
@@ -101,7 +101,8 @@ export default function Page() {
         <p className={styles.sectionLead}>
           Some are free with every stay (the Feed the Animals tour, pool sessions). Others are
           bookable add-ons (pony experiences, retreats). And some — weddings, exclusive-use — take
-          over the whole farm.
+          over the whole farm. Please book animal experiences and other experiences in advance,
+          including activities arranged through our partners.
         </p>
 
         <div className={styles.experienceGrid}>

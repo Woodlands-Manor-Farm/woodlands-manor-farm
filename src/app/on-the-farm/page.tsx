@@ -110,10 +110,11 @@ export default function Page() {
         <p className={styles.sectionBody}>
           Woodlands has slowly grown — over twenty years — into a proper holiday farm. Every
           facility you see has been added because guests asked for it, or because Andy and Ruth
-          wanted you to have it. Nothing here is an extra; nothing is up-sold.
+          wanted you to have it. The pool, games room and animal feeding are included in your stay;
+          paid experiences and EV charging are available too.
         </p>
 
-        <h3 className={styles.subHeading}>What&rsquo;s included with every stay</h3>
+        <h3 className={styles.subHeading}>Facilities for your stay</h3>
         <InfoCardGrid
           cards={[
             {
@@ -147,7 +148,7 @@ export default function Page() {
             {
               icon: "⚡",
               title: "EV charging",
-              body: "Type 2 EV charger on site — free for guests to use. Plug in when you arrive and you&rsquo;ll be ready to go.",
+              body: "Type 2 EV charger on site. Download the app shown on the charger and use it at the stated price.",
               variant: "violet",
             },
           ]}
@@ -158,7 +159,7 @@ export default function Page() {
           Woodlands is home to ponies, alpacas, pygmy goats, Kune Kune pigs, sheep, rabbits,
           chickens and Growler the farm cat — every one with a name, a personality and a story.
           Ruth&rsquo;s Feed the Animals session is free for every guest, twice a week — Sundays at
-          8.30am and Wednesdays at 8am. No booking needed; just turn up. Can&rsquo;t make those
+          8.30am and Wednesdays at 8am. Please book in advance. Can&rsquo;t make those
           times? Ask Ruth or Andy about joining an evening session when the animals are put to bed.
         </p>
 
@@ -183,11 +184,13 @@ export default function Page() {
           tailor around your family. The firm favourite is the Pony Experience: children learn
           how to look after a pony, do the grooming themselves, take a pony for a walk around the
           farm — and yes, the little ones usually dress Lulu up as a unicorn. Bring a camera.
-          Alpaca walking is another guest favourite.{" "}
+          The Pony Experience costs £25 per half hour, for ages 3 and above, with a maximum of two
+          children per session and no limit on accompanying adults. It is available all year.
+          Alpaca walking is another guest favourite. Book all animal and other experiences in
+          advance with Ruth and Andy.{" "}
           <Link href="/experiences-weddings-events/" className={styles.inlineLink}>
             See all our experiences
-          </Link>
-          , or just have a word with Ruth when you arrive.
+          </Link>.
         </p>
       </div>
 
@@ -228,7 +231,7 @@ export default function Page() {
 
       <CtaStrip
         title="See the farm for yourself"
-        body="Book your stay and meet the animals on day one."
+        body="Book your stay and arrange your animal experience in advance."
       />
     </>
   );

@@ -9,6 +9,8 @@ source_url: "https://woodlandsmanorfarm.co.uk/the-magic-of-feed-the-animals/"
 ---
 Hello everyone, Ruth here! As one of the owners of Woodlands Manor Farm. I get to do a lot of wonderful things, but I have to say, the highlight of my week is definitely our twice-weekly “Feed the Animals” experience.
 
+**Planning your visit:** Feed the Animals takes place on Wednesdays at 8am and Sundays at 8.30am. It is free for all Woodlands guests; please book with Ruth or Andy in advance.
+
 ### The Feed The Animals Experience
 
 Twice a week, all our guests, big kids and little kids alike, are invited to join me as we make up feed, head out to the paddocks, and meet our wonderful animal family. We’ve got rabbits, horses, goats, sheep, chickens, pigs, and alpacas—all waiting for a friendly face and a handful of treats.

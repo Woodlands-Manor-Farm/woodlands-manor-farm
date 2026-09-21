@@ -14,11 +14,11 @@ export default function Page() {
       eyebrow="Woodlands Manor Farm · Legal"
       title="Terms &"
       titleAccent="conditions"
-      lastUpdated="February 2024"
+      lastUpdated="21 September 2026"
       intro={
         <p style={{ marginBottom: 32 }}>
           Your booking constitutes a contract of hire between you as the hirer and Woodlands
-          Manor Farm Ltd and is subject to the following conditions. To place a booking you must
+          Manor Farm Holidays Ltd (company number 13474637), trading as Woodlands Manor Farm, and is subject to the following conditions. To place a booking you must
           be over 18. You must ensure that everyone in your party complies with these Conditions
           of Hire.
         </p>
@@ -41,16 +41,12 @@ export default function Page() {
           content: (
             <>
               <p>
-                If you book <strong>eight weeks or more</strong> prior to the day of arrival, we
-                require a non-refundable deposit of <strong>33% of the total hire cost</strong> to
-                secure the booking. The balance is due eight weeks before the start of your stay.
-              </p>
-              <p>
-                If you book <strong>less than eight weeks</strong> in advance, the full price is
-                payable at the time of booking.
+                Your deposit, balance due date and payment schedule are displayed in the
+                booking engine before you confirm your reservation. Please refer to those
+                details and your booking confirmation.
               </p>
               <div className={s.note}>
-                All bookings are provisional until the hire fees are paid as stated above and the
+                All bookings are provisional until the hire fees are paid as shown in the booking engine and the
                 owners have confirmed receipt. Provisional bookings are held for 3 days unless
                 agreed otherwise by the owners.
               </div>
@@ -67,7 +63,7 @@ export default function Page() {
                 <strong>your deposit is not refundable</strong>.
               </p>
               <p>
-                If we have not received full payment by eight weeks before your day of arrival,
+                If we have not received full payment by the due date shown in your booking confirmation,
                 we will assume that you have cancelled your booking.
               </p>
               <p>

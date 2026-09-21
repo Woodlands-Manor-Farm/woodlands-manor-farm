@@ -8,43 +8,6 @@ import { SITE } from "@/lib/constants/seo";
 
 type Status = "idle" | "sending" | "success" | "error";
 
-type MailchimpResponse = { result: string; msg: string };
-
-/** Subscribe via Mailchimp's JSONP endpoint so the visitor never leaves the page. */
-function subscribeMailchimp(actionUrl: string, params: URLSearchParams) {
-  return new Promise<MailchimpResponse>((resolve, reject) => {
-    const cbName = `__mcJsonp${Date.now()}`;
-    const w = window as unknown as Record<string, ((data: MailchimpResponse) => void) | undefined>;
-    const script = document.createElement("script");
-    const cleanup = () => {
-      delete w[cbName];
-      script.remove();
-    };
-    w[cbName] = (data) => {
-      cleanup();
-      resolve(data);
-    };
-    script.onerror = () => {
-      cleanup();
-      reject(new Error("Mailchimp request failed"));
-    };
-    const url = new URL(actionUrl.replace("/subscribe/post?", "/subscribe/post-json?"));
-    params.set("c", cbName);
-    params.forEach((value, key) => url.searchParams.set(key, value));
-    script.src = url.toString();
-    document.body.appendChild(script);
-  });
-}
-
-/**
- * Subscribe via a cross-origin form POST (Brevo and most other providers).
- * The response is opaque under `no-cors`, so a resolved fetch is treated as
- * success — the provider sends its own confirmation email either way.
- */
-async function subscribeGeneric(actionUrl: string, params: URLSearchParams) {
-  await fetch(actionUrl, { method: "POST", mode: "no-cors", body: params });
-}
-
 export function NewsletterForm({
   variant,
   onSuccess,
@@ -60,68 +23,39 @@ export function NewsletterForm({
     e.preventDefault();
     if (status === "sending") return;
 
-    const form = e.currentTarget;
-    const email = (form.elements.namedItem("email") as HTMLInputElement).value.trim();
-    const firstName = (form.elements.namedItem("firstName") as HTMLInputElement).value.trim();
-    const honeypot = (form.elements.namedItem("website") as HTMLInputElement).value;
-
-    // Humans never see the honeypot field; a filled value means a spam bot.
-    // Show the success state so the bot moves on, but send nothing.
-    if (honeypot) {
-      setStatus("success");
-      return;
-    }
-
-    // Explicit marketing consent is required — without the ticked box we send
-    // nothing, so the contact is never added to the marketing list.
     if (!marketing) {
       setStatus("error");
       setMessage("Please tick the box to confirm you'd like to receive our emails.");
       return;
     }
-
-    // Field names for both providers: Mailchimp reads EMAIL/FNAME,
-    // Brevo reads EMAIL/FIRSTNAME; each ignores the other's extras.
-    // email_address_check is Brevo's honeypot — must be sent empty.
-    const params = new URLSearchParams({
-      EMAIL: email,
-      FNAME: firstName,
-      FIRSTNAME: firstName,
-      email,
-      email_address_check: "",
-      // Records the marketing opt-in with Brevo (map this to the consent
-      // field on the Brevo form so it drives list subscription).
-      OPT_IN: "1",
-      locale: "en",
-    });
-
+    const form = new FormData(e.currentTarget);
     setStatus("sending");
     try {
-      const actionUrl = NEWSLETTER.formActionUrl;
-      if (!actionUrl) {
-        // Preview mode (no form URL configured yet) — pretend it worked.
-        await new Promise((r) => setTimeout(r, 600));
-      } else if (actionUrl.includes("list-manage.com")) {
-        const res = await subscribeMailchimp(actionUrl, params);
-        if (res.result !== "success") {
-          const alreadySubscribed = /already subscribed|is already/i.test(res.msg);
-          if (!alreadySubscribed) throw new Error(res.msg);
-        }
-      } else {
-        await subscribeGeneric(actionUrl, params);
+      const response = await fetch(NEWSLETTER.endpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          email: String(form.get("email") ?? "").trim(),
+          website: form.get("website"),
+          marketingConsent: marketing,
+        }),
+        signal: AbortSignal.timeout(15000),
+      });
+      const result = await response.json() as { status?: string; error?: string };
+      if (!response.ok || result.status !== "confirmation_required") {
+        throw new Error(result.error || "We couldn’t request your confirmation email. Please try again later.");
       }
       setStatus("success");
       try {
-        localStorage.setItem("wmf-newsletter-subscribed", "1");
-      } catch {
-        // Private browsing — popup suppression just won't persist.
-      }
+        // This records a request, not confirmed list membership.
+        localStorage.setItem("wmf-newsletter-requested", "1");
+      } catch { /* Popup suppression is optional. */ }
       onSuccess?.();
-    } catch {
+    } catch (error) {
       setStatus("error");
-      setMessage(
-        `Sorry, that didn't go through. Please try again, or email us at ${SITE.contact.email}.`,
-      );
+      setMessage(error instanceof Error && error.name === "Error"
+        ? error.message
+        : `Sorry, that didn't go through. Please try again, or email ${SITE.contact.email}.`);
     }
   }
 
@@ -137,10 +71,10 @@ export function NewsletterForm({
         )}
       >
         <p className={clsx("font-serif text-lg", popup ? "text-[var(--color-deep-green)]" : "text-[var(--color-cream)]")}>
-          Lovely — you&rsquo;re on the list.
+          Check your inbox
         </p>
         <p className="mt-1.5">
-          Keep an eye out for a confirmation email so we know we&rsquo;ve got the right address.
+          Click the link in your confirmation email to join the Woodlands Newsletter. You won&rsquo;t be added to the list until you confirm.
         </p>
       </div>
     );
@@ -165,16 +99,6 @@ export function NewsletterForm({
         />
       </div>
       <div className={clsx("flex flex-col gap-3", popup && "sm:flex-row")}>
-        <label className="sr-only" htmlFor={`${variant}-newsletter-name`}>
-          First name
-        </label>
-        <input
-          id={`${variant}-newsletter-name`}
-          name="firstName"
-          autoComplete="given-name"
-          placeholder="First name"
-          className={inputClasses}
-        />
         <label className="sr-only" htmlFor={`${variant}-newsletter-email`}>
           Email address
         </label>
@@ -182,6 +106,7 @@ export function NewsletterForm({
           id={`${variant}-newsletter-email`}
           name="email"
           type="email"
+          maxLength={254}
           required
           autoComplete="email"
           placeholder="Email address"
@@ -197,6 +122,7 @@ export function NewsletterForm({
         <input
           type="checkbox"
           name="marketingConsent"
+          required
           checked={marketing}
           onChange={(e) => {
             setMarketing(e.target.checked);

@@ -13,7 +13,7 @@
  * site's `/[slug]/` route resolves at exactly the same path as before
  * and SEO history is preserved.
  *
- * Usage: `npm run migrate:blog`
+ * Usage: `npm run migrate:blog -- [optional-post-slug]`
  */
 
 import { createHash } from "node:crypto";
@@ -214,7 +214,13 @@ async function migratePost(url: string) {
 }
 
 async function main() {
-  const urls = await fetchSitemap();
+  const requestedSlug = process.argv[2];
+  const urls = (await fetchSitemap()).filter((url) => {
+    const slug = slugFromUrl(url);
+    // The owner has retired this competition. Never re-import its entry form.
+    return slug !== "win-a-weekend-at-woodlands-manor-farm" && (!requestedSlug || slug === requestedSlug);
+  });
+  if (requestedSlug && !urls.length) throw new Error("No eligible post found for the requested slug");
   console.log(`Found ${urls.length} posts to migrate.\n`);
 
   for (const url of urls) {
