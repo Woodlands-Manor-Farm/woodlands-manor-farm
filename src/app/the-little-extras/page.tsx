@@ -7,6 +7,7 @@ import {
   infoStyles as styles,
 } from "@/components/info/info-shell";
 import m from "@/components/marketing/marketing.module.css";
+import { SITE } from "@/lib/constants/seo";
 
 export const metadata: Metadata = {
   title: "The Little Extras",
@@ -25,6 +26,7 @@ const EXTRAS = [
     name: "Welcome pack",
     body: "Tea, coffee, milk, sugar, herbs, salt and pepper waiting on the kitchen counter — included free with every stay. Add a Cornish cream tea or a bottle of Camel Valley fizz for £25.",
     detail: "Free with every stay",
+    email: SITE.contact.email,
   },
   {
     img: "/images/jasmine-cottage/jasmine-dining.jpg",
@@ -32,10 +34,8 @@ const EXTRAS = [
     type: "Pre-order",
     name: "Breakfast hamper",
     body: "Local sourdough, free-range eggs, smoked bacon and a pint of fresh milk delivered for your first morning — £18 for two, £30 for four.",
-    link: {
-      href: "mailto:enquiries@woodlandsmanorfarm.co.uk?subject=Breakfast%20hamper",
-      label: "Email us to arrange delivery",
-    },
+    detail: "£18 for two · £30 for four",
+    email: SITE.contact.email,
   },
   {
     img: "/images/the-manor-house/manor-dining-room.jpg",
@@ -43,6 +43,7 @@ const EXTRAS = [
     type: "Private chef",
     name: "Call for a Cook",
     body: "If you would like to have a lovely meal ready for your arrival or have a special event and would rather rely on the expertise of an outside caterer, we have an excellent private chef called Nicky who will deliver to your cottage.",
+    detail: "Book direct with Nicky",
     link: { href: "/menus/private-chef-menu.pdf", label: "View Nicky's sample menu (PDF)" },
   },
   {
@@ -67,6 +68,7 @@ const EXTRAS = [
     type: "Pamper",
     name: "Spa Treatment",
     body: "Why not treat yourself or your partner to a bit of pampering during your stay with us? We have a qualified therapist called Leanne who offers a wide range of treatments. She can carry out the treatments in the comfort of your own cottage.",
+    detail: "Book direct with Leanne",
     link: { href: "/menus/spa-treatments-menu.pdf", label: "View the treatments menu (PDF)" },
   },
   {
@@ -76,6 +78,7 @@ const EXTRAS = [
     name: "Babies & toddlers",
     body: "We are extremely baby and child-friendly. We can provide a cot, highchair, baby bath, nappy bin, changing mat, bottle steriliser, plastic cutlery, bowls, plates and socket covers. For toddlers: bed guard, potty, step, toilet seat and booster seat. Just ask when booking.",
     detail: "Just ask when booking",
+    email: SITE.contact.email,
   },
   {
     img: "/images/the-manor-house/manor-snug.jpg",
@@ -118,8 +121,12 @@ export default function Page() {
         </h2>
         <p className={styles.sectionBody}>
           Some things make a holiday — a welcome pack waiting for you, a private chef cooking
-          dinner, a spa treatment in your cottage, the shopping already in the fridge. Add these
-          when you book, or drop us a line and we&rsquo;ll sort it.
+          dinner, a spa treatment in your cottage, the shopping already in the fridge. The easiest
+          way to arrange any of these is to{" "}
+          <a href={`mailto:${SITE.contact.email}`} className={styles.inlineLink}>
+            email us
+          </a>{" "}
+          — before you book or during your stay — and we&rsquo;ll sort it.
         </p>
 
         <div className={m.experienceGrid}>
@@ -132,7 +139,8 @@ export default function Page() {
                 <div className={m.expType}>{e.type}</div>
                 <div className={m.expName}>{e.name}</div>
                 <p className={m.expBody}>{e.body}</p>
-                <div className={m.expDetail}>
+                <div className={m.expDetail} style={{ display: "grid", gap: 8 }}>
+                  {e.detail ? <span>{e.detail}</span> : null}
                   {e.link ? (
                     <a
                       href={e.link.href}
@@ -142,9 +150,15 @@ export default function Page() {
                     >
                       {e.link.label} →
                     </a>
-                  ) : (
-                    e.detail
-                  )}
+                  ) : null}
+                  {e.email ? (
+                    <a
+                      href={`mailto:${e.email}?subject=${encodeURIComponent(e.name)}`}
+                      style={{ color: "var(--color-violet)", textDecoration: "none", fontWeight: 500 }}
+                    >
+                      Email us to arrange →
+                    </a>
+                  ) : null}
                 </div>
               </div>
             </article>
