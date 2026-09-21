@@ -3,6 +3,7 @@ import { Jost, Playfair_Display } from "next/font/google";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { ChatWidget } from "@/components/marketing/chat-widget";
+import { GoogleAnalytics } from "@/components/marketing/google-analytics";
 import { NewsletterPopup } from "@/components/marketing/newsletter-popup";
 import { StructuredData } from "@/components/seo/structured-data";
 import { SITE } from "@/lib/constants/seo";
@@ -66,6 +67,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Footer />
         <NewsletterPopup />
         <ChatWidget />
+        <GoogleAnalytics />
       </body>
     </html>
   );

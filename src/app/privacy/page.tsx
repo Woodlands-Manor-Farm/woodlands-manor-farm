@@ -123,11 +123,18 @@ export default function Page() {
                   enquiries and reservations. Data is held on the hosting datacentre provided as
                   part of the SuperControl booking engine.
                 </li>
+                <li>
+                  <strong>Google</strong> — we use Google Analytics (GA4) to understand how
+                  visitors use the site (such as pages viewed, device type and approximate
+                  location from IP), which helps us improve it; Google Analytics sets cookies. We
+                  also use Google Search Console, which reports how the site performs in Google
+                  Search and does not track individual visitors on this site. Data may be
+                  processed by Google outside the UK under appropriate safeguards.
+                </li>
               </ul>
               <p>
-                We do not sell your personal data. We do not currently run any advertising,
-                retargeting, or marketing-analytics trackers (no Google Analytics, Meta Pixel,
-                GTM, Hotjar, or similar) on this site.
+                We do not sell your personal data. Aside from Google Analytics (above), we do not
+                run advertising or retargeting trackers (no Meta Pixel or similar) on this site.
               </p>
             </>
           ),
@@ -191,6 +198,20 @@ export default function Page() {
                 <li>
                   We use Cloudflare Web Analytics for basic, privacy-friendly page-view
                   statistics; this does not use cookies or track individuals.
+                </li>
+                <li>
+                  Google Analytics (GA4) sets cookies (such as _ga) to measure how the site is
+                  used — for example which pages are visited and whether you are a returning
+                  visitor. You can opt out using Google&rsquo;s{" "}
+                  <a
+                    href="https://tools.google.com/dlpage/gaoptout"
+                    target="_blank"
+                    rel="noreferrer"
+                    style={{ color: "var(--color-violet)" }}
+                  >
+                    Analytics opt-out browser add-on
+                  </a>
+                  , or by blocking cookies in your browser.
                 </li>
               </ul>
             </>
