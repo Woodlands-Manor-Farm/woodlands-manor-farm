@@ -1,0 +1,13 @@
+topic,pages,decision_needed,acceptance_evidence,report_section
+Property specifications,All nine property pages and cottage/yurt listings,"Floor levels, bathrooms, bed configurations and capacities",Owner approved property specification matching SuperControl,L2
+Group maximum,Group and special offer pages,Individual capacities sum46 vs advertised44,Confirm permitted/saleable maximum,L2
+Dogs,Dog rules and dog-friendly landing page,"Maximum count, furniture and off-lead areas",One approved dog policy; align all pages and booking rules,L4
+Offers,Special offers,Up to 20% late;10% weekly;up to 15% returning;spring from £495;off-peak from £325,"Confirm eligibility, dates, codes, stacking and three-property exclusive-use claim; correct automatic/current claims",L4
+Extras,Little extras and on the farm,Hamper/treat prices;free EV;pony price age duration season,Confirm current supplier arrangements and charges,L4
+Contract,Terms privacy footer website terms,Different company names;deposit33%;balance8weeks;liability,Correct entity and approved booking terms,L4
+Newsletter,Footer and popup,Opaque POST success;provider opt-in configuration not verified,Controlled address receives confirmation and enters intended list,L5
+Analytics,Sitewide,GA loads with no site choice control,Implement appropriate consent/preference solution or disable; assess any statistical exception,L5
+Expired competition,win-a-weekend article,Missing source article,Choose archive/equivalent successor/intentional retirement,L3
+Outdoor guides,Swimming and cycling articles,Site access and route accuracy not independently established,Check official access/tide/route rules; remove blanket safety claims,L6
+Farm schedule,Literary festival and farm pages,Daily vs Sunday/Wednesday animal feeding,Confirm schedule and align copy,Editorial
+Local venues,Places to eat and things to do,Broken venue links and unverified venue descriptions/distances,Confirm intended businesses using official websites,L6

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { DOG_POLICY } from "@/lib/constants/dog-policy";
 import Link from "next/link";
 import { LegalPage, legalStyles as s } from "@/components/legal/legal-page";
 
@@ -26,7 +27,7 @@ export default function Page() {
             everything your dog can look forward to. Below is what we ask in return.
           </p>
           <div className={s.note} style={{ marginBottom: 32 }}>
-            🐕 £25 per dog per stay. Well-behaved dogs welcomed — no maximum per booking.
+            🐕 {DOG_POLICY.charge}. {DOG_POLICY.additionalDogs}
           </div>
         </>
       }
@@ -36,7 +37,7 @@ export default function Page() {
           title: "General rules",
           content: (
             <ul>
-              <li>Dogs must be kept on a lead at all times around the farm — we have free-range animals.</li>
+              <li>{DOG_POLICY.leads} We have free-range animals.</li>
               <li>Please clean up after your dog throughout the farm and on local walks.</li>
               <li>
                 Dogs are <strong>not permitted</strong> in the swimming pool, games room or
@@ -46,7 +47,7 @@ export default function Page() {
                 Please don&rsquo;t leave your dog unattended in the cottage. If you need to be out
                 without them, talk to us — we may be able to help.
               </li>
-              <li>Dogs are not allowed on furniture or beds. Please bring your own dog bed.</li>
+              <li>{DOG_POLICY.indoors} Please bring your own dog bed.</li>
             </ul>
           ),
         },
@@ -84,7 +85,7 @@ export default function Page() {
                 West Coast Path.
               </p>
               <ul>
-                <li>Bluebell woodland walk — on the farm, year-round, dogs off lead allowed.</li>
+                <li>Bluebell woodland walk — on the farm, year-round, with dogs on leads.</li>
                 <li>Coombe Valley walk — 2 miles to Duckpool Beach (dog-friendly all year).</li>
                 <li>Coast path — Duckpool to Sandymouth is one of our favourite local walks.</li>
               </ul>

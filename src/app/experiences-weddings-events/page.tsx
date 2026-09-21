@@ -4,6 +4,7 @@ import Link from "next/link";
 import styles from "@/components/marketing/marketing.module.css";
 import { SITE } from "@/lib/constants/seo";
 import { BOOK_HREF } from "@/lib/constants/nav";
+import { CAMP_BED_NOTE, TOTAL_GUEST_CAPACITY } from "@/lib/constants/properties";
 
 const EXPERIENCES = [
   {
@@ -43,8 +44,8 @@ const EXPERIENCES = [
     alt: "Wedding setup at Woodlands",
     type: "Exclusive use",
     name: "Weddings & events",
-    body: "Hire the whole farm exclusively for your wedding, milestone birthday, corporate retreat or family reunion. All 9 properties (accommodating 44 guests), pool and games room, plus a variety of locations to choose from — the courtyard, orchard and playing field.",
-    detail: "Up to 44 guests accommodated + additional guests",
+    body: `Hire the whole farm exclusively for your wedding, milestone birthday, corporate retreat or family reunion. Seven cottages and two yurts accommodate ${TOTAL_GUEST_CAPACITY} guests, with the pool and games room, plus a variety of locations to choose from — the courtyard, orchard and playing field. ${CAMP_BED_NOTE}`,
+    detail: `Sleeps ${TOTAL_GUEST_CAPACITY} · Camp beds by prior agreement`,
   },
   {
     img: "/images/blog-template/dcf926b3c1174be3.jpg",
@@ -128,8 +129,9 @@ export default function Page() {
           </h2>
           <p className={`${styles.sectionLead} ${styles.sectionLeadLight}`}>
             Reunions, weddings, milestone birthdays, corporate retreats, school trips, hen
-            weekends — book the entire farm exclusively for up to 44 guests across all 9
-            properties, with the pool, games room, fields and animals all to yourselves.
+            weekends — book the entire farm exclusively for up to {TOTAL_GUEST_CAPACITY} guests
+            across seven cottages and two yurts, with the pool, games room, fields and animals
+            all to yourselves. {CAMP_BED_NOTE}
           </p>
           <Link
             href={`mailto:${SITE.contact.email}?subject=Exclusive use enquiry`}

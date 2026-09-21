@@ -4,6 +4,7 @@ import Link from "next/link";
 import styles from "@/components/marketing/marketing.module.css";
 import { BOOK_HREF } from "@/lib/constants/nav";
 import { SITE } from "@/lib/constants/seo";
+import { CAMP_BED_NOTE, TOTAL_GUEST_CAPACITY } from "@/lib/constants/properties";
 
 const OFFERS = [
   {
@@ -40,7 +41,7 @@ const OFFERS = [
     label: "Group booking",
     title: "Take the whole farm",
     save: "Group discount",
-    body: "Booking 3+ properties on the same dates qualifies for an exclusive-use group rate. Up to 44 guests across all 9 properties — call Andy direct to discuss.",
+    body: `Booking 3+ properties on the same dates qualifies for an exclusive-use group rate. Up to ${TOTAL_GUEST_CAPACITY} guests across seven cottages and two yurts. ${CAMP_BED_NOTE} Call Andy direct to discuss.`,
     footer: "Call to book",
   },
   {

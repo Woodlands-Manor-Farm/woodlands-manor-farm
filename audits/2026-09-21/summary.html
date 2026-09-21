@@ -1,0 +1,72 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Woodlands Manor Farm cutover audit</title><style>
+  :root {
+    --bg: #e2e9f3;
+    --ink: #122650;
+    --muted: #4f5f79;
+    --rule: #c2cddd;
+    --rule-strong: #122650;
+  }
+  html { background: var(--bg); color-scheme: light; }
+  body {
+    background: var(--bg); color: var(--ink);
+    font-family: Charter, Georgia, "Times New Roman", serif;
+    line-height: 1.55; margin: 0; padding: 3.5rem 1.5rem 5rem;
+  }
+  .page { max-width: 860px; margin: 0 auto; }
+  .mono {
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);
+  }
+  h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700; font-size: 1.6rem; letter-spacing: -0.01em;
+    margin: 0.75rem 0 0.25rem; text-wrap: balance;
+  }
+  .subtitle { color: var(--muted); margin: 0 0 2.5rem; font-size: 1.02rem; max-width: 46rem; }
+  .dateline { color: var(--muted); font-size: 0.92rem; margin: 0 0 1.1rem; }
+  h2 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700; font-size: 1.25rem; margin: 3rem 0 0.75rem;
+  }
+  .lede { font-size: 1.05rem; max-width: 46rem; }
+  section > p { max-width: 46rem; }
+  hr.heavy { border: 0; border-top: 2px solid var(--rule-strong); margin: 3rem 0 0; }
+  section .cols:first-of-type { border-top: 1px solid var(--rule); }
+  .cols {
+    display: grid; grid-template-columns: minmax(180px, 5fr) 8fr;
+    gap: 1.25rem; padding: 0.6rem 0; border-bottom: 1px solid var(--rule);
+  }
+  .row-title { font-size: 1.12rem; margin: 0; }
+  .row-title .tag { display: block; margin-top: 0.35rem; }
+  .cols > div p { margin: 0 0 0.6rem; color: var(--muted); font-size: 0.95rem; }
+  .cols > div p:last-child { margin-bottom: 0; }
+  .cols > div p.fix { color: var(--ink); }
+  .fix b { font-weight: 600; }
+  code {
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    font-size: 0.85em; word-break: break-word;
+  }
+  ol { padding-left: 1.3rem; max-width: 44rem; }
+  ol li { margin-bottom: 0.5rem; }
+  ul.plain { list-style: none; padding: 0; max-width: 46rem; }
+  ul.plain li { padding: 0.5rem 0; border-bottom: 1px solid var(--rule); font-size: 0.98rem; }
+  ul.plain li:first-child { border-top: 1px solid var(--rule); }
+  ul.plain .why { color: var(--muted); }
+  footer { margin-top: 4rem; color: var(--muted); font-size: 0.88rem; max-width: 46rem; }
+  @media (max-width: 620px) {
+    .cols { grid-template-columns: 1fr; gap: 0.4rem; }
+  }
+</style></head><body><div class="page">
+<header><h1>woodlandsmanorfarm.co.uk</h1><p class="dateline">Final content &amp; SEO review · 21 September 2026</p><p class="subtitle">The new site builds successfully and its main pages have the expected search metadata. Hold the cutover while enquiry delivery, content accuracy and migration gaps are fixed. This review covers the preview, repository and existing WordPress URLs.</p></header>
+<section><h2>Where the site stands</h2><p class="lede"><strong>Ready for a final correction pass; not ready for cutover.</strong></p><p>51 directly served pages were checked, alongside 24 local articles, the old sitemaps and 182 external links. The calendar loads, images work and the preview is correctly excluded from search.</p></section><hr class="heavy">
+<section><h2>If you only do one thing</h2><p class="lede">Close the launch checklist before changing the domain routing.</p><p>The most urgent defect is the contact form: visitors are told their enquiry arrived even though it is never sent.</p><ol><li>Give the developer the <a href="cutover-audit.md">detailed audit</a> and <a href="migration-map.csv">URL migration list</a>.</li><li>Approve the property, offer and policy facts in <a href="content-decisions.csv">the owner decision list</a>.</li><li>Demonstrate delivery, correct content and working redirects, then run the production-domain checks at cutover.</li></ol></section>
+<section><h2>Corrections, in order</h2><div class="cols"><div><p class="row-title">Enquiries are discarded<span class="mono tag">Before launch</span></p></div><div><p>The contact form changes its display to success without sending a request.</p><p class="fix"><b>Action:</b> Connect and test actual inbox delivery, or replace the form with email and telephone links.</p></div></div>
+<div class="cols"><div><p class="row-title">Property details conflict<span class="mono tag">Before launch</span></p></div><div><p>Lavender is both single-level and first-floor; The Stables has one bathroom in its statistics and two en suites in its description.</p><p class="fix"><b>Action:</b> Approve one property specification and match every listing, detail page and booking record.</p></div></div>
+<div class="cols"><div><p class="row-title">Existing content would disappear<span class="mono tag">Before launch</span></p></div><div><p>Four retained articles are redirected away; the June 2026 Tripadvisor award article returns 404.</p><p class="fix"><b>Action:</b> Restore the articles or agree equivalent replacements; apply the URL decisions in the migration spreadsheet.</p></div></div>
+<div class="cols"><div><p class="row-title">Offers and policies need agreement<span class="mono tag">Owner decision</span></p></div><div><p>Group capacity is 44 in copy versus 46 across property statistics. Dog rules, discounts and the legal business name also differ.</p><p class="fix"><b>Action:</b> Approve the prices, limits and terms in the content decision list before publishing.</p></div></div>
+<div class="cols"><div><p class="row-title">Tracking and signup need completion<span class="mono tag">Before launch</span></p></div><div><p>Google Analytics loads without a site preference control. Newsletter success does not confirm provider acceptance.</p><p class="fix"><b>Action:</b> Implement the appropriate privacy controls or disable tracking, and demonstrate a real newsletter opt-in and confirmation.</p></div></div>
+<div class="cols"><div><p class="row-title">Guides contain broken links and advice<span class="mono tag">Before launch</span></p></div><div><p>Three restaurant hostnames do not resolve. Sea Pool copy promises safety whatever the weather; the operator publishes tide restrictions.</p><p class="fix"><b>Action:</b> Replace verified bad links, correct advice, remove visible WordPress code and the Plymouth flight suggestion.</p></div></div>
+<div class="cols"><div><p class="row-title">Search and social details need tidying<span class="mono tag">Soon</span></p></div><div><p>Four sitemap entries redirect; every non-home page inherits the homepage Twitter title. Review counts and map coordinates differ.</p><p class="fix"><b>Action:</b> Publish only the intended direct page URLs and use accurate page-specific sharing and business information.</p></div></div>
+<div class="cols"><div><p class="row-title">Production hostname needs a final check<span class="mono tag">At cutover</span></p></div><div><p>Preview is correctly marked noindex. Actual custom-domain behaviour depends on the deployment and edge rules.</p><p class="fix"><b>Action:</b> Verify HTTPS, www redirects, indexable public pages, the sitemap and booking/contact flows on the real domain.</p></div></div></section>
+<section><h2>Already working</h2><ul class="plain"><li>Production build passes. <span class="why">Compilation, type checks and route generation completed.</span></li><li>All 51 pages have a title, description, one main heading and one canonical URL. <span class="why">A canonical identifies the preferred page address for search engines.</span></li><li>264 referenced image/PDF assets and 311 optimised-image URLs return successfully.</li><li>Booking calendars load, including the correct Lavender property on mobile.</li><li>The preview sends a noindex instruction. <span class="why">Search engines should keep the temporary copy out of results.</span></li></ul></section>
+<footer><p>Method: direct HTTP checks, WordPress public data, repository review, a local production build and browser smoke checks. No Search Console, backlink data, private booking configuration or field performance data were available. No real enquiries, subscriptions or purchases were submitted. Prices and property facts require owner confirmation. The full report includes current Google, ICO and venue sources.</p><p><a href="cutover-audit.md">Detailed audit and acceptance checklist</a> · <a href="page-inventory.csv">Page inventory</a> · <a href="external-link-checks.csv">External link checks</a></p></footer></div></body></html>

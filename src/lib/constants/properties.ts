@@ -36,7 +36,7 @@ export const PROPERTIES: Property[] = [
     type: "cottage",
     sleeps: 8,
     bedrooms: 4,
-    shortDescription: "Two-lounge converted barn with stone fireplace, sleeps 8.",
+    shortDescription: "Rose Cottage in Bude sleeps 8, with a double bedroom and bathroom downstairs, three bedrooms upstairs and access to the heated indoor pool.",
     href: "/rose-cottage/",
     heroImage: "/images/rose-cottage/rose-lounge-upstairs.jpg",
     superControlId: "562739",
@@ -47,7 +47,7 @@ export const PROPERTIES: Property[] = [
     type: "cottage",
     sleeps: 6,
     bedrooms: 3,
-    shortDescription: "Light-filled cottage with a private patio overlooking the meadow.",
+    shortDescription: "Jasmine Cottage in Bude sleeps 6 in three double bedrooms. A secret bookcase door connects to Lavender when booked together for 10 guests.",
     href: "/jasmine-cottage/",
     heroImage: "/images/jasmine-cottage/jasmine-lounge.jpg",
     superControlId: "577259",
@@ -58,7 +58,7 @@ export const PROPERTIES: Property[] = [
     type: "cottage",
     sleeps: 4,
     bedrooms: 2,
-    shortDescription: "Cosy stone cottage with woodburner and country-style kitchen.",
+    shortDescription: "Lavender Cottage in Bude sleeps 4 on one level, with two bathrooms. Book with Jasmine to sleep 10, connected by a secret bookcase door.",
     href: "/lavender-cottage/",
     heroImage: "/images/lavender-cottage/lavender-lounge.jpg",
     superControlId: "577258",
@@ -69,7 +69,7 @@ export const PROPERTIES: Property[] = [
     type: "cottage",
     sleeps: 2,
     bedrooms: 1,
-    shortDescription: "Ivy-clad couples' retreat with vaulted beams and super-king bed.",
+    shortDescription: "The Coach House in Bude sleeps 2, with a super-king bedroom, shower room and access to the heated indoor pool.",
     href: "/the-coach-house/",
     heroImage: "/images/the-coach-house/coach-bedroom.jpg",
     superControlId: "565805",
@@ -91,7 +91,7 @@ export const PROPERTIES: Property[] = [
     type: "cottage",
     sleeps: 2,
     bedrooms: 1,
-    shortDescription: "Intimate one-bedroom cottage ideal for couples.",
+    shortDescription: "Honeysuckle Cottage in Bude sleeps 2, with its living space, bedroom and bathroom all on the ground floor, plus heated indoor pool access.",
     href: "/honeysuckle-cottage/",
     heroImage: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg",
     superControlId: "565804",
@@ -102,7 +102,7 @@ export const PROPERTIES: Property[] = [
     type: "yurt",
     sleeps: 4,
     bedrooms: 1,
-    shortDescription: "Authentic Mongolian yurt in a secluded spot by the pond — wood burner, private kitchen & bathroom, sleeps 4.",
+    shortDescription: "Budhyn Yurt in Bude sleeps 4 in a super-king bed and two singles, with a private kitchen and bathroom, wood burner and heated indoor pool access.",
     href: "/budhyn-yurt/",
     heroImage: "/images/budhyn-yurt/budhyn-exterior-hero.jpg",
     superControlId: "593204",
@@ -113,7 +113,7 @@ export const PROPERTIES: Property[] = [
     type: "yurt",
     sleeps: 4,
     bedrooms: 1,
-    shortDescription: "Sister yurt to Budhyn, nestled by the woodland — wood burner, private kitchen & bathroom, sleeps 4.",
+    shortDescription: "Fenton Yurt in Bude sleeps 4 in a super-king bed and two singles, with a private kitchen and bathroom, wood burner and heated indoor pool access.",
     href: "/fenton-yurt/",
     heroImage: "/images/fenton-yurt/fenton-exterior-hero.jpg",
     superControlId: "593172",
@@ -122,3 +122,7 @@ export const PROPERTIES: Property[] = [
 
 export const COTTAGES = PROPERTIES.filter((p) => p.type === "cottage");
 export const YURTS = PROPERTIES.filter((p) => p.type === "yurt");
+
+// Standard capacity, excluding camp beds which require advance agreement.
+export const TOTAL_GUEST_CAPACITY = PROPERTIES.reduce((total, property) => total + property.sleeps, 0);
+export const CAMP_BED_NOTE = "Camp beds can be added by prior agreement.";

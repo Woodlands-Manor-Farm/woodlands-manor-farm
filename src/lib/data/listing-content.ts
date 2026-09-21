@@ -22,7 +22,7 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/rose-cottage/",
     name: "Rose Cottage",
-    desc: "A large converted hay barn with two lounges and a glowing log burner. Perfect for family groups who need space to spread out, with bedroom and bathroom on the ground floor.",
+    desc: "A large converted hay barn with two lounges and a glowing log burner. One double bedroom and bathroom downstairs, with another double, two twins and a bathroom upstairs — plenty of space for family groups.",
     img: "/images/rose-cottage/rose-fireplace.jpg",
     alt: "Rose Cottage — stone fireplace and beamed lounge",
     tags: [{ label: "Sleeps 8" }],
@@ -36,7 +36,7 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/jasmine-cottage/",
     name: "Jasmine Cottage",
-    desc: "A spacious barn conversion with a secret bookcase door connecting to Lavender — combine them for 10 guests. Three doubles, a stunning farm table and a stone wood burner.",
+    desc: "A spacious barn conversion with three double bedrooms and a secret bookcase door in the ground-floor kitchen connecting to Lavender — book both cottages together for 10 guests. A stunning farm table and stone wood burner complete the stay.",
     img: "/images/jasmine-cottage/jasmine-lounge.jpg",
     alt: "Jasmine Cottage kitchen dining",
     tags: [{ label: "Sleeps 6" }, { label: "Secret door" }],
@@ -64,7 +64,7 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/lavender-cottage/",
     name: "Lavender Cottage",
-    desc: "Entirely on one level — perfect for families with young children or those who prefer to avoid steps. Connects to Jasmine via a secret door for larger group stays.",
+    desc: "Two bedrooms and two bathrooms, all on one level. Sleeps four, or book together with Jasmine and open the secret bookcase door to make one larger cottage sleeping ten.",
     img: "/images/lavender-cottage/lavender-lounge.jpg",
     alt: "Lavender Cottage lounge",
     tags: [{ label: "Sleeps 4" }, { label: "Single level" }],
@@ -78,7 +78,7 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/the-coach-house/",
     name: "The Coach House",
-    desc: "Intimate and full of charm — a beautiful vaulted ceiling bedroom, super king bed, and stone-floored kitchen lounge. The perfect romantic retreat for two.",
+    desc: "Intimate and full of charm — a beautiful vaulted ceiling bedroom, super-king bed, shower room and stone-floored kitchen lounge. The perfect romantic retreat for two.",
     img: "/images/the-coach-house/coach-exterior.jpg",
     alt: "Coach House — ivy-clad stone cottage",
     tags: [{ label: "Sleeps 2" }],
@@ -109,7 +109,7 @@ export const YURT_CARDS: PropertyCardData[] = [
   {
     href: "/budhyn-yurt/",
     name: "Budhyn Yurt",
-    desc: "Authentic Mongolian glamping with a high-end wood burner at its heart. Kingsize bed, two singles, your own private kitchen and bathroom, and a BBQ and picnic bench facing the meadow.",
+    desc: "Authentic Mongolian glamping with a high-end wood burner at its heart. Super-king bed, two singles, your own private kitchen and bathroom, and a BBQ and picnic bench facing the meadow.",
     img: "/images/budhyn-yurt/budhyn-exterior-hero.jpg",
     alt: "Budhyn Yurt exterior — authentic Mongolian yurt in the meadow",
     tags: [{ label: "Glamping", featured: true }, { label: "Sleeps 4" }],

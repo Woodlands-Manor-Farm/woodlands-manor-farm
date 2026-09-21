@@ -71,7 +71,7 @@ Yurt Fenton, Outside View
 
 ![Budhyn Yurt, double bed](/images/blog/discover-the-best-glamping-spots-in-cornwall-for-2025/fc098f597226.webp)
 
-Budhyn Yurt, King-Size bed
+Budhyn Yurt, super-king bed
 
   
 

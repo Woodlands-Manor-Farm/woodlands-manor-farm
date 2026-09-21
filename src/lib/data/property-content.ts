@@ -1,4 +1,5 @@
 import type { PropertyPageData } from "@/components/property/property-page";
+import { DOG_POLICY } from "@/lib/constants/dog-policy";
 
 const SHARED_FACILITIES = [
   { icon: "🏊", label: "Heated indoor pool" },
@@ -34,7 +35,8 @@ const GOOD_TO_KNOW_COL = {
     "Electric vehicle charger available",
     "Short breaks available out of season",
     "No smoking throughout",
-    "Well-behaved dogs welcome — meadow & woodland walks",
+    `Well-behaved dogs welcome — ${DOG_POLICY.charge}. ${DOG_POLICY.additionalDogs}`,
+    `${DOG_POLICY.indoors} ${DOG_POLICY.leads}`,
     "Cot & highchair available on request",
     "Welcome basket: tea, coffee, milk, sugar, herbs, salt & pepper",
     "Bed linen & towels all included",
@@ -150,7 +152,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Stone fireplace · 17th-century walls",
     subtitle: "Two lounges and a stone fireplace — sleeps 8 + cots",
     description:
-      "A characterful, comfortable cottage with a beautiful stone fireplace, beamed ceilings, and two separate lounges that give plenty of breathing room when the family wants to spread out. Direct access to the courtyard garden, with the indoor pool just a few steps away.",
+      "A characterful, comfortable cottage with a beautiful stone fireplace, beamed ceilings, and two separate lounges that give plenty of breathing room when the family wants to spread out. A double bedroom and bathroom are downstairs, with another double bedroom, two twin bedrooms and a bathroom upstairs. Direct access to the courtyard garden, with the indoor pool just a few steps away.",
     gallery: [
       { src: "/images/rose-cottage/rose-exterior.jpg", alt: "Rose Cottage exterior — converted stone barn at Woodlands Manor Farm, Bude" },
       { src: "/images/rose-cottage/rose-exterior-dining.jpg", alt: "Rose Cottage patio with outdoor dining and rolling valley views" },
@@ -196,19 +198,18 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
           "Second lounge with Smart TV — quiet escape",
           "Farmhouse kitchen with electric oven, hob, dishwasher, fridge/freezer",
           "Dining area seating 8",
-          "Cloakroom WC",
+          "Bedroom 1 — double bed",
+          "Downstairs bathroom",
           "Direct access to private courtyard garden",
         ],
       },
       {
-        title: "First floor — 4 bedrooms",
+        title: "First floor — 3 bedrooms",
         items: [
-          "Bedroom 1 — king-size double",
-          "Bedroom 2 — twin beds",
+          "Bedroom 2 — double bed",
           "Bedroom 3 — twin beds",
-          "Bedroom 4 — king-size double",
-          "Family bathroom with bath, shower over, WC, basin",
-          "En-suite shower room to master",
+          "Bedroom 4 — twin beds",
+          "Upstairs bathroom",
         ],
       },
       GOOD_TO_KNOW_COL,
@@ -222,14 +223,14 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Light-filled · Garden views",
     subtitle: "A bright, family-sized cottage — sleeps 6 + cots",
     description:
-      "Light-filled rooms, a wood burner, and a layout that just works for families. Three bedrooms upstairs, a generous kitchen-diner and beautiful views across the valley.",
+      "Light-filled rooms, a wood burner, and three double bedrooms upstairs. A secret bookcase door in the ground-floor kitchen connects to Lavender Cottage: book Jasmine for six guests, or both cottages together to sleep ten. A generous kitchen-diner and beautiful views across the valley complete the stay.",
     gallery: [
       { src: "/images/jasmine-cottage/jasmine-exterior.jpg", alt: "Jasmine Cottage exterior — stone barn conversion at Woodlands Manor Farm, Bude" },
       { src: "/images/jasmine-cottage/jasmine-lounge.jpg", alt: "Open-plan lounge and dining at Jasmine Cottage with stone fireplace" },
       { src: "/images/jasmine-cottage/jasmine-lounge-fire.jpg", alt: "Jasmine Cottage lounge with wood burner and grey sofa" },
       { src: "/images/jasmine-cottage/jasmine-dining.jpg", alt: "Jasmine Cottage dining table set beneath the windows" },
       { src: "/images/jasmine-cottage/jasmine-kitchen.jpg", alt: "Jasmine Cottage kitchen with wooden units and island" },
-      { src: "/images/jasmine-cottage/jasmine-kitchen-bookcase.jpg", alt: "Jasmine Cottage kitchen with the reading nook and bookcase" },
+      { src: "/images/jasmine-cottage/jasmine-kitchen-bookcase.jpg", alt: "Secret bookcase door in Jasmine Cottage's ground-floor kitchen connecting to Lavender" },
       { src: "/images/jasmine-cottage/jasmine-bedroom-master.jpg", alt: "Master bedroom at Jasmine Cottage" },
       { src: "/images/jasmine-cottage/jasmine-bedroom-master-2.jpg", alt: "A second double bedroom at Jasmine Cottage" },
       { src: "/images/jasmine-cottage/jasmine-bedroom-double.jpg", alt: "Double bedroom at Jasmine Cottage" },
@@ -244,6 +245,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       "Indoor pool",
       "Games room",
       "Open-plan kitchen-diner-lounge",
+      "Connects to Lavender — together sleeps 10",
       "Super-fast WiFi",
       "Dogs welcome",
       "Short breaks available",
@@ -261,6 +263,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
         title: "Ground floor",
         items: [
           "Open-plan kitchen-diner with electric oven, dishwasher, fridge/freezer",
+          "Secret bookcase door to Lavender — book both cottages together to sleep 10",
           "Lounge with wood burner & Smart TV",
           "Cloakroom WC",
           "French doors to private patio",
@@ -269,9 +272,9 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       {
         title: "First floor — 3 bedrooms",
         items: [
-          "Bedroom 1 — king-size double with garden views",
-          "Bedroom 2 — twin beds",
-          "Bedroom 3 — twin beds",
+          "Bedroom 1 — double bed with garden views",
+          "Bedroom 2 — double bed",
+          "Bedroom 3 — double bed",
           "Family bathroom with bath & shower over",
           "Separate WC",
         ],
@@ -284,10 +287,10 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
   "lavender-cottage": {
     slug: "lavender-cottage",
     name: "Lavender Cottage",
-    tag: "Cosy stone cottage",
-    subtitle: "The cosy stone retreat — sleeps 4 + cot",
+    tag: "Single level · Secret bookcase door",
+    subtitle: "All on one level — sleeps 4 + cot",
     description:
-      "Thick stone walls, a bright and comfortable lounge, and a country-style kitchen — Lavender is the cottage that guests come back to year after year. Perfect for couples or a small family, with everything you need on the farm a short walk away.",
+      "Thick stone walls, a bright and comfortable lounge, and a country-style kitchen — all on one level, with two bedrooms and two bathrooms. Lavender sleeps four on its own, or opens through a secret bookcase door into Jasmine when both cottages are booked together to sleep ten.",
     gallery: [
       { src: "/images/lavender-cottage/lavender-exterior.jpg", alt: "Lavender Cottage exterior — stone cottage with the Lavender Cottage sign at Woodlands Manor Farm, Bude" },
       { src: "/images/lavender-cottage/lavender-lounge.jpg", alt: "Lavender Cottage open-plan lounge with teal sofa and dining table" },
@@ -300,8 +303,11 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
       { src: "/images/lavender-cottage/lavender-ensuite.jpg", alt: "En-suite at Lavender Cottage with colourful tiled bath" },
       { src: "/images/lavender-cottage/lavender-exterior-2.jpg", alt: "Lavender Cottage stone frontage with blue doors" },
     ],
-    stats: { guests: 4, bedrooms: 2, bathrooms: 1, dogs: "Yes" },
+    stats: { guests: 4, bedrooms: 2, bathrooms: 2, dogs: "Yes" },
     amenities: [
+      "All on one level",
+      "Two bathrooms",
+      "Connects to Jasmine — together sleeps 10",
       "Open-plan kitchen-lounge-diner",
       "Country kitchen",
       "Stone walls",
@@ -327,15 +333,15 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
           "Country-style kitchen with electric oven, dishwasher, fridge/freezer",
           "Cosy lounge with Smart TV",
           "Dining table seats 4",
-          "Cloakroom WC",
+          "Secret bookcase door to Jasmine — book both cottages together to sleep 10",
         ],
       },
       {
-        title: "First floor — 2 bedrooms",
+        title: "Bedrooms & bathrooms — same level",
         items: [
           "Bedroom 1 — king-size double",
           "Bedroom 2 — twin beds",
-          "Family bathroom with bath, shower over, WC, basin",
+          "Two bathrooms, on the same level as the bedrooms and living space",
         ],
       },
       GOOD_TO_KNOW_COL,
@@ -393,7 +399,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
         title: "First floor",
         items: [
           "Master bedroom — super king-size double",
-          "En-suite bathroom with bath, shower over, WC, basin",
+          "En-suite shower room with WC and basin — no bath",
           "Vaulted ceiling with exposed beams",
         ],
       },
@@ -475,9 +481,9 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     name: "Honeysuckle",
     nameLine2: "Cottage",
     tag: "Couples' retreat · Intimate",
-    subtitle: "Intimate one-bedroom — sleeps 2 + cot",
+    subtitle: "All on the ground floor — sleeps 2 + cot",
     description:
-      "Our most cosy and intimate cottage, a snug, characterful one-bedroom retreat ideal for couples or young families. Stone walls, exposed beams, log burner and a private patio garden. Honeymoons, anniversaries, and stolen long weekends.",
+      "Our most cosy and intimate cottage, a snug, characterful one-bedroom retreat ideal for couples or young families. The living space, bedroom and bathroom are all on the ground floor. Stone walls, exposed beams, log burner and a private patio garden make it a welcoming place for honeymoons, anniversaries, and stolen long weekends.",
     gallery: [
       { src: "/images/honeysuckle-cottage/honeysuckle-exterior.jpg", alt: "Honeysuckle Cottage exterior — stone barn conversion in the courtyard at Woodlands Manor Farm, Bude" },
       { src: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg", alt: "Honeysuckle Cottage open-plan living space with dining table and red sofa under beamed ceiling" },
@@ -490,6 +496,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     ],
     stats: { guests: 2, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
+      "All on the ground floor",
       "Bath & shower",
       "Private patio",
       "Stone walls",
@@ -519,7 +526,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
         ],
       },
       {
-        title: "First floor",
+        title: "Bedroom & bathroom — ground floor",
         items: [
           "Master bedroom — king-size double",
           "Bathroom with bath, shower, WC, basin",
@@ -536,11 +543,11 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Glamping · Authentic Mongolian yurt",
     subtitle: "Secluded by the pond — sleeps 4",
     description:
-      "An authentic hand-crafted Mongolian yurt in a secluded corner of the farm, looking out over the pond and woodland. Sleeps four in a kingsize bed and two singles, all made up and waiting with luxury linen and soft white towels. Your own private kitchen-diner and bathroom cabin, a high-end wood burner that keeps you toasty even in winter, and your own BBQ and picnic bench facing the meadow. Full run of the farm too — a heated indoor pool, feed the animals, a games room, and woodland walks.",
+      "An authentic hand-crafted Mongolian yurt in a secluded corner of the farm, looking out over the pond and woodland. Sleeps four in a super-king bed and two singles, all made up and waiting with luxury linen and soft white towels. Your own private kitchen-diner and bathroom cabin, a high-end wood burner that keeps you toasty even in winter, and your own BBQ and picnic bench facing the meadow. Full run of the farm too — a heated indoor pool, feed the animals, a games room, and woodland walks.",
     gallery: [
       { src: "/images/budhyn-yurt/budhyn-exterior-hero.jpg", alt: "Budhyn yurt exterior — authentic Mongolian yurt with green cover and wood-burner flue at Woodlands Manor Farm, Bude" },
-      { src: "/images/budhyn-yurt/budhyn-interior-wide.jpg", alt: "Inside Budhyn yurt — wood burner beneath the crown skylight with a kingsize and two single beds" },
-      { src: "/images/budhyn-yurt/budhyn-bed-hero.jpg", alt: "Budhyn yurt kingsize bed made up with luxury linen and cushions" },
+      { src: "/images/budhyn-yurt/budhyn-interior-wide.jpg", alt: "Inside Budhyn yurt — wood burner beneath the crown skylight with a super-king and two single beds" },
+      { src: "/images/budhyn-yurt/budhyn-bed-hero.jpg", alt: "Budhyn yurt super-king bed made up with luxury linen and cushions" },
       { src: "/images/budhyn-yurt/budhyn-single-bed.jpg", alt: "Two single beds against the yurt lattice at Budhyn" },
       { src: "/images/budhyn-yurt/budhyn-interior.jpg", alt: "Budhyn yurt interior from the side — wood burner and beds" },
       { src: "/images/budhyn-yurt/budhyn-woodburner.jpg", alt: "High-end wood burner inside Budhyn yurt" },
@@ -553,7 +560,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     stats: { guests: 4, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
       "High-end wood burner",
-      "Kingsize + 2 singles",
+      "Super-king + 2 singles",
       "Luxury linen & towels",
       "Private kitchen & diner",
       "Private bathroom cabin",
@@ -585,7 +592,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
         title: "Inside the yurt",
         items: [
           "Authentic hand-crafted Mongolian yurt — insulated for year-round stays",
-          "Kingsize bed plus two singles, all made up on arrival",
+          "Super-king bed plus two singles, all made up on arrival",
           "Luxury bed linen and soft white towels included",
           "High-end wood burner — cosy even in the depths of winter (logs included)",
           "Two rechargeable lamps provided",
@@ -615,11 +622,11 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     tag: "Glamping · Authentic Mongolian yurt",
     subtitle: "Sister yurt to Budhyn — sleeps 4",
     description:
-      "Fenton is Budhyn's sister yurt, tucked a few steps away in the same secluded spot by the pond — this one nestled closer to the woodland. Same authentic hand-crafted Mongolian build, same luxury: a kingsize bed and two singles made up with quality linen and soft white towels, your own private kitchen-diner and bathroom cabin, a high-end wood burner for winter, and your own BBQ and picnic bench. Just 20 metres from Budhyn, book both together for a group of eight, or one for a secluded escape.",
+      "Fenton is Budhyn's sister yurt, tucked a few steps away in the same secluded spot by the pond — this one nestled closer to the woodland. Same authentic hand-crafted Mongolian build, same luxury: a super-king bed and two singles made up with quality linen and soft white towels, your own private kitchen-diner and bathroom cabin, a high-end wood burner for winter, and your own BBQ and picnic bench. Just 20 metres from Budhyn, book both together for a group of eight, or one for a secluded escape.",
     gallery: [
       { src: "/images/fenton-yurt/fenton-exterior-hero.jpg", alt: "Fenton yurt exterior — authentic Mongolian yurt with green cover set by the woodland at Woodlands Manor Farm, Bude" },
-      { src: "/images/fenton-yurt/fenton-interior-wide.jpg", alt: "Inside Fenton yurt — wood burner beneath the crown skylight with a kingsize and two single beds" },
-      { src: "/images/fenton-yurt/fenton-master-bed.jpg", alt: "Fenton yurt kingsize bed made up with luxury linen and cushions" },
+      { src: "/images/fenton-yurt/fenton-interior-wide.jpg", alt: "Inside Fenton yurt — wood burner beneath the crown skylight with a super-king and two single beds" },
+      { src: "/images/fenton-yurt/fenton-master-bed.jpg", alt: "Fenton yurt super-king bed made up with luxury linen and cushions" },
       { src: "/images/fenton-yurt/fenton-single-bed.jpg", alt: "Single beds against the yurt lattice at Fenton" },
       { src: "/images/fenton-yurt/fenton-interior-side.jpg", alt: "Fenton yurt interior from the side — wood burner and beds" },
       { src: "/images/fenton-yurt/fenton-woodburner.jpg", alt: "High-end wood burner inside Fenton yurt" },
@@ -632,7 +639,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
     stats: { guests: 4, bedrooms: 1, bathrooms: 1, dogs: "Yes" },
     amenities: [
       "High-end wood burner",
-      "Kingsize + 2 singles",
+      "Super-king + 2 singles",
       "Luxury linen & towels",
       "Private kitchen & diner",
       "Private bathroom cabin",
@@ -664,7 +671,7 @@ export const PROPERTY_CONTENT: Record<string, PropertyPageData> = {
         title: "Inside the yurt",
         items: [
           "Authentic hand-crafted Mongolian yurt — insulated for year-round stays",
-          "Kingsize bed plus two singles, all made up on arrival",
+          "Super-king bed plus two singles, all made up on arrival",
           "Luxury bed linen and soft white towels included",
           "High-end wood burner — cosy even in the depths of winter (logs included)",
           "Two rechargeable lamps provided",

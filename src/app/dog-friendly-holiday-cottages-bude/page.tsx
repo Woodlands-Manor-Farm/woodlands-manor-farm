@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+import { DOG_POLICY } from "@/lib/constants/dog-policy";
 import {
   CtaStrip,
   InfoCardGrid,
@@ -30,12 +31,12 @@ const BAILEY_PHOTOS = [
 export const metadata: Metadata = {
   title: "Dog Friendly Holiday Cottages in Bude, Cornwall",
   description:
-    "Dog friendly holiday cottages and glamping yurts in Bude, North Cornwall. All nine properties welcome well-behaved dogs — 15 acres of off-lead woodland, an open meadow, dog-friendly beaches at Sandymouth and Duckpool, and dog-friendly pubs nearby. £25 per dog.",
+    `Seven dog-friendly cottages and two yurts in Bude, Cornwall. Woodland walks and nearby beaches. ${DOG_POLICY.charge}; more than two dogs by prior agreement.`,
   alternates: { canonical: "/dog-friendly-holiday-cottages-bude/" },
   openGraph: {
     title: "Dog Friendly Holiday Cottages in Bude, Cornwall — Woodlands Manor Farm",
     description:
-      "All nine cottages and yurts welcome well-behaved dogs. 15 acres of off-lead woodland, open meadow, and dog-friendly beaches on the doorstep.",
+      `Seven cottages and two yurts welcome well-behaved dogs. ${DOG_POLICY.charge}. ${DOG_POLICY.additionalDogs} Woodland walks on leads and dog-friendly beaches nearby.`,
     images: ["/images/farm/bluebell-woodland.jpg"],
   },
 };
@@ -45,7 +46,7 @@ export default function DogFriendlyPage() {
     <>
       <InfoHero
         image="/images/farm/bluebell-woodland.jpg"
-        alt="Bluebell woodland walk at Woodlands Manor Farm — 15 acres of off-lead dog walking"
+        alt="Bluebell woodland walk at Woodlands Manor Farm — explore with your dog on a lead"
         eyebrow="Woodlands Manor Farm · Bude, Cornwall"
         title={
           <>
@@ -61,11 +62,11 @@ export default function DogFriendlyPage() {
           A farm holiday your dog will <em>never forget</em>
         </h2>
         <p className={styles.sectionBody}>
-          All nine of our holiday cottages and both glamping yurts welcome well-behaved dogs, for
-          just an additional £25 per dog per stay. Our own Bernedoodle, Bailey, will tell you
-          there&rsquo;s no better place to be a dog: fifteen acres of ancient woodland to explore
-          off the lead, an open meadow for zoomies, and some of Cornwall&rsquo;s best dog-friendly
-          beaches ten minutes down the road.
+          All seven of our holiday cottages and both glamping yurts welcome well-behaved dogs,
+          for {DOG_POLICY.charge}. {DOG_POLICY.additionalDogs} Our own Bernedoodle, Bailey,
+          will tell you there&rsquo;s plenty to explore: fifteen acres of ancient woodland,
+          an open meadow and some of Cornwall&rsquo;s best dog-friendly beaches ten minutes
+          down the road. {DOG_POLICY.leads}
         </p>
 
         <div
@@ -108,18 +109,18 @@ export default function DogFriendlyPage() {
           Bailey, our Bernedoodle — chief woodland officer.
         </p>
 
-        <h3 className={styles.subHeading}>Room to run</h3>
+        <h3 className={styles.subHeading}>Places to explore</h3>
         <InfoCardGrid
           cards={[
             {
               icon: "🌳",
-              title: "15-acre woodland — off lead",
-              body: "Our ancient bluebell woodland is yours to explore, and dogs can run free. Carpeted in bluebells through April and May, sniff-heaven all year round.",
+              title: "15-acre woodland — on lead",
+              body: "Explore our ancient woodland with your dog on a lead. Carpeted in bluebells through April and May, there is plenty to sniff all year round.",
             },
             {
               icon: "🌾",
-              title: "Open meadow — off lead",
-              body: "A big open meadow where dogs can go off the lead and properly stretch their legs, morning and evening.",
+              title: "Open meadow — on lead",
+              body: "A big open meadow for a morning or evening walk with your dog. Please keep them on a lead as you explore.",
               variant: "violet",
             },
             {
@@ -171,9 +172,9 @@ export default function DogFriendlyPage() {
         <h3 className={styles.subHeading}>The house rules</h3>
         <p style={{ fontSize: 14, color: "var(--color-text-mid)", lineHeight: 1.85, fontWeight: 300 }}>
           A few simple things so every guest — two- and four-legged — has a great stay. Please
-          bring your dog&rsquo;s own bed and bowls, plus blankets to cover any furniture they like
-          to sit on. Dogs aren&rsquo;t allowed in the bedrooms or on the beds. Full details are on
-          our dog rules page below, or just ask — we&rsquo;re dog people, we get it.
+          bring your dog&rsquo;s own bed and bowls. {DOG_POLICY.indoors} {DOG_POLICY.leads}{" "}
+          {DOG_POLICY.additionalDogs} Full details are on our dog rules page below, or just ask
+          — we&rsquo;re dog people, we get it.
         </p>
         <div style={{ marginTop: 22 }}>
           <Link

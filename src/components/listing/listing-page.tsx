@@ -2,6 +2,7 @@ import Image from "next/image";
 import styles from "./listing.module.css";
 import { PropertyCard, type PropertyCardData } from "./property-card";
 import { SITE } from "@/lib/constants/seo";
+import { CAMP_BED_NOTE, TOTAL_GUEST_CAPACITY } from "@/lib/constants/properties";
 
 export type ListingPageProps = {
   hero: {
@@ -111,8 +112,9 @@ export function ListingPage({
             </h2>
             <p className={styles.groupText}>
               Book multiple cottages together for reunions, milestone birthdays, hen parties or
-              family holidays. All nine properties sleeping up to 44 guests can be reserved
-              exclusively — with the pool, games room and farm all to yourselves.
+              family holidays. All seven cottages and two yurts sleeping up to {TOTAL_GUEST_CAPACITY}{" "}
+              guests can be reserved exclusively — with the pool, games room and farm all to
+              yourselves. {CAMP_BED_NOTE}
             </p>
             <div className={styles.groupCtas}>
               <a href={`tel:${SITE.contact.phone}`} className={styles.btnPrimary}>
@@ -125,9 +127,9 @@ export function ListingPage({
           </div>
           <div className={styles.gcGrid}>
             <div className={styles.gcTile}>
-              <div className={styles.gcNum}>44</div>
-              <div className={styles.gcLabel}>Max guests</div>
-              <div className={styles.gcDesc}>All nine properties combined</div>
+              <div className={styles.gcNum}>{TOTAL_GUEST_CAPACITY}</div>
+              <div className={styles.gcLabel}>Guests</div>
+              <div className={styles.gcDesc}>Camp beds by prior agreement</div>
             </div>
             <div className={styles.gcTile}>
               <div className={styles.gcNum}>9</div>
