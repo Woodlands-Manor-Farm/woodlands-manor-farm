@@ -4,7 +4,7 @@ slug: "top-holiday-ideas-bude"
 date: "2024-05-02T12:34:09+00:00"
 author: "Ruth Peters"
 excerpt: "Family Holiday Cottages North Cornwall Holiday Ideas for Woodlands Manor Farm – Bude  The Summer holiday season will be here before you know it, so here are a few of our favorite things to do when staying at Woodlands Manor Farm,  Bude. Hope you have fun making a short list! Walking We are extremely lucky…"
-feature_image: "/images/blog/top-holiday-ideas-bude/bda3c0d2434e.png"
+feature_image: "/images/blog/top-holiday-ideas-bude/bda3c0d2434e.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/top-holiday-ideas-bude/"
 ---
 ## Family Holiday Cottages North Cornwall

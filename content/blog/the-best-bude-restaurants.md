@@ -87,7 +87,7 @@ This stunning countryside pub in Woolfardisworthy, 11 miles north of us, is defi
 
 ### The Preston Gate Inn
 
-![The Preston Gate Inn Bude ](/images/blog/the-best-bude-restaurants/116dbb48ccd9.png)
+![The Preston Gate Inn Bude ](/images/blog/the-best-bude-restaurants/116dbb48ccd9.webp)
 
 The Preston Gate Inn
 
@@ -95,7 +95,7 @@ The Preston Gate Inn
 
 ### The Bush Pub 
 
-![The Bush Inn, Great Pub Food ](/images/blog/the-best-bude-restaurants/7c1bf043b9e8.png)
+![The Bush Inn, Great Pub Food ](/images/blog/the-best-bude-restaurants/7c1bf043b9e8.webp)
 
 The Bush Inn, Great Pub Food
 
@@ -105,7 +105,7 @@ The Bush Inn is a 13th Century free house in the beautiful parish of Morwenstow
 
 ### The Rectory Tea Rooms
 
-![The Rectory Tea Rooms ](/images/blog/the-best-bude-restaurants/6847c485a17a.png)
+![The Rectory Tea Rooms ](/images/blog/the-best-bude-restaurants/6847c485a17a.webp)
 
 The Rectory Tea Rooms
 
@@ -117,7 +117,7 @@ Featured in the Cornwall Today Magazine, The Independent, and as one of the Top 
 
 ### Rosies Kitchen
 
-![Rosies Kitchen](/images/blog/the-best-bude-restaurants/25fbe1b5e7d7.png)
+![Rosies Kitchen](/images/blog/the-best-bude-restaurants/25fbe1b5e7d7.webp)
 
 Rosies Kitchen
 
@@ -169,7 +169,7 @@ Ben, Electric Bakery
 
 ### Potters Fish N Things
 
-![Potters Fish N Things ](/images/blog/the-best-bude-restaurants/0f4a0f6540be.png)
+![Potters Fish N Things ](/images/blog/the-best-bude-restaurants/0f4a0f6540be.webp)
 
 Potters Fish N Things
 

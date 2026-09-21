@@ -70,7 +70,7 @@ Clear your head and fill your lungs with fresh sea air. Top routes:
 
 **Tip:** Check out these [Bude walks](https://www.visitbude.info/visit/walks-guides/) and dress in layers and check tides. Great post-lunch or pre-dinner activity.
 
-![South West Coastal Path, family friendly holiday activity](/images/blog/christmas-in-bude-2025/c1f383ad9447.jpg)
+![South West Coastal Path, family friendly holiday activity](/images/blog/christmas-in-bude-2025/c1f383ad9447.webp)
 
 ### 6\. Late Night Shopping & Christmas Dining
 
@@ -91,7 +91,7 @@ Just a short drive away in North Devon, the **[RHS Glow event](https://www.rhs.o
 
 **Tip:** Evening event. Dress warmly and book tickets in advance.
 
-![RHS Garden Rosemoor Glow Christmas lights](/images/blog/christmas-in-bude-2025/f8f58de5cf19.jpg) ![RHS Garden Rosemoor Glow Christmas lights](/images/blog/christmas-in-bude-2025/72a51562a138.jpg)
+![RHS Garden Rosemoor Glow Christmas lights](/images/blog/christmas-in-bude-2025/f8f58de5cf19.webp) ![RHS Garden Rosemoor Glow Christmas lights](/images/blog/christmas-in-bude-2025/72a51562a138.jpg)
 
 ### 8\. Crackington Haven Christmas Market
 

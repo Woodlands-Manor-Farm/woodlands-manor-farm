@@ -30,7 +30,7 @@ In addition to the beach itself, the surrounding area of Bude offers plenty to e
 
 #### [Crooklets Beach](https://www.visitbude.info/beaches/crooklets-beach/)
 
-![Crooklets Beach](/images/blog/summerleaze-beach-top-20-uk-beach-l/0d8dfd72e1b3.png)
+![Crooklets Beach](/images/blog/summerleaze-beach-top-20-uk-beach-l/0d8dfd72e1b3.webp)
 
 Crooklets Beach
 
@@ -46,7 +46,7 @@ Located a few miles north of Bude and a local beach to [Woodlands Manor Farm,](/
 
 [Duckpool Beach](https://www.nationaltrust.org.uk/visit/cornwall/duckpool)
 
-![Duckpool Beach, Near Woodlands Manor Farm](/images/blog/summerleaze-beach-top-20-uk-beach-l/f3b7848b40da.png)
+![Duckpool Beach, Near Woodlands Manor Farm](/images/blog/summerleaze-beach-top-20-uk-beach-l/f3b7848b40da.webp)
 
 Duckpool Beach, Near Woodlands Manor Farm
 
@@ -54,7 +54,7 @@ Duckpool Beach, Near Woodlands Manor Farm
 
 #### [Widemouth Bay](https://www.visitcornwall.com/things-to-do/beaches/widemouth-bay-beach)
 
-![Widemouth Bay seaview from cliff](/images/blog/summerleaze-beach-top-20-uk-beach-l/dc6b3ee1acb3.png)
+![Widemouth Bay seaview from cliff](/images/blog/summerleaze-beach-top-20-uk-beach-l/dc6b3ee1acb3.webp)
 
 Widemouth Bay seaview from cliff
 
@@ -62,7 +62,7 @@ A popular destination for both locals and tourists, Widemouth Bay lies just sout
 
 #### [Northcott Mouth](https://www.nationaltrust.org.uk/visit/cornwall/northcott-mouth)
 
-![Northcott Beach](/images/blog/summerleaze-beach-top-20-uk-beach-l/bda3c0d2434e.png)
+![Northcott Beach](/images/blog/summerleaze-beach-top-20-uk-beach-l/bda3c0d2434e.webp)
 
 Northcott Beach
 

@@ -4,7 +4,7 @@ slug: "sea-fishing-with-alastair-james-charters"
 date: "2025-04-15T20:35:15+00:00"
 author: "ruth"
 excerpt: "Experience the thrill of sea fishing in Devon and Cornwall with Alastair James Charters. Book your fishing adventure today!"
-feature_image: "/images/blog/sea-fishing-with-alastair-james-charters/5e254c0fd76b.png"
+feature_image: "/images/blog/sea-fishing-with-alastair-james-charters/5e254c0fd76b.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/sea-fishing-with-alastair-james-charters/"
 ---
 ## Sea Fishing with Alastair James Charters

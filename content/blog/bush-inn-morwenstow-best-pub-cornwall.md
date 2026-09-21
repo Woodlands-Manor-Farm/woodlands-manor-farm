@@ -4,7 +4,7 @@ slug: "bush-inn-morwenstow-best-pub-cornwall"
 date: "2025-04-25T09:24:01+00:00"
 author: "ruth"
 excerpt: "The Bush Inn in Morwenstow, Bude —ranked #2 in Cornwall’s best pubs. Enjoy great food, sea views, live music, and local charm during your stay."
-feature_image: "/images/blog/bush-inn-morwenstow-best-pub-cornwall/7c1bf043b9e8.png"
+feature_image: "/images/blog/bush-inn-morwenstow-best-pub-cornwall/7c1bf043b9e8.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/bush-inn-morwenstow-best-pub-cornwall/"
 ---
 ## The Bush Inn Ranked #2 in Cornwall's Best Pubs
