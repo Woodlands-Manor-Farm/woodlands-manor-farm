@@ -54,6 +54,7 @@ export function NewsletterForm({
 }) {
   const [status, setStatus] = useState<Status>("idle");
   const [message, setMessage] = useState("");
+  const [marketing, setMarketing] = useState(false);
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -71,6 +72,14 @@ export function NewsletterForm({
       return;
     }
 
+    // Explicit marketing consent is required — without the ticked box we send
+    // nothing, so the contact is never added to the marketing list.
+    if (!marketing) {
+      setStatus("error");
+      setMessage("Please tick the box to confirm you'd like to receive our emails.");
+      return;
+    }
+
     // Field names for both providers: Mailchimp reads EMAIL/FNAME,
     // Brevo reads EMAIL/FIRSTNAME; each ignores the other's extras.
     // email_address_check is Brevo's honeypot — must be sent empty.
@@ -80,6 +89,9 @@ export function NewsletterForm({
       FIRSTNAME: firstName,
       email,
       email_address_check: "",
+      // Records the marketing opt-in with Brevo (map this to the consent
+      // field on the Brevo form so it drives list subscription).
+      OPT_IN: "1",
       locale: "en",
     });
 
@@ -176,6 +188,27 @@ export function NewsletterForm({
           className={inputClasses}
         />
       </div>
+      <label
+        className={clsx(
+          "flex cursor-pointer items-start gap-2.5 text-[13px] font-light leading-5",
+          popup ? "text-[var(--color-text-mid)]" : "text-[rgba(247,243,238,0.85)]",
+        )}
+      >
+        <input
+          type="checkbox"
+          name="marketingConsent"
+          checked={marketing}
+          onChange={(e) => {
+            setMarketing(e.target.checked);
+            if (status === "error") setStatus("idle");
+          }}
+          className={clsx(
+            "mt-0.5 h-4 w-4 shrink-0",
+            popup ? "accent-[var(--color-deep-green)]" : "accent-[var(--color-violet)]",
+          )}
+        />
+        <span>I&rsquo;d like to receive occasional emails about offers and news</span>
+      </label>
       <button
         type="submit"
         disabled={status === "sending"}
