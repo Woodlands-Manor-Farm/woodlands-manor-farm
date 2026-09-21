@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { AboutSubnav, CtaStrip, InfoHero, infoStyles as styles } from "@/components/info/info-shell";
 
 type Place = {
@@ -37,6 +38,13 @@ const BEACHES: Place[] = [
     directions:
       "Turn right out of our driveway back along the lane and turn left onto the A39 towards Bideford. About 3 miles along, a brown tourist sign directs you left down a lane to Welcombe Mouth — keep following the signs for about 2 miles.",
   },
+  {
+    name: "Crackington Haven",
+    meta: "≈ 10 miles · Dramatic cliffs · Beach café & inn",
+    body: "A hidden gem tucked into the North Cornwall coast, framed by some of the highest cliffs in Cornwall and known for its rugged, dramatic beauty. Sand and rock pools appear at low tide, with the coast path climbing spectacularly away on either side. The Coombe Barton Inn and the Haven Beach Café both serve excellent food — including some of the best crab sandwiches around.",
+    directions:
+      "Turn right out of our driveway back along the lane to the A39. Turn right and follow the A39 south for about 10 miles, then take the signposted turning for Crackington Haven and follow the lane down to the cove.",
+  },
 ];
 
 const WALKS: Place[] = [
@@ -74,6 +82,13 @@ const WALKS: Place[] = [
     body: "An easy, mostly-flat walk along the canal path, with a café and wildlife centre at the far end for the obligatory cup of tea and slice of cake. To make it a circular walk, follow the sign along the canal to the Widemouth Bay coastal path via the community woodlands, then at Widemouth turn right along the coast road following signs back into Bude. We have a copy of this walk in the office.",
     directions:
       "Park in the Visitor Centre pay & display car park, then head inland to the right of the Visitor Centre along the canal path.",
+  },
+  {
+    name: "South West Coast Path",
+    meta: "Nearest access ≈ 2 miles · National trail",
+    body: "The 630-mile South West Coast Path passes just a couple of miles from the farm, and the stretch between Hartland Point and Bude is among the most spectacular in all of England — dramatic sea stacks, hidden coves, waterfalls and clifftop views the whole way. Walk as much or as little as you like, from a short there-and-back along the cliffs to a full day’s coastal hike.",
+    directions:
+      "Our nearest access is at Duckpool (see above): turn left out of our driveway and take the second left, signposted Coombe Valley, following the road down to the beach. You can also join the path at Sandymouth, Crooklets or Summerleaze in Bude. The cliffs are steep and unfenced in places, so wear sturdy footwear and take care near the edge.",
   },
 ];
 
@@ -173,7 +188,16 @@ export default function Page() {
         </h2>
         <p className={styles.sectionBody}>
           From our nearest wild inlet at Duckpool to the golden family sands of Sandymouth, some of
-          the best of the North Cornwall coast is within a few miles of the farm.
+          the best of the North Cornwall coast is within a few miles of the farm. Further afield,
+          explore our favourite{" "}
+          <Link href="/local-towns-and-villages-near-bude/" className={styles.inlineLink}>
+            local towns &amp; villages
+          </Link>{" "}
+          and{" "}
+          <Link href="/things-to-do-in-bude/" className={styles.inlineLink}>
+            days out &amp; attractions
+          </Link>
+          .
         </p>
         <PlaceList places={BEACHES} />
 

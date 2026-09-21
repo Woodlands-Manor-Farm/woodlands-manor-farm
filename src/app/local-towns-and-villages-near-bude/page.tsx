@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { AboutSubnav, CtaStrip, InfoHero, infoStyles as styles } from "@/components/info/info-shell";
 
 type Place = {
@@ -164,7 +165,15 @@ export default function Page() {
         <p className={styles.sectionBody}>
           North Cornwall and the north Devon border are dotted with characterful towns and unspoilt
           fishing villages, from Rick Stein’s Padstow to the cobbled lanes of Clovelly — most within
-          an easy drive of Woodlands.
+          an easy drive of Woodlands. For the coast on our doorstep, see our{" "}
+          <Link href="/beaches-and-walks-near-bude/" className={styles.inlineLink}>
+            beaches &amp; walks
+          </Link>{" "}
+          guide; for family days out,{" "}
+          <Link href="/things-to-do-in-bude/" className={styles.inlineLink}>
+            things to do around Bude
+          </Link>
+          .
         </p>
         <PlaceList places={TOWNS} />
       </div>

@@ -140,6 +140,17 @@
   max-width: 700px;
 }
 
+.inlineLink {
+  color: var(--color-violet);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-weight: 400;
+}
+
+.inlineLink:hover {
+  text-decoration: none;
+}
+
 .subHeading {
   font-family: var(--font-serif);
   font-size: 22px;
