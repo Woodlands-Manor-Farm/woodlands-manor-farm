@@ -1,7 +1,6 @@
 // Live Google reviews via the Places API (New), fetched server-side.
 // The response is cached at Cloudflare's edge for 24h (Workers Cache API)
-// so Google is called at most about once a day per location — well inside
-// the free tier. Every failure path returns null so the page falls back to
+// and refreshed on demand. Every failure path returns null so the page falls back to
 // curated content and never breaks.
 
 export type GoogleReview = {
@@ -12,6 +11,9 @@ export type GoogleReview = {
   publishTime: string;
   initial: string;
   color: string;
+  photoUrl?: string;
+  profileUrl?: string;
+  reviewUrl?: string;
 };
 
 export type GoogleData = {
@@ -38,24 +40,37 @@ type PlacesJson = {
       originalText?: { text?: string };
       relativePublishTimeDescription?: string;
       publishTime?: string;
-      authorAttribution?: { displayName?: string };
+      googleMapsUri?: string;
+      authorAttribution?: { displayName?: string; photoUri?: string; uri?: string };
     }>;
   }>;
 };
 
-function parse(json: PlacesJson): GoogleData | null {
+function httpsUrl(value?: string): string | undefined {
+  if (!value) return undefined;
+  try {
+    const url = new URL(value);
+    return url.protocol === "https:" && !url.username && !url.password ? url.href : undefined;
+  } catch { return undefined; }
+}
+
+export function parseGoogleReviews(json: PlacesJson): GoogleData | null {
   const place = json.places?.[0];
-  if (!place) return null;
+  if (!place || !Number.isFinite(place.rating) || place.rating! < 1 || place.rating! > 5 ||
+    !Number.isSafeInteger(place.userRatingCount) || place.userRatingCount! < 0) return null;
   const reviews: GoogleReview[] = (place.reviews ?? []).map((r) => {
     const name = r.authorAttribution?.displayName?.trim() || "Google guest";
     return {
       name,
-      rating: r.rating ?? 5,
+      rating: Number.isFinite(r.rating) && r.rating! >= 1 && r.rating! <= 5 ? r.rating! : 0,
       text: r.text?.text ?? r.originalText?.text ?? "",
       relativeTime: r.relativePublishTimeDescription ?? "",
       publishTime: r.publishTime ?? "",
       initial: name.charAt(0).toUpperCase(),
       color: colorFor(name),
+      photoUrl: httpsUrl(r.authorAttribution?.photoUri),
+      profileUrl: httpsUrl(r.authorAttribution?.uri),
+      reviewUrl: httpsUrl(r.googleMapsUri),
     };
   })
     .filter((r) => r.text.length > 0)
@@ -64,8 +79,8 @@ function parse(json: PlacesJson): GoogleData | null {
     .sort((a, b) => (b.publishTime > a.publishTime ? 1 : b.publishTime < a.publishTime ? -1 : 0));
 
   return {
-    rating: place.rating ?? 4.9,
-    count: place.userRatingCount ?? 116,
+    rating: place.rating!,
+    count: place.userRatingCount!,
     reviews,
   };
 }
@@ -116,16 +131,40 @@ export async function getPlacesApiKey(): Promise<string | undefined> {
 
 export async function getGoogleReviews(): Promise<GoogleData | null> {
   const key = await getPlacesApiKey();
-  if (!key) return null;
+  if (!key) {
+    // Local development can use the deployed site's public feed, keeping the
+    // Google API key in Cloudflare. Never proxy in production (or back to self).
+    const origin = process.env.GOOGLE_REVIEWS_PREVIEW_ORIGIN;
+    if (process.env.NODE_ENV !== "development" || !origin) return null;
+    try {
+      const base = new URL(origin);
+      if (base.protocol !== "https:" || base.username || base.password) return null;
+      const url = new URL("/api/reviews/?view=all", base);
+      const res = await fetch(url, { signal: AbortSignal.timeout(8000), next: { revalidate: 300 } });
+      if (!res.ok) return null;
+      const data = await res.json() as GoogleData;
+      if (!Array.isArray(data.reviews)) return null;
+      return parseGoogleReviews({ places: [{
+        rating: data.rating, userRatingCount: data.count,
+        reviews: data.reviews.map(r => ({
+          rating: r.rating, text: { text: r.text }, publishTime: r.publishTime,
+          relativePublishTimeDescription: r.relativeTime, googleMapsUri: r.reviewUrl,
+          authorAttribution: { displayName: r.name, photoUri: r.photoUrl, uri: r.profileUrl },
+        })),
+      }] });
+    } catch {
+      return null;
+    }
+  }
 
-  const cacheKey = new Request("https://cache.internal/google-reviews-v1");
+  const cacheKey = new Request("https://cache.internal/google-reviews-v2-author-photos");
   // Cloudflare Workers edge cache (available at runtime on workerd).
   const edge = (globalThis as unknown as { caches?: { default?: Cache } }).caches?.default;
 
   try {
     if (edge) {
       const hit = await edge.match(cacheKey);
-      if (hit) return parse((await hit.json()) as PlacesJson);
+      if (hit) return parseGoogleReviews((await hit.json()) as PlacesJson);
     }
 
     const res = await fetch("https://places.googleapis.com/v1/places:searchText", {
@@ -134,8 +173,9 @@ export async function getGoogleReviews(): Promise<GoogleData | null> {
         "Content-Type": "application/json",
         "X-Goog-Api-Key": key,
         "X-Goog-FieldMask":
-          "places.displayName,places.rating,places.userRatingCount,places.reviews.rating,places.reviews.text,places.reviews.originalText,places.reviews.relativePublishTimeDescription,places.reviews.publishTime,places.reviews.authorAttribution",
+          "places.displayName,places.rating,places.userRatingCount,places.reviews.rating,places.reviews.text,places.reviews.originalText,places.reviews.relativePublishTimeDescription,places.reviews.publishTime,places.reviews.authorAttribution,places.reviews.googleMapsUri",
       },
+      signal: AbortSignal.timeout(8000),
       body: JSON.stringify({
         textQuery: "Woodlands Manor Farm, Woodford, Bude, Cornwall",
         languageCode: "en",
@@ -152,7 +192,7 @@ export async function getGoogleReviews(): Promise<GoogleData | null> {
         }),
       );
     }
-    return parse(json);
+    return parseGoogleReviews(json);
   } catch {
     return null;
   }

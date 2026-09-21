@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { SITE } from "@/lib/constants/seo";
 import { getGoogleReviews, pickRecentFiveStar } from "@/lib/google-reviews";
 
 // Recent 5-star Google reviews for the homepage "What guests are saying"
@@ -24,8 +25,16 @@ function tidy(text: string): string {
   return `${text.slice(0, 300).replace(/\s+\S*$/, "")}…`;
 }
 
-export async function GET() {
+export async function GET(request: Request) {
   const data = await getGoogleReviews();
+  // The complete public selection powers local previews without sharing the
+  // server's API key. The default response stays small for the homepage widget.
+  if (new URL(request.url).searchParams.get("view") === "all") {
+    return NextResponse.json(data, {
+      status: data ? 200 : 503,
+      headers: { "Cache-Control": data ? "public, max-age=300, s-maxage=86400" : "no-store" },
+    });
+  }
   const picks = data ? pickRecentFiveStar(data.reviews, { months: 6, limit: 3 }) : [];
   const reviews = picks.map((r) => {
     const my = monthYear(r.publishTime);
@@ -33,7 +42,11 @@ export async function GET() {
       text: tidy(r.text),
       initials: initialsFor(r.name),
       name: r.name,
-      unit: my ? `Google · ${my}` : "Google",
+      unit: my ? `Google Maps · ${my}` : "Google Maps",
+      photoUrl: r.photoUrl,
+      profileUrl: r.profileUrl,
+      reviewUrl: r.reviewUrl || r.profileUrl || SITE.contact.googleMapsUrl,
+      color: r.color,
     };
   });
   return NextResponse.json(

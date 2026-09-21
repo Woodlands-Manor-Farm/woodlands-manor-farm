@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { ReviewerAvatar } from "@/components/reviews/reviewer-avatar";
 import styles from "@/app/page.module.css";
 
 export type HomeReview = {
@@ -8,6 +9,10 @@ export type HomeReview = {
   initials: string;
   name: string;
   unit: string;
+  photoUrl?: string;
+  profileUrl?: string;
+  reviewUrl?: string;
+  color?: string;
 };
 
 // Renders the homepage "What guests are saying" cards. The server passes a
@@ -45,10 +50,10 @@ export function GuestReviews({ fallback }: { fallback: HomeReview[] }) {
         <div key={`${r.name}-${r.unit}`} className={styles.reviewCard}>
           <p className={styles.reviewText}>{r.text}</p>
           <div className={styles.reviewAuthor}>
-            <div className={styles.reviewAvatar}>{r.initials}</div>
+            <ReviewerAvatar name={r.name} photoUrl={r.photoUrl} color={r.color || "#6a8478"} size={40} />
             <div>
-              <div className={styles.reviewName}>{r.name}</div>
-              <div className={styles.reviewUnit}>{r.unit}</div>
+              <div className={styles.reviewName}>{r.profileUrl ? <a href={r.profileUrl} target="_blank" rel="noreferrer">{r.name}</a> : r.name}</div>
+              <div className={styles.reviewUnit}>{r.reviewUrl ? <a href={r.reviewUrl} target="_blank" rel="noreferrer">{r.unit} ↗</a> : r.unit}</div>
             </div>
           </div>
         </div>
