@@ -45,6 +45,12 @@ const EXTRAS = [
     body: "If you would like to have a lovely meal ready for your arrival or have a special event and would rather rely on the expertise of an outside caterer, we have an excellent private chef called Nicky who will deliver to your cottage.",
     detail: "Book direct with Nicky",
     link: { href: "/menus/private-chef-menu.pdf", label: "View Nicky's sample menu (PDF)" },
+    bookDirect: {
+      name: "Nicky",
+      phone: "07831155279",
+      phoneDisplay: "07831 155279",
+      email: "nickyvereker@btinternet.com",
+    },
   },
   {
     img: "/images/the-coach-house/coach-lounge-kitchen.jpg",
@@ -70,6 +76,12 @@ const EXTRAS = [
     body: "Why not treat yourself or your partner to a bit of pampering during your stay with us? We have a qualified therapist called Leanne who offers a wide range of treatments. She can carry out the treatments in the comfort of your own cottage.",
     detail: "Book direct with Leanne",
     link: { href: "/menus/spa-treatments-menu.pdf", label: "View the treatments menu (PDF)" },
+    bookDirect: {
+      name: "Leanne",
+      phone: "07870150298",
+      phoneDisplay: "07870 150298",
+      email: "KirkhamLeanne@yahoo.co.uk",
+    },
   },
   {
     img: "/images/farm/playing-field-slide.jpg",
@@ -157,6 +169,22 @@ export default function Page() {
                       style={{ color: "var(--color-violet)", textDecoration: "none", fontWeight: 500 }}
                     >
                       Email us to arrange →
+                    </a>
+                  ) : null}
+                  {e.bookDirect?.phone ? (
+                    <a
+                      href={`tel:${e.bookDirect.phone}`}
+                      style={{ color: "var(--color-violet)", textDecoration: "none", fontWeight: 500 }}
+                    >
+                      Call {e.bookDirect.name} · {e.bookDirect.phoneDisplay} →
+                    </a>
+                  ) : null}
+                  {e.bookDirect?.email ? (
+                    <a
+                      href={`mailto:${e.bookDirect.email}`}
+                      style={{ color: "var(--color-violet)", textDecoration: "none", fontWeight: 500 }}
+                    >
+                      Email {e.bookDirect.name} →
                     </a>
                   ) : null}
                 </div>
