@@ -23,7 +23,7 @@ const INTRO_TILES = [
     title: "Feed the Animals",
     body: "Get hands-on with our farm animals — a magical moment for children of all ages",
     objectPosition: "center 30%",
-    href: "/the-animals-at-woodlands/",
+    href: "/on-the-farm/",
   },
   {
     src: "/images/home/e76061d989fd39c9.jpg",
