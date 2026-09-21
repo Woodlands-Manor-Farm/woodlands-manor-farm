@@ -32,7 +32,10 @@ const EXTRAS = [
     type: "Pre-order",
     name: "Breakfast hamper",
     body: "Local sourdough, free-range eggs, smoked bacon and a pint of fresh milk delivered for your first morning — £18 for two, £30 for four.",
-    detail: "£18 for two · £30 for four",
+    link: {
+      href: "mailto:enquiries@woodlandsmanorfarm.co.uk?subject=Breakfast%20hamper",
+      label: "Email us to arrange delivery",
+    },
   },
   {
     img: "/images/the-manor-house/manor-dining-room.jpg",
