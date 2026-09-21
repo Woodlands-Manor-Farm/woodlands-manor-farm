@@ -114,14 +114,10 @@ export default function Page() {
         </h2>
         <p className={styles.sectionBody}>
           Woodlands is perfectly located on the North Cornwall / North Devon border, within easy
-          reach of England&rsquo;s finest coastline, gardens and family attractions. For the coast
-          itself, see our guide to{" "}
+          reach of England&rsquo;s finest coastline, gardens and family attractions. For beaches,
+          coast-path walks and characterful towns and villages, see our guide to{" "}
           <Link href="/beaches-and-walks-near-bude/" className={styles.inlineLink}>
-            local beaches &amp; walks
-          </Link>
-          ; for characterful places to explore, our{" "}
-          <Link href="/local-towns-and-villages-near-bude/" className={styles.inlineLink}>
-            local towns &amp; villages
+            exploring the area
           </Link>
           . Below are Andy and Ruth&rsquo;s personal picks for days out and attractions.
         </p>

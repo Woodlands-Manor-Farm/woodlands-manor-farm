@@ -22,6 +22,9 @@ const LEGACY_REDIRECTS: { source: string; destination: string }[] = [
   { source: "/yurts-devon", destination: "/yurts/" },
   { source: "/local-bude-restaurants", destination: "/the-best-bude-restaurants/" },
   { source: "/book-direct", destination: "/holiday-cottage-direct-booking-woodlands-cornwall/" },
+  // Merged About pages -> the page that now holds their content
+  { source: "/the-animals-at-woodlands", destination: "/on-the-farm/" },
+  { source: "/local-towns-and-villages-near-bude", destination: "/beaches-and-walks-near-bude/" },
   // Removed section pages -> closest live page
   { source: "/woodlands-manor-farm-local-beaches", destination: "/beaches-and-walks-near-bude/" },
   { source: "/local-surf-schools-bude", destination: "/things-to-do-in-bude/" },

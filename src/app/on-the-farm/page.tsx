@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import Image from "next/image";
+import Link from "next/link";
 import {
   AboutSubnav,
   CtaStrip,
@@ -6,6 +8,76 @@ import {
   InfoHero,
   infoStyles as styles,
 } from "@/components/info/info-shell";
+import { FarmVideo } from "@/components/ui/farm-video";
+
+const ANIMALS = [
+  {
+    name: "Wilma",
+    species: "Fell Pony",
+    bio: "The head of the herd — a beautiful Fell pony who keeps the whole herd in order, yet kindly looks out for little Lulu, her best friend.",
+    img: "/images/animals/wilma-fell-pony.jpg",
+  },
+  {
+    name: "Lulu",
+    species: "Mini Shetland Pony",
+    bio: "The kindest, sweetest mini pony you will ever meet. She never tires of meeting little people, loves to be groomed and made a fuss of. Lulu loves the summer season — she particularly enjoys the pony experience sessions, where she gets to be made extremely beautiful and go on walks with the children.",
+    img: "/images/farm/lulu-pony.jpg",
+  },
+  {
+    name: "Merlin",
+    species: "Welsh Cob",
+    bio: "The elder statesman of the herd, but very much a youngster at heart. A lovely boy, but can be a little grumpy if not fed first or given the respect he deserves, or his daily hay. His favourite pastime is galloping through fields — that is when he is at his happiest.",
+    img: "/images/animals/merlin-welsh-cob.jpg",
+  },
+  {
+    name: "Lady",
+    species: "Pony",
+    bio: "One of our much-loved ponies — gentle, steady and always happy to say hello on the Feed the Animals tour with Ruth.",
+    img: "/images/animals/lady-pony.jpg",
+  },
+  {
+    name: "Zap & Sparky",
+    species: "Pygmy Goats",
+    bio: "Often seen playing chase in the field. They love the feed the animals routine with guests, where they get lots of fuss and are fed by hand. Pure entertainment — watch them tackle the adventure course with treats for motivation.",
+    img: "/images/farm/feeding-goats.jpg",
+  },
+  {
+    name: "Napoleon, Henry & Erebus",
+    species: "Alpacas",
+    bio: "The three amigos — the most inquisitive animals on the farm. Napoleon is a Suri Alpaca with a beautiful dreadlock fleece. Erebus and Henry are Huacaya Alpacas who look like massive teddy bears. They love carrots (finely cut — only bottom teeth!) and will come over to say hello to everyone.",
+    img: "/images/animals/alpacas-woodlands.jpg",
+  },
+  {
+    name: "Lucas & Layla",
+    species: "Kune Kune Pigs",
+    bio: "Brother and sister — firm favourites on the feed the animals rounds. Playful, kind and love a tummy tickle or a mud bath in summer. Lucas is very good at escaping his pen to find longer grass, while Layla stays behind and enjoys the peace and quiet.",
+    img: "/images/farm/feeding-pigs.jpg",
+  },
+  {
+    name: "Cutie Pie, Z, Twinkle & Rosario",
+    species: "Sheep",
+    bio: "Rosario is a survivor — hand-reared after a difficult birth and now more like a dog than a sheep. Cutie Pie was the cutest of the 2022 lambs. Z has always been the odd one out — we love her for it.",
+    img: "/images/farm/feeding-sheep.jpg",
+  },
+  {
+    name: "Ralf & Molly",
+    species: "Rabbits",
+    bio: "Ralf is a Mini Lop and Molly is a Lion Lop. Best of friends who sleep curled around one another. We are convinced Ralf is the brother of Peter Rabbit — he loves carrots and is constantly plotting an escape into the allotment.",
+    img: "/images/animals/ralf-molly-rabbits.jpg",
+  },
+  {
+    name: "Growler",
+    species: "Farm Cat — Chief Ratter",
+    bio: "Growler adopted us in 2022, making his way over from a nearby farm. Spoilt rotten ever since. Loves his status as chief ratter but most of all loves fuss and sitting on people's laps. Very happy indeed.",
+    img: "/images/animals/growler-cat.jpg",
+  },
+  {
+    name: "Chick Chick",
+    species: "Chicken",
+    bio: "A true legend of the farm. Chick Chick does her rounds every single day, visiting all the other animals and pinching a little bit of food along the way — and she still rewards us with an amazing, lovely egg too.",
+    img: "/images/animals/chick-chick.jpg",
+  },
+];
 
 export const metadata: Metadata = {
   title: "Farm Holidays in Cornwall — Stay on a Real Cornish Farm",
@@ -83,12 +155,27 @@ export default function Page() {
 
         <h3 className={styles.subHeading}>A real farm holiday — meet the animals</h3>
         <p style={{ fontSize: 14, color: "var(--color-text-mid)", lineHeight: 1.85, fontWeight: 300 }}>
-          Woodlands is a farm that&rsquo;s home to ponies, alpacas, pygmy goats, pigs, sheep,
-          rabbits, chickens and Growler the farm cat. Ruth&rsquo;s Feed the Animals session is
-          free for every guest, twice a week — Sundays at 8.30am and Wednesdays at 8am. Can&rsquo;t
-          make those times? Just ask Ruth or Andy about joining an evening session when the
-          animals are put to bed — shorter, but you still get to meet everyone.
+          Woodlands is home to ponies, alpacas, pygmy goats, Kune Kune pigs, sheep, rabbits,
+          chickens and Growler the farm cat — every one with a name, a personality and a story.
+          Ruth&rsquo;s Feed the Animals session is free for every guest, twice a week — Sundays at
+          8.30am and Wednesdays at 8am. No booking needed; just turn up. Can&rsquo;t make those
+          times? Ask Ruth or Andy about joining an evening session when the animals are put to bed.
         </p>
+
+        <div className={styles.animalGrid}>
+          {ANIMALS.map((animal) => (
+            <div key={animal.name} className={styles.animalCard}>
+              <div className={styles.animalCardImg}>
+                <Image src={animal.img} alt={animal.name} fill sizes="(min-width: 900px) 33vw, 100vw" />
+              </div>
+              <div className={styles.animalCardBody}>
+                <div className={styles.animalName}>{animal.name}</div>
+                <div className={styles.animalSpecies}>{animal.species}</div>
+                <p className={styles.animalBio}>{animal.bio}</p>
+              </div>
+            </div>
+          ))}
+        </div>
 
         <h3 className={styles.subHeading}>Farm experiences, tailored to you</h3>
         <p style={{ fontSize: 14, color: "var(--color-text-mid)", lineHeight: 1.85, fontWeight: 300 }}>
@@ -96,10 +183,48 @@ export default function Page() {
           tailor around your family. The firm favourite is the Pony Experience: children learn
           how to look after a pony, do the grooming themselves, take a pony for a walk around the
           farm — and yes, the little ones usually dress Lulu up as a unicorn. Bring a camera.
-          Alpaca walking is another guest favourite. Ask when you book, or just have a word with
-          Ruth when you arrive.
+          Alpaca walking is another guest favourite.{" "}
+          <Link href="/experiences-weddings-events/" className={styles.inlineLink}>
+            See all our experiences
+          </Link>
+          , or just have a word with Ruth when you arrive.
         </p>
       </div>
+
+      <section style={{ background: "var(--color-deep-green)", padding: "64px 32px 80px" }}>
+        <div style={{ maxWidth: 1100, margin: "0 auto", paddingBottom: 28, textAlign: "center" }}>
+          <p
+            style={{
+              fontSize: 11,
+              letterSpacing: "0.22em",
+              textTransform: "uppercase",
+              color: "var(--color-cream)",
+              fontWeight: 500,
+              marginBottom: 10,
+            }}
+          >
+            A little preview
+          </p>
+          <h2
+            style={{
+              fontFamily: "var(--font-serif)",
+              fontSize: "clamp(22px, 2.6vw, 32px)",
+              color: "var(--color-cream)",
+              fontWeight: 400,
+            }}
+          >
+            See a Feed the Animals morning
+          </h2>
+        </div>
+        <FarmVideo
+          videoId="nypjKJONHBE"
+          start={8}
+          poster="/images/farm/feeding-goats.jpg"
+          posterAlt="Guests feeding the goats on the Feed the Animals tour at Woodlands Manor Farm"
+          title="Feed the Animals — Woodlands Manor Farm"
+          subtitle="Watch the preview"
+        />
+      </section>
 
       <CtaStrip
         title="See the farm for yourself"
