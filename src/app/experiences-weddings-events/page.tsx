@@ -31,8 +31,8 @@ const EXPERIENCES = [
     detail: "School holidays · From £35",
   },
   {
-    img: "/images/bude/summerleaze-summer-beach.jpg",
-    alt: "Surfers and beachgoers at Summerleaze beach, Bude",
+    img: "/images/bude/surf-lesson-bude.jpg",
+    alt: "Children learning to surf on the waves at Bude, Cornwall",
     type: "Adventure",
     name: "Surfing & Outdoor Adventure",
     body: "We will arrange the right instructors to fit your needs, private or larger groups, families or more experienced surfers. We have the local knowledge to ensure you have a fabulous time.",
