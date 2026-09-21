@@ -184,12 +184,13 @@ export default function Page() {
               <p>This website uses a small number of cookies:</p>
               <ul>
                 <li>
-                  Brevo Conversations (live chat) sets a functional cookie so your conversation
-                  persists as you move between pages or return to the site.
+                  Brevo Conversations (live chat) sets a functional cookie — only if you open the
+                  chat — so your conversation persists as you move between pages or return to the
+                  site.
                 </li>
                 <li>
-                  We do not run any advertising, retargeting, or marketing-analytics trackers on
-                  this site.
+                  We use Cloudflare Web Analytics for basic, privacy-friendly page-view
+                  statistics; this does not use cookies or track individuals.
                 </li>
               </ul>
             </>
