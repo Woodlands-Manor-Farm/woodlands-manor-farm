@@ -83,7 +83,7 @@ The Bude Literary Festival 2026 is all about slowing down and enjoying literatur
 -   Join free animal feeding on Wednesdays at 8am and Sundays at 8.30am — please book in advance
 -   Dog-friendly throughout — your four-legged companion is very welcome
 -   Peaceful woodland walks right on the doorstep when you need a quiet moment between events
--   Book direct with us for the best rates: 07887 944 161
+-   Book direct with us for the best rates: 07887 677 354
 
     **📌  PRACTICAL INFO**  
 
@@ -103,7 +103,7 @@ May is a wonderful time to visit Cornwall. The summer crowds haven’t arrived y
 
 **Availability in May fills up quickly, so if you’re thinking of coming for the festival, don’t leave it too long.**
 
- **📞 Call:** 07887 944 161
+ **📞 Call:** 07887 677 354
 
  **✉️ Email:** enquiries@woodlandsmanorfarm.co.uk
 
