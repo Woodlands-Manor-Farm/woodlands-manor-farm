@@ -30,24 +30,46 @@ const SLIDES = [
 
 export function HeroCarousel() {
   const [active, setActive] = useState(0);
+  // Only the first slide loads up front (it is the LCP image). The remaining
+  // slides mount once the browser is idle, so the homepage's initial payload
+  // is one hero image instead of four — a big mobile LCP/payload win.
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
     const t = setInterval(() => setActive((i) => (i + 1) % SLIDES.length), 6000);
     return () => clearInterval(t);
   }, []);
 
+  useEffect(() => {
+    const idle: (cb: () => void) => number =
+      "requestIdleCallback" in window
+        ? (cb) => (window as unknown as { requestIdleCallback: (cb: () => void, o?: object) => number }).requestIdleCallback(cb, { timeout: 2500 })
+        : (cb) => window.setTimeout(cb, 1500);
+    const id = idle(() => setMounted(true));
+    return () => {
+      if ("cancelIdleCallback" in window) {
+        (window as unknown as { cancelIdleCallback: (id: number) => void }).cancelIdleCallback(id);
+      } else {
+        clearTimeout(id);
+      }
+    };
+  }, []);
+
   return (
     <section className={styles.hero}>
       {SLIDES.map((slide, i) => (
         <div key={slide.src} className={cn(styles.slide, i === active && styles.slideActive)}>
-          <Image
-            src={slide.src}
-            alt={slide.alt}
-            fill
-            priority={i === 0}
-            sizes="100vw"
-            style={{ objectFit: "cover", objectPosition: "center 40%" }}
-          />
+          {i === 0 || mounted ? (
+            <Image
+              src={slide.src}
+              alt={slide.alt}
+              fill
+              priority={i === 0}
+              loading={i === 0 ? undefined : "lazy"}
+              sizes="100vw"
+              style={{ objectFit: "cover", objectPosition: "center 40%" }}
+            />
+          ) : null}
           <div className={styles.slideOverlay} />
         </div>
       ))}
