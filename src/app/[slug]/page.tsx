@@ -6,6 +6,7 @@ import { getAllPostSlugs, getAllPosts, getPostBySlug } from "@/lib/blog";
 import { BOOK_HREF } from "@/lib/constants/nav";
 import { SITE } from "@/lib/constants/seo";
 import { JsonLd } from "@/components/seo/json-ld";
+import { breadcrumbList } from "@/lib/breadcrumbs";
 import styles from "@/components/blog/blog.module.css";
 
 type Params = Promise<{ slug: string }>;
@@ -74,9 +75,16 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     mainEntityOfPage: `${SITE.url}/${post.slug}/`,
   };
 
+  const breadcrumbs = breadcrumbList([
+    { name: "Home", path: "/" },
+    { name: "News", path: "/news/" },
+    { name: post.title, path: `/${post.slug}/` },
+  ]);
+
   return (
     <>
       <JsonLd data={articleSchema} />
+      <JsonLd data={breadcrumbs} />
       <header className={styles.hero}>
         {post.featureImage ? (
           <Image

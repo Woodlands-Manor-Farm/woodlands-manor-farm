@@ -6,6 +6,7 @@ import { PROPERTIES } from "@/lib/constants/properties";
 import { SITE } from "@/lib/constants/seo";
 import { SuperControlWidget } from "@/components/booking/super-control-widget";
 import { JsonLd } from "@/components/seo/json-ld";
+import { breadcrumbList } from "@/lib/breadcrumbs";
 
 export type PropertyPageData = {
   slug: string;
@@ -63,9 +64,20 @@ export function PropertyPage({ data }: { data: PropertyPageData }) {
       }
     : null;
 
+  const breadcrumbs = property
+    ? breadcrumbList([
+        { name: "Home", path: "/" },
+        property.type === "yurt"
+          ? { name: "Yurts", path: "/yurts/" }
+          : { name: "Holiday Cottages", path: "/bude-holiday-cottages/" },
+        { name: property.name, path: property.href },
+      ])
+    : null;
+
   return (
     <>
       {schema ? <JsonLd data={schema} /> : null}
+      {breadcrumbs ? <JsonLd data={breadcrumbs} /> : null}
       <div className={styles.pageWrap}>
         <div className={styles.galleryPanel}>
           <PropertyGallery images={data.gallery} propertyName={data.name} />
