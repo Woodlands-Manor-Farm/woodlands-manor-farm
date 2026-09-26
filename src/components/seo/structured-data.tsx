@@ -10,7 +10,7 @@ export function StructuredData() {
 
   const lodging = {
     "@context": "https://schema.org",
-    "@type": "Resort",
+    "@type": "LodgingBusiness",
     "@id": `${SITE.url}/#lodging`,
     name: SITE.name,
     description: SITE.description,
@@ -22,6 +22,10 @@ export function StructuredData() {
     priceRange: SITE.priceRange,
     petsAllowed: true,
     currenciesAccepted: "GBP",
+    sameAs: [
+      "https://www.facebook.com/woodlandsmanorfarm.co.uk/",
+      "https://www.instagram.com/woodlandsmanorfarm/",
+    ],
     address: {
       "@type": "PostalAddress",
       streetAddress: SITE.contact.address.street,
@@ -47,8 +51,12 @@ export function StructuredData() {
       { "@type": "LocationFeatureSpecification", name: "Heated indoor swimming pool", value: true },
       { "@type": "LocationFeatureSpecification", name: "Pet/dog friendly", value: true },
       { "@type": "LocationFeatureSpecification", name: "Free on-site parking", value: true },
+      { "@type": "LocationFeatureSpecification", name: "Free Wi-Fi", value: true },
       { "@type": "LocationFeatureSpecification", name: "Games room", value: true },
+      { "@type": "LocationFeatureSpecification", name: "Children's playground & playing field", value: true },
       { "@type": "LocationFeatureSpecification", name: "On-site farm animals", value: true },
+      { "@type": "LocationFeatureSpecification", name: "15 acres of woodland walks", value: true },
+      { "@type": "LocationFeatureSpecification", name: "EV charging point", value: true },
       { "@type": "LocationFeatureSpecification", name: "Self-catering", value: true },
     ],
   };
