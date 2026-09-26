@@ -13,8 +13,8 @@ export const SITE = {
   },
   twitterHandle: "@woodlandsmanorfarm",
   contact: {
-    phone: "+447887944161",
-    phoneDisplay: "07887 944 161",
+    phone: "+447887677354",
+    phoneDisplay: "07887 677 354",
     email: "enquiries@woodlandsmanorfarm.co.uk",
     address: {
       street: "Woodford",
