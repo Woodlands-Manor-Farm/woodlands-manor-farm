@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { SITE } from "@/lib/constants/seo";
+import { trackMeta } from "@/lib/analytics/track";
 import styles from "./contact.module.css";
 
 export function ContactClient() {
@@ -27,6 +28,7 @@ export function ContactClient() {
         throw new Error(result.error || "We couldn’t confirm your message was sent. Please email or call us.");
       }
       setSubmitted(true);
+      trackMeta("Lead", { content_name: "Contact enquiry" });
     } catch (failure) {
       setError(failure instanceof Error && failure.name === "Error"
         ? failure.message : "We couldn’t confirm your message was sent. Please email or call us.");
