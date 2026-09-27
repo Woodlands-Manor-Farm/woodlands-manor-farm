@@ -147,7 +147,7 @@ export function ContactClient() {
             <p className={styles.infoLabel}>What3Words</p>
             <span className={styles.what3words}>{`///${SITE.contact.what3words}`}</span>
             <p className={styles.infoMeta}>
-              Satnav can be unreliable in this area — use What3Words or the Google Maps link
+              Satnav can be unreliable in this area, use What3Words or the Google Maps link
               below for accurate directions.
             </p>
             <a
@@ -172,7 +172,7 @@ export function ContactClient() {
           </div>
           <ul className={styles.tipsList}>
             <li>
-              <strong>Check-in</strong> from 4pm — check-out by 10am.
+              <strong>Check-in</strong> from 4pm, check-out by 10am.
             </li>
             <li>
               <strong>Well-behaved dogs</strong> very welcome in all cottages and yurts.

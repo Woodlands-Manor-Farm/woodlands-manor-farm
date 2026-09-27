@@ -26,7 +26,7 @@ export function NewsletterPopup() {
         const cooldownMs = NEWSLETTER.dismissCooldownDays * 24 * 60 * 60 * 1000;
         if (Date.now() - dismissedAt < cooldownMs) return;
       } catch {
-        // localStorage unavailable — fall through and show the popup.
+        // localStorage unavailable, fall through and show the popup.
       }
     }
 
@@ -47,7 +47,7 @@ export function NewsletterPopup() {
     try {
       localStorage.setItem(DISMISSED_KEY, String(Date.now()));
     } catch {
-      // Private browsing — the popup may reappear next visit, which is fine.
+      // Private browsing, the popup may reappear next visit, which is fine.
     }
   }, []);
 
@@ -111,7 +111,7 @@ export function NewsletterPopup() {
           </h2>
           <p className="mb-6 text-[14px] font-light leading-6 text-[var(--color-text-mid)]">
             Join our list for late-availability deals and a short monthly newsletter with news
-            from the farm — new arrivals in the animal barn, what&rsquo;s on in Bude, and the
+            from the farm, new arrivals in the animal barn, what&rsquo;s on in Bude, and the
             odd special offer just for subscribers.
           </p>
           <NewsletterForm variant="popup" />

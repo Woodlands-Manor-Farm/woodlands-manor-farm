@@ -9,9 +9,9 @@ import {
 } from "@/components/info/info-shell";
 
 export const metadata: Metadata = {
-  title: "Holiday Cottages in Cornwall with a Pool — Heated Indoor, Open All Year",
+  title: "Holiday Cottages in Cornwall with a Pool, Heated Indoor, Open All Year",
   description:
-    "Holiday cottages in Bude, North Cornwall with a heated indoor pool — kept at a warm 30°C and open 8am–8pm every day of the year, free for every guest. A 17th-century farm run by Andy & Ruth Peters.",
+    "Holiday cottages in Bude, North Cornwall with a heated indoor pool, kept at a warm 30°C and open 8am–8pm every day of the year, free for every guest. A 17th-century farm run by Andy & Ruth Peters.",
   alternates: { canonical: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
 };
 
@@ -28,7 +28,7 @@ export default function AboutPage() {
             <em>Manor Farm</em>
           </>
         }
-        description="A 17th-century farm in the Coombe Valley — seven cottages, two yurts, a heated pool and the warmest welcome in Cornwall."
+        description="A 17th-century farm in the Coombe Valley, seven cottages, two yurts, a heated pool and the warmest welcome in Cornwall."
       />
       <AboutSubnav activeHref="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" />
 
@@ -39,8 +39,8 @@ export default function AboutPage() {
         </h2>
         <p className={styles.sectionBody}>
           Woodlands Manor Farm is a 17th-century farm set at the top of the Coombe Valley,
-          two miles from the North Cornwall coast. Andy and Ruth Peters moved from London in 2019
-          — swapping software companies for a life of sunshine, animals and making sure guests
+          two miles from the North Cornwall coast. Andy and Ruth Peters moved from London in 2019,
+         swapping software companies for a life of sunshine, animals and making sure guests
           have the best holiday they&rsquo;ve ever had. Seven cottages, two luxury Mongolian yurts,
           a heated indoor pool and two miles of coastline on the doorstep.
         </p>
@@ -61,7 +61,7 @@ export default function AboutPage() {
             Holiday cottages with a <em>heated indoor pool</em>
           </h2>
           <p>
-            Our indoor pool is the heart of Woodlands — heated to a warm 30°C so everyone
+            Our indoor pool is the heart of Woodlands, heated to a warm 30°C so everyone
             enjoys a swim, not just the brave. It&rsquo;s open from 8am to 8pm every single day
             of the year, and it&rsquo;s free for every guest: all seven cottages and both yurts
             include full pool access, with no booking or time slots needed.
@@ -69,7 +69,7 @@ export default function AboutPage() {
           <p>
             Rainy February half term or blazing August week, the pool means the holiday never
             stops. Morning lengths before breakfast, an afternoon splash with the children, a
-            quiet evening swim — it&rsquo;s yours whenever you want it.
+            quiet evening swim, it&rsquo;s yours whenever you want it.
           </p>
         </div>
       </section>
@@ -97,7 +97,7 @@ export default function AboutPage() {
           </p>
           <p>
             We are always available by phone or email and genuinely love hearing from guests. The
-            farm, the animals, the pool — it is all here because we believe you deserve a holiday
+            farm, the animals, the pool, it is all here because we believe you deserve a holiday
             where you never have to worry about a single thing.
           </p>
         </div>
@@ -124,7 +124,7 @@ export default function AboutPage() {
               {
                 icon: "⛺",
                 title: "2 Luxury Yurts",
-                body: "Budhyn and Fenton — two authentic Mongolian yurts with Nordpeis stoves, super king beds, private kitchens, private shower rooms and Weber BBQs. Glamping at its finest.",
+                body: "Budhyn and Fenton, two authentic Mongolian yurts with Nordpeis stoves, super king beds, private kitchens, private shower rooms and Weber BBQs. Glamping at its finest.",
                 variant: "violet",
               },
               {

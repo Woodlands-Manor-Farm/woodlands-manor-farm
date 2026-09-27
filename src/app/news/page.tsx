@@ -4,7 +4,7 @@ import { NewsListing } from "@/components/blog/news-listing";
 export const metadata: Metadata = {
   title: "News & Stories",
   description:
-    "News, guides and stories from Woodlands Manor Farm — Bude, Cornwall and what's on at the farm.",
+    "News, guides and stories from Woodlands Manor Farm, Bude, Cornwall and what's on at the farm.",
   alternates: { canonical: "/news/" },
 };
 

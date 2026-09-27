@@ -74,7 +74,7 @@ export function parseGoogleReviews(json: PlacesJson): GoogleData | null {
     };
   })
     .filter((r) => r.text.length > 0)
-    // Newest first — Google returns reviews ranked by relevance, not date,
+    // Newest first, Google returns reviews ranked by relevance, not date,
     // so an older review can otherwise surface at the top of the grid.
     .sort((a, b) => (b.publishTime > a.publishTime ? 1 : b.publishTime < a.publishTime ? -1 : 0));
 
@@ -106,7 +106,7 @@ export function pickRecentFiveStar(
 
 export async function getPlacesApiKey(): Promise<string | undefined> {
   // On OpenNext/Cloudflare the secret is on the Worker env, which isn't
-  // always mirrored to process.env during RSC rendering — read it from the
+  // always mirrored to process.env during RSC rendering, read it from the
   // Cloudflare context first, then fall back to process.env.
   // Match on a trimmed key name so a stray space in the Cloudflare secret
   // name (e.g. "GOOGLE_PLACES_API_KEY ") still resolves.

@@ -9,7 +9,7 @@ export type Property = {
   shortDescription: string;
   href: string;
   heroImage: string;
-  /** SuperControl property ID — used by the booking widget embed. */
+  /** SuperControl property ID, used by the booking widget embed. */
   superControlId: string;
 };
 
@@ -25,7 +25,7 @@ export const PROPERTIES: Property[] = [
     sleeps: 12,
     bedrooms: 6,
     shortDescription:
-      "The original 17th-century farmhouse — six bedrooms, sleeps twelve, perfect for large family gatherings.",
+      "The original 17th-century farmhouse, six bedrooms, sleeps twelve, perfect for large family gatherings.",
     href: "/the-manor-house/",
     heroImage: "/images/the-manor-house/manor-exterior-garden.jpg",
     superControlId: "563129",

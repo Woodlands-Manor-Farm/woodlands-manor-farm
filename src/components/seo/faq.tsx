@@ -3,7 +3,7 @@ import { JsonLd } from "@/components/seo/json-ld";
 
 export type FaqItem = {
   q: string;
-  /** Plain-text answer — used for both the visible copy and the JSON-LD. */
+  /** Plain-text answer, used for both the visible copy and the JSON-LD. */
   a: string;
   /** Optional internal link shown after the answer (not in the JSON-LD). */
   link?: { href: string; label: string };

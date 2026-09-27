@@ -13,13 +13,13 @@ Hello everyone, Ruth here! As one of the owners of Woodlands Manor Farm. I get t
 
 ### The Feed The Animals Experience
 
-Twice a week, all our guests, big kids and little kids alike, are invited to join me as we make up feed, head out to the paddocks, and meet our wonderful animal family. We’ve got rabbits, horses, goats, sheep, chickens, pigs, and alpacas—all waiting for a friendly face and a handful of treats.
+Twice a week, all our guests, big kids and little kids alike, are invited to join me as we make up feed, head out to the paddocks, and meet our wonderful animal family. We’ve got rabbits, horses, goats, sheep, chickens, pigs, and alpacas, all waiting for a friendly face and a handful of treats.
 
 For me, there’s nothing quite like seeing the excitement in the kids’ eyes (and let’s be honest, the grown-ups’ too) as they get to feed the animals and interact at their happy time. It’s a real hands-on experience that creates memories I see families cherishing long after they leave.
 
 ### Watch The Feed The Animals Video 
 
-But don’t just take my word for it—many of our guests have left lovely reviews mentioning how much their kids adored the animal feeding sessions. We’ve even put together some videos so you can see all the fun for yourself.
+But don’t just take my word for it, many of our guests have left lovely reviews mentioning how much their kids adored the animal feeding sessions. We’ve even put together some videos so you can see all the fun for yourself.
 
 ### The Reviews
 
@@ -35,7 +35,7 @@ _**The stunning rural setting offers amazing walks right from the doorstep, maki
 
 _**The farm boasts a range of beautiful and quaint cottages, catering to different group sizes.**_
 
-_**A heartfelt thank you to Andy and Ruth for yet another unbelievable stay. Their thoughtfulness and the little extra touches they provide truly elevate the experience and made this, once again, the best holiday we’ve had in the last three years.**_  
+_**A heartfelt thank you to Andy and Ruth for yet another unbelievable stay. Their thoughtfulness and the little extra touches they provide truly elevate the experience and made this, once again, the best holiday we’ve had in the last three years.**_
 _**(Perhaps we should keep this incredible place a secret, but they truly deserve all the praise!) “**_
 
 [Read more reviews here](https://www.google.com/search?q=google+reviews+woodlands+manor+farm+animals+feeding&rlz=1C5GCEM_enGB1126GB1136&oq=google+reviews+woodlands+manor+farm+animals+feeding+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEKMTI0NDRqMGoxNagCCLACAfEFgvmfu68QZ-o&sourceid=chrome&ie=UTF-8#mpd=~16033081343637039570/customers/reviews)

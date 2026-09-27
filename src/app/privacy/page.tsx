@@ -34,8 +34,8 @@ export default function Page() {
                 Contact: Andrew Peters,{" "}
                 <a href={`mailto:${SITE.contact.email}`} style={{ color: "var(--color-violet)" }}>
                   {SITE.contact.email}
-                </a>
-                , {SITE.contact.phoneDisplay}.
+                </a>,
+                {SITE.contact.phoneDisplay}.
               </p>
               <p>
                 We are registered with the Information Commissioner&rsquo;s Office (ICO),
@@ -84,18 +84,18 @@ export default function Page() {
           content: (
             <ul>
               <li>
-                <strong>Sending you newsletters/marketing emails</strong> — Your consent (given
+                <strong>Sending you newsletters/marketing emails</strong>, Your consent (given
                 when you sign up and confirm your email address); you can withdraw this at any time.
               </li>
               <li>
-                <strong>Responding to chat messages and enquiries</strong> — Legitimate interest
+                <strong>Responding to chat messages and enquiries</strong>, Legitimate interest
                 (responding to a request you initiated).
               </li>
               <li>
-                <strong>Processing bookings</strong> — Contract (necessary to fulfil a booking).
+                <strong>Processing bookings</strong>, Contract (necessary to fulfil a booking).
               </li>
               <li>
-                <strong>Legal or regulatory obligations</strong> — Legal obligation.
+                <strong>Legal or regulatory obligations</strong>, Legal obligation.
               </li>
             </ul>
           ),
@@ -111,7 +111,7 @@ export default function Page() {
               </p>
               <ul>
                 <li>
-                  <strong>Brevo</strong> — provides our live chat, newsletter and enquiry
+                  <strong>Brevo</strong>, provides our live chat, newsletter and enquiry
                   email service. Chat links your conversation across pages. Newsletter signup
                   sends your email address to Brevo to request a confirmation email; you join
                   the Woodlands Newsletter only after clicking its confirmation link. Enquiries
@@ -119,12 +119,12 @@ export default function Page() {
                   through Brevo. Brevo is based in France.
                 </li>
                 <li>
-                  <strong>SuperControl</strong> — our booking system, used to process booking
+                  <strong>SuperControl</strong>, our booking system, used to process booking
                   enquiries and reservations. Data is held on the hosting datacentre provided as
                   part of the SuperControl booking engine.
                 </li>
                 <li>
-                  <strong>Google</strong> — we use Google Analytics (GA4) to understand how
+                  <strong>Google</strong>, we use Google Analytics (GA4) to understand how
                   visitors use the site (such as pages viewed, device type and approximate
                   location from IP), which helps us improve it. It loads and sets cookies only if you accept analytics. We
                   also use Google Search Console, which reports how the site performs in Google
@@ -196,8 +196,8 @@ export default function Page() {
                   repeatedly showing the signup prompt.
                 </li>
                 <li>
-                  Brevo Conversations (live chat) sets a functional cookie — only if you open the
-                  chat — so your conversation persists as you move between pages or return to the
+                  Brevo Conversations (live chat) sets a functional cookie, only if you open the
+                  chat, so your conversation persists as you move between pages or return to the
                   site.
                 </li>
                 <li>

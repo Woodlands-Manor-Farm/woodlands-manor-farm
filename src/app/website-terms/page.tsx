@@ -92,8 +92,8 @@ export default function Page() {
               subject to our separate{" "}
               <Link href="/terms-conditions/" style={{ color: "var(--color-violet)" }}>
                 Booking Terms &amp; Conditions
-              </Link>
-              , which are provided at the time of booking and cover cancellation policy, payment,
+              </Link>,
+              which are provided at the time of booking and cover cancellation policy, payment,
               deposits, and guest conduct.
             </p>
           ),
@@ -114,7 +114,7 @@ export default function Page() {
                   (PECR).
                 </li>
                 <li>
-                  We use Brevo to manage and send these communications — see the{" "}
+                  We use Brevo to manage and send these communications, see the{" "}
                   <Link href="/privacy/" style={{ color: "var(--color-violet)" }}>
                     Privacy Policy
                   </Link>{" "}

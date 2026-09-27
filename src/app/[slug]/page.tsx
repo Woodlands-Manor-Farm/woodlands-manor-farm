@@ -124,13 +124,13 @@ export default async function BlogPostPage({ params }: { params: Params }) {
           <div className={styles.articleCta}>
             <div className={styles.articleCtaTitle}>Stay at Woodlands Manor Farm</div>
             <p className={styles.articleCtaBody}>
-              Make it a proper break — our{" "}
+              Make it a proper break, our{" "}
               <Link href="/bude-holiday-cottages/">holiday cottages in Bude</Link> and luxury
               yurts sit on a Cornish farm just minutes from the coast, with a{" "}
               <Link href="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/">
                 heated indoor pool
               </Link>{" "}
-              open every day of the year. Dogs welcome. Book direct for the best price —
+              open every day of the year. Dogs welcome. Book direct for the best price,
               no fees.
             </p>
           </div>

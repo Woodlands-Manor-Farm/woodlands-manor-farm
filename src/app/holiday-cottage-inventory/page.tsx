@@ -133,13 +133,13 @@ export default function Page() {
           </h2>
           <p className={styles.sectionBody} style={{ marginBottom: 40 }}>
             At Woodlands Manor Farm we provide a full inventory in every cottage and yurt. From
-            hairdryer to pie dish — we aim to provide everything you need. The list below shows
+            hairdryer to pie dish, we aim to provide everything you need. The list below shows
             what is included so you can decide what to bring.
           </p>
 
           <div className={styles.invGrid}>
             <div className={styles.invCol}>
-              <h3>Kitchen — one per property</h3>
+              <h3>Kitchen, one per property</h3>
               <ul>
                 {KITCHEN.map((item) => (
                   <li key={item}>{item}</li>
@@ -147,7 +147,7 @@ export default function Page() {
               </ul>
             </div>
             <div className={styles.invCol}>
-              <h3>Dining — per person (+ 2 spare)</h3>
+              <h3>Dining, per person (+ 2 spare)</h3>
               <ul>
                 {DINING.map((item) => (
                   <li key={item}>{item}</li>

@@ -2,13 +2,13 @@
 // These are editorial selections; Google reviews are fetched separately.
 export const CURATED_REVIEWS = [
   {
-    text: "This place should be allowed more stars, I can't rate it enough. This was our second visit! It's a beautiful setting, feels so safe, so much to do, so well taken care of — loved reading in the evening listening to the sheep and cows in the distance. Absolutely stunning, recommended to anyone who will listen.",
+    text: "This place should be allowed more stars, I can't rate it enough. This was our second visit! It's a beautiful setting, feels so safe, so much to do, so well taken care of, loved reading in the evening listening to the sheep and cows in the distance. Absolutely stunning, recommended to anyone who will listen.",
     initials: "Z",
     name: "Zebraaa",
     source: "TripAdvisor · Jun 2026",
   },
   {
-    text: "Our second trip here. Great for the family and dogs. The swimming pool is a real bonus, and it's very close to amazing beaches. Rose Cottage is spacious and well equipped. Andy responded to our messages very quickly which was appreciated — he is a great host. We hope to return very soon.",
+    text: "Our second trip here. Great for the family and dogs. The swimming pool is a real bonus, and it's very close to amazing beaches. Rose Cottage is spacious and well equipped. Andy responded to our messages very quickly which was appreciated, he is a great host. We hope to return very soon.",
     initials: "M",
     name: "Maggie",
     source: "Airbnb · Rose Cottage",
@@ -26,13 +26,13 @@ export const CURATED_REVIEWS = [
     source: "Airbnb · The Yurts",
   },
   {
-    text: "We had an amazing stay in the Manor House, so much space and everything you need for a comfortable stay. Mattresses were so comfy too, lots to do in the surrounding areas and the heated pool was an added bonus. We loved it and will be back — thank you!",
+    text: "We had an amazing stay in the Manor House, so much space and everything you need for a comfortable stay. Mattresses were so comfy too, lots to do in the surrounding areas and the heated pool was an added bonus. We loved it and will be back, thank you!",
     initials: "DM",
     name: "Donna M",
     source: "TripAdvisor · May 2026 · Manor House",
   },
   {
-    text: "Rose Cottage comfortably accommodated three generations aged from less than one to over 60. There was plenty for the children and adults to do at the farm, and the children particularly enjoyed feeding the animals — Sparky was a real hit! We would happily come back.",
+    text: "Rose Cottage comfortably accommodated three generations aged from less than one to over 60. There was plenty for the children and adults to do at the farm, and the children particularly enjoyed feeding the animals, Sparky was a real hit! We would happily come back.",
     initials: "P",
     name: "Peter",
     source: "Airbnb · Rose Cottage",
@@ -62,7 +62,7 @@ export const CURATED_REVIEWS = [
     source: "Airbnb · 2026",
   },
   {
-    text: "Fabulous location, peace and quiet, amazing walks on the doorstep. Beautiful beaches close by. The cottage is decorated to the highest standard, clean and well equipped — so comfortable and homely. The heated pool was an exciting bonus. We definitely will be back.",
+    text: "Fabulous location, peace and quiet, amazing walks on the doorstep. Beautiful beaches close by. The cottage is decorated to the highest standard, clean and well equipped, so comfortable and homely. The heated pool was an exciting bonus. We definitely will be back.",
     initials: "SC",
     name: "Steph C",
     source: "TripAdvisor · Feb 2026",

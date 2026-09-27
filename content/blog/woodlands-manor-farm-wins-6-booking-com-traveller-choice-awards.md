@@ -3,7 +3,7 @@ title: "Woodlands Manor Farm Wins 6 Booking.com Traveller Choice Awards"
 slug: "woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards"
 date: "2026-02-07T22:08:24+00:00"
 author: "ruth"
-excerpt: "Woodlands Manor Farm celebrates 6 Travellers’ Choice Awards for its holiday cottages in Cornwall. Discover why guests love staying with us—and why booking direct gets you the best deal."
+excerpt: "Woodlands Manor Farm celebrates 6 Travellers’ Choice Awards for its holiday cottages in Cornwall. Discover why guests love staying with us, and why booking direct gets you the best deal."
 feature_image: "/images/blog/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/dc9d18f82aa7.webp"
 source_url: "https://woodlandsmanorfarm.co.uk/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/"
 ---
@@ -43,5 +43,5 @@ Just a gentle reminder –  if you’re a returning guest, make sure to use you
 
 Here’s to more great stays, more unforgettable memories, and (fingers crossed!) more awards in the future. Thank you for being part of our story here at Woodlands Manor Farm.
 
-With heartfelt thanks,  
+With heartfelt thanks,
 The Woodlands Manor Farm Team

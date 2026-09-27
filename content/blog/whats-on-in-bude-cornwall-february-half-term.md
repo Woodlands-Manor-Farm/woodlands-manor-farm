@@ -9,7 +9,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/whats-on-in-bude-cornwall-february
 category: "Archive"
 ---
 
-> **From the archive — February half term 2024.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+> **From the archive, February half term 2024.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
 
 ## What’s on in Bude, Cornwall – February Half Term
 
@@ -33,7 +33,7 @@ Born in Bude, Peter Vickery (Vicko) has got many stories to tell about his life 
 
 This walk is suitable for families with children, individuals and groups who want to learn about Bude in fun way from a real local legend.
 
-Tickets: Adults – £10 Children under 14 years old – £5  
+Tickets: Adults – £10 Children under 14 years old – £5
 The tour take place every Wednesday, 10:30am – 12:30pm starting at Bude Tourist Information Centre, The Crescent, Bude, Cornwall
 
 [Book Here](https://www.visitbude.info/events/vickos-walk/8467200/)
@@ -92,14 +92,14 @@ If you’ve ever wondered how to make true British rum from scratch you will hav
 
 ## Art Exhibition by Gloria Bardell
 
-[_10 February @ 10:00 am – 29 February @ 4:00 pm Art Exhibition_](https://www.thecastlebude.co.uk/whats-on-at-the-castle-event/art-exhibition-by-gloria-bardell/)  
+[_10 February @ 10:00 am – 29 February @ 4:00 pm Art Exhibition_](https://www.thecastlebude.co.uk/whats-on-at-the-castle-event/art-exhibition-by-gloria-bardell/)
 [_Blanchminster Room The Castle Heritage Centre, Bude, Cornwall_](https://www.thecastlebude.co.uk/whats-on-at-the-castle-event/art-exhibition-by-gloria-bardell/)
 
 Working in both oil & acrylic, Gloria’s portfolio is a testament to her eclectic approach to art. She finds inspiration from vivid landscapes to abstract compositions and everything in between. Gloria’s artistic journey has been continuous, allowing her to create a diverse body of work. You can visit the free exhibition showcasing Gloria’s work in The Blanchminster Room at The Castle Heritage Centre from 10am every day with doors closing at 4pm.
 
 ## Art Exhibition by Debbie Gower
 
-_[10 February @ 10:00 am – 29 February @ 4:00 pm](https://www.thecastlebude.co.uk/whats-on-at-the-castle-event/art-exhibition-debbie-gower/)_  
+_[10 February @ 10:00 am – 29 February @ 4:00 pm](https://www.thecastlebude.co.uk/whats-on-at-the-castle-event/art-exhibition-debbie-gower/)_
 _[Willoughby Gallery, The Castle Heritage Centre, Bude, Cornwall](https://www.thecastlebude.co.uk/whats-on-at-the-castle-event/art-exhibition-debbie-gower/)_
 
 ‘The Wildlife Collection’ by Debbie Gower. A collection of Wildlife Paintings in acrylic by Debbie Gower, a self-taught artist from Cornwall. There is something quite magical when trying to capture the feelings of our Earth’s most beautiful animals. Pay a visit to enjoy Debbie’s work in The Willoughby Gallery at The Castle Heritage Centre from 10am every day with doors closing at 4pm.

@@ -27,8 +27,8 @@ const jost = Jost({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
   title: {
-    default: `${SITE.name} — ${SITE.tagline}`,
-    template: `%s — ${SITE.name}`,
+    default: `${SITE.name}, ${SITE.tagline}`,
+    template: `%s, ${SITE.name}`,
   },
   description: SITE.description,
   alternates: { canonical: "/" },
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     siteName: SITE.name,
     locale: SITE.locale,
     url: SITE.url,
-    title: `${SITE.name} — ${SITE.tagline}`,
+    title: `${SITE.name}, ${SITE.tagline}`,
     description: SITE.description,
     images: [
       {
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE.name} — ${SITE.tagline}`,
+    title: `${SITE.name}, ${SITE.tagline}`,
     description: SITE.description,
     images: ["/images/cottages/9792dd1b5f66d139.jpg"],
   },

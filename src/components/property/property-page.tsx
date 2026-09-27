@@ -40,7 +40,7 @@ export function PropertyPage({ data }: { data: PropertyPageData }) {
     ? {
         "@context": "https://schema.org",
         "@type": "VacationRental",
-        name: `${data.name} — ${SITE.name}`,
+        name: `${data.name}, ${SITE.name}`,
         description: data.description,
         url: `${SITE.url}${property.href}`,
         image: `${SITE.url}${property.heroImage}`,
@@ -123,7 +123,7 @@ export function PropertyPage({ data }: { data: PropertyPageData }) {
             <p className={styles.desc}>{data.description}</p>
 
             <div className={styles.bookingBox} id="booking">
-              <div className={styles.bookingBoxLabel}>Book direct — best rate guaranteed</div>
+              <div className={styles.bookingBoxLabel}>Book direct, best rate guaranteed</div>
               <div className={styles.bookingBoxTitle}>Check availability</div>
               <a href="#book" className={styles.btnBookNow}>
                 Check Availability &amp; Book
@@ -187,13 +187,13 @@ export function PropertyPage({ data }: { data: PropertyPageData }) {
             {sisterYurt ? (
               <p className={styles.sisterCta}>
                 {data.name} not available when you need it? Why not try its sister yurt,{" "}
-                <Link href={sisterYurt.href}>{sisterYurt.name}</Link> — just 20 metres away and
+                <Link href={sisterYurt.href}>{sisterYurt.name}</Link>, just 20 metres away and
                 sleeps four too.
               </p>
             ) : null}
             <p className={styles.bookFinePrint}>
               Booking trouble? Call Andy direct on{" "}
-              <a href={`tel:${SITE.contact.phone}`}>{SITE.contact.phoneDisplay}</a> — he&rsquo;ll
+              <a href={`tel:${SITE.contact.phone}`}>{SITE.contact.phoneDisplay}</a>, he&rsquo;ll
               sort it.
             </p>
           </div>

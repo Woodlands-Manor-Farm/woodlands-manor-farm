@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     `Seven dog-friendly cottages and two yurts in Bude, Cornwall. Woodland walks and nearby beaches. ${DOG_POLICY.charge}; more than two dogs by prior agreement.`,
   alternates: { canonical: "/dog-friendly-holiday-cottages-bude/" },
   openGraph: {
-    title: "Dog Friendly Holiday Cottages in Bude, Cornwall — Woodlands Manor Farm",
+    title: "Dog Friendly Holiday Cottages in Bude, Cornwall, Woodlands Manor Farm",
     description:
       `Seven cottages and two yurts welcome well-behaved dogs. ${DOG_POLICY.charge}. ${DOG_POLICY.additionalDogs} Off-lead meadow and woodland walks, with dogs under control.`,
     images: ["/images/farm/bluebell-woodland.jpg"],
@@ -46,18 +46,18 @@ export default function DogFriendlyPage() {
     <>
       <InfoHero
         image="/images/farm/bluebell-woodland.jpg"
-        alt="Bluebell woodland walk at Woodlands Manor Farm — dogs may explore off lead under control"
+        alt="Bluebell woodland walk at Woodlands Manor Farm, dogs may explore off lead under control"
         eyebrow="Woodlands Manor Farm · Bude, Cornwall"
         title={
           <>
             Dog friendly <em>holidays</em>
           </>
         }
-        description="Every cottage and yurt at Woodlands welcomes well-behaved dogs — with 15 acres of woodland, an open meadow and dog-friendly beaches minutes away, this is their holiday too."
+        description="Every cottage and yurt at Woodlands welcomes well-behaved dogs, with 15 acres of woodland, an open meadow and dog-friendly beaches minutes away, this is their holiday too."
       />
 
       <div className={styles.pageContent}>
-        <p className={styles.eyebrow}>Dogs welcome — properly welcome</p>
+        <p className={styles.eyebrow}>Dogs welcome, properly welcome</p>
         <h2 className={styles.sectionTitle}>
           A farm holiday your dog will <em>never forget</em>
         </h2>
@@ -106,7 +106,7 @@ export default function DogFriendlyPage() {
             marginTop: 10,
           }}
         >
-          Bailey, our Bernedoodle — chief woodland officer.
+          Bailey, our Bernedoodle, chief woodland officer.
         </p>
 
         <h3 className={styles.subHeading}>Places to explore</h3>
@@ -114,31 +114,31 @@ export default function DogFriendlyPage() {
           cards={[
             {
               icon: "🌳",
-              title: "15-acre woodland — off lead",
+              title: "15-acre woodland, off lead",
               body: "Explore our ancient woodland with your dog off lead, keeping them under control. Carpeted in bluebells through April and May, there is plenty to sniff all year round.",
             },
             {
               icon: "🌾",
-              title: "Open meadow — off lead",
+              title: "Open meadow, off lead",
               body: "A big open meadow for a morning or evening walk with your dog. Dogs may be off lead here, provided they stay under control.",
               variant: "violet",
             },
             {
               icon: "⚽",
-              title: "Playing field — on lead",
+              title: "Playing field, on lead",
               body: "Dogs are welcome on the playing field on a lead, as children share this space. The enclosed field is great for a calmer mooch.",
               variant: "gold",
             },
             {
               icon: "🐮",
-              title: "Around the farm — on lead",
-              body: "Leads on around the farmyard and courtyard please — the ponies, alpacas, goats and chickens live close by, and they're nosy.",
+              title: "Around the farm, on lead",
+              body: "Leads on around the farmyard and courtyard please, the ponies, alpacas, goats and chickens live close by, and they're nosy.",
               variant: "dark",
             },
             {
               icon: "🏖️",
-              title: "Local beaches — endless adventure",
-              body: "Bude's local beaches offer endless adventure — Duckpool is a walk away, and others are a short drive.",
+              title: "Local beaches, endless adventure",
+              body: "Bude's local beaches offer endless adventure, Duckpool is a walk away, and others are a short drive.",
               variant: "gold",
             },
             {
@@ -152,7 +152,7 @@ export default function DogFriendlyPage() {
 
         <h3 className={styles.subHeading}>Dog-friendly beaches &amp; walks</h3>
         <p style={{ fontSize: 14, color: "var(--color-text-mid)", lineHeight: 1.85, fontWeight: 300 }}>
-          <strong>Sandymouth and Duckpool</strong> — our two nearest beaches — welcome dogs all
+          <strong>Sandymouth and Duckpool</strong>, our two nearest beaches, welcome dogs all
           year round, and both are spectacular: National Trust coastline, rock pools and huge
           sands at low tide. Bude&rsquo;s town beaches have summer restrictions, so{" "}
           <a
@@ -163,7 +163,7 @@ export default function DogFriendlyPage() {
           >
             check the latest times on Visit Bude
           </a>{" "}
-          before you go. For walks from the farm gate, ask Ruth — her top tips are{" "}
+          before you go. For walks from the farm gate, ask Ruth, her top tips are{" "}
           <strong>Rookery Wood, Stowe Woods and Kilkhampton Common</strong>, all walkable from
           Woodlands. And every local pub is dog friendly: Bailey particularly recommends the
           burgers at <Link href="/bush-inn-morwenstow-best-pub-cornwall/" style={{ color: "var(--color-violet)" }}>The Bush Inn at Morwenstow</Link>.
@@ -171,10 +171,10 @@ export default function DogFriendlyPage() {
 
         <h3 className={styles.subHeading}>The house rules</h3>
         <p style={{ fontSize: 14, color: "var(--color-text-mid)", lineHeight: 1.85, fontWeight: 300 }}>
-          A few simple things so every guest — two- and four-legged — has a great stay. Please
+          A few simple things so every guest, two- and four-legged, has a great stay. Please
           bring your dog&rsquo;s own bed and bowls. {DOG_POLICY.indoors} {DOG_POLICY.leads}{" "}
-          {DOG_POLICY.additionalDogs} {DOG_POLICY.supervision} Full details are on our dog rules page below, or just ask
-          — we&rsquo;re dog people, we get it.
+          {DOG_POLICY.additionalDogs} {DOG_POLICY.supervision} Full details are on our dog rules page below, or just ask,
+         we&rsquo;re dog people, we get it.
         </p>
         <div style={{ marginTop: 22 }}>
           <Link
@@ -198,7 +198,7 @@ export default function DogFriendlyPage() {
       </div>
 
       <CtaStrip
-        title="Bring the dog — book your stay"
+        title="Bring the dog, book your stay"
         body="All nine properties are dog friendly. Best price guaranteed when you book direct."
       />
     </>

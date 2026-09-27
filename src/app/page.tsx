@@ -13,7 +13,7 @@ const INTRO_TILES = [
     src: "/images/home/cc82e0f15a7b2058.jpg",
     alt: "Heated indoor swimming pool at Woodlands Manor Farm",
     title: "Heated Indoor Pool",
-    body: "Swim whatever the weather, kept at a warm 30°C all year — a firm family favourite",
+    body: "Swim whatever the weather, kept at a warm 30°C all year, a firm family favourite",
     objectPosition: "center",
     href: "/on-the-farm/",
   },
@@ -21,7 +21,7 @@ const INTRO_TILES = [
     src: "/images/home/b2879a790a48a11e.jpg",
     alt: "Feeding the goats at Woodlands Manor Farm",
     title: "Feed the Animals",
-    body: "Get hands-on with our farm animals — a magical moment for children of all ages",
+    body: "Get hands-on with our farm animals, a magical moment for children of all ages",
     objectPosition: "center 30%",
     href: "/on-the-farm/",
   },
@@ -29,7 +29,7 @@ const INTRO_TILES = [
     src: "/images/home/e76061d989fd39c9.jpg",
     alt: "Child on the outdoor playground at Woodlands Manor Farm",
     title: "Outdoor Play",
-    body: "Playground, playing field and five-a-side goals — space to run free",
+    body: "Playground, playing field and five-a-side goals, space to run free",
     objectPosition: "center 20%",
     href: "/on-the-farm/",
   },
@@ -37,7 +37,7 @@ const INTRO_TILES = [
     src: "/images/home/ec8c89b6a5ac2c67.jpg",
     alt: "Manor House conservatory with summer flowers",
     title: "5-Star Interiors",
-    body: "TripAdvisor Travellers' Choice & Booking.com awards — beautifully appointed throughout",
+    body: "TripAdvisor Travellers' Choice & Booking.com awards, beautifully appointed throughout",
     objectPosition: "center",
     href: "/reviews/",
   },
@@ -50,7 +50,7 @@ const STAYS = [
     type: "Centrepiece · Sleeps 12 + cots",
     detail: "Three lounges · AGA kitchen · Period features",
     img: "/images/the-manor-house/manor-exterior-garden.jpg",
-    alt: "The Manor House from the garden — 17th-century stone farmhouse",
+    alt: "The Manor House from the garden, 17th-century stone farmhouse",
     large: true,
   },
   {
@@ -84,7 +84,7 @@ const STAYS = [
     type: "Retreat · Sleeps 2 + cot",
     detail: "Vaulted beams · Super king",
     img: "/images/the-coach-house/coach-exterior.jpg",
-    alt: "The Coach House — ivy-clad Cornish stone exterior",
+    alt: "The Coach House, ivy-clad Cornish stone exterior",
   },
 ];
 
@@ -128,10 +128,10 @@ const EXP_TILES = [
 
 // Homepage testimonials: keep these to genuine 5-star reviews from the last
 // ~6 months so the homepage always feels current. Sourced from the vetted
-// reviews on /reviews/ — refresh them as newer 5-star reviews come in.
+// reviews on /reviews/, refresh them as newer 5-star reviews come in.
 const REVIEWS: HomeReview[] = [
   {
-    text: "This place should be allowed more stars, I can't rate it enough. This was our second visit! It's a beautiful setting, feels so safe, so much to do, so well taken care of — loved reading in the evening listening to the sheep and cows in the distance. Absolutely stunning, recommended to anyone who will listen.",
+    text: "This place should be allowed more stars, I can't rate it enough. This was our second visit! It's a beautiful setting, feels so safe, so much to do, so well taken care of, loved reading in the evening listening to the sheep and cows in the distance. Absolutely stunning, recommended to anyone who will listen.",
     initials: "Z",
     name: "Zebraaa",
     unit: "TripAdvisor · Jun 2026",
@@ -154,7 +154,7 @@ const AWARD_LOGOS = [
   { src: "/images/awards/booking-awards.png", alt: "Booking.com Traveller Review Awards 2026", w: 168, h: 52 },
   { src: "/images/awards/cornwall-tourism-awards.png", alt: "Cornwall Tourism Awards 2025/26 Commended", w: 50, h: 70 },
   { src: "/images/awards/airbnb-superhost.png", alt: "Airbnb Superhost at Woodlands Manor Farm", w: 70, h: 70, big: true },
-  { src: "/images/awards/pasc-member.png", alt: "PASC Member — Professional Association of Self-Caterers", w: 70, h: 70 },
+  { src: "/images/awards/pasc-member.png", alt: "PASC Member, Professional Association of Self-Caterers", w: 70, h: 70 },
   { src: "/images/awards/bude-way-accredited.png", alt: "The Bude Way Accredited", w: 88, h: 68 },
 ];
 
@@ -176,7 +176,7 @@ const BLOG_FEATURED = {
   tag: "Awards",
   title: "Woodlands Manor Farm wins six Booking.com Traveller Choice Awards 2026",
   excerpt:
-    "Incredible news to kick off the year — we're thrilled to have received six Traveller Review Awards from Booking.com, all thanks to the wonderful reviews left by our guests.",
+    "Incredible news to kick off the year, we're thrilled to have received six Traveller Review Awards from Booking.com, all thanks to the wonderful reviews left by our guests.",
   date: "7 Feb 2026",
 };
 
@@ -215,13 +215,13 @@ export default function HomePage() {
             Woodlands Manor Farm is a 17th-century farm in the peaceful Coombe Valley,
             two miles from Bude&rsquo;s beaches. Our seven{" "}
             <Link href="/bude-holiday-cottages/">holiday cottages</Link> and two luxury{" "}
-            <Link href="/yurts/">glamping yurts</Link> sleep 2 to 12 — every stay includes our{" "}
+            <Link href="/yurts/">glamping yurts</Link> sleep 2 to 12, every stay includes our{" "}
             <Link href="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/">
               heated indoor pool
             </Link>{" "}
             (a warm 30°C, open every day of the year), the games room, and{" "}
             <Link href="/on-the-farm/">life on the farm</Link>: free animal feeding with Ruth,
-            pony experiences and fifteen acres of bluebell woodland. And yes —{" "}
+            pony experiences and fifteen acres of bluebell woodland. And yes, {" "}
             <Link href="/dog-friendly-holiday-cottages-bude/">dogs are very welcome</Link>.
           </p>
         </div>
@@ -255,27 +255,27 @@ export default function HomePage() {
             <h2>
               <span>Book direct</span>Check availability &amp; reserve your stay
             </h2>
-            <div className={styles.badge}>Best price guaranteed — no booking fees</div>
+            <div className={styles.badge}>Best price guaranteed, no booking fees</div>
           </div>
           <div className={styles.widgetWrap}>
             <SuperControlWidget />
           </div>
           <div className={styles.widgetLinks}>
             <Link href="/bude-holiday-cottages/" className={styles.widgetLink}>
-              <span>Cottages — 2 to 12 guests</span>
+              <span>Cottages, 2 to 12 guests</span>
               <span className={styles.widgetLinkAction}>View all →</span>
             </Link>
             <Link href="/yurts/" className={styles.widgetLink}>
-              <span>Yurts — Budhyn &amp; Fenton</span>
+              <span>Yurts, Budhyn &amp; Fenton</span>
               <span className={styles.widgetLinkAction}>View yurts →</span>
             </Link>
             <a href={`tel:${SITE.contact.phone}`} className={styles.widgetLink}>
-              <span>Group bookings — call us direct</span>
+              <span>Group bookings, call us direct</span>
               <span className={styles.widgetLinkAction}>{SITE.contact.phoneDisplay}</span>
             </a>
           </div>
           <p className={styles.widgetNote}>
-            Returning guest? Use your departure discount code — or{" "}
+            Returning guest? Use your departure discount code, or{" "}
             <a href={`tel:${SITE.contact.phone}`}>call Andy on {SITE.contact.phoneDisplay}</a>
           </p>
         </div>
@@ -302,7 +302,7 @@ export default function HomePage() {
         >
           <Image
             src="/images/awards/tripadvisor.png"
-            alt="Tripadvisor — rated Excellent"
+            alt="Tripadvisor, rated Excellent"
             width={128}
             height={28}
             className={styles.ratingLogoTa}
@@ -373,7 +373,7 @@ export default function HomePage() {
             with <em>experience.</em>
           </h2>
           <p>
-            Woodlands isn&rsquo;t just somewhere to stay — it&rsquo;s a place to feel something.
+            Woodlands isn&rsquo;t just somewhere to stay, it&rsquo;s a place to feel something.
             Whether it&rsquo;s your children&rsquo;s first encounter with a farm animal, a lazy
             morning in the pool, or a coast path walk that clears your head for good.
           </p>
@@ -414,7 +414,7 @@ export default function HomePage() {
           videoId="CgYdd1_zB_k"
           poster="/images/home/6779d3d99e56e799.jpg"
           posterAlt="Woodlands Manor Farm stone cottage with valley views"
-          title="Farm Tour — Woodlands Manor Farm"
+          title="Farm Tour, Woodlands Manor Farm"
           subtitle="Watch the 3-minute tour"
         />
       </section>
@@ -510,7 +510,7 @@ export default function HomePage() {
       <section className={styles.ctaStrip}>
         <div className={styles.ctaText}>
           <h2>Ready to escape?</h2>
-          <p>Book direct for the best rate — or call Andrew &amp; Ruth to plan your perfect stay</p>
+          <p>Book direct for the best rate, or call Andrew &amp; Ruth to plan your perfect stay</p>
         </div>
         <div className={styles.ctaActions}>
           <Link href={BOOK_HREF} className={styles.btnWhite}>
