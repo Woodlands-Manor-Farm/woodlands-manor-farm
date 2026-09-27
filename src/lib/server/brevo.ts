@@ -86,7 +86,10 @@ export async function requestDoubleOptIn(
     });
     // Do not treat duplicates or provider errors as a successful confirmation request.
     if (response.status !== 201) {
-      return formResponse({ error: "We couldn’t request your confirmation email. Please try again later." }, response.status === 429 ? 429 : 502);
+      // TEMP DIAGNOSTIC: surface Brevo's real error so we can see why it refuses.
+      const detail = await response.text().catch(() => "");
+      console.error("Brevo DOI failed", response.status, detail);
+      return formResponse({ error: `Signup error [diag ${response.status}]: ${detail.slice(0, 240)}` }, response.status === 429 ? 429 : 502);
     }
     return formResponse({ status: "confirmation_required" });
   } catch {

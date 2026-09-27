@@ -7,6 +7,13 @@
     "nodejs_compat",
     "global_fetch_strictly_public"
   ],
+  // Non-secret runtime config. Kept here so Cloudflare deploys stay in sync
+  // and these values survive every deploy. Secrets (BREVO_API_KEY,
+  // GOOGLE_PLACES_API_KEY) are set as encrypted Worker secrets, never here.
+  "vars": {
+    "BREVO_DOI_TEMPLATE_ID": "5",
+    "BREVO_SENDER_EMAIL": "enquiries@woodlandsmanorfarm.co.uk"
+  },
   "assets": {
     "binding": "ASSETS",
     "directory": ".open-next/assets"
