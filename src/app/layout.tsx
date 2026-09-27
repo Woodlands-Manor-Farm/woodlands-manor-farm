@@ -5,6 +5,7 @@ import { Footer } from "@/components/layout/footer";
 import { ChatWidget } from "@/components/marketing/chat-widget";
 import { GoogleAnalytics } from "@/components/marketing/google-analytics";
 import { MetaPixel } from "@/components/marketing/meta-pixel";
+import { ConversionTracking } from "@/components/marketing/conversion-tracking";
 import { NewsletterPopup } from "@/components/marketing/newsletter-popup";
 import { StructuredData } from "@/components/seo/structured-data";
 import { SITE } from "@/lib/constants/seo";
@@ -73,6 +74,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <ChatWidget />
         <GoogleAnalytics />
         <MetaPixel />
+        <ConversionTracking />
       </body>
     </html>
   );

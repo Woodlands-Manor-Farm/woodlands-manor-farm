@@ -5,6 +5,7 @@ import Link from "next/link";
 import { clsx } from "clsx";
 import { NEWSLETTER } from "@/lib/constants/newsletter";
 import { SITE } from "@/lib/constants/seo";
+import { trackMeta } from "@/lib/analytics/track";
 
 type Status = "idle" | "sending" | "success" | "error";
 
@@ -46,6 +47,7 @@ export function NewsletterForm({
         throw new Error(result.error || "We couldn’t request your confirmation email. Please try again later.");
       }
       setStatus("success");
+      trackMeta("Subscribe", { content_name: "Newsletter" });
       try {
         // This records a request, not confirmed list membership.
         localStorage.setItem("wmf-newsletter-requested", "1");
