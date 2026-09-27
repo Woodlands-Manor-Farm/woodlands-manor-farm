@@ -68,6 +68,21 @@ const nextConfig: NextConfig = {
     // traditional 301 for the SEO migration.
     return LEGACY_REDIRECTS.map((r) => ({ ...r, statusCode: 301 as const }));
   },
+  async headers() {
+    // Baseline security headers applied to every route. Improves the
+    // Lighthouse "Best Practices" score (HSTS + clickjacking protection) and
+    // hardens the site. No Content-Security-Policy here yet — a strict CSP
+    // needs careful testing against the embedded booking widget, chat and
+    // analytics before it can be enabled safely.
+    const securityHeaders = [
+      { key: "Strict-Transport-Security", value: "max-age=63072000; includeSubDomains; preload" },
+      { key: "X-Frame-Options", value: "SAMEORIGIN" },
+      { key: "X-Content-Type-Options", value: "nosniff" },
+      { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
+      { key: "Permissions-Policy", value: "camera=(), microphone=(), geolocation=()" },
+    ];
+    return [{ source: "/:path*", headers: securityHeaders }];
+  },
 };
 
 export default nextConfig;
