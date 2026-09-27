@@ -9,6 +9,9 @@
  * Cloudflare Web Analytics is enabled in the Cloudflare dashboard (server-side,
  * cookieless) and needs no configuration here.
  */
-export const ANALYTICS: { gaMeasurementId: string } = {
+export const ANALYTICS: { gaMeasurementId: string; metaPixelId: string } = {
   gaMeasurementId: "G-0ZPYCREFWT",
+  // Meta (Facebook) Pixel. Loads only on the production domain after the
+  // visitor accepts analytics cookies; empty string disables it entirely.
+  metaPixelId: "1135646996827634",
 };

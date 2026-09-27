@@ -1,5 +1,7 @@
 export const CONSENT_KEY = "wmf-analytics-choice";
 export const CONSENT_EVENT = "wmf-cookie-settings";
+/** Fired in-tab when the visitor makes or changes their cookie choice. */
+export const CONSENT_CHANGED = "wmf-consent-changed";
 export const CONSENT_MAX_AGE = 180 * 24 * 60 * 60 * 1000;
 export type AnalyticsChoice = "accepted" | "declined";
 

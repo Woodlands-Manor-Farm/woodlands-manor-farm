@@ -4,6 +4,7 @@ import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { ChatWidget } from "@/components/marketing/chat-widget";
 import { GoogleAnalytics } from "@/components/marketing/google-analytics";
+import { MetaPixel } from "@/components/marketing/meta-pixel";
 import { NewsletterPopup } from "@/components/marketing/newsletter-popup";
 import { StructuredData } from "@/components/seo/structured-data";
 import { SITE } from "@/lib/constants/seo";
@@ -55,6 +56,9 @@ export const metadata: Metadata = {
     images: ["/images/cottages/9792dd1b5f66d139.jpg"],
   },
   robots: { index: true, follow: true },
+  verification: {
+    other: { "facebook-domain-verification": "qdkafjy3e4ko6h2poa47oeazl43hyk" },
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -68,6 +72,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <NewsletterPopup />
         <ChatWidget />
         <GoogleAnalytics />
+        <MetaPixel />
       </body>
     </html>
   );
