@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { ANALYTICS } from "@/lib/constants/analytics";
-import { CONSENT_EVENT, CONSENT_KEY, isProductionHost, readAnalyticsChoice, type AnalyticsChoice } from "@/lib/analytics/consent";
+import { CONSENT_CHANGED, CONSENT_EVENT, CONSENT_KEY, isProductionHost, readAnalyticsChoice, type AnalyticsChoice } from "@/lib/analytics/consent";
 
 const SCRIPT_ID = "wmf-google-analytics";
 type AnalyticsWindow = Window & { dataLayer?: unknown[]; gtag?: (...args: unknown[]) => void };
@@ -86,6 +86,7 @@ export function GoogleAnalytics() {
   function choose(choice: AnalyticsChoice) {
     try { localStorage.setItem(CONSENT_KEY, JSON.stringify({ choice, savedAt: Date.now() })); } catch { /* Choice still applies for this visit. */ }
     applyChoice(choice);
+    window.dispatchEvent(new Event(CONSENT_CHANGED));
     setOpen(false);
   }
 
