@@ -14,7 +14,7 @@ import styles from "./reviews.module.css";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "Guest Reviews — Stories from a Stay at Woodlands",
+  title: "Guest Reviews, Stories from a Stay at Woodlands",
   description: "Read guest stories from Woodlands Manor Farm: family holidays, peaceful cottage stays and yurt adventures near Bude. Reviews from Google, Airbnb and Tripadvisor.",
   alternates: { canonical: "/reviews/" },
 };

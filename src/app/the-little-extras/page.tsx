@@ -12,11 +12,11 @@ import { SITE } from "@/lib/constants/seo";
 export const metadata: Metadata = {
   title: "The Little Extras",
   description:
-    "Welcome packs, a private chef, in-cottage spa treatments, grocery delivery and EV charging — the optional extras you can arrange before your stay.",
+    "Welcome packs, a private chef, in-cottage spa treatments, grocery delivery and EV charging, the optional extras you can arrange before your stay.",
   alternates: { canonical: "/the-little-extras/" },
 };
 
-// NOTE: card images are stand-ins reused from elsewhere on the site —
+// NOTE: card images are stand-ins reused from elsewhere on the site,
 // to be replaced with dedicated photos for each extra.
 const EXTRAS = [
   {
@@ -24,7 +24,7 @@ const EXTRAS = [
     alt: "Welcome pack essentials in a cottage kitchen at Woodlands Manor Farm",
     type: "Included",
     name: "Welcome pack",
-    body: "Tea, coffee, milk, sugar, herbs, salt and pepper waiting on the kitchen counter — included free with every stay.",
+    body: "Tea, coffee, milk, sugar, herbs, salt and pepper waiting on the kitchen counter, included free with every stay.",
     detail: "Free with every stay",
     email: SITE.contact.email,
   },
@@ -88,7 +88,7 @@ const EXTRAS = [
     alt: "A cottage sitting room at Woodlands Manor Farm",
     type: "Included",
     name: "Super-fast broadband",
-    body: "Woodlands Manor Farm has a super-fast broadband connection and complimentary WiFi throughout all cottages and yurts — strong enough for working, streaming and video calls at the same time.",
+    body: "Woodlands Manor Farm has a super-fast broadband connection and complimentary WiFi throughout all cottages and yurts, strong enough for working, streaming and video calls at the same time.",
     detail: "Complimentary WiFi throughout",
   },
   {
@@ -113,7 +113,7 @@ export default function Page() {
             The little <em>extras</em>
           </>
         }
-        description="Welcome packs, a private chef, in-cottage spa treatments, grocery delivery and EV charging — the small things you can arrange before you arrive."
+        description="Welcome packs, a private chef, in-cottage spa treatments, grocery delivery and EV charging, the small things you can arrange before you arrive."
       />
       <AboutSubnav activeHref="/the-little-extras/" />
 
@@ -123,7 +123,7 @@ export default function Page() {
           Make your stay <em>easier</em>
         </h2>
         <p className={styles.sectionBody}>
-          Some things make a holiday — a welcome pack waiting for you, a private chef cooking
+          Some things make a holiday, a welcome pack waiting for you, a private chef cooking
           dinner, a spa treatment in your cottage, the shopping already in the fridge. Please
           book experiences and extras in advance. For general arrangements, the easiest way is to{" "}
           <a href={`mailto:${SITE.contact.email}`} className={styles.inlineLink}>

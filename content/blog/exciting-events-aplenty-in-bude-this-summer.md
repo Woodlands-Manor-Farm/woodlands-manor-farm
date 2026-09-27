@@ -9,7 +9,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/exciting-events-aplenty-in-bude-th
 category: "Archive"
 ---
 
-> **From the archive — summer 2023.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+> **From the archive, summer 2023.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
 
 ## Exciting Events Aplenty in Bude this Summer
 

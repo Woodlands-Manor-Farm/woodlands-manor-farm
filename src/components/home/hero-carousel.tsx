@@ -9,22 +9,22 @@ const SLIDES = [
   {
     src: "/images/home/aerial-rose-honeysuckle-jasmine.jpg",
     alt: "Aerial view of the cottages surrounded by Cornish countryside",
-    caption: "The farm from above — Coombe Valley, Cornwall",
+    caption: "The farm from above, Coombe Valley, Cornwall",
   },
   {
     src: "/images/home/farm-courtyard-cottages.jpg",
     alt: "Woodlands Manor Farm courtyard and cottages in the sunshine, Bude Cornwall",
-    caption: "The farm courtyard — Woodlands Manor Farm",
+    caption: "The farm courtyard, Woodlands Manor Farm",
   },
   {
     src: "/images/home/playing-field-kites.jpg",
     alt: "Children flying kites in the meadow with Cornish hills beyond",
-    caption: "The playing field — space for the whole family",
+    caption: "The playing field, space for the whole family",
   },
   {
     src: "/images/home/c2909c0800e4042d.jpg",
     alt: "Heated indoor swimming pool at Woodlands Manor Farm",
-    caption: "Heated indoor pool — warm 30°C all year",
+    caption: "Heated indoor pool, warm 30°C all year",
   },
 ];
 
@@ -32,7 +32,7 @@ export function HeroCarousel() {
   const [active, setActive] = useState(0);
   // Only the first slide loads up front (it is the LCP image). The remaining
   // slides mount once the browser is idle, so the homepage's initial payload
-  // is one hero image instead of four — a big mobile LCP/payload win.
+  // is one hero image instead of four, a big mobile LCP/payload win.
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {

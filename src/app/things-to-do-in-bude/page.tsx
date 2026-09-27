@@ -12,7 +12,7 @@ const ATTRACTIONS = [
   {
     distance: "6 miles",
     name: "The Castle, Bude",
-    body: "Bude's historic castle beside the canal, built in the 1830s by local inventor Sir Goldsworthy Gurney — famously on a raft of sand. Now a heritage centre with a museum telling Bude's story, an art gallery, gift shop and a café with lovely canal views.",
+    body: "Bude's historic castle beside the canal, built in the 1830s by local inventor Sir Goldsworthy Gurney, famously on a raft of sand. Now a heritage centre with a museum telling Bude's story, an art gallery, gift shop and a café with lovely canal views.",
     href: "https://www.thecastlebude.co.uk/",
   },
   {
@@ -24,13 +24,13 @@ const ATTRACTIONS = [
   {
     distance: "6 miles",
     name: "Teylu Glass",
-    body: "A friendly glass studio in Bude running creative glass workshops for all ages (5+), alongside a gallery of beautiful handmade pieces. Book a hands-on class or simply browse for a special, locally-made gift — a perfect rainy-day activity.",
+    body: "A friendly glass studio in Bude running creative glass workshops for all ages (5+), alongside a gallery of beautiful handmade pieces. Book a hands-on class or simply browse for a special, locally-made gift, a perfect rainy-day activity.",
     href: "https://www.teyluglass.co.uk/",
   },
   {
     distance: "6 miles",
     name: "Budehaven Recreation Ground",
-    body: "A much-loved recreation ground in the heart of Bude, run as a charitable trust since 1923. Tennis and squash courts, crazy golf, putting, bowls, table tennis and a café — great affordable family fun right by the town and beaches.",
+    body: "A much-loved recreation ground in the heart of Bude, run as a charitable trust since 1923. Tennis and squash courts, crazy golf, putting, bowls, table tennis and a café, great affordable family fun right by the town and beaches.",
     href: "https://budehavenrec.com/",
   },
   {
@@ -42,13 +42,13 @@ const ATTRACTIONS = [
   {
     distance: "20 miles",
     name: "The Big Sheep",
-    body: "A multi-award-winning family theme park just over the Devon border near Bideford. Sheep racing, duck trials, live shows, big rides and a huge indoor play barn — a brilliant full day out whatever the weather.",
+    body: "A multi-award-winning family theme park just over the Devon border near Bideford. Sheep racing, duck trials, live shows, big rides and a huge indoor play barn, a brilliant full day out whatever the weather.",
     href: "https://thebigsheep.co.uk/",
   },
   {
     distance: "30 miles",
     name: "Tintagel Castle",
-    body: "One of the most spectacular historic sites in Britain. Built half on the mainland and half on a jagged headland, it is associated with the legend of King Arthur. English Heritage site — book in advance.",
+    body: "One of the most spectacular historic sites in Britain. Built half on the mainland and half on a jagged headland, it is associated with the legend of King Arthur. English Heritage site, book in advance.",
     href: "https://www.english-heritage.org.uk/visit/places/tintagel-castle/",
   },
   {
@@ -60,7 +60,7 @@ const ATTRACTIONS = [
   {
     distance: "60 miles",
     name: "The Eden Project",
-    body: "Home to the world's largest indoor rainforest. Eden's tropical biome houses an incredible selection of plants. One of Cornwall's most iconic attractions — book well in advance in summer.",
+    body: "Home to the world's largest indoor rainforest. Eden's tropical biome houses an incredible selection of plants. One of Cornwall's most iconic attractions, book well in advance in summer.",
     href: "https://www.edenproject.com/",
   },
   {
@@ -72,13 +72,13 @@ const ATTRACTIONS = [
   {
     distance: "14 miles",
     name: "The Milky Way Adventure Park",
-    body: "A fantastic adventure park for the whole family — rides, shows, indoor play and outdoor attractions. Perfect for a full day out with children of all ages.",
+    body: "A fantastic adventure park for the whole family, rides, shows, indoor play and outdoor attractions. Perfect for a full day out with children of all ages.",
     href: "https://www.themilkyway.co.uk/",
   },
   {
     distance: "28 miles",
     name: "Bodmin Steam Railway",
-    body: "Cornwall's premier steam railway — a 13-mile round trip through stunning scenery. Christmas specials with Santa, dining services and murder mystery events on selected dates.",
+    body: "Cornwall's premier steam railway, a 13-mile round trip through stunning scenery. Christmas specials with Santa, dining services and murder mystery events on selected dates.",
     href: "https://bodminrailway.co.uk/",
   },
 ];
@@ -86,7 +86,7 @@ const ATTRACTIONS = [
 export const metadata: Metadata = {
   title: "Things to Do in Bude",
   description:
-    "Family days out, gardens, castles and attractions within easy reach of Woodlands Manor Farm, Bude — Andy and Ruth's personal picks across North Cornwall and North Devon.",
+    "Family days out, gardens, castles and attractions within easy reach of Woodlands Manor Farm, Bude, Andy and Ruth's personal picks across North Cornwall and North Devon.",
   alternates: { canonical: "/things-to-do-in-bude/" },
 };
 
@@ -103,7 +103,7 @@ export default function Page() {
             <em>in &amp; around Bude</em>
           </>
         }
-        description="Two miles from the farm, Cornwall begins in earnest. Beaches, coastline, castles, gardens and adventures — Andy and Ruth's personal picks."
+        description="Two miles from the farm, Cornwall begins in earnest. Beaches, coastline, castles, gardens and adventures, Andy and Ruth's personal picks."
       />
       <AboutSubnav activeHref="/things-to-do-in-bude/" />
 
@@ -151,7 +151,7 @@ export default function Page() {
 
       <CtaStrip
         title="Make the most of North Cornwall."
-        body="Book your stay at Woodlands Manor Farm — the perfect base."
+        body="Book your stay at Woodlands Manor Farm, the perfect base."
       />
     </>
   );

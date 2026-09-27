@@ -11,7 +11,7 @@ We’re absolutely thrilled to share some wonderful news: Woodlands Manor Farm h
 
 ## **What Is the TripAdvisor Travellers’ Choice Award?**
 
-[The Travellers’ Choice Award](https://www.tripadvisor.co.uk/TravelersChoice) has been running since 2002 and is one of travel’s most respected accolades. Unlike traditional industry awards, it’s based entirely on real reviews and ratings collected over a 12-month period from travellers around the world — no entrance fees, no editorial bias, just honest guest feedback.
+[The Travellers’ Choice Award](https://www.tripadvisor.co.uk/TravelersChoice) has been running since 2002 and is one of travel’s most respected accolades. Unlike traditional industry awards, it’s based entirely on real reviews and ratings collected over a 12-month period from travellers around the world, no entrance fees, no editorial bias, just honest guest feedback.
 
 Winning places a property in the top 10% of all listings on Tripadvisor globally,  a reflection of consistently outstanding hospitality.
 
@@ -19,13 +19,13 @@ Winning places a property in the top 10% of all listings on Tripadvisor globally
 
 For Ruth, Andy, and the whole team at Woodlands Manor Farm, this award is deeply personal. We put our hearts into every stay, from the warm welcome when you arrive to making sure the pool is warm all year round, the cottages are ready and waiting, and the animals are ready for their morning feeding session.
 
-Reading the reviews that contributed to this award has been genuinely moving. Guests describing Woodlands as ‘the best place we’ve ever stayed’ or ‘a holiday we’ll never forget’ — that’s everything we work for.
+Reading the reviews that contributed to this award has been genuinely moving. Guests describing Woodlands as ‘the best place we’ve ever stayed’ or ‘a holiday we’ll never forget’, that’s everything we work for.
 
 ## **Our Guests Said It Best**
 
 Here are just a few of the reviews that helped us earn this award:
 
-_“A truly beautiful idyllic location with fantastic facilities and breathtaking views. We didn’t hesitate to book again — and somehow, this year’s stay was even better!”_
+_“A truly beautiful idyllic location with fantastic facilities and breathtaking views. We didn’t hesitate to book again, and somehow, this year’s stay was even better!”_
 
 _“The hosts couldn’t do enough for us. Indoor pool was a lovely treat. Grandkids loved feeding the animals. Will definitely return.”_
 
@@ -37,6 +37,6 @@ Whether you’re looking for a cosy retreat for two in The Coach House, a family
 
 Set in the stunning Coombe Valley just six miles from Bude, you’ll enjoy our indoor heated pool, farm animals, games room, woodland walks, and some of Cornwall’s finest National Trust beaches on your doorstep.
 
-Thank you — from the bottom of our hearts — to every guest who has shared their experience with us on Tripadvisor. You’ve made this possible.
+Thank you, from the bottom of our hearts, to every guest who has shared their experience with us on Tripadvisor. You’ve made this possible.
 
 **[Book direct](https://woodlandsmanorfarm.co.uk/holiday-cottage-direct-booking-woodlands-cornwall/) or call Andy on 07887 677 354.**

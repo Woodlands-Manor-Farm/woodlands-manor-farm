@@ -9,7 +9,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/christmas-in-bude-2025/"
 category: "Archive"
 ---
 
-> **From the archive — Christmas 2025.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+> **From the archive, Christmas 2025.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
 
 ## Christmas **in Bude & at Woodlands Manor Farm: A Magical Festive Escape**
 
@@ -19,7 +19,7 @@ From twinkling markets and creative Christmas crafts to festive light trails, ca
 
 ### 1\. Christmas Day Swim at Crooklets Beach
 
-A beloved local tradition and the highlight of everyone’s Christmas in Bude! On **[25 December 2025,](https://www.visitbude.info/event/christmas-day-swim/2025-12-25/) 10:45 – 12:00**, brave souls gather at Crooklets Beach to dash into the chilly Atlantic waters—without wetsuits! This iconic swim raises money for the Bude Surf Life Saving Club and is a heartwarming (and heart-racing) way to start Christmas Day.
+A beloved local tradition and the highlight of everyone’s Christmas in Bude! On **[25 December 2025,](https://www.visitbude.info/event/christmas-day-swim/2025-12-25/) 10:45 – 12:00**, brave souls gather at Crooklets Beach to dash into the chilly Atlantic waters, without wetsuits! This iconic swim raises money for the Bude Surf Life Saving Club and is a heartwarming (and heart-racing) way to start Christmas Day.
 
 **Tip:** Spectators welcome. Wrap up warm, bring a flask, and cheer from the shore!
 
@@ -30,9 +30,9 @@ A beloved local tradition and the highlight of everyone’s Christmas in Bude! O
 From **Friday 5 to Sunday 7 December**, enjoy a weekend full of festive fun it really is a must if you are having an early Christmas in Bude:
 
 -   **Glow Evening (Fri 5 Dec, 16:30–18:00):** Light displays, live music, kids’ trail.
-    
+
 -   **Sat & Sun (11:00–16:00):** Craft workshops, Santa visit, artisan stalls, live performances.
-    
+
 
 A family-friendly, festive weekend in the heart of Bude.
 
@@ -43,7 +43,7 @@ A family-friendly, festive weekend in the heart of Bude.
 3\. Christmas Markets & Artisan Shopping
 
 -   **The Castle Christmas Market:** Overlapping with the Enchanted Castle event, a great spot for festive finds.
-    
+
 -   **Bude Shops:**  Bude boasts a wealth of independent shops, galleries and deli food stores for you to enjoy over the Christmas season.
 
 **Tip:** Come early for the best picks. Ideal for unique gifts and local treats.
@@ -55,9 +55,9 @@ A family-friendly, festive weekend in the heart of Bude.
 Throughout December, enjoy:
 
 -   **[Bude Metric Brass Band at Falcon Hotel](https://www.visitbude.info/event/the-falcon-hotel-christmas-carols-with-the-bude-metric-brass-band/#:~:text=Join%20us%20for%20an%20evening%20of%20festive,Metric%20Brass%20Band!%20Gather%20with%20family%20and),** performing in local venues.
-    
+
 -   Carol spends evenings in pubs, hotels, and public spaces.
-    
+
 
 **Tip:** Check local boards for up-to-date listings. A wonderful way to spend an evening after a beach walk.
 
@@ -66,11 +66,11 @@ Throughout December, enjoy:
 Clear your head and fill your lungs with fresh sea air. Top routes:
 
 -   Bude to Northcott Mouth
-    
+
 -   Widemouth Bay
-    
+
 -   Crackington Haven coastal trail
-    
+
 
 **Tip:** Check out these [Bude walks](https://www.visitbude.info/visit/walks-guides/) and dress in layers and check tides. Great post-lunch or pre-dinner activity.
 
@@ -81,11 +81,11 @@ Clear your head and fill your lungs with fresh sea air. Top routes:
 Independent shops open late on selected evenings. Plus, many local restaurants offer special menus for:
 
 -   Christmas Eve
-    
+
 -   Christmas Day lunch
-    
+
 -   Boxing Day
-    
+
 
 **Tip:** Book early to avoid disappointment. Ask your accommodation provider for local recommendations.
 

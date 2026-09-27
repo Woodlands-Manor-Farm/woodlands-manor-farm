@@ -44,7 +44,7 @@ const EXPERIENCES = [
     alt: "Wedding setup at Woodlands",
     type: "Exclusive use",
     name: "Weddings & events",
-    body: `Hire the whole farm exclusively for your wedding, milestone birthday, corporate retreat or family reunion. Seven cottages and two yurts accommodate ${TOTAL_GUEST_CAPACITY} guests, with the pool and games room, plus a variety of locations to choose from — the courtyard, orchard and playing field. ${CAMP_BED_NOTE}`,
+    body: `Hire the whole farm exclusively for your wedding, milestone birthday, corporate retreat or family reunion. Seven cottages and two yurts accommodate ${TOTAL_GUEST_CAPACITY} guests, with the pool and games room, plus a variety of locations to choose from, the courtyard, orchard and playing field. ${CAMP_BED_NOTE}`,
     detail: `Sleeps ${TOTAL_GUEST_CAPACITY} · Camp beds by prior agreement`,
   },
   {
@@ -60,7 +60,7 @@ const EXPERIENCES = [
 export const metadata: Metadata = {
   title: "Experiences, Weddings & Events",
   description:
-    "Hire Woodlands Manor Farm exclusively for weddings, family celebrations, retreats — or join the Feed the Animals tour, pony experience or a surf lesson.",
+    "Hire Woodlands Manor Farm exclusively for weddings, family celebrations, retreats, or join the Feed the Animals tour, pony experience or a surf lesson.",
   alternates: { canonical: "/experiences-weddings-events/" },
 };
 
@@ -100,7 +100,7 @@ export default function Page() {
         </h2>
         <p className={styles.sectionLead}>
           Some are free with every stay (the Feed the Animals tour, pool sessions). Others are
-          bookable add-ons (pony experiences, retreats). And some — weddings, exclusive-use — take
+          bookable add-ons (pony experiences, retreats). And some, weddings, exclusive-use, take
           over the whole farm. Please book animal experiences and other experiences in advance,
           including activities arranged through our partners.
         </p>
@@ -130,7 +130,7 @@ export default function Page() {
           </h2>
           <p className={`${styles.sectionLead} ${styles.sectionLeadLight}`}>
             Reunions, weddings, milestone birthdays, corporate retreats, school trips, hen
-            weekends — book the entire farm exclusively for up to {TOTAL_GUEST_CAPACITY} guests
+            weekends, book the entire farm exclusively for up to {TOTAL_GUEST_CAPACITY} guests
             across seven cottages and two yurts, with the pool, games room, fields and animals
             all to yourselves. {CAMP_BED_NOTE}
           </p>

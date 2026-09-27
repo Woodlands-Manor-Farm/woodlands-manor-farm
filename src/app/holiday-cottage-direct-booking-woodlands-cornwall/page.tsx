@@ -7,9 +7,9 @@ import { PROPERTIES } from "@/lib/constants/properties";
 import { SITE } from "@/lib/constants/seo";
 
 export const metadata: Metadata = {
-  title: "Book Direct — Best Price Guaranteed",
+  title: "Book Direct, Best Price Guaranteed",
   description:
-    "Book a holiday cottage or yurt direct with Woodlands Manor Farm — no booking fees, best price guaranteed, talk to Andy & Ruth direct.",
+    "Book a holiday cottage or yurt direct with Woodlands Manor Farm, no booking fees, best price guaranteed, talk to Andy & Ruth direct.",
   alternates: { canonical: "/holiday-cottage-direct-booking-woodlands-cornwall/" },
 };
 
@@ -27,12 +27,12 @@ const WHY_REASONS = [
   {
     icon: "👤",
     title: "Talk to Andy & Ruth",
-    body: "Call or email us and you speak to the owners — not a call centre. Any question, any special request, any time.",
+    body: "Call or email us and you speak to the owners, not a call centre. Any question, any special request, any time.",
   },
   {
     icon: "🎁",
     title: "Returning guest discount",
-    body: "Come back and you get a discount code at departure. Redeemable on your next direct booking — our way of saying thank you.",
+    body: "Come back and you get a discount code at departure. Redeemable on your next direct booking, our way of saying thank you.",
   },
 ];
 
@@ -42,7 +42,7 @@ export default function Page() {
       <section className={styles.hero}>
         <Image
           src="/images/about/f768b622b6cab139.jpg"
-          alt="Woodlands Manor Farm — book direct for the best rate"
+          alt="Woodlands Manor Farm, book direct for the best rate"
           fill
           priority
           sizes="100vw"
@@ -65,7 +65,7 @@ export default function Page() {
             <div className={styles.heroBadgeLabel}>Booking powered by</div>
             <h3>Supercontrol</h3>
             <p className={styles.heroBadgeNote}>
-              Secure, trusted booking engine — same system used by the UK&rsquo;s leading holiday
+              Secure, trusted booking engine, same system used by the UK&rsquo;s leading holiday
               cottage agencies.
             </p>
             <a href="#booking-widget" className={styles.btnPrimary}>
@@ -98,8 +98,8 @@ export default function Page() {
           </h2>
           <p className={styles.sectionLead}>
             Select your arrival and departure dates and choose your property from the calendar
-            below. The booking system is provided by Supercontrol — the UK&rsquo;s leading
-            holiday cottage booking platform — so you can book with complete confidence.
+            below. The booking system is provided by Supercontrol, the UK&rsquo;s leading
+            holiday cottage booking platform, so you can book with complete confidence.
           </p>
 
           <div
@@ -193,7 +193,7 @@ export default function Page() {
           Need a hand? <em>Talk to us.</em>
         </h2>
         <p>
-          For group bookings, special requests, or if you just want to chat through the options —
+          For group bookings, special requests, or if you just want to chat through the options,
           Andy will pick up.
         </p>
         <div className={styles.finalCtaButtons}>

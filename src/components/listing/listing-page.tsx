@@ -113,12 +113,12 @@ export function ListingPage({
             <p className={styles.groupText}>
               Book multiple cottages together for reunions, milestone birthdays, hen parties or
               family holidays. All seven cottages and two yurts sleeping up to {TOTAL_GUEST_CAPACITY}{" "}
-              guests can be reserved exclusively — with the pool, games room and farm all to
+              guests can be reserved exclusively, with the pool, games room and farm all to
               yourselves. {CAMP_BED_NOTE}
             </p>
             <div className={styles.groupCtas}>
               <a href={`tel:${SITE.contact.phone}`} className={styles.btnPrimary}>
-                Call Andy — {SITE.contact.phoneDisplay}
+                Call Andy, {SITE.contact.phoneDisplay}
               </a>
               <a href={`mailto:${SITE.contact.email}`} className={styles.btnOutline}>
                 Email us

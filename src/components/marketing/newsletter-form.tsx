@@ -158,7 +158,7 @@ export function NewsletterForm({
           popup ? "text-[var(--color-text-light)]" : "text-[rgba(247,243,238,0.85)]",
         )}
       >
-        No spam, ever — just offers and farm news about once a month. Unsubscribe any time. See our{" "}
+        No spam, ever, just offers and farm news about once a month. Unsubscribe any time. See our{" "}
         <Link href="/privacy/" className="underline hover:no-underline">
           privacy policy
         </Link>

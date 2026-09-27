@@ -24,7 +24,7 @@ const OFFERS: Offer[] = [
     label: "When available",
     title: "Last-minute deals",
     save: "Late availability",
-    body: "When we have late availability, we list the discount right here. Please check back regularly — or sign up below and we’ll email you the moment a deal goes live.",
+    body: "When we have late availability, we list the discount right here. Please check back regularly, or sign up below and we’ll email you the moment a deal goes live.",
     variant: "lastMin",
     cta: "notify",
   },
@@ -50,22 +50,22 @@ const OFFERS: Offer[] = [
     key: "group",
     label: "Groups & whole-farm",
     title: "Take the whole farm",
-    body: `Booking three or more properties — or the whole farm for up to ${TOTAL_GUEST_CAPACITY} guests? Contact Andy for a group discount tailored to your dates.`,
+    body: `Booking three or more properties, or the whole farm for up to ${TOTAL_GUEST_CAPACITY} guests? Contact Andy for a group discount tailored to your dates.`,
     cta: "contact",
   },
 ];
 
 const WHY = [
-  { icon: "💷", title: "Best price, direct", body: "Book direct for our best rate — no third-party mark-up or commission." },
+  { icon: "💷", title: "Best price, direct", body: "Book direct for our best rate, no third-party mark-up or commission." },
   { icon: "🎟️", title: "No booking fees", body: "Zero booking or card fees. The price you see is the price you pay." },
-  { icon: "🤝", title: "Straight to Andy & Ruth", body: "Deal directly with your hosts — not a call centre or agency." },
-  { icon: "🗓️", title: "Flexible & personal", body: "Tailor dates, add extras or ask anything — just get in touch." },
+  { icon: "🤝", title: "Straight to Andy & Ruth", body: "Deal directly with your hosts, not a call centre or agency." },
+  { icon: "🗓️", title: "Flexible & personal", body: "Tailor dates, add extras or ask anything, just get in touch." },
 ];
 
 export const metadata: Metadata = {
   title: "Special Offers",
   description:
-    "Last-minute deals, out-of-season breaks, a returning-guest discount and group rates at Woodlands Manor Farm, Bude — all when you book direct.",
+    "Last-minute deals, out-of-season breaks, a returning-guest discount and group rates at Woodlands Manor Farm, Bude, all when you book direct.",
   alternates: { canonical: "/special-offers/" },
 };
 
@@ -89,7 +89,7 @@ export default function Page() {
               Special <em>offers</em>
             </h1>
             <p>
-              Our current deals live on this page — plus every direct booking gets our best rate,
+              Our current deals live on this page, plus every direct booking gets our best rate,
               with no fees. New last-minute and seasonal offers are added here as they come up.
             </p>
           </div>
@@ -97,7 +97,7 @@ export default function Page() {
             <span className={styles.heroBadgeLabel}>Book direct</span>
             <h3>Best price, guaranteed</h3>
             <p className={styles.heroBadgeNote}>
-              No booking fees, no commission — and you’re dealing straight with Andy &amp; Ruth.
+              No booking fees, no commission, and you’re dealing straight with Andy &amp; Ruth.
             </p>
             <Link href={BOOK_HREF} className={styles.btnPrimary}>
               Check availability
@@ -124,7 +124,7 @@ export default function Page() {
           Offers that <em>fit your stay</em>
         </h2>
         <p className={styles.sectionLead}>
-          Some of our deals come and go with the seasons and late availability — we list those here
+          Some of our deals come and go with the seasons and late availability, we list those here
           the moment they’re on, so it’s worth checking back. Others are always here for returning
           guests and groups.
         </p>
@@ -179,7 +179,7 @@ export default function Page() {
             </h2>
             <p className={`${styles.sectionLead} ${styles.sectionLeadLight}`} style={{ marginBottom: 0 }}>
               Last-minute and out-of-season deals go fast. Join our newsletter and we’ll email you
-              the moment a new offer goes live — no spam, unsubscribe any time.
+              the moment a new offer goes live, no spam, unsubscribe any time.
             </p>
           </div>
           <div style={{ maxWidth: 520 }}>

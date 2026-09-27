@@ -9,7 +9,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/bude-whats-on-guide-october-half-t
 category: "Archive"
 ---
 
-> **From the archive — October half term 2024.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+> **From the archive, October half term 2024.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
 
 ## Exploring North Cornwall: Bude in the October Autumn Half Term 2024
 

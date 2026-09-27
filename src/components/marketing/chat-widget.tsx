@@ -4,7 +4,7 @@ import { useCallback, useState } from "react";
 import { NEWSLETTER } from "@/lib/constants/newsletter";
 
 /**
- * Brevo Conversations live chat — gated so nothing loads (and no cookie is
+ * Brevo Conversations live chat, gated so nothing loads (and no cookie is
  * set) until the visitor actually clicks the bubble. We render our own
  * launcher; the first click injects Brevo's script and opens the chat, after
  * which Brevo's own launcher/window takes over.
@@ -22,7 +22,7 @@ export function ChatWidget() {
     };
 
     if (!activated) {
-      // Standard Brevo install snippet — only runs now, on first click.
+      // Standard Brevo install snippet, only runs now, on first click.
       w.BrevoConversationsID = id;
       w.BrevoConversations =
         w.BrevoConversations ||
@@ -40,7 +40,7 @@ export function ChatWidget() {
     w.BrevoConversations?.("openChat", true);
   }, [activated]);
 
-  // No ID configured, or Brevo's own launcher has taken over — render nothing.
+  // No ID configured, or Brevo's own launcher has taken over, render nothing.
   if (!NEWSLETTER.brevoConversationsId || activated) return null;
 
   return (

@@ -6,7 +6,7 @@ import { LegalPage, legalStyles as s } from "@/components/legal/legal-page";
 export const metadata: Metadata = {
   title: "Dog Rules",
   description:
-    "Our dog policy at Woodlands Manor Farm — well-behaved dogs are very welcome in every cottage and yurt.",
+    "Our dog policy at Woodlands Manor Farm, well-behaved dogs are very welcome in every cottage and yurt.",
   alternates: { canonical: "/dog-rules/" },
 };
 
@@ -22,7 +22,7 @@ export default function Page() {
           <p style={{ marginBottom: 16 }}>
             Well-behaved dogs are very welcome at Woodlands Manor Farm in every one of our
             cottages and yurts. We have farm animals, woodland walks and miles of dog-friendly
-            Cornish coastline — see our{" "}
+            Cornish coastline, see our{" "}
             <Link href="/dog-friendly-holiday-cottages-bude/">dog friendly holidays page</Link> for
             everything your dog can look forward to. Below is what we ask in return.
           </p>
@@ -55,12 +55,12 @@ export default function Page() {
             <>
               <p>
                 Many guests bring dogs that have never been around livestock. The first time
-                seeing alpacas, sheep or pigs can be exciting — please:
+                seeing alpacas, sheep or pigs can be exciting, please:
               </p>
               <ul>
                 <li>Always keep your dog on a lead near the animal paddocks.</li>
                 <li>Don&rsquo;t allow your dog to bark at, chase or stress the animals.</li>
-                <li>Take care around chickens — they wander freely in the courtyard.</li>
+                <li>Take care around chickens, they wander freely in the courtyard.</li>
                 <li>If your dog has a strong prey drive, give the animal areas a wide berth.</li>
               </ul>
               <div className={s.warn}>
@@ -81,11 +81,11 @@ export default function Page() {
                 West Coast Path.
               </p>
               <ul>
-                <li>Bluebell woodland walk — dogs may be off lead while kept under control.</li>
-                <li>Meadow — dogs may be off lead while kept under control.</li>
-                <li>Playing field, farmyard and courtyard — dogs must be on leads.</li>
-                <li>Coombe Valley walk — 2 miles to Duckpool Beach (dog-friendly all year).</li>
-                <li>Coast path — Duckpool to Sandymouth is one of our favourite local walks.</li>
+                <li>Bluebell woodland walk, dogs may be off lead while kept under control.</li>
+                <li>Meadow, dogs may be off lead while kept under control.</li>
+                <li>Playing field, farmyard and courtyard, dogs must be on leads.</li>
+                <li>Coombe Valley walk, 2 miles to Duckpool Beach (dog-friendly all year).</li>
+                <li>Coast path, Duckpool to Sandymouth is one of our favourite local walks.</li>
               </ul>
             </>
           ),
@@ -118,7 +118,7 @@ export default function Page() {
           title: "If something goes wrong",
           content: (
             <p>
-              If your dog has an accident, breaks something or causes damage — please tell us. We
+              If your dog has an accident, breaks something or causes damage, please tell us. We
               know it happens. We&rsquo;d much rather hear about it on the day than discover it
               after you&rsquo;ve left.
             </p>

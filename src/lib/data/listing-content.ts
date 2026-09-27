@@ -4,9 +4,9 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/the-manor-house/",
     name: "Woodlands Manor House",
-    desc: "Our historic 17th-century farmhouse — a magnificent mix of original beams, slate floors, stone fireplaces and every modern comfort. Three lounges, a four-oven Aga, six bedrooms with romantic bedsteads, and a private mature garden. The one guests return to again and again.",
+    desc: "Our historic 17th-century farmhouse, a magnificent mix of original beams, slate floors, stone fireplaces and every modern comfort. Three lounges, a four-oven Aga, six bedrooms with romantic bedsteads, and a private mature garden. The one guests return to again and again.",
     img: "/images/the-manor-house/manor-exterior-garden.jpg",
-    alt: "Woodlands Manor House — stone lounge with beams",
+    alt: "Woodlands Manor House, stone lounge with beams",
     tags: [
       { label: "Flagship property", featured: true },
       { label: "Grade II Listed" },
@@ -22,9 +22,9 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/rose-cottage/",
     name: "Rose Cottage",
-    desc: "A large converted hay barn with two lounges and a glowing log burner. One double bedroom and bathroom downstairs, with another double, two twins and a bathroom upstairs — plenty of space for family groups.",
+    desc: "A large converted hay barn with two lounges and a glowing log burner. One double bedroom and bathroom downstairs, with another double, two twins and a bathroom upstairs, plenty of space for family groups.",
     img: "/images/rose-cottage/rose-fireplace.jpg",
-    alt: "Rose Cottage — stone fireplace and beamed lounge",
+    alt: "Rose Cottage, stone fireplace and beamed lounge",
     tags: [{ label: "Sleeps 8" }],
     stats: [
       { val: "8", label: "Guests" },
@@ -36,7 +36,7 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/jasmine-cottage/",
     name: "Jasmine Cottage",
-    desc: "A spacious barn conversion with three double bedrooms and a secret bookcase door in the ground-floor kitchen connecting to Lavender — book both cottages together for 10 guests. A stunning farm table and stone wood burner complete the stay.",
+    desc: "A spacious barn conversion with three double bedrooms and a secret bookcase door in the ground-floor kitchen connecting to Lavender, book both cottages together for 10 guests. A stunning farm table and stone wood burner complete the stay.",
     img: "/images/jasmine-cottage/jasmine-lounge.jpg",
     alt: "Jasmine Cottage kitchen dining",
     tags: [{ label: "Sleeps 6" }, { label: "Secret door" }],
@@ -50,9 +50,9 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/the-stables/",
     name: "The Stables",
-    desc: "Characterful and luxurious — open-plan living with a breathtaking valley view from the stone patio. Two bedrooms each with ensuite, and a freestanding bath in the master.",
+    desc: "Characterful and luxurious, open-plan living with a breathtaking valley view from the stone patio. Two bedrooms each with ensuite, and a freestanding bath in the master.",
     img: "/images/the-stables/stables-exterior-pond.jpg",
-    alt: "The Stables — light open-plan lounge",
+    alt: "The Stables, light open-plan lounge",
     tags: [{ label: "Sleeps 4" }, { label: "Valley view" }],
     stats: [
       { val: "4", label: "Guests" },
@@ -78,9 +78,9 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/the-coach-house/",
     name: "The Coach House",
-    desc: "Intimate and full of charm — a beautiful vaulted ceiling bedroom, super-king bed, shower room and stone-floored kitchen lounge. The perfect romantic retreat for two.",
+    desc: "Intimate and full of charm, a beautiful vaulted ceiling bedroom, super-king bed, shower room and stone-floored kitchen lounge. The perfect romantic retreat for two.",
     img: "/images/the-coach-house/coach-exterior.jpg",
-    alt: "Coach House — ivy-clad stone cottage",
+    alt: "Coach House, ivy-clad stone cottage",
     tags: [{ label: "Sleeps 2" }],
     stats: [
       { val: "2", label: "Guests" },
@@ -92,7 +92,7 @@ export const COTTAGE_CARDS: PropertyCardData[] = [
   {
     href: "/honeysuckle-cottage/",
     name: "Honeysuckle Cottage",
-    desc: "Ground floor and open plan — brilliant for couples or young families with small children. Peaceful, cosy, and with everything you need for a perfect break.",
+    desc: "Ground floor and open plan, brilliant for couples or young families with small children. Peaceful, cosy, and with everything you need for a perfect break.",
     img: "/images/honeysuckle-cottage/honeysuckle-kitchen-lounge.jpg",
     alt: "Honeysuckle Cottage kitchen lounge",
     tags: [{ label: "Sleeps 2" }, { label: "Single level" }],
@@ -111,7 +111,7 @@ export const YURT_CARDS: PropertyCardData[] = [
     name: "Budhyn Yurt",
     desc: "Authentic Mongolian glamping with a high-end wood burner at its heart. Super-king bed, two singles, your own private kitchen and bathroom, and a BBQ and picnic bench facing the meadow.",
     img: "/images/budhyn-yurt/budhyn-exterior-hero.jpg",
-    alt: "Budhyn Yurt exterior — authentic Mongolian yurt in the meadow",
+    alt: "Budhyn Yurt exterior, authentic Mongolian yurt in the meadow",
     tags: [{ label: "Glamping", featured: true }, { label: "Sleeps 4" }],
     stats: [
       { val: "4", label: "Guests" },
@@ -123,9 +123,9 @@ export const YURT_CARDS: PropertyCardData[] = [
   {
     href: "/fenton-yurt/",
     name: "Fenton Yurt",
-    desc: "Identical in luxury to Budhyn — nestled beside it by the woodland with the same wood-burner warmth, private bathroom and kitchen. Book both yurts together for a group of eight.",
+    desc: "Identical in luxury to Budhyn, nestled beside it by the woodland with the same wood-burner warmth, private bathroom and kitchen. Book both yurts together for a group of eight.",
     img: "/images/fenton-yurt/fenton-exterior-hero.jpg",
-    alt: "Fenton Yurt exterior — authentic Mongolian yurt by the woodland",
+    alt: "Fenton Yurt exterior, authentic Mongolian yurt by the woodland",
     tags: [{ label: "Glamping", featured: true }, { label: "Sleeps 4" }],
     stats: [
       { val: "4", label: "Guests" },

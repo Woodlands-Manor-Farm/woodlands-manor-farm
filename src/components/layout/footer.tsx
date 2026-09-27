@@ -149,7 +149,7 @@ export function Footer() {
               Last-minute offers &amp; farm news
             </h4>
             <p className="max-w-sm text-[13px] font-light leading-6 text-[rgba(247,243,238,0.85)]">
-              Late-availability deals and a short monthly newsletter from the farm. No spam —
+              Late-availability deals and a short monthly newsletter from the farm. No spam,
               unsubscribe any time.
             </p>
           </div>
@@ -192,7 +192,7 @@ export function Footer() {
       </div>
 
       <p className="mx-auto mt-4 max-w-6xl text-[11px] font-light leading-5 text-[rgba(247,243,238,0.85)]">
-        Woodlands Manor Farm Holidays Ltd — registered in England &amp; Wales, company no.
+        Woodlands Manor Farm Holidays Ltd, registered in England &amp; Wales, company no.
         13474637. Registered office: 79 Higher Bore Street, Bodmin, PL31 1JT.
       </p>
     </footer>

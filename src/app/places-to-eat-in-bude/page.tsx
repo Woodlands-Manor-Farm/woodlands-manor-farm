@@ -10,13 +10,13 @@ const PLACES = [
   {
     type: "Pub · 4 miles",
     name: "The Bush Inn",
-    body: "Andy & Ruth's local — a 13th-century inn at Morwenstow with seriously good food, dog-friendly bar and views to die for.",
+    body: "Andy & Ruth's local, a 13th-century inn at Morwenstow with seriously good food, dog-friendly bar and views to die for.",
     href: "https://thebushinn.co.uk/",
   },
   {
     type: "Restaurant · 6 miles",
     name: "Life's a Beach",
-    body: "Right on Summerleaze beach — proper Cornish food, fresh fish and a sunset view that's hard to beat.",
+    body: "Right on Summerleaze beach, proper Cornish food, fresh fish and a sunset view that's hard to beat.",
     href: "https://lifesabeach.info/",
   },
   {
@@ -40,7 +40,7 @@ const PLACES = [
   {
     type: "Restaurant · 6 miles",
     name: "The Castle Restaurant",
-    body: "Bude's go-to for special occasions — modern British, well-sourced, and the kind of place you book in advance.",
+    body: "Bude's go-to for special occasions, modern British, well-sourced, and the kind of place you book in advance.",
     href: "https://www.thecastlebude.co.uk/",
   },
 ];
@@ -63,7 +63,7 @@ export default function Page() {
             Places to <em>eat</em>
           </>
         }
-        description="Where the family go — restaurants, pubs, cafés and beach cafes within a short drive of Woodlands Manor Farm."
+        description="Where the family go, restaurants, pubs, cafés and beach cafes within a short drive of Woodlands Manor Farm."
       />
       <AboutSubnav activeHref="/places-to-eat-in-bude/" />
 
@@ -94,7 +94,7 @@ export default function Page() {
 
       <CtaStrip
         title="Stay where the food is."
-        body="Book your Cornish escape — local recommendations included."
+        body="Book your Cornish escape, local recommendations included."
       />
     </>
   );
