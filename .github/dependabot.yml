@@ -1,0 +1,22 @@
+# Dependabot keeps our dependencies up to date and flags security fixes.
+# It opens pull requests we can review and merge. Minor/patch updates are
+# grouped into tidy weekly PRs to keep the noise down; major updates (which
+# can contain breaking changes) come as individual PRs to review carefully.
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "deps"
+      prefix-development: "deps-dev"
+    groups:
+      production-dependencies:
+        dependency-type: "production"
+        update-types: ["minor", "patch"]
+      development-dependencies:
+        dependency-type: "development"
+        update-types: ["minor", "patch"]
