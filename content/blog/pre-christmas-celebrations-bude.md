@@ -39,6 +39,26 @@ The Castle Heritage Centre, right on Bude's seafront, usually hosts a festive we
 
 As well as the market at The Castle, keep an eye out for the Crackington Haven Christmas market, usually held mid-December at the village institute. It is a quieter, friendlier affair full of handmade crafts and festive stalls, and it pairs beautifully with a blustery coastal walk.
 
+### Christmas fayres across the area this year
+
+The villages around Bude put on a wonderful run of Christmas fayres through November and December, full of local crafts, cakes, raffles and festive cheer. Here is our round-up for this year. If you are running a fayre that is not on our list, do let us know and we will help spread the word.
+
+- **10 November:** The Weir, Bude
+- **14 November:** Bude Methodist Church, in aid of Animal Free Research UK
+- **19 November:** Bray Institute, Marhamchurch (Marhamchurch Revel)
+- **21 November:** Week St Mary Church
+- **21 November:** Kilkhampton Church
+- **21 November:** Bude Methodist Church Hall
+- **22 November:** Lee Barton
+- **28 November:** Stratton Church (St Andrew's Church, Stratton)
+- **5 December:** Parkhouse Centre and The Castle, Bude
+- **5 December:** The Bush Inn, Morwenstow
+- **5 December:** Kilkhampton Grenville Rooms
+- **12 December:** Penstowe Manor
+- **19 December:** Rosie's Kitchen
+
+Dates can change, so it is always worth checking with the organiser before you set off.
+
 ### Carols and live music
 
 Throughout December you will find carol evenings and live music in Bude's pubs, hotels and public spaces, including performances from the Bude Metric Brass Band. Check the local boards and the [Visit Bude](https://www.visitbude.info) listings, then round off the evening with supper somewhere cosy. Our guide to the [best places to eat in Bude](/places-to-eat-in-bude/) has our own favourites.
