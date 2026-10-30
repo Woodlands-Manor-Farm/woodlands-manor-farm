@@ -23,7 +23,7 @@ There is plenty to keep every generation happy on site, too. Our [heated indoor 
 
 ## Festive things to do in and around Bude
 
-The run-up to Christmas in Bude is full of character. Dates shift a little each year, so do check the latest listings before you travel, but these are the celebrations to look out for.
+The run-up to Christmas in Bude is full of character. Dates shift a little each year, so do check [Visit Bude's Christmas in Bude guide](https://www.visitbude.info/christmas-in-bude/) for all the latest festive events before you travel, but these are the celebrations to look out for.
 
 ### Christmas lights and late-night shopping
 
@@ -61,7 +61,7 @@ Dates can change, so it is always worth checking with the organiser before you s
 
 ### Carols and live music
 
-Throughout December you will find carol evenings and live music in Bude's pubs, hotels and public spaces, including performances from the Bude Metric Brass Band. Check the local boards and the [Visit Bude](https://www.visitbude.info) listings, then round off the evening with supper somewhere cosy. Our guide to the [best places to eat in Bude](/places-to-eat-in-bude/) has our own favourites.
+Throughout December you will find carol evenings and live music in Bude's pubs, hotels and public spaces, including performances from the Bude Metric Brass Band. Check the local boards and the [Christmas in Bude listings](https://www.visitbude.info/christmas-in-bude/), then round off the evening with supper somewhere cosy. Our guide to the [best places to eat in Bude](/places-to-eat-in-bude/) has our own favourites.
 
 ### A festive light trail at RHS Rosemoor
 
