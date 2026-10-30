@@ -83,8 +83,22 @@ If you are staying on over Christmas itself, the Christmas Day Swim at Crooklets
 
 The best part of a December day out is coming home to warm up. Back at Woodlands, light the log burner, let the little ones tire themselves out in the pool or the games room, and gather everyone round for a proper family evening. Order a [welcome hamper or arrange a few little extras](/the-little-extras/) to make the stay feel that bit more special, and let the farm work its quiet winter magic.
 
+## Pre-Christmas breaks in Bude: your questions answered
+
+**Do your holiday cottages have log burners?**
+Many of our cottages have log burners, perfect for cosy December evenings. Let us know when you enquire and we will point you to the ones with a fire.
+
+**Can you put the Christmas decorations up before we arrive?**
+Yes. If you are staying before Christmas, just ask and we will have your cottage decorated, tree and all, ready for the moment you walk through the door.
+
+**Is Woodlands good for a big family or group gathering?**
+Absolutely. Our cottages range from snug boltholes for two up to the Manor House, which sleeps twelve, and larger groups can book several cottages side by side around the farm.
+
+**What is there to do near Bude in the run-up to Christmas?**
+Plenty. Christmas markets and village fayres, the festive weekend at The Castle, carol evenings, the RHS Rosemoor light trail, late-night shopping among Bude's independent shops, and bracing walks along the North Cornwall coast path.
+
 ## Plan your pre-Christmas escape
 
-December stays are popular and our cottages do book up, so it is worth planning ahead, especially if you need several cottages together for a larger group. Take a look at our current [special offers](/special-offers/), browse [our cottages and yurts](/bude-holiday-cottages/) to find the right fit for your group, and [book direct with us](/holiday-cottage-direct-booking-woodlands-cornwall/) for the best rate with no booking fees.
+December stays are popular and our cottages do book up, so it is worth planning ahead, especially if you need several cottages together for a larger group. Take a look at our current [special offers](/special-offers/), browse our [festive holiday cottages and yurts near Bude](/bude-holiday-cottages/) to find the right fit for your group, and [book direct with us](/holiday-cottage-direct-booking-woodlands-cornwall/) for the best rate with no booking fees.
 
 Gather your family and friends, and let us get the decorations up ready for you. We cannot wait to welcome you for a festive pre-Christmas celebration at Woodlands.
