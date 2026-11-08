@@ -31,6 +31,8 @@
 .otherPlatforms img { width: 108px; height: auto; }
 .airbnbWord { color: #b94749; font-size: 22px; font-weight: 500; letter-spacing: -.04em; }
 .platformDivider { width: 1px; height: 20px; background: #dedfd6; }
+.platformLink { display: inline-flex; align-items: center; text-decoration: none; color: inherit; transition: opacity .15s; }
+.platformLink:hover { opacity: .7; }
 .stories { max-width: 1300px; padding: 90px 40px 100px; margin: auto; scroll-margin-top: 90px; }
 .sectionHeading { display: grid; grid-template-columns: 1fr 1fr; align-items: end; gap: 80px; margin-bottom: 38px; }
 .sectionHeading .eyebrow { margin-bottom: 16px; }
