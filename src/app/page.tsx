@@ -3,6 +3,7 @@ import Link from "next/link";
 import styles from "./page.module.css";
 import { HeroCarousel } from "@/components/home/hero-carousel";
 import { GuestReviews, type HomeReview } from "@/components/home/guest-reviews";
+import { GoogleReviewScore } from "@/components/home/google-review-score";
 import { FarmVideo } from "@/components/ui/farm-video";
 import { SuperControlWidget } from "@/components/booking/super-control-widget";
 import { BOOK_HREF } from "@/lib/constants/nav";
@@ -291,7 +292,7 @@ export default function HomePage() {
             height={46}
             className={styles.ratingLogoGoogle}
           />
-          <span className={styles.ratingScore}>4.9 · 116 reviews</span>
+          <GoogleReviewScore className={styles.ratingScore} />
         </Link>
         <a
           href={TRIPADVISOR_URL}

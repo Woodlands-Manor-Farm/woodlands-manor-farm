@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 import styles from "@/app/page.module.css";
 import { cn } from "@/lib/utils";
+import { useGoogleSummary } from "@/components/home/use-google-summary";
 
 const SLIDES = [
   {
@@ -34,6 +35,7 @@ export function HeroCarousel() {
   // slides mount once the browser is idle, so the homepage's initial payload
   // is one hero image instead of four, a big mobile LCP/payload win.
   const [mounted, setMounted] = useState(false);
+  const google = useGoogleSummary();
 
   useEffect(() => {
     const t = setInterval(() => setActive((i) => (i + 1) % SLIDES.length), 6000);
@@ -110,7 +112,7 @@ export function HeroCarousel() {
               ★★★★★
             </span>
             <span>
-              <span className={styles.heroRatingScore}>4.9</span>/5 on Google · 115 reviews
+              <span className={styles.heroRatingScore}>{google.rating.toFixed(1)}</span>/5 on Google · {google.count} reviews
             </span>
           </span>
         </div>
