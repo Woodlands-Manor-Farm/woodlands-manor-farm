@@ -170,17 +170,25 @@ const NEARBY = [
 ];
 
 const BLOG_FEATURED = {
-  href: "/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/",
-  img: "/images/home/3c62af48f5d7d88b.jpg",
-  alt: "Children flying kites over the Cornish hills at Woodlands Manor Farm",
-  tag: "Awards",
-  title: "Woodlands Manor Farm wins six Booking.com Traveller Choice Awards 2026",
+  href: "/pre-christmas-celebrations-bude/",
+  img: "/images/blog/pre-christmas-celebrations-bude/winter-woodland-walk.webp",
+  alt: "Golden winter light through the woodland on a walk near Woodlands Manor Farm, Bude",
+  tag: "Festive",
+  title: "Pre-Christmas Celebrations in Bude for Family and Friends",
   excerpt:
-    "Incredible news to kick off the year, we're thrilled to have received six Traveller Review Awards from Booking.com, all thanks to the wonderful reviews left by our guests.",
-  date: "7 Feb 2026",
+    "Gather everyone for a pre-Christmas break in Bude: cosy cottages of every size with log burners, early decorations on request, and festive days out across North Cornwall.",
+  date: "30 Oct 2026",
 };
 
 const BLOG_SECONDARY = [
+  {
+    href: "/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/",
+    img: "/images/home/3c62af48f5d7d88b.jpg",
+    alt: "Children flying kites over the Cornish hills at Woodlands Manor Farm",
+    tag: "Awards",
+    title: "Woodlands Manor Farm wins six Booking.com Traveller Choice Awards 2026",
+    date: "7 Feb 2026",
+  },
   {
     href: "/the-magic-of-feed-the-animals/",
     img: "/images/home/89f10cdaa6fb94ce.jpg",
@@ -188,14 +196,6 @@ const BLOG_SECONDARY = [
     tag: "Farm life",
     title: "The magic of our Feed the Animals experience",
     date: "1 Sep 2025",
-  },
-  {
-    href: "/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/",
-    img: "/images/home/d618947f2c9c2c80.jpg",
-    alt: "Bude sea pool and Summerleaze Beach on a summer day",
-    tag: "Local guide",
-    title: "10 reasons Bude is perfect for a family holiday in Cornwall",
-    date: "11 Feb 2025",
   },
 ];
 
