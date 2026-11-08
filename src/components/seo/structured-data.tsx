@@ -40,13 +40,10 @@ export function StructuredData() {
       longitude: SITE.geo.longitude,
     },
     hasMap: SITE.contact.googleMapsUrl,
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: 4.9,
-      reviewCount: 116,
-      bestRating: 5,
-      worstRating: 1,
-    },
+    // No aggregateRating here: the Google review score is third-party, so we
+    // show it (clearly credited to Google) only in the visible page content,
+    // not as self-serving schema markup. Google already surfaces the Business
+    // Profile star rating for brand searches.
     amenityFeature: [
       { "@type": "LocationFeatureSpecification", name: "Heated indoor swimming pool", value: true },
       { "@type": "LocationFeatureSpecification", name: "Pet/dog friendly", value: true },
