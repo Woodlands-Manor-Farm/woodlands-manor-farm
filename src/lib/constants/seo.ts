@@ -25,5 +25,7 @@ export const SITE = {
     },
     what3words: "valid.camps.entry",
     googleMapsUrl: "https://maps.app.goo.gl/CUDSFvUtqPuTt6zs6",
+    airbnbUrl: "https://www.airbnb.co.uk/users/profile/1469752629349005893",
+    tripadvisorUrl: "https://www.tripadvisor.co.uk/Hotel_Review-g190804-d1676332-Reviews-Woodlands_Manor_Farm-Bude_Bude_Stratton_Cornwall_England.html",
   },
 } as const;

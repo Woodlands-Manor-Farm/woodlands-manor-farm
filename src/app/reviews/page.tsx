@@ -71,7 +71,15 @@ export default async function Page() {
         </div>
         <div className={styles.otherPlatforms}>
           <span>More stories from</span>
-          <div><span className={styles.airbnbWord}>Airbnb</span><span className={styles.platformDivider} /><Image src="/images/awards/tripadvisor.png" alt="Tripadvisor" width={108} height={25} /></div>
+          <div>
+            <a href={SITE.contact.airbnbUrl} target="_blank" rel="noreferrer" aria-label="Read our reviews on Airbnb" className={styles.platformLink}>
+              <span className={styles.airbnbWord}>Airbnb</span>
+            </a>
+            <span className={styles.platformDivider} />
+            <a href={SITE.contact.tripadvisorUrl} target="_blank" rel="noreferrer" aria-label="Read our reviews on Tripadvisor" className={styles.platformLink}>
+              <Image src="/images/awards/tripadvisor.png" alt="Tripadvisor" width={108} height={25} />
+            </a>
+          </div>
         </div>
       </div>
     </div>
