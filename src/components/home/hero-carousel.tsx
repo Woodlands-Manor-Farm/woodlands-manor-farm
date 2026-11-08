@@ -103,7 +103,7 @@ export function HeroCarousel() {
               ★★★★★
             </span>
             <span>
-              <span className={styles.heroRatingScore}>9.9</span>/10 on Booking.com
+              <span className={styles.heroRatingScore}>9.9</span>/10 on Booking.com · 106 reviews
             </span>
           </span>
           <span className={styles.heroRatingDivider} aria-hidden="true" />
