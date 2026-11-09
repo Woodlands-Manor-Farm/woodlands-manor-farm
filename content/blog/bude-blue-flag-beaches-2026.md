@@ -4,7 +4,7 @@ slug: "bude-blue-flag-beaches-2026"
 date: "2026-11-09T09:00:00+00:00"
 author: "ruth"
 excerpt: "Bude has done the triple in 2026: three Blue Flag beaches, three of only ten in the whole of Cornwall. Here is what makes Summerleaze, Crooklets and Widemouth Bay so special, and how to enjoy them from Woodlands."
-feature_image: "/images/bude/summerleaze-summer-beach.jpg"
+feature_image: "/images/blog/bude-blue-flag-beaches-2026/summerleaze-aerial.jpg"
 source_url: "https://woodlandsmanorfarm.co.uk/bude-blue-flag-beaches-2026/"
 category: "Beaches"
 ---
@@ -33,7 +33,7 @@ There is one part of the award, though, that the town cannot control on its own:
 
 ## Summerleaze: the family favourite with the famous sea pool
 
-![Summerleaze Beach, Bude, on a sunny summer day with colourful beach huts](/images/bude/bude-sea-pool.jpg)
+![Colourful beach huts and golden sand at Summerleaze Beach, Bude, on a sunny summer day](/images/blog/bude-blue-flag-beaches-2026/summerleaze-beach-huts.jpg)
 
 Right on the edge of town, **Summerleaze** is the beach most people picture when they think of Bude. At low tide it opens out into a huge expanse of golden sand, framed by dramatic layered rocks and a row of cheerful, candy-coloured beach huts.
 
@@ -48,6 +48,8 @@ Just around the headland from Summerleaze, **Crooklets** is Bude's spirited surf
 It is a wonderful spot to learn to surf, to watch the lifesavers train, or simply to settle in for one of Bude's famous west-facing sunsets. If you are new to the waves, our guide to the [surf schools in Bude](/local-surf-schools-bude/) will point you in the right direction.
 
 ## Widemouth Bay: the big, wide surf-and-sand beach
+
+![The wide sands of Widemouth Bay near Bude at sunset](/images/blog/bude-blue-flag-beaches-2026/widemouth-sunset.jpg)
 
 A couple of miles south of the town, **Widemouth Bay** (locals say "Widmouth") is the broadest of the three: a long, open sweep of sand backed by low cliffs and rock pools. When the tide goes out it becomes an enormous playground, perfect for families spreading out, flying kites, rock-pooling and paddling.
 
