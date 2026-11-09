@@ -15,7 +15,7 @@ The Summer holiday season will be here before you know it, so here are a few of 
 
 ### Walking
 
-We are extremely lucky as our Bude **holiday cottages** and **glamping yurts** are situated just 2 miles from the coast of Cornwall, and the famous South West Coast path that starts at Minehead, in Somerset, and ends at Studland, in Dorset.
+We are extremely lucky as our Bude [**holiday cottages**](/bude-holiday-cottages/) and [**glamping yurts**](/yurts/) are situated just 2 miles from the coast of Cornwall, and the famous South West Coast path that starts at Minehead, in Somerset, and ends at Studland, in Dorset.
 
 You can walk from our land, down through Combe Valley (AONB) to Duckpool Cove and we are always more than happy to pick up / drop off walkers, should you wish to leave your car at your holiday cottage.
 
@@ -37,7 +37,7 @@ Duckpool Beach, Near Woodlands Manor Farm
 
 ### Beaches
 
-There are so many beaches to choose from close to the farm in North Cornwall. Here are just a few of our favourites and you can also check out our latest blog for a detailed run-down of the [best beaches.](/things-to-do-in-bude/)
+There are so many beaches to choose from close to the farm in North Cornwall. Here are just a few of our favourites and you can also check out our guide to our [local beaches](/woodlands-manor-farm-local-beaches/) and the three [Blue Flag beaches of Bude](/bude-blue-flag-beaches-2026/).
 
 **Duckpool** – Our nearest beach at just 2 miles away from the cottages at Woodlands Manor Farm. It is a very natural and wild cove and, although swimming is not recommended, the surf is good for experienced surfers.
 
@@ -87,7 +87,7 @@ Widemouth Bay and Black Rock Beach
 
 **Bude** –  located just 6 miles south of us, right on the coast. Bude is a mix of contemporary and old-fashioned charm. There are plenty of unique and locally-owned shops and a wide selection of individual restaurants, cafés and pubs to suit everyone’s budget and taste. Ensure you make time to stroll along the canal, as it has one of only two working lock gates opening straight into the sea in the whole of Britain.
 
-Also, Bude boasts not only one but two beaches! **Crooklets** is perfect for surfers and **Summerleaze** is perfect for families. The golf club is located overlooking Bude, with glorious views out to sea. The links course will give even the experienced golfer a challenging round! And there are many amazing restaurants to sample – find out more in our **Bude food blog**
+Also, Bude boasts not only one but two beaches! [**Crooklets**](/local-surf-schools-bude/) is perfect for surfers and [**Summerleaze**](/summerleaze-beach-top-20-uk-beach-l/) is perfect for families. The [golf club](/tee-off-in-bude-and-enjoy-a-perfect-cornish-golfing-getaway/) is located overlooking Bude, with glorious views out to sea. The links course will give even the experienced golfer a challenging round! And there are many amazing restaurants to sample – find out more in our guide to the [best restaurants in Bude](/the-best-bude-restaurants/)
 
 **Clovelly –**  Nestled along the rugged coastline of North Devon, Clovelly is a picturesque fishing village renowned for its steep cobbled streets and timeless charm. Its quaint cottages, hugging the cliffside, offer stunning views of the Bristol Channel. Clovelly is famously car-free, with transportation relying on donkeys and sledges. Visitors can explore its narrow lanes, visit the Clovelly Court Gardens, or relax on its pebbled beach.
 
@@ -163,7 +163,7 @@ The Preston Gate Inn
 
 Bude and the surrounding area has an amazing range of beach side restaurants, fine dining, quality pub food and kid friendly restaurants too.
 
-**Check out our latest blog for our personal recommendations.**
+**Check out our guide to the [best restaurants in Bude](/the-best-bude-restaurants/) for our personal recommendations.**
 
 ### Craft and Art Activities – Bude 
 
@@ -235,9 +235,9 @@ Based in Appledore, Skern Lodge have been delivering outdoor activities, experie
 
 ### Surfing and lots more outdoor activities
 
-You are absolutely spoilt for choice in Bude when it comes to watersports. There are many surf schools offering surfing, paddle boarding and coasteering opportunities – check out our **blog** on the best of the best or ring us directly for some advice.
+You are absolutely spoilt for choice in Bude when it comes to watersports. There are many surf schools offering surfing, paddle boarding and coasteering opportunities – check out our guide to the [best surf schools in Bude](/local-surf-schools-bude/) or ring us directly for some advice.
 
-**Read our blog for a summary of the best schools** – 
+
 
 ### Cinema
 
@@ -252,3 +252,7 @@ The latest release kicks off when you are on holiday. Never fear as we have an a
 <figure class="wp-block-image"><a href="https://thevenuebude.co.uk/" target="_blank" rel="noopener"><img width="161" height="90" alt="" class="wp-image-3268 nitro-lazy" decoding="async" id="ODgwOjI3OQ==-1" src="/images/blog/top-holiday-ideas-bude/2ab181262acc.webp"></a></figure>
 
 Bude offers a large indoor soft play and ten-pin bowling at the Venue. [https://thevenuebude.co.uk/](https://thevenuebude.co.uk/)
+
+### Make Woodlands your base
+
+All of this is right on the doorstep of our [holiday cottages](/bude-holiday-cottages/) and [glamping yurts](/yurts/) in the Coombe Valley, with a [heated indoor pool](/about-woodlands-manor-farm-holiday-cottages-with-a-pool/) and friendly farm animals. [Check availability and book direct](/holiday-cottage-direct-booking-woodlands-cornwall/) for the best rate with no booking fees, or browse our current [special offers](/special-offers/).

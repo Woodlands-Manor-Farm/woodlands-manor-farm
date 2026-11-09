@@ -44,7 +44,7 @@ A family-friendly, festive weekend in the heart of Bude.
 
 -   **The Castle Christmas Market:** Overlapping with the Enchanted Castle event, a great spot for festive finds.
 
--   **Bude Shops:**  Bude boasts a wealth of independent shops, galleries and deli food stores for you to enjoy over the Christmas season.
+-   **Bude Shops:**  Bude boasts a wealth of [independent shops](/shopping-in-bude-unique-gifts-and-independent-stores/), galleries and deli food stores for you to enjoy over the Christmas season.
 
 **Tip:** Come early for the best picks. Ideal for unique gifts and local treats.
 
@@ -78,7 +78,7 @@ Clear your head and fill your lungs with fresh sea air. Top routes:
 
 ### 6\. Late Night Shopping & Christmas Dining
 
-Independent shops open late on selected evenings. Plus, many local restaurants offer special menus for:
+Independent shops open late on selected evenings. Plus, many local [restaurants](/the-best-bude-restaurants/) offer special menus for:
 
 -   Christmas Eve
 
@@ -103,4 +103,4 @@ On **Saturday, 13 December 2025**, head to the [Crackington Haven](https://www.f
 
 **Tip:** Combine with a coastal walk for a peaceful festive day.
 
-**Final Thoughts** From the festive swim to light trails and cosy craft markets, Bude offers an unforgettable Christmas experience. Whether you’re staying at [Woodlands Manor Farm i](/bude-holiday-cottages/)n one of our cosy Cottages or Yurts, or just visiting for the day, there’s plenty to keep the holiday spirit alive.
+**Final Thoughts** From the festive swim to light trails and cosy craft markets, Bude offers an unforgettable Christmas experience. Whether you’re staying at [Woodlands Manor Farm](/bude-holiday-cottages/) in one of our cosy cottages or [yurts](/yurts/), or just visiting for the day, there’s plenty to keep the holiday spirit alive.

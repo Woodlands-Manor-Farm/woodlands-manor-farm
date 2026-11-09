@@ -13,7 +13,7 @@ Hello everyone, Ruth here! As one of the owners of Woodlands Manor Farm. I get t
 
 ### The Feed The Animals Experience
 
-Twice a week, all our guests, big kids and little kids alike, are invited to join me as we make up feed, head out to the paddocks, and meet our wonderful animal family. We’ve got rabbits, horses, goats, sheep, chickens, pigs, and alpacas, all waiting for a friendly face and a handful of treats.
+Twice a week, all our guests, big kids and little kids alike, are invited to join me as we make up feed, head out to the paddocks, and meet our wonderful [animal family](/on-the-farm/). We’ve got rabbits, horses, goats, sheep, chickens, pigs, and [alpacas](/alpaca-walking-woodlands-manor-farm/), all waiting for a friendly face and a handful of treats.
 
 For me, there’s nothing quite like seeing the excitement in the kids’ eyes (and let’s be honest, the grown-ups’ too) as they get to feed the animals and interact at their happy time. It’s a real hands-on experience that creates memories I see families cherishing long after they leave.
 
@@ -38,12 +38,12 @@ _**The farm boasts a range of beautiful and quaint cottages, catering to differe
 _**A heartfelt thank you to Andy and Ruth for yet another unbelievable stay. Their thoughtfulness and the little extra touches they provide truly elevate the experience and made this, once again, the best holiday we’ve had in the last three years.**_
 _**(Perhaps we should keep this incredible place a secret, but they truly deserve all the praise!) “**_
 
-[Read more reviews here](https://www.google.com/search?q=google+reviews+woodlands+manor+farm+animals+feeding&rlz=1C5GCEM_enGB1126GB1136&oq=google+reviews+woodlands+manor+farm+animals+feeding+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEKMTI0NDRqMGoxNagCCLACAfEFgvmfu68QZ-o&sourceid=chrome&ie=UTF-8#mpd=~16033081343637039570/customers/reviews)
+[Read more reviews here](/reviews/)
 
 Check out our latest summer 2025 reel on Facebook or Instagram, or head over to YouTube to watch the full video of happy faces and furry (and feathery) friends.
 
 ### Come Stay At Woodlands
 
-If you’re thinking about a family getaway, why not book one of our seven cosy cottages or try one of our two yurts and come see it all firsthand? [Find out more here.](/bude-holiday-cottages/)
+If you’re thinking about a family getaway, why not book one of our seven cosy cottages or try one of our [two yurts](/yurts/) and come see it all firsthand? [Find out more here.](/bude-holiday-cottages/)
 
 Just remember to bring your wellies, this is Cornwall, after all! And I have seen enough muddy white trainers to last a lifetime 🙂

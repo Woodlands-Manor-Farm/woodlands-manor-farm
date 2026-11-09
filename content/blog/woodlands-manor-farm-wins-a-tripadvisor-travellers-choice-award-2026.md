@@ -23,7 +23,7 @@ Reading the reviews that contributed to this award has been genuinely moving. Gu
 
 ## **Our Guests Said It Best**
 
-Here are just a few of the reviews that helped us earn this award:
+Here are just a few of the [reviews](/reviews/) that helped us earn this award:
 
 _“A truly beautiful idyllic location with fantastic facilities and breathtaking views. We didn’t hesitate to book again, and somehow, this year’s stay was even better!”_
 
@@ -33,10 +33,10 @@ _“Such a beautiful spot. Everything kitted out with the guest in mind. We are 
 
 ## **Come and Stay With Us**
 
-Whether you’re looking for a cosy retreat for two in The Coach House, a family adventure in Rose or Jasmine Cottage, or a glamping experience in one of our Mongolian yurts, there’s a perfect stay waiting for you at Woodlands.
+Whether you’re looking for a cosy retreat for two in [The Coach House](/the-coach-house/), a family adventure in [Rose](/rose-cottage/) or [Jasmine Cottage](/jasmine-cottage/), or a glamping experience in one of our [Mongolian yurts](/yurts/), there’s a perfect stay waiting for you at Woodlands.
 
-Set in the stunning Coombe Valley just six miles from Bude, you’ll enjoy our indoor heated pool, farm animals, games room, woodland walks, and some of Cornwall’s finest National Trust beaches on your doorstep.
+Set in the stunning Coombe Valley just six miles from Bude, you’ll enjoy our [indoor heated pool](/about-woodlands-manor-farm-holiday-cottages-with-a-pool/), [farm animals](/on-the-farm/), games room, woodland walks, and some of Cornwall’s finest [National Trust beaches](/beaches-and-walks-near-bude/) on your doorstep.
 
 Thank you, from the bottom of our hearts, to every guest who has shared their experience with us on Tripadvisor. You’ve made this possible.
 
-**[Book direct](https://woodlandsmanorfarm.co.uk/holiday-cottage-direct-booking-woodlands-cornwall/) or call Andy on 07887 677 354.**
+**[Book direct](/holiday-cottage-direct-booking-woodlands-cornwall/) or call Andy on 07887 677 354.**
