@@ -15,16 +15,19 @@ Three of our much-loved beaches, **Widemouth Bay, Crooklets and Summerleaze**, h
 
 If you are planning a stay at Woodlands Manor Farm, all three are within easy reach, so here is a closer look at each one, plus what the Blue Flag actually means.
 
-## What is a Blue Flag, and why does it matter?
+## What makes a Blue Flag beach?
 
-The Blue Flag is an international mark of a well-run, clean and well-cared-for beach. To fly one, a beach is assessed against a long list of criteria, including:
+The Blue Flag is one of the world's most recognised marks of a clean, safe and well-managed beach. It is awarded against a demanding set of standards, and because it is re-assessed every single year, a beach can lose it if its water quality drops after a storm or its facilities fall into disrepair. Holding three is no small achievement. Here is what a beach has to get right.
 
-- **Safety and services**, such as first aid and lifeguard cover where needed.
-- **Environmental information**, including clear details about the local ecosystems and how to look after them.
-- **Water quality**, which must meet the "excellent" bathing water standard. (The related Seaside Award asks for the "sufficient" standard.)
-- **Environmental management**, covering litter, waste and the general care of the beach and its surroundings.
+**Water quality.** This is the big one. The beach is independently sampled through the season to test for bacterial contamination, such as E. coli and intestinal enterococci, and it must reach the very highest "excellent" standard. It must also be free from sewage-related and industrial discharges.
 
-Earning three of them is down to a huge community effort. Local groups and the council work hard together to keep the beaches clean and the open spaces cared for, to provide bins and litter collection, and to help visitors and locals understand and protect the beach environment. It is everyone playing their part toward a genuinely sustainable place to visit.
+**Environmental management.** The beach has to be kept clean and clear of litter and marine debris, with plenty of well-maintained bins and recycling, and clean public toilets with controlled sewage disposal. Sensitive areas like sand dunes, coastal zones and wildlife habitats must be actively protected, and there are controls on dogs, which is why the main town beaches have seasonal bans in summer.
+
+**Safety and services.** Qualified lifeguards and lifesaving equipment must be in place through the bathing season, with first aid easily to hand, clear and safe access, and conflicting activities like surfing and swimming zoned apart to prevent accidents. A proper emergency plan has to be ready for any pollution or safety incident.
+
+**Environmental education and information.** A prominent board must display the local ecosystems, the latest water quality data, the beach facilities and the Blue Flag code of conduct. On top of that, the beach has to run a programme of environmental activities through the year, things like guided nature walks, beach cleans and workshops.
+
+Earning three of these is down to a huge community effort. Local groups and the council work hard together to keep the beaches clean and the open spaces cared for, to provide bins and litter collection, and to help visitors and locals understand and protect the beach environment. It is everyone playing their part toward a genuinely sustainable place to visit.
 
 There is one part of the award, though, that the town cannot control on its own: **water quality**. There is more to be done to improve it and to manage the impact of heavy rainfall, which can cause run-off and sewer overflow into the sea. It is an honest challenge, and one worth keeping an eye on (more on that below).
 
@@ -49,6 +52,24 @@ It is a wonderful spot to learn to surf, to watch the lifesavers train, or simpl
 A couple of miles south of the town, **Widemouth Bay** (locals say "Widmouth") is the broadest of the three: a long, open sweep of sand backed by low cliffs and rock pools. When the tide goes out it becomes an enormous playground, perfect for families spreading out, flying kites, rock-pooling and paddling.
 
 It is also one of the best-loved surf beaches on this stretch of coast, popular with everyone from first-timers to seasoned surfers, and the wide horizon makes for spectacular sunsets. There are dog-friendly areas here too, so four-legged members of the family needn't miss out.
+
+## Beyond the Blue Flags: wild beaches worth a visit
+
+Not every beautiful beach near Bude carries a Blue Flag, and that is rather the point. Some of the most special stretches of this coast are wild, undeveloped National Trust coves that do not have the car parks, cafés and full-season lifeguard cover the award requires. They trade facilities for drama and quiet, and several are the closest beaches of all to Woodlands.
+
+### Sandymouth
+
+A few miles north, Sandymouth is a magnificent National Trust beach that opens into a vast run of sand at low tide beneath towering, folded cliffs. There is a National Trust car park and café, seasonal RNLI lifeguard cover through the main summer weeks, and some of the best rock pools around. It is not a Blue Flag beach, but for sheer wild beauty and space it is hard to beat.
+
+### Northcott Mouth
+
+Closer to the farm, Northcott Mouth is a rugged cove where the pebbles give way to a broad sweep of sand at low tide. It gets seasonal RNLI lifeguard cover through the peak weeks (roughly mid-July to early September), though strong rip currents mean you should only swim when the red and yellow flags are flying. There is a National Trust car park and a much-loved seasonal tea caravan, but no toilets on site. Time your visit for low tide and you can make out the rusting metal ribs of the SS Belem shipwreck in the sand, and the rock pools are superb. Dogs are welcome all year.
+
+### Duckpool
+
+Our nearest beach, just two miles down the lane, Duckpool is a dramatic National Trust cove at the foot of the Coombe Valley. It is wild and unlifeguarded, with strong rip currents and rocks, so it is one for rock-pooling, paddling at the edge, beachcombing and soaking up the scenery rather than swimming. There is a National Trust car park and toilets nearby, and dogs are welcome year-round, which makes it a firm favourite for our guests on a morning walk straight from the farm.
+
+**A word of caution on the wild beaches:** with no lifeguard cover, or only seasonal cover, take extra care with tides and currents. Swim only where and when it is safe, and keep an eye on the time as the tide comes in fast on this coast.
 
 ## A quick, honest word on water quality
 
