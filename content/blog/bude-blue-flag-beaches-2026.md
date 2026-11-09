@@ -28,7 +28,7 @@ If you are planning a stay at Woodlands Manor Farm, all three are within easy re
 
 ## What makes a Blue Flag beach?
 
-The Blue Flag is one of the world's most recognised marks of a clean, safe and well-managed beach. It is awarded against a demanding set of standards, and because it is re-assessed every single year, a beach can lose it if its water quality drops after a storm or its facilities fall into disrepair. Holding three is no small achievement. Here is what a beach has to get right.
+The [Blue Flag](https://www.keepbritaintidy.org/professional-services/blue-flag-award-beaches-and-marinas) is one of the world's most recognised marks of a clean, safe and well-managed beach, managed in England by Keep Britain Tidy. It is awarded against a demanding set of standards, and because it is re-assessed every single year, a beach can lose it if its water quality drops after a storm or its facilities fall into disrepair. Holding three is no small achievement. Here is what a beach has to get right.
 
 **Water quality.** This is the big one. The beach is independently sampled through the season to test for bacterial contamination, such as E. coli and intestinal enterococci, and it must reach the very highest "excellent" standard. It must also be free from sewage-related and industrial discharges.
 
@@ -46,9 +46,9 @@ There is one part of the award, though, that the town cannot control on its own:
 
 ![Colourful beach huts and golden sand at Summerleaze Beach, Bude, on a sunny summer day](/images/blog/bude-blue-flag-beaches-2026/summerleaze-beach-huts.jpg)
 
-Right on the edge of town, **Summerleaze** is the beach most people picture when they think of Bude. At low tide it opens out into a huge expanse of golden sand, framed by dramatic layered rocks and a row of cheerful, candy-coloured beach huts.
+Right on the edge of town, **Summerleaze** is the beach most people picture when they think of Bude, and it was even [voted one of the UK's top 50 beaches](/summerleaze-beach-top-20-uk-beach-l/). At low tide it opens out into a huge expanse of golden sand, framed by dramatic layered rocks and a row of cheerful, candy-coloured beach huts.
 
-Its crowning glory is the **Bude Sea Pool**, a semi-natural tidal pool tucked beneath the cliffs. Filled and refreshed by the sea, it offers a calmer place to swim and paddle away from the Atlantic surf, and it is a firm favourite with families and wild swimmers alike. Lifeguards patrol in the main season, there is parking close by, and the shops and cafés of Bude are a short stroll away, which makes it a brilliant all-day base. It is the easiest of the three for a relaxed family beach day.
+Its crowning glory is the [**Bude Sea Pool**](https://www.budeseapool.org/), a semi-natural tidal pool tucked beneath the cliffs. Filled and refreshed by the sea, it offers a calmer place to swim and paddle away from the Atlantic surf, and it is a firm favourite with families and [wild swimmers](/wild-swimming-delights-near-woodlands-manor-farm/) alike. Lifeguards patrol in the main season, there is parking close by, and the shops and cafés of Bude are a short stroll away, which makes it a brilliant all-day base. It is the easiest of the three for a relaxed [family beach day](/top-10-reasons-why-bude-is-perfect-for-family-holidays-in-cornwall/).
 
 ## Crooklets: surf, sunsets and lifesaving heritage
 
@@ -68,11 +68,11 @@ It is also one of the best-loved surf beaches on this stretch of coast, popular 
 
 ## Beyond the Blue Flags: wild beaches worth a visit
 
-Not every beautiful beach near Bude carries a Blue Flag, and that is rather the point. Some of the most special stretches of this coast are wild, undeveloped National Trust coves that do not have the car parks, cafés and full-season lifeguard cover the award requires. They trade facilities for drama and quiet, and several are the closest beaches of all to Woodlands.
+Not every beautiful beach near Bude carries a Blue Flag, and that is rather the point. Some of the most special stretches of this coast are wild, undeveloped National Trust coves that do not have the car parks, cafés and full-season lifeguard cover the award requires. They trade facilities for drama and quiet, and several are the closest beaches of all to Woodlands, among our favourite [local beaches](/woodlands-manor-farm-local-beaches/).
 
 ### Sandymouth
 
-A few miles north, Sandymouth is a magnificent National Trust beach that opens into a vast run of sand at low tide beneath towering, folded cliffs. There is a National Trust car park and café, seasonal RNLI lifeguard cover through the main summer weeks, and some of the best rock pools around. It is not a Blue Flag beach, but for sheer wild beauty and space it is hard to beat.
+A few miles north, Sandymouth is a magnificent [National Trust beach](https://www.nationaltrust.org.uk/visit/cornwall/sandymouth) that opens into a vast run of sand at low tide beneath towering, folded cliffs. There is a National Trust car park and café, seasonal RNLI lifeguard cover through the main summer weeks, and some of the best rock pools around. It is not a Blue Flag beach, but for sheer wild beauty and space it is hard to beat.
 
 ### Northcott Mouth
 
@@ -86,11 +86,11 @@ Our nearest beach, just two miles down the lane, Duckpool is a dramatic National
 
 ## A quick, honest word on water quality
 
-The one thing none of us can fully control is what the weather and the sewer network do after heavy rain. Before a swim, it is always worth a quick check of the latest water quality. The **Surfers Against Sewage Safer Seas & Rivers Service** app gives real-time alerts for Bude's beaches, so you can swim with confidence and plan around any overflow warnings. It takes a moment and means you always know before you go.
+The one thing none of us can fully control is what the weather and the sewer network do after heavy rain. Before a swim, it is always worth a quick check of the latest water quality. The [**Surfers Against Sewage Safer Seas & Rivers Service**](https://www.sas.org.uk/) app gives real-time alerts for Bude's beaches, so you can swim with confidence and plan around any overflow warnings. It takes a moment and means you always know before you go.
 
 ## Dogs on the beach: a note on the seasonal rules
 
-Bude's town beaches, **Summerleaze and Crooklets**, carry a seasonal dog ban through the main summer season (roughly Easter to the end of September), though dogs are welcome out of season. **Widemouth Bay** has dog-friendly areas, and our nearest beach, wild and National Trust-owned **Duckpool**, welcomes dogs all year. You will find the full picture in our guide to [beaches and walks near Bude](/beaches-and-walks-near-bude/) and on our [dog rules](/dog-rules/) page.
+Bude's town beaches, **Summerleaze and Crooklets**, carry a seasonal dog ban through the main summer season (roughly Easter to the end of September), though dogs are welcome out of season. **Widemouth Bay** has dog-friendly areas, and our nearest beach, wild and National Trust-owned **Duckpool**, welcomes dogs all year. If you are bringing the dog, take a look at our [dog-friendly cottages](/dog-friendly-holiday-cottages-bude/); you will also find the full picture in our guide to [beaches and walks near Bude](/beaches-and-walks-near-bude/) and on our [dog rules](/dog-rules/) page.
 
 ## Bude's beaches: your questions answered
 
@@ -111,7 +111,7 @@ Summerleaze is the easiest for a family day out, with its tidal sea pool, season
 
 ## Make Bude's Blue Flag beaches your own
 
-From Woodlands Manor Farm, all three Blue Flag beaches are a short drive away, and our own nearest cove, Duckpool, is just a couple of miles down the lane. It really is one of the best corners of the coast for a beach holiday, whether you want gentle sea-pool swims, surf lessons or long barefoot walks at low tide.
+From Woodlands Manor Farm, all three Blue Flag beaches are a short drive away, and our own nearest cove, Duckpool, is just a couple of miles down the lane. It really is one of the best corners of the coast for a beach holiday, whether you want gentle sea-pool swims, surf lessons or long barefoot walks at low tide. There is plenty more to fill your days too, from our own farm animals to all the other [things to do in Bude](/things-to-do-in-bude/).
 
 Browse [our holiday cottages and yurts](/bude-holiday-cottages/), take a look at our current [special offers](/special-offers/), and [book direct with us](/holiday-cottage-direct-booking-woodlands-cornwall/) for the best rate with no booking fees. We cannot wait to welcome you to the beautiful beaches of Bude.
 
