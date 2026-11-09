@@ -65,6 +65,7 @@ async function main() {
       excerpt: data.excerpt ?? null,
       featureImage: data.feature_image ?? data.featureImage ?? null,
       category: data.category ?? null,
+      faqs: Array.isArray(data.faqs) ? data.faqs : null,
       contentHtml,
     });
   }

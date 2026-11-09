@@ -183,20 +183,20 @@ const BLOG_FEATURED = {
 
 const BLOG_SECONDARY = [
   {
+    href: "/bude-blue-flag-beaches-2026/",
+    img: "/images/blog/bude-blue-flag-beaches-2026/summerleaze-aerial.jpg",
+    alt: "Aerial view of Summerleaze Beach and the sea pool at Bude, Cornwall",
+    tag: "Beaches",
+    title: "Bude's Blue Flag Beaches 2026: Summerleaze, Crooklets and Widemouth Bay",
+    date: "9 Nov 2026",
+  },
+  {
     href: "/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/",
     img: "/images/home/3c62af48f5d7d88b.jpg",
     alt: "Children flying kites over the Cornish hills at Woodlands Manor Farm",
     tag: "Awards",
     title: "Woodlands Manor Farm wins six Booking.com Traveller Choice Awards 2026",
     date: "7 Feb 2026",
-  },
-  {
-    href: "/the-magic-of-feed-the-animals/",
-    img: "/images/home/89f10cdaa6fb94ce.jpg",
-    alt: "Feeding the lambs at Woodlands Manor Farm",
-    tag: "Farm life",
-    title: "The magic of our Feed the Animals experience",
-    date: "1 Sep 2025",
   },
 ];
 

@@ -1,5 +1,7 @@
 import postsData from "./generated-blog.json";
 
+export type BlogFaq = { q: string; a: string };
+
 export type BlogPost = {
   slug: string;
   title: string;
@@ -8,6 +10,7 @@ export type BlogPost = {
   excerpt?: string;
   featureImage?: string;
   category: string;
+  faqs?: BlogFaq[];
 };
 
 export type BlogPostFull = BlogPost & {
@@ -22,6 +25,7 @@ type RawPost = {
   excerpt: string | null;
   featureImage: string | null;
   category: string | null;
+  faqs: BlogFaq[] | null;
   contentHtml: string;
 };
 
@@ -66,6 +70,7 @@ function toMeta(p: RawPost): BlogPost {
     excerpt: p.excerpt ?? undefined,
     featureImage: p.featureImage ?? undefined,
     category: p.category ?? categoryFor(p.slug, p.title),
+    faqs: p.faqs ?? undefined,
   };
 }
 
