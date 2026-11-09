@@ -11,7 +11,7 @@ category: "Beaches"
 
 Wonderful news for Bude and everyone who loves it: the town has once again been awarded **three Blue Flags for 2026**, which means Bude holds three of just ten Blue Flags handed out across the whole of Cornwall. Bude has done the triple.
 
-Three of our much-loved beaches, **Widemouth Bay, Crooklets and Summerleaze**, have each earned the prestigious Blue Flag Award. It is a real boost for the town, because so much of our local economy relies on Bude's reputation as a destination for beautiful beaches and a glorious natural environment. As Bude Area Tourist Board put it, "We're a tourist town and to have our excellent beaches recognised benefits everyone."
+So which beaches in Bude are Blue Flag in 2026? Three of them: **Summerleaze, Crooklets and Widemouth Bay**. Each has earned the prestigious Blue Flag Award, and it is a real boost for the town, because so much of our local economy relies on Bude's reputation as a destination for beautiful beaches and a glorious natural environment. As Bude Area Tourist Board put it, "We're a tourist town and to have our excellent beaches recognised benefits everyone."
 
 If you are planning a stay at Woodlands Manor Farm, all three are within easy reach, so here is a closer look at each one, plus what the Blue Flag actually means.
 
@@ -80,6 +80,23 @@ The one thing none of us can fully control is what the weather and the sewer net
 ## Dogs on the beach: a note on the seasonal rules
 
 Bude's town beaches, **Summerleaze and Crooklets**, carry a seasonal dog ban through the main summer season (roughly Easter to the end of September), though dogs are welcome out of season. **Widemouth Bay** has dog-friendly areas, and our nearest beach, wild and National Trust-owned **Duckpool**, welcomes dogs all year. You will find the full picture in our guide to [beaches and walks near Bude](/beaches-and-walks-near-bude/) and on our [dog rules](/dog-rules/) page.
+
+## Bude's beaches: your questions answered
+
+**Which beaches in Bude have Blue Flags in 2026?**
+Three: Summerleaze, Crooklets and Widemouth Bay. Together they make up three of only ten Blue Flags awarded across the whole of Cornwall.
+
+**What makes a beach a Blue Flag beach?**
+A beach has to meet strict standards for water quality (reaching the "excellent" grade), environmental management, safety and services (including lifeguards in season), and environmental education. It is re-assessed every year, so a beach can lose the award if standards slip.
+
+**Is Duckpool or Sandymouth a Blue Flag beach?**
+No. Duckpool, Sandymouth and Northcott Mouth are wild, National Trust-managed coves without the full facilities and lifeguard cover the award requires. They are not Blue Flag beaches, but they are beautiful, quieter spots for rock-pooling, dog walks and dramatic scenery. Take care with currents, as they have little or no lifeguard cover.
+
+**Are dogs allowed on Bude's beaches?**
+Summerleaze and Crooklets have a seasonal dog ban through the main summer season (roughly Easter to the end of September), and welcome dogs out of season. Widemouth Bay has dog-friendly areas, and Duckpool and Northcott Mouth welcome dogs all year.
+
+**Which Bude beach is best for families?**
+Summerleaze is the easiest for a family day out, with its tidal sea pool, seasonal lifeguards, beach huts and parking, all a short stroll from the town centre.
 
 ## Make Bude's Blue Flag beaches your own
 
