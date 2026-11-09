@@ -81,10 +81,27 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     { name: post.title, path: `/${post.slug}/` },
   ]);
 
+  // FAQPage structured data: emitted only when a post declares `faqs` in its
+  // frontmatter. The answer text matches the visible FAQ copy in the article
+  // body, per Google's guidelines, and gives AI search engines (AI Overviews,
+  // ChatGPT, Perplexity) clean, quotable Q&A to lift from.
+  const faqSchema = post.faqs?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: post.faqs.map((item) => ({
+          "@type": "Question",
+          name: item.q,
+          acceptedAnswer: { "@type": "Answer", text: item.a },
+        })),
+      }
+    : null;
+
   return (
     <>
       <JsonLd data={articleSchema} />
       <JsonLd data={breadcrumbs} />
+      {faqSchema ? <JsonLd data={faqSchema} /> : null}
       <header className={styles.hero}>
         {post.featureImage ? (
           <Image

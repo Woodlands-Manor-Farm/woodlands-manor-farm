@@ -3,10 +3,21 @@ title: "Bude's Blue Flag Beaches 2026: Summerleaze, Crooklets and Widemouth Bay"
 slug: "bude-blue-flag-beaches-2026"
 date: "2026-11-09T09:00:00+00:00"
 author: "ruth"
-excerpt: "Bude has done the triple in 2026: three Blue Flag beaches, three of only ten in the whole of Cornwall. Here is what makes Summerleaze, Crooklets and Widemouth Bay so special, and how to enjoy them from Woodlands."
+excerpt: "Bude has three Blue Flag beaches in 2026: Summerleaze, Crooklets and Widemouth Bay, three of only ten across Cornwall. Here is what makes each one special."
 feature_image: "/images/blog/bude-blue-flag-beaches-2026/summerleaze-aerial.jpg"
 source_url: "https://woodlandsmanorfarm.co.uk/bude-blue-flag-beaches-2026/"
 category: "Beaches"
+faqs:
+  - q: "Which beaches in Bude have Blue Flags in 2026?"
+    a: "Three: Summerleaze, Crooklets and Widemouth Bay. Together they make up three of only ten Blue Flags awarded across the whole of Cornwall."
+  - q: "What makes a beach a Blue Flag beach?"
+    a: "A beach has to meet strict standards for water quality (reaching the \"excellent\" grade), environmental management, safety and services (including lifeguards in season), and environmental education. It is re-assessed every year, so a beach can lose the award if standards slip."
+  - q: "Is Duckpool or Sandymouth a Blue Flag beach?"
+    a: "No. Duckpool, Sandymouth and Northcott Mouth are wild, National Trust-managed coves without the full facilities and lifeguard cover the award requires. They are not Blue Flag beaches, but they are beautiful, quieter spots for rock-pooling, dog walks and dramatic scenery. Take care with currents, as they have little or no lifeguard cover."
+  - q: "Are dogs allowed on Bude's beaches?"
+    a: "Summerleaze and Crooklets have a seasonal dog ban through the main summer season (roughly Easter to the end of September), and welcome dogs out of season. Widemouth Bay has dog-friendly areas, and Duckpool and Northcott Mouth welcome dogs all year."
+  - q: "Which Bude beach is best for families?"
+    a: "Summerleaze is the easiest for a family day out, with its tidal sea pool, seasonal lifeguards, beach huts and parking, all a short stroll from the town centre."
 ---
 
 Wonderful news for Bude and everyone who loves it: the town has once again been awarded **three Blue Flags for 2026**, which means Bude holds three of just ten Blue Flags handed out across the whole of Cornwall. Bude has done the triple.
