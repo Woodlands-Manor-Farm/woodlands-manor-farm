@@ -33,7 +33,7 @@ Bude switches on its Christmas lights in late November, and the town centre is l
 
 The Castle Heritage Centre, right on Bude's seafront, usually hosts a festive weekend in early December with light displays, live music, craft workshops, artisan stalls and a visit from Father Christmas. It is a warm, family-friendly day out and a good one to have up your sleeve if the weather turns.
 
-![A festive Christmas market in Bude, North Cornwall](/images/blog/pre-christmas-celebrations-bude/christmas-market-bude.jpg)
+![A festive Christmas market in Bude, North Cornwall](/images/blog/pre-christmas-celebrations-bude/christmas-market-bude.webp)
 
 ### Christmas markets
 
