@@ -44,7 +44,7 @@ There is one part of the award, though, that the town cannot control on its own:
 
 ## Summerleaze: the family favourite with the famous sea pool
 
-![Colourful beach huts and golden sand at Summerleaze Beach, Bude, on a sunny summer day](/images/blog/bude-blue-flag-beaches-2026/summerleaze-beach-huts.jpg)
+![Colourful beach huts and golden sand at Summerleaze Beach, Bude, on a sunny summer day](/images/blog/bude-blue-flag-beaches-2026/summerleaze-beach-huts.webp)
 
 Right on the edge of town, **Summerleaze** is the beach most people picture when they think of Bude, and it was even [voted one of the UK's top 50 beaches](/summerleaze-beach-top-20-uk-beach-l/). At low tide it opens out into a huge expanse of golden sand, framed by dramatic layered rocks and a row of cheerful, candy-coloured beach huts.
 
@@ -60,7 +60,7 @@ It is a wonderful spot to learn to surf, to watch the lifesavers train, or simpl
 
 ## Widemouth Bay: the big, wide surf-and-sand beach
 
-![The wide sands of Widemouth Bay near Bude at sunset](/images/blog/bude-blue-flag-beaches-2026/widemouth-sunset.jpg)
+![The wide sands of Widemouth Bay near Bude at sunset](/images/blog/bude-blue-flag-beaches-2026/widemouth-sunset.webp)
 
 A couple of miles south of the town, **Widemouth Bay** (locals say "Widmouth") is the broadest of the three: a long, open sweep of sand backed by low cliffs and rock pools. When the tide goes out it becomes an enormous playground, perfect for families spreading out, flying kites, rock-pooling and paddling.
 
