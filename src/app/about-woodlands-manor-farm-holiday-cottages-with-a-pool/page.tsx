@@ -53,8 +53,8 @@ export default function AboutPage() {
       <section className={styles.split}>
         <div className={styles.splitImg}>
           <Image
-            src="/images/home/cc82e0f15a7b2058.jpg"
-            alt="Heated indoor swimming pool at Woodlands Manor Farm holiday cottages, Bude, Cornwall"
+            src="/images/about/pool-family-swim.webp"
+            alt="Families swimming in the heated indoor pool at Woodlands Manor Farm holiday cottages, Bude, Cornwall"
             fill
             sizes="(min-width: 900px) 50vw, 100vw"
           />
@@ -74,6 +74,11 @@ export default function AboutPage() {
             Rainy February half term or blazing August week, the pool means the holiday never
             stops. Morning lengths before breakfast, an afternoon splash with the children, a
             quiet evening swim, it&rsquo;s yours whenever you want it.
+          </p>
+          <p>
+            A few practical notes: the pool&rsquo;s deepest point is 1.8m, and all children
+            under 16 must be accompanied by an adult. We email a full set of pool safety rules
+            before you arrive, so everyone knows the score before the first swim.
           </p>
         </div>
       </section>
@@ -179,6 +184,10 @@ export default function AboutPage() {
           {
             q: "Is the pool free for guests?",
             a: "Completely free. Pool access is included for every guest staying in any of our cottages or yurts, with no charge and no need to book a slot.",
+          },
+          {
+            q: "Can children use the pool, and how deep is it?",
+            a: "Yes, children are very welcome. All children under 16 must be accompanied by an adult, and the pool's deepest point is 1.8m. We email a full set of pool safety rules before you arrive.",
           },
           {
             q: "Are the cottages good for families?",
