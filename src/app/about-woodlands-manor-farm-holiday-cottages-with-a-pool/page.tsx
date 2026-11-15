@@ -60,7 +60,7 @@ export default function AboutPage() {
           />
         </div>
         <div className={styles.splitContent}>
-          <p className={styles.eyebrow}>Open every day, all year</p>
+          <p className={styles.eyebrow}>Heated indoor pool · a warm 30°C all year</p>
           <h2 className={styles.sectionTitle}>
             Holiday cottages with a <em>heated indoor pool</em>
           </h2>
