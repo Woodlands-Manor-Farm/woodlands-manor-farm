@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
+import Link from "next/link";
+import { Faq } from "@/components/seo/faq";
 import {
   AboutSubnav,
   CtaStrip,
@@ -9,9 +11,9 @@ import {
 } from "@/components/info/info-shell";
 
 export const metadata: Metadata = {
-  title: "Holiday Cottages in Cornwall with a Pool, Heated Indoor, Open All Year",
+  title: "Holiday Cottages with a Pool in Cornwall, Heated & Indoor",
   description:
-    "Holiday cottages in Bude, North Cornwall with a heated indoor pool, kept at a warm 30°C and open 8am–8pm every day of the year, free for every guest. A 17th-century farm run by Andy & Ruth Peters.",
+    "Holiday cottages with a pool in Cornwall: seven self-catering cottages and two yurts in Bude with a heated indoor pool, kept at 30°C and open 8am–8pm every day of the year, free for every guest.",
   alternates: { canonical: "/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" },
 };
 
@@ -24,11 +26,11 @@ export default function AboutPage() {
         eyebrow="Woodlands Manor Farm · Bude, Cornwall"
         title={
           <>
-            About Woodlands<br />
-            <em>Manor Farm</em>
+            Holiday cottages with a<br />
+            <em>pool, in Cornwall</em>
           </>
         }
-        description="A 17th-century farm in the Coombe Valley, seven cottages, two yurts, a heated pool and the warmest welcome in Cornwall."
+        description="Seven self-catering holiday cottages and two yurts in Bude, North Cornwall, all with free use of our heated indoor pool, open every day of the year. A 17th-century farm with the warmest welcome in Cornwall."
       />
       <AboutSubnav activeHref="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" />
 
@@ -41,7 +43,9 @@ export default function AboutPage() {
           Woodlands Manor Farm is a 17th-century farm set at the top of the Coombe Valley,
           two miles from the North Cornwall coast. Andy and Ruth Peters moved from London in 2019,
          swapping software companies for a life of sunshine, animals and making sure guests
-          have the best holiday they&rsquo;ve ever had. Seven cottages, two luxury Mongolian yurts,
+          have the best holiday they&rsquo;ve ever had.{" "}
+          <Link href="/bude-holiday-cottages/" style={{ color: "var(--color-violet)" }}>Seven holiday cottages</Link>,{" "}
+          <Link href="/yurts/" style={{ color: "var(--color-violet)" }}>two luxury Mongolian yurts</Link>,
           a heated indoor pool and two miles of coastline on the doorstep.
         </p>
       </div>
@@ -154,6 +158,35 @@ export default function AboutPage() {
           />
         </div>
       </section>
+
+      <Faq
+        eyebrow="Good to know"
+        heading="Holiday cottages with a pool in Cornwall: your questions"
+        items={[
+          {
+            q: "Do your Cornwall holiday cottages have a swimming pool?",
+            a: "Yes. All seven holiday cottages and both yurts at Woodlands Manor Farm in Bude, North Cornwall include free use of our heated indoor swimming pool, with no booking or time slots needed.",
+            link: { href: "/bude-holiday-cottages/", label: "Browse our holiday cottages" },
+          },
+          {
+            q: "Is the pool indoor and heated?",
+            a: "Yes. It is a large indoor pool heated to a warm 30°C all year, so everyone can enjoy a swim whatever the Cornish weather is doing outside.",
+          },
+          {
+            q: "Is the pool open all year round?",
+            a: "Yes. The pool is open from 8am to 8pm every single day of the year, including winter and every school holiday.",
+          },
+          {
+            q: "Is the pool free for guests?",
+            a: "Completely free. Pool access is included for every guest staying in any of our cottages or yurts, with no charge and no need to book a slot.",
+          },
+          {
+            q: "Are the cottages good for families?",
+            a: "Very much so. The heated indoor pool, games room, farm animals and playground make Woodlands a brilliant family base, and the North Cornwall beaches are around ten minutes away.",
+            link: { href: "/dog-friendly-holiday-cottages-bude/", label: "Dogs are welcome too" },
+          },
+        ]}
+      />
 
       <CtaStrip
         title="Ready to book your stay?"
