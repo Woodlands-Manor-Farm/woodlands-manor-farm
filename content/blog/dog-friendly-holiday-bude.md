@@ -1,15 +1,15 @@
 ---
-title: "Dog-Friendly Cottages in Bude: The Complete Guide"
+title: "Dog-Friendly Bude: The Best Beaches, Walks & Pubs for Dogs"
 slug: "dog-friendly-holiday-bude"
 date: "2026-09-27T09:00:00+00:00"
 author: "ruth"
-excerpt: "Everything you need for a dog-friendly holiday in Bude: the best beaches, walks and pubs for dogs, plus dog-friendly cottages on a Cornish farm. Book direct."
+excerpt: "A dog lover's guide to Bude, Cornwall: the best dog-friendly beaches, coast-path walks and pubs for dogs, plus where to stay on a Cornish farm. Book direct."
 feature_image: "/images/farm/dog-walk.jpg"
 source_url: "https://woodlandsmanorfarm.co.uk/dog-friendly-holiday-bude/"
 category: "Guides"
 ---
 
-There's a reason so many people search for **dog-friendly cottages in Bude** when they plan a Cornish getaway: this stretch of the North Cornwall coast is made for dogs. Miles of open beaches, dramatic clifftop paths, quiet valley walks and a genuinely dog-loving welcome in the pubs and cafés. It's hard to imagine a better place to bring the whole family, four legs included.
+This stretch of the North Cornwall coast is made for dogs: miles of open beaches, dramatic clifftop paths, quiet valley walks and a genuinely dog-loving welcome in the pubs and cafés. If you are planning a **dog-friendly holiday in Bude**, it is hard to imagine a better place to bring the whole family, four legs included. Here is our guide to the best of it, from beaches and walks to where to stay.
 
 At Woodlands Manor Farm we're a dog-friendly farm through and through (we have a very lively resident of our own, Bailey, our standard Bernedoodle), so we've pulled together everything you need for a brilliant dog-friendly holiday in Bude: the best beaches, the walks we'd send you on first, where to stop for lunch, and what to expect when you stay with us.
 
@@ -39,7 +39,7 @@ Wherever you roam, please keep dogs under close control around livestock and on 
 
 Half the joy of a walk is the reward at the end of it, and Bude looks after dog owners well. Most of the beach cafés are happy to have dogs on the terrace, and plenty of the pubs welcome them inside by the fire. A local favourite is the characterful [Bush Inn at Morwenstow](/bush-inn-morwenstow-best-pub-cornwall/), perched near the cliffs, a proper dog-friendly Cornish pub with a walk to work up an appetite. For more of our recommendations, see [places to eat in Bude](/places-to-eat-in-bude/).
 
-## Staying at Woodlands: dog-friendly cottages in Bude
+## Where to stay: dog-friendly cottages at Woodlands
 
 This is where we come in. All of our cottages and yurts welcome dogs, so you can bring them along without a second thought. As a working farm set in its own valley, Woodlands gives dogs room to breathe, enclosed outdoor space, woodland walks from the gate, and a beach two miles down the lane.
 

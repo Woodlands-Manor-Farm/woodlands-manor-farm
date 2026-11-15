@@ -167,6 +167,8 @@ export default function DogFriendlyPage() {
           <strong>Rookery Wood, Stowe Woods and Kilkhampton Common</strong>, all walkable from
           Woodlands. And every local pub is dog friendly: Bailey particularly recommends the
           burgers at <Link href="/bush-inn-morwenstow-best-pub-cornwall/" style={{ color: "var(--color-violet)" }}>The Bush Inn at Morwenstow</Link>.
+          For the full run-down of beaches, walks and dog-friendly pubs, read our{" "}
+          <Link href="/dog-friendly-holiday-bude/" style={{ color: "var(--color-violet)" }}>complete guide to dog-friendly Bude</Link>.
         </p>
 
         <h3 className={styles.subHeading}>The house rules</h3>
