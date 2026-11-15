@@ -30,7 +30,7 @@ export default function AboutPage() {
             <em>pool, in Cornwall</em>
           </>
         }
-        description="Seven self-catering holiday cottages and two yurts in Bude, North Cornwall, all with free use of our heated indoor pool, open every day of the year. A 17th-century farm with the warmest welcome in Cornwall."
+        description="Seven self-catering holiday cottages and two yurts in Bude, North Cornwall, all with free use of our heated indoor pool, kept at a warm 30°C and open every day of the year. A 17th-century farm with the warmest welcome in Cornwall."
       />
       <AboutSubnav activeHref="/about-woodlands-manor-farm-holiday-cottages-with-a-pool/" />
 
@@ -46,7 +46,7 @@ export default function AboutPage() {
           have the best holiday they&rsquo;ve ever had.{" "}
           <Link href="/bude-holiday-cottages/" style={{ color: "var(--color-violet)" }}>Seven holiday cottages</Link>,{" "}
           <Link href="/yurts/" style={{ color: "var(--color-violet)" }}>two luxury Mongolian yurts</Link>,
-          a heated indoor pool and two miles of coastline on the doorstep.
+          a heated indoor pool kept at a warm 30°C all year, and two miles of coastline on the doorstep.
         </p>
       </div>
 
@@ -65,9 +65,9 @@ export default function AboutPage() {
             Holiday cottages with a <em>heated indoor pool</em>
           </h2>
           <p>
-            Our indoor pool is the heart of Woodlands, heated to a warm 30°C so everyone
-            enjoys a swim, not just the brave. It&rsquo;s open from 8am to 8pm every single day
-            of the year, and it&rsquo;s free for every guest: all seven cottages and both yurts
+            Our indoor pool is the heart of Woodlands, heated to a warm 30°C all year round so
+            everyone enjoys a swim, not just the brave. It&rsquo;s open from 8am to 8pm every
+            single day of the year, and it&rsquo;s free for every guest: all seven cottages and both yurts
             include full pool access, with no booking or time slots needed.
           </p>
           <p>
