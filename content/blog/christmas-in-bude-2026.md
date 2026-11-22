@@ -22,7 +22,7 @@ faqs:
     a: "Yes. Our heated indoor pool is kept at a warm 30°C and open every day of the year, including Christmas week, so you can thaw out after a bracing winter beach walk or the Christmas Day swim."
 ---
 
-There is something rather magical about Bude at Christmas. The crowds of summer have gone, the Atlantic rolls in under big winter skies, and the little town wraps itself up in fairy lights, carols and the smell of mulled wine. Add a bracing beach walk, a cosy pub and a sea that a few brave souls will actually swim in on Christmas morning, and you have a proper Cornish festive break.
+Bude is a lovely place to spend Christmas. The summer crowds have gone, the Atlantic rolls in under big winter skies, and the town takes on a relaxed, festive feel, with carol evenings, local markets and plenty going on. Add a bracing beach walk, a cosy pub and the famous Christmas Day swim at Crooklets, and you have a proper Cornish festive break.
 
 So what's on in Bude this Christmas? Here is our round-up of the best festive events in and around Bude for 2026, from the Christmas Fayre and carol nights to the famous Christmas Day Swim at Crooklets.
 
