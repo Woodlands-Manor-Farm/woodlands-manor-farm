@@ -171,17 +171,25 @@ const NEARBY = [
 ];
 
 const BLOG_FEATURED = {
-  href: "/pre-christmas-celebrations-bude/",
-  img: "/images/blog/pre-christmas-celebrations-bude/winter-woodland-walk.webp",
-  alt: "Golden winter light through the woodland on a walk near Woodlands Manor Farm, Bude",
-  tag: "Festive",
-  title: "Pre-Christmas Celebrations in Bude for Family and Friends",
+  href: "/christmas-in-bude-2026/",
+  img: "/images/blog/pre-christmas-celebrations-bude/festive-light-trail.webp",
+  alt: "An illuminated festive light trail in the gardens near Bude, North Cornwall",
+  tag: "What's on",
+  title: "Christmas in Bude 2026: What's On",
   excerpt:
-    "Gather everyone for a pre-Christmas break in Bude: cosy cottages of every size with log burners, early decorations on request, and festive days out across North Cornwall.",
-  date: "30 Oct 2026",
+    "From the Bude Christmas Fayre and carol nights to the Crooklets Christmas Day Swim and the RHS Rosemoor light trail, here's the festive line-up for 2026.",
+  date: "22 Nov 2026",
 };
 
 const BLOG_SECONDARY = [
+  {
+    href: "/pre-christmas-celebrations-bude/",
+    img: "/images/blog/pre-christmas-celebrations-bude/winter-woodland-walk.webp",
+    alt: "Golden winter light through the woodland on a walk near Woodlands Manor Farm, Bude",
+    tag: "Festive",
+    title: "Pre-Christmas Celebrations in Bude for Family and Friends",
+    date: "30 Oct 2026",
+  },
   {
     href: "/bude-blue-flag-beaches-2026/",
     img: "/images/blog/bude-blue-flag-beaches-2026/summerleaze-aerial.jpg",
@@ -189,14 +197,6 @@ const BLOG_SECONDARY = [
     tag: "Beaches",
     title: "Bude's Blue Flag Beaches 2026: Summerleaze, Crooklets and Widemouth Bay",
     date: "9 Nov 2026",
-  },
-  {
-    href: "/woodlands-manor-farm-wins-6-booking-com-traveller-choice-awards/",
-    img: "/images/home/3c62af48f5d7d88b.jpg",
-    alt: "Children flying kites over the Cornish hills at Woodlands Manor Farm",
-    tag: "Awards",
-    title: "Woodlands Manor Farm wins six Booking.com Traveller Choice Awards 2026",
-    date: "7 Feb 2026",
   },
 ];
 
