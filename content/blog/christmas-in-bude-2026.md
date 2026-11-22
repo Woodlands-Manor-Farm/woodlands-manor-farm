@@ -43,7 +43,7 @@ For the latest listings as the dates firm up, [Visit Bude](https://www.visitbude
 
 ## Down at Crooklets: the Christmas Day Swim and more
 
-![The wide sands of a Bude beach in winter light](/images/blog/pre-christmas-celebrations-bude/coast-path-winter.webp)
+![Hundreds of swimmers taking part in the Christmas Day Swim at Crooklets Beach, Bude](/images/blog/christmas-in-bude-2026/christmas-day-swim-crooklets.webp)
 
 [Crooklets Beach](/bude-blue-flag-beaches-2026/) becomes the heart of festive Bude over Christmas week.
 
