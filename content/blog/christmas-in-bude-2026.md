@@ -16,6 +16,8 @@ faqs:
     a: "Highlights include the Bude Christmas Fayre on 5 December, carol services and live music through December, the Crooklets beach hut Christmas market, Christmas at Ebbingford on 18 December, and the Christmas Day Swim at Crooklets on 25 December."
   - q: "Is there anything festive to do near Bude at Christmas?"
     a: "Yes. Clovelly in North Devon holds its RNLI Christmas Light Switch On on Sunday 6 December 2026, with carols down the cobbled street, a brass band, Father Christmas and fireworks over the harbour."
+  - q: "How much are RHS Rosemoor Let's Glow tickets for 2026?"
+    a: "Off Peak tickets for the Let's Glow light trail at RHS Rosemoor in North Devon start at £13 for adults and £8 for RHS members. The best dates sell out quickly, so it is worth booking early."
   - q: "Is the pool at Woodlands Manor Farm open at Christmas?"
     a: "Yes. Our heated indoor pool is kept at a warm 30°C and open every day of the year, including Christmas week, so you can thaw out after a bracing winter beach walk or the Christmas Day swim."
 ---
@@ -61,6 +63,16 @@ If the sea feels a step too far, there is an easier swim close to home: our own 
 About forty minutes up the coast in North Devon, the car-free fishing village of **Clovelly** puts on one of the best festive events in the area.
 
 The **RNLI Christmas Light Switch On** falls on **Sunday 6 December 2026, from 2:00pm**, with carols down the famous cobbled street, a brass band procession, Father Christmas, a carol service and lights switch-on at 5:30pm, and fireworks over the harbour at 6:15pm. Entry is around £10 per person, free for under-16s, in aid of Clovelly RNLI. There is a **Boxing Day barbecue** on **Saturday 26 December** too, and the steep, traffic-free street down to the working harbour is a magical festive stroll at any time over the holidays. See [clovelly.co.uk](https://www.clovelly.co.uk/) for tickets and times.
+
+## Let's Glow at RHS Rosemoor
+
+![A family walking through the illuminated Let's Glow light trail at RHS Rosemoor, North Devon](/images/blog/christmas-in-bude-2026/rosemoor-glow-light-trail.webp)
+
+Another North Devon favourite, and one to book ahead for, is **Let's Glow at [RHS Rosemoor](https://www.rhs.org.uk/gardens/rosemoor/whats-on/rosemoor-glow)**. After dark the garden is transformed into an atmospheric light trail, an immersive show of light and sound set against a stunning backdrop. It is a lovely way to make festive memories with family and friends, and a good one to have up your sleeve for a crisp winter evening.
+
+This year there are more Off Peak tickets to keep things kind on the pocket, starting at **£13 for adults and just £8 for RHS members**. The best dates and lowest prices tend to go first, so it is well worth booking early. [Book your tickets at RHS Rosemoor](https://www.rhs.org.uk/gardens/rosemoor/whats-on/rosemoor-glow).
+
+![Illuminated trees reflected in the pond on the Let's Glow light trail at RHS Rosemoor](/images/blog/christmas-in-bude-2026/rosemoor-glow-pond.webp)
 
 ## Make it a festive Cornish break
 
