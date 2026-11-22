@@ -1,5 +1,5 @@
 ---
-title: "Christmas in Bude 2026: What's On, from Markets to the Christmas Day Swim"
+title: "Christmas in Bude 2026: What's On"
 slug: "christmas-in-bude-2026"
 date: "2026-11-22T09:00:00+00:00"
 author: "ruth"

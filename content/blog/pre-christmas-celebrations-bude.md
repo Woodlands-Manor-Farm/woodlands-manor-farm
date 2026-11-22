@@ -23,7 +23,7 @@ There is plenty to keep every generation happy on site, too. Our [heated indoor 
 
 ## Festive things to do in and around Bude
 
-The run-up to Christmas in Bude is full of character. Dates shift a little each year, so do check [Visit Bude's Christmas in Bude guide](https://www.visitbude.info/christmas-in-bude/) for all the latest festive events before you travel, but these are the celebrations to look out for.
+The run-up to Christmas in Bude is full of character. Dates shift a little each year, so do see our full guide to [what's on in Bude this Christmas](/christmas-in-bude-2026/) and [Visit Bude's Christmas in Bude guide](https://www.visitbude.info/christmas-in-bude/) for all the latest festive events before you travel, but these are the celebrations to look out for.
 
 ### Christmas lights and late-night shopping
 

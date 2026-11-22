@@ -9,7 +9,7 @@ source_url: "https://woodlandsmanorfarm.co.uk/christmas-in-bude-2025/"
 category: "Archive"
 ---
 
-> **From the archive, Christmas 2025.** This article is retained for reference. Its dates, event programmes and offers have passed. For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/), and check event details with the organiser.
+> **From the archive, Christmas 2025.** This article is retained for reference. Its dates, event programmes and offers have passed. For this year's events, see our guide to [Christmas in Bude 2026](/christmas-in-bude-2026/). For planning a stay today, see [things to do in Bude](/things-to-do-in-bude/) and [current offers](/special-offers/).
 
 ## Christmas **in Bude & at Woodlands Manor Farm: A Magical Festive Escape**
 
